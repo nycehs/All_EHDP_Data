@@ -1,0 +1,461 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "<p>The New York City workforce is a diverse one and workplace risks are not distributed equally.&nbsp;Construction is the most dangerous industry in NYC, accounting for nearly a third of work-related injury&nbsp;deaths each year.</p>",
+        "indicator_name": "Work-Related Deaths in the Construction Industry by Borough",
+        "Measure": "3-Year Total Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              "* Estimate is based on small numbers so should be interpreted with caution.",
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Work-Related Deaths in the Construction Industry by Borough of Injury. - 3-Year Total Number 2007-2008 to 2012-2014",
+            "y_axis_title": "3-Year Total Number ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Work-Related Deaths in the Construction Industry by Borough",
+                "info_measure": "3-Year Total Number",
+                "info_how_calculated": "<p><span>Number of fatal construction injuries occurring in NYC by borough in which the injury occurred.</span></p>",
+                "info_source": "New York City Bureau of Vital Statistics, NYC Office of Chief Medical Examiner, U.S. Bureau of Labor Statistics Current Population Survey"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "4",
+                    "*",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "4",
+                    "*",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "6",
+                    "*",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "9",
+                    "*",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "13",
+                    "*",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "10",
+                    "*",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "24",
+                    "*",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "16",
+                    "*",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "21",
+                    "*",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "47",
+                    "",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "44",
+                    "",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "49",
+                    "",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "9",
+                    "*",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "7",
+                    "*",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "9",
+                    "*",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007-2008",
+                    "1",
+                    "*",
+                    "",
+                    "",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "4",
+                    "*",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2012-2014",
+                    "3",
+                    "*",
+                    "2012-2014",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Work-Related Deaths in the Construction Industry by Borough",
+        "indicator_description": "<p>The New York City workforce is a diverse one and workplace risks are not distributed equally.&nbsp;Construction is the most dangerous industry in NYC, accounting for nearly a third of work-related injury&nbsp;deaths each year.</p>",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2012-2014",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009-2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007-2008",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "3-Year Total Number"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012-2014",
+            "49  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009-2011",
+            "44  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007-2008",
+            "47  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2012-2014",
+            "6*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009-2011",
+            "4*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007-2008",
+            "4*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2012-2014",
+            "10*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009-2011",
+            "13*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007-2008",
+            "9*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2012-2014",
+            "21*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009-2011",
+            "16*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007-2008",
+            "24*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2012-2014",
+            "9*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009-2011",
+            "7*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007-2008",
+            "9*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2012-2014",
+            "3*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009-2011",
+            "4*  ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007-2008",
+            "1*  ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Work-Related Deaths in the Construction Industry by Borough",
+            "info_measure": "3-Year Total Number",
+            "info_how_calculated": "<p><span>Number of fatal construction injuries occurring in NYC by borough in which the injury occurred.</span></p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics, NYC Office of Chief Medical Examiner, U.S. Bureau of Labor Statistics Current Population Survey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

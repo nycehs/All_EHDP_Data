@@ -1,0 +1,147 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Park Distance",
+        "Measure": "New Yorkers within 1/4 Mile",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Park Distance - New Yorkers within 1/4 Mile 2007 to 2010",
+            "y_axis_title": "New Yorkers within 1/4 Mile (percent)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Park Distance",
+                "info_measure": "New Yorkers within 1/4 Mile",
+                "info_how_calculated": "The percentage of the census block area that falls within 1/4 mile of a park edge in a given year, multiplied by the total population of the Census block, summed for all census blocks, then expressed as a percent of 2000 Census population. ",
+                "info_source": "New York City Department of Parks and Recreation"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "70",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "73",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Park Distance",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "New Yorkers within 1/4 Mile, percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "76.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "73.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "70.0 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Park Distance",
+            "info_measure": "New Yorkers within 1/4 Mile",
+            "info_how_calculated": "The percentage of the census block area that falls within 1/4 mile of a park edge in a given year, multiplied by the total population of the Census block, summed for all census blocks, then expressed as a percent of 2000 Census population. ",
+            "info_source": [
+              "New York City Department of Parks and Recreation"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

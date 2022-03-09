@@ -1,0 +1,939 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Anencephaly",
+        "Measure": "Prevalence",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Anencephaly - Prevalence 2000-2002 to 2010-2012",
+            "y_axis_title": "Prevalence (per 10,000 live births)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Anencephaly",
+                "info_measure": "Prevalence",
+                "info_how_calculated": "<p>Number of live births diagnosed with anencephaly and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</p>",
+                "info_source": "New York State Congenital Malformations Registry (CMR)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000-2002",
+                    "0.5",
+                    "",
+                    "2000-2002",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2001-2003",
+                    "0.4",
+                    "",
+                    "2001-2003",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2002-2004",
+                    "0.4",
+                    "",
+                    "2002-2004",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2003-2005",
+                    "0.3",
+                    "",
+                    "2003-2005",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2004-2006",
+                    "0.4",
+                    "",
+                    "2004-2006",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2005-2007",
+                    "0.4",
+                    "",
+                    "2005-2007",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2006-2008",
+                    "0.4",
+                    "",
+                    "2006-2008",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2007-2009",
+                    "0.4",
+                    "",
+                    "2007-2009",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2008-2010",
+                    "0.3",
+                    "",
+                    "2008-2010",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "0.3",
+                    "",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2010-2012",
+                    "0.3",
+                    "",
+                    "2010-2012",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Anencephaly",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2010-2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009-2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008-2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007-2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006-2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005-2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004-2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003-2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002-2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001-2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000-2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "3-Year Total Number",
+          "Prevalence, per 10,000 live births"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010-2012",
+            "9  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009-2011",
+            "10  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008-2010",
+            "12  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007-2009",
+            "14  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006-2008",
+            "15  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005-2007",
+            "15  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004-2006",
+            "15  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003-2005",
+            "12  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002-2004",
+            "15  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001-2003",
+            "14  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000-2002",
+            "18  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010-2012",
+            "4  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009-2011",
+            "4  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008-2010",
+            "3  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007-2009",
+            "3  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006-2008",
+            "4  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005-2007",
+            "5  ",
+            "",
+            "0.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004-2006",
+            "4  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003-2005",
+            "1  ",
+            "",
+            "0.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002-2004",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001-2003",
+            "1  ",
+            "",
+            "0.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000-2002",
+            "1  ",
+            "",
+            "0.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010-2012",
+            "2  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009-2011",
+            "2  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008-2010",
+            "3  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007-2009",
+            "4  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006-2008",
+            "4  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005-2007",
+            "4  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004-2006",
+            "6  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003-2005",
+            "6  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002-2004",
+            "7  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001-2003",
+            "6  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000-2002",
+            "7  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010-2012",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009-2011",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008-2010",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007-2009",
+            "1  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006-2008",
+            "1  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005-2007",
+            "2  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004-2006",
+            "1  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003-2005",
+            "1  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002-2004",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001-2003",
+            "1  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000-2002",
+            "2  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010-2012",
+            "3  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009-2011",
+            "4  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008-2010",
+            "6  ",
+            "",
+            "0.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007-2009",
+            "5  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006-2008",
+            "4  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005-2007",
+            "2  ",
+            "",
+            "0.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004-2006",
+            "3  ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003-2005",
+            "4  ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002-2004",
+            "7  ",
+            "",
+            "0.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001-2003",
+            "5  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000-2002",
+            "6  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010-2012",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009-2011",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008-2010",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007-2009",
+            "1  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006-2008",
+            "2  ",
+            "",
+            "1.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005-2007",
+            "2  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004-2006",
+            "1  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003-2005",
+            "0  ",
+            "",
+            "0.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002-2004",
+            "1  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001-2003",
+            "1  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000-2002",
+            "2  ",
+            "",
+            "1.2 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Anencephaly",
+            "info_measure": "3-Year Total Number",
+            "info_how_calculated": "<p>Number of live births diagnosed with anencephaly and reported to the NYS CMR over the 3 year period.</p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          },
+          {
+            "info_name": "Anencephaly",
+            "info_measure": "Prevalence",
+            "info_how_calculated": "<p>Number of live births diagnosed with anencephaly and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

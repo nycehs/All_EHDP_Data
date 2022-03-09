@@ -1,0 +1,980 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Arsenic in Drinking Water",
+        "Measure": "Annual Average Concentration",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Arsenic Concentrations",
+            "graph_title": "Trends in Arsenic in NYC Drinking Water 2002 to 2019",
+            "y_axis_title": "Concentration (micrograms per liter)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Arsenic in Drinking Water",
+                "info_measure": "Annual Average Concentration",
+                "info_how_calculated": "<p>Samples are collected from entry points to the drinking water distribution system. Due to low levels of arsenic in NYC drinking water, samples may not be required every year; the most recent available sample result is used to calculate the average. If a concentration is below the limit of detection (LOD), a value equal to one half the LOD is assigned. Total concentrations are averaged over the year.</p>",
+                "info_source": "New York State Safe Drinking Water Information System"
+              },
+              {
+                "info_name": "Arsenic in Drinking Water",
+                "info_measure": "Maximum Allowable Contaminant Level (MCL)",
+                "info_how_calculated": "<p>The highest level of arsenic that is allowed in drinking water according to regulatory standards.</p>",
+                "info_source": "United States Environmental Protection Agency (EPA)"
+              },
+              {
+                "info_name": "Arsenic in Drinking Water",
+                "info_measure": "Maximum Concentration",
+                "info_how_calculated": "<p>Samples are collected from entry points to the drinking water distribution system. Due to low levels of arsenic in NYC drinking water, samples may not be required every year; the most recent available sample result is used to calculate the maximum concentration. If a concentration is below the limit of detection (LOD), a value equal to one half the LOD is assigned. The maximum total concentration is identified for each year.</p>",
+                "info_source": "New York State Safe Drinking Water Information System"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Arsenic in Drinking Water (Annual Average Concentration)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "0.001",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.001",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.001",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.001",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.001",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.001",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.001",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.001",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.001",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.001",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.001",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.001",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "0.001",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "0.0007",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "0.001",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "0.001",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2019",
+                    "0.001",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Arsenic in Drinking Water (Maximum Allowable Contaminant Level (MCL))",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "10",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "10",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "10",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "10",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "10",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "10",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "10",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "10",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "10",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "10",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "10",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "10",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "10",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "10",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "10",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "10",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2019",
+                    "10",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Arsenic in Drinking Water (Maximum Concentration)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "0.001",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.001",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.001",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.001",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.001",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.001",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.001",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.001",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.001",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.001",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.001",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.001",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "0.001",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "0.0007",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "0.001",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "0.001",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2019",
+                    "0.001",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Arsenic in Drinking Water",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2019",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "1999",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Annual Average Concentration, µg/L",
+          "Maximum Allowable Contaminant Level (MCL), µg/L",
+          "Maximum Concentration, µg/L",
+          "Number of Samples",
+          "Number of Sample Locations"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2019",
+            "0.0 ",
+            "",
+            "10  ",
+            "",
+            "0.0 ",
+            "",
+            "60  ",
+            "",
+            "6  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "0.0 ",
+            "",
+            "10  ",
+            "",
+            "0.0 ",
+            "",
+            "58  ",
+            "",
+            "7  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "0.0 ",
+            "",
+            "10  ",
+            "",
+            "0.0 ",
+            "",
+            "64  ",
+            "",
+            "7  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "0.0 ",
+            "",
+            "10  ",
+            "",
+            "0.0 ",
+            "",
+            "60  ",
+            "",
+            "6  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "0.0 ",
+            "",
+            "10  ",
+            "",
+            "0.0 ",
+            "",
+            "40  ",
+            "",
+            "4  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "33  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "41  ",
+            " ",
+            "4  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "4  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "35  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "39  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "51  ",
+            " ",
+            "5  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "54  ",
+            " ",
+            "5  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "48  ",
+            " ",
+            "4  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "85  ",
+            " ",
+            "5  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "36  ",
+            " ",
+            "3  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "1999",
+            "0.0 ",
+            " ",
+            "10  ",
+            " ",
+            "0.0 ",
+            " ",
+            "44  ",
+            " ",
+            "4  ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Arsenic in Drinking Water",
+            "info_measure": "Annual Average Concentration",
+            "info_how_calculated": "<p>Samples are collected from entry points to the drinking water distribution system. Due to low levels of arsenic in NYC drinking water, samples may not be required every year; the most recent available sample result is used to calculate the average. If a concentration is below the limit of detection (LOD), a value equal to one half the LOD is assigned. Total concentrations are averaged over the year.</p>",
+            "info_source": [
+              "New York State Safe Drinking Water Information System"
+            ]
+          },
+          {
+            "info_name": "Arsenic in Drinking Water",
+            "info_measure": "Maximum Allowable Contaminant Level (MCL)",
+            "info_how_calculated": "<p>The highest level of arsenic that is allowed in drinking water according to regulatory standards.</p>",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA)"
+            ]
+          },
+          {
+            "info_name": "Arsenic in Drinking Water",
+            "info_measure": "Maximum Concentration",
+            "info_how_calculated": "<p>Samples are collected from entry points to the drinking water distribution system. Due to low levels of arsenic in NYC drinking water, samples may not be required every year; the most recent available sample result is used to calculate the maximum concentration. If a concentration is below the limit of detection (LOD), a value equal to one half the LOD is assigned. The maximum total concentration is identified for each year.</p>",
+            "info_source": [
+              "New York State Safe Drinking Water Information System"
+            ]
+          },
+          {
+            "info_name": "Arsenic in Drinking Water",
+            "info_measure": "Number of Samples",
+            "info_how_calculated": "Number of samples collected from entry points to the distribution system. ",
+            "info_source": [
+              "New York State Safe Drinking Water Information System"
+            ]
+          },
+          {
+            "info_name": "Arsenic in Drinking Water",
+            "info_measure": "Number of Sample Locations",
+            "info_how_calculated": "Number of sampling locations.",
+            "info_source": [
+              "New York State Safe Drinking Water Information System"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

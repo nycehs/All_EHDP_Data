@@ -1,0 +1,1283 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": "Asthma triggers: Adults reporting mold in the home",
+        "indicator_description": "Mold can worsen respiratory conditions like asthma, and indicate maintenance deficiencies in a building.",
+        "geography": "Neighborhood (UHF 34)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent",
+            "color": [
+              "FFFFB2",
+              "FECC5C",
+              "FD8D3C",
+              "E31A1C"
+            ],
+            "start_range": [
+              1.0,
+              6.0,
+              10.0,
+              14.0,
+              20.0
+            ],
+            "measure": "Percent",
+            "how_calculated": "Estimated number of adults reporting damp spots or mold in at least one room in their building, excluding the bathroom, in the past 30 days, expressed as a percent.",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2012",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "8.4",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "8.9",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "18.7",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "14.4",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "16",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "7.6",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "9.4",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "10.9",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "7.6",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "10.4",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "11.8",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "8.2",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "13",
+                    "color": "FD8D3C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "10",
+                    "color": "FD8D3C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "12.2",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "17.2",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "9.1",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "7",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "6.9",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "6.9",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "10.8",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "5.4",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "7.1",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "8.6",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "11.6",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "8.9",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "13.9",
+                    "color": "FD8D3C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "5.8",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "3.5",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "6",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "**",
+                    "color": "E1E1E1",
+                    "character_display": "**"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "9.5",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "3",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "11.8",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Percent "
+          },
+          {
+            "legendtext": "",
+            "display": "Number",
+            "color": [
+              "FFFFB2",
+              "FECC5C",
+              "FD8D3C",
+              "E31A1C"
+            ],
+            "start_range": [
+              1.0,
+              12000.0,
+              18000.0,
+              24000.0,
+              40000.0
+            ],
+            "measure": "Number",
+            "how_calculated": "Estimated number of adults reporting damp spots or mold in at least one room in their building, excluding the bathroom, in the past 30 days.",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2012",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "6000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "13000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "33000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "30000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "16000",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "13000",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "22000",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "14000",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "7000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "23000",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "26000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "12000",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "20000",
+                    "color": "FD8D3C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "22000",
+                    "color": "FD8D3C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "18000",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "33000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "10000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "5000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "12000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "12000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "38000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "11000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "13000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "17000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "25000",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "14000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "11000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "18000",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "7000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "12000",
+                    "color": "FECC5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "**",
+                    "color": "E1E1E1",
+                    "character_display": "**"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "13000",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "6000",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Number "
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          "",
+          "** Estimate is suppressed due to insufficient data."
+        ]
+      }
+    ],
+    "fileName": "UHF34.json",
+    "time_trend_data": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": "Asthma triggers: Adults reporting mold in the home",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": "Asthma triggers: Adults reporting mold in the home",
+                "y_axis_title": "Percent  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 34)",
+                "info": [
+                  {
+                    "info_name": "Adults Reporting Mold in the Home",
+                    "info_measure": "Percent",
+                    "info_how_calculated": "Estimated number of adults reporting damp spots or mold in at least one room in their building, excluding the bathroom, in the past 30 days, expressed as a percent.",
+                    "info_source": "New York City Community Health Survey (CHS)"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2012",
+                        6.3
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2012",
+                        9.8
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2012",
+                        11.4
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Adults Reporting Mold in the Home",
+        "indicator_description": "Mold can worsen respiratory conditions like asthma, and indicate maintenance deficiencies in a building.",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 34)",
+                "sort_index": 44,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: South Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea-Village  ",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square-Lower Manhattan",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side-Gramercy",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside Little Neck-Fresh Meadows",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Staten Island: Northern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Southern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "598,000  ",
+            " ",
+            "9.5 ",
+            "(8.6, 10.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2012",
+            "128,000  ",
+            " ",
+            "12.9 ",
+            "(10.5, 15.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2012",
+            "197,000  ",
+            " ",
+            "10.5 ",
+            "(8.7, 12.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2012",
+            "103,000  ",
+            " ",
+            "8.0 ",
+            "(6.1, 10.3)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2012",
+            "151,000  ",
+            " ",
+            "8.6 ",
+            "(6.9, 10.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2012",
+            "19,000  ",
+            " ",
+            "5.5 ",
+            "(3.4, 8.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2012",
+            "33,000  ",
+            " ",
+            "18.7 ",
+            "(12.5, 27.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2012",
+            "6,000*  ",
+            " ",
+            "8.4* ",
+            "(4.0, 17.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2012",
+            "13,000*  ",
+            " ",
+            "8.9* ",
+            "(4.7, 16.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2012",
+            "30,000  ",
+            " ",
+            "14.4 ",
+            "(8.4, 23.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2012",
+            "43,000  ",
+            " ",
+            "11.8 ",
+            "(8.6, 15.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2012",
+            "22,000  ",
+            " ",
+            "9.4 ",
+            "(5.6, 15.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2012",
+            "20,000*  ",
+            " ",
+            "13.0* ",
+            "(5.8, 26.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2012",
+            "23,000  ",
+            " ",
+            "10.4 ",
+            "(5.9, 17.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2012",
+            "12,000  ",
+            " ",
+            "8.2 ",
+            "(4.6, 14.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2012",
+            "22,000*  ",
+            " ",
+            "10.0* ",
+            "(5.2, 18.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2012",
+            "13,000  ",
+            " ",
+            "7.6 ",
+            "(4.4, 13.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2012",
+            "26,000  ",
+            " ",
+            "11.8 ",
+            "(6.8, 19.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2012",
+            "14,000  ",
+            " ",
+            "10.9 ",
+            "(6.0, 18.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2012",
+            "16,000  ",
+            " ",
+            "16.0 ",
+            "(8.9, 27.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2012",
+            "7,000*  ",
+            " ",
+            "7.6* ",
+            "(3.1, 17.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2012",
+            "18,000  ",
+            " ",
+            "12.2 ",
+            "(7.2, 20.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2012",
+            "10,000*  ",
+            " ",
+            "9.1* ",
+            "(4.7, 17.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2012",
+            "7,000*  ",
+            " ",
+            "3.5* ",
+            "(1.6, 7.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2012",
+            "5,000*  ",
+            " ",
+            "7.0* ",
+            "(3.3, 14.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2012",
+            "12,000*  ",
+            " ",
+            "6.0* ",
+            "(2.9, 12.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2012",
+            "18,000  ",
+            " ",
+            "5.8 ",
+            "(3.2, 10.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2012",
+            "12,000*  ",
+            " ",
+            "6.9* ",
+            "(3.4, 13.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2012",
+            "33,000  ",
+            " ",
+            "17.2 ",
+            "(10.3, 27.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2012",
+            "** ",
+            "",
+            "** ",
+            ""
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2012",
+            "11,000*  ",
+            " ",
+            "5.4* ",
+            "(2.3, 12.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2012",
+            "25,000  ",
+            " ",
+            "11.6 ",
+            "(6.6, 19.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2012",
+            "12,000*  ",
+            " ",
+            "6.9* ",
+            "(3.4, 13.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2012",
+            "13,000*  ",
+            " ",
+            "7.1* ",
+            "(3.5, 13.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2012",
+            "11,000*  ",
+            " ",
+            "13.9* ",
+            "(6.1, 28.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2012",
+            "14,000*  ",
+            " ",
+            "8.9* ",
+            "(4.6, 16.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2012",
+            "17,000*  ",
+            " ",
+            "8.6* ",
+            "(4.3, 16.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2012",
+            "38,000  ",
+            " ",
+            "10.8 ",
+            "(6.9, 16.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2012",
+            "13,000  ",
+            " ",
+            "9.5 ",
+            "(5.4, 16.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2012",
+            "6,000*  ",
+            " ",
+            "3.0* ",
+            "(1.1, 7.5)"
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Adults Reporting Mold in the Home",
+            "info_measure": "Number",
+            "info_how_calculated": "Estimated number of adults reporting damp spots or mold in at least one room in their building, excluding the bathroom, in the past 30 days.",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          },
+          {
+            "info_name": "Adults Reporting Mold in the Home",
+            "info_measure": "Percent",
+            "info_how_calculated": "Estimated number of adults reporting damp spots or mold in at least one room in their building, excluding the bathroom, in the past 30 days, expressed as a percent.",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

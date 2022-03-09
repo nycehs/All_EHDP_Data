@@ -1,0 +1,2798 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Perception of Neighborhood Safety",
+        "indicator_description": "Whether people perceive their neighborhood as safe can affect whether they will spend time outside, use parks, and use active and sustainable forms of transportation. It can also affect mental well-being.",
+        "geography": "Neighborhood (UHF 34)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent Neighborhood Safe from Crime",
+            "color": [
+              "bd0026",
+              "f03b20",
+              "fd8d3c",
+              "fecc5c",
+              "ffffb2"
+            ],
+            "start_range": [
+              -9999999.0,
+              78.1,
+              85.4,
+              90.1,
+              93.9,
+              9999999.0
+            ],
+            "measure": "Percent Neighborhood Safe from Crime",
+            "how_calculated": "<p><span>Estimated number of adults who reported living in a neighborhood safe from crime, divided by all adults in the area; expressed as percent.</span></p>",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "94.8",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "89.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "71.5",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "76.1",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "91.4",
+                    "color": "fecc5c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "90.1",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "78.1",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "82.6",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "76.6",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "90.8",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "81.9",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "87.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "95.5",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "86.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "80",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "82.1",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "77.8",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "75.9",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "**",
+                    "color": "E1E1E1",
+                    "character_display": "**"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "89.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "81.7",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "93.3",
+                    "color": "fecc5c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "93.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "88.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "90.7",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "86.6",
+                    "color": "fd8d3c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "79",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "97.4",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "94.9",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "86.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "95.6",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "82.4",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "95.9",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "60.9",
+                    "color": "bd0026",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2015",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "96.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "89.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "67.7",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "83.9",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "91.3",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "90.9",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "66.7",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "68.5",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "75.3",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "92.2",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "80.4",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "92.4",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "96.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "86.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "62.9",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "85.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "79.7",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "68.6",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "92.1",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "92.3",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "86.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "88",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "94.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "89.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "83.4",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "96.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "78.2",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "98.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "93.7",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "90.6",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "94.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "85.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "98.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "62",
+                    "color": "bd0026",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Percent Neighborhood Safe from Crime "
+          },
+          {
+            "legendtext": "",
+            "display": "Reporting Neighborhood Safe from Crime",
+            "color": [
+              "bd0026",
+              "f03b20",
+              "fd8d3c",
+              "fecc5c",
+              "ffffb2"
+            ],
+            "start_range": [
+              -9999999.0,
+              96000.0,
+              143000.0,
+              184000.0,
+              196000.0,
+              9999999.0
+            ],
+            "measure": "Reporting Neighborhood Safe from Crime",
+            "how_calculated": "<p>Estimated number of adults who reported living in a neighborhood safe from crime rounded to the nearest 1,000.</p>",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "69000",
+                    "color": "bd0026",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "134000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "131000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "180000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "94000",
+                    "color": "bd0026",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "164000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "192000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "109000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "76000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "218000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "190000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "136000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "155000",
+                    "color": "fd8d3c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "203000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "124000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "164000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "94000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "61000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "**",
+                    "color": "E1E1E1",
+                    "character_display": "**"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "159000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "309000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "203000",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "194000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "184000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "205000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "136000",
+                    "color": "f03b20",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "63000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "304000",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "196000",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "185000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "142000",
+                    "color": "f03b20",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "120000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "207000",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "239000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2015",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "68000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "128000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "123000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "194000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "94000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "165000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "162000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "94000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "74000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "222000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "185000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "143000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "154000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "197000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "95000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "171000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "96000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "55000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "171000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "164000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "324000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "192000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "188000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "190000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "186000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "151000",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "62000",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "305000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "185000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "190000",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "142000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "121000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "213000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "235000",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Reporting Neighborhood Safe from Crime "
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          "",
+          "** Estimate is suppressed due to insufficient data."
+        ]
+      }
+    ],
+    "fileName": "UHF34.json",
+    "time_trend_data": [
+      {
+        "indicator_description": "Whether people perceive their neighborhood as safe can affect whether they will spend time outside, use parks, and use active and sustainable forms of transportation. It can also affect mental well-being.",
+        "indicator_name": "Perception of Neighborhood Safety",
+        "Measure": "Percent Neighborhood Safe from Crime",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Perception of Neighborhood Safety - Percent Neighborhood Safe from Crime 2015 to 2016",
+            "y_axis_title": "Percent Neighborhood Safe from Crime ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Perception of Neighborhood Safety",
+                "info_measure": "Percent Neighborhood Safe from Crime",
+                "info_how_calculated": "<p><span>Estimated number of adults who reported living in a neighborhood safe from crime, divided by all adults in the area; expressed as percent.</span></p>",
+                "info_source": "New York City Community Health Survey (CHS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "74.4",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "72.9",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "82.2",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "85.5",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "89.7",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "89.8",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "85.1",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "85.5",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "89.2",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "88.6",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "93.3",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "90.5",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "Whether people perceive their neighborhood as safe can affect whether they will spend time outside, use parks, and use active and sustainable forms of transportation. It can also affect mental well-being.",
+        "indicator_name": "Perception of Neighborhood Safety",
+        "Measure": "Reporting Neighborhood Safe from Crime",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Perception of Neighborhood Safety - Reporting Neighborhood Safe from Crime 2015 to 2016",
+            "y_axis_title": "Reporting Neighborhood Safe from Crime ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Perception of Neighborhood Safety",
+                "info_measure": "Reporting Neighborhood Safe from Crime",
+                "info_how_calculated": "<p>Estimated number of adults who reported living in a neighborhood safe from crime rounded to the nearest 1,000.</p>",
+                "info_source": "New York City Community Health Survey (CHS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "753000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "757000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "1596000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "1671000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "1175000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "1189000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "5461000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "5543000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "1601000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "1599000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "335000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "327000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Perception of Neighborhood Safety",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent Neighborhood Safe from Crime",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Perception of Neighborhood Safety",
+                "y_axis_title": "Percent Neighborhood Safe from Crime  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 34)",
+                "info": [
+                  {
+                    "info_name": "Perception of Neighborhood Safety",
+                    "info_measure": "Percent Neighborhood Safe from Crime",
+                    "info_how_calculated": "<p><span>Estimated number of adults who reported living in a neighborhood safe from crime, divided by all adults in the area; expressed as percent.</span></p>",
+                    "info_source": "New York City Community Health Survey (CHS)"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2016",
+                        94.4
+                      ],
+                      [
+                        "2015",
+                        94.2
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2016",
+                        88.1
+                      ],
+                      [
+                        "2015",
+                        88.0
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2016",
+                        77.9
+                      ],
+                      [
+                        "2015",
+                        71.9
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Perception of Neighborhood Safety",
+        "Measure": "Percent Neighborhood Safe from Crime",
+        "Compare": [
+          {
+            "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)",
+            "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Perception of Neighborhood Safety",
+            "y_axis_title": "Perception of Neighborhood Safety - Percent Neighborhood Safe from Crime 2016",
+            "x_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Perception of Neighborhood Safety",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent Neighborhood Safe from Crime",
+                "info_name": "Adults Reporting Exercise in the Past 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2016"
+              },
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Perception of Neighborhood Safety",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent Neighborhood Safe from Crime",
+                "info_name": "Perception of Neighborhood Safety",
+                "info_measure": "Percent Neighborhood Safe from Crime",
+                "info_how_calculated": "<p><span>Estimated number of adults who reported living in a neighborhood safe from crime, divided by all adults in the area; expressed as percent.</span></p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "73.2",
+                "94.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "64.2",
+                "89.6",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.1",
+                "71.5",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "76.1",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.4",
+                "91.4",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "85",
+                "90.1",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "78.1",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "66.7",
+                "82.6",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "62",
+                "76.6",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "66.6",
+                "90.8",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.7",
+                "81.9",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80",
+                "87.7",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65",
+                "95.5",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "67.6",
+                "86.1",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.5",
+                "80",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77",
+                "82.1",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.9",
+                "77.8",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.3",
+                "75.9",
+                "East Harlem",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "78.7",
+                "89.5",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.5",
+                "81.7",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.7",
+                "93.3",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "65.8",
+                "93.9",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.5",
+                "88.4",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.3",
+                "90.7",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "57.8",
+                "86.6",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "73",
+                "79",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.4",
+                "97.4",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "90.2",
+                "94.9",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "80.7",
+                "86.7",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.4",
+                "95.6",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "64.6",
+                "82.4",
+                "Northern SI",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "76",
+                "95.9",
+                "Southern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "60.8",
+                "60.9",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          ""
+        ],
+        "link_opts": [
+          {
+            "name": "Physical Activity",
+            "children": [
+              {
+                "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Perception of Neighborhood Safety",
+        "indicator_description": "Whether people perceive their neighborhood as safe can affect whether they will spend time outside, use parks, and use active and sustainable forms of transportation. It can also affect mental well-being.",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 34)",
+                "sort_index": 44,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: South Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea-Village  ",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square-Lower Manhattan",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side-Gramercy",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside Little Neck-Fresh Meadows",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Staten Island: Northern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Southern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Reporting Neighborhood Safe from Crime",
+          "Percent Neighborhood Safe from Crime (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "5,543,000  ",
+            "",
+            "85.5 ",
+            "(84.5,86.5)"
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "5,461,000  ",
+            "",
+            "85.1 ",
+            "(84.1,86.0)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2016",
+            "757,000  ",
+            "",
+            "72.9 ",
+            "(69.7,75.9)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2015",
+            "753,000  ",
+            "",
+            "74.4 ",
+            "(71.8,76.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2016",
+            "1,671,000  ",
+            "",
+            "85.5 ",
+            "(83.7,87.0)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2015",
+            "1,596,000  ",
+            "",
+            "82.2 ",
+            "(80.2,84.0)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2016",
+            "1,189,000  ",
+            "",
+            "89.8 ",
+            "(87.4,91.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2015",
+            "1,175,000  ",
+            "",
+            "89.7 ",
+            "(87.5,91.5)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2016",
+            "1,599,000  ",
+            "",
+            "88.6 ",
+            "(86.6,90.4)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2015",
+            "1,601,000  ",
+            "",
+            "89.2 ",
+            "(87.4,90.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2016",
+            "327,000  ",
+            "",
+            "90.5 ",
+            "(84.8,94.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2015",
+            "335,000  ",
+            "",
+            "93.3 ",
+            "(89.8,95.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2016",
+            "131,000  ",
+            "",
+            "71.5 ",
+            "(64.5,77.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2015",
+            "123,000  ",
+            "",
+            "67.7 ",
+            "(60.8,73.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2016",
+            "69,000*  ",
+            "",
+            "94.8* ",
+            "(89.7,97.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2015",
+            "68,000  ",
+            "",
+            "96.2 ",
+            "(91.5,98.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2016",
+            "134,000  ",
+            "",
+            "89.6 ",
+            "(83.2,93.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2015",
+            "128,000  ",
+            "",
+            "89.3 ",
+            "(83.6,93.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2016",
+            "180,000  ",
+            "",
+            "76.1 ",
+            "(69.0,82.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2015",
+            "194,000  ",
+            "",
+            "83.9 ",
+            "(78.5,88.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2016",
+            "239,000  ",
+            "",
+            "60.9 ",
+            "(54.9,66.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2015",
+            "235,000  ",
+            "",
+            "62.0 ",
+            "(57.5,66.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2016",
+            "192,000  ",
+            "",
+            "78.1 ",
+            "(72.7,82.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2015",
+            "162,000  ",
+            "",
+            "66.7 ",
+            "(59.7,73.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2016",
+            "155,000*  ",
+            "",
+            "95.5* ",
+            "(91.0,97.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2015",
+            "154,000  ",
+            "",
+            "96.8 ",
+            "(92.6,98.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2016",
+            "218,000  ",
+            "",
+            "90.8 ",
+            "(86.0,94.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2015",
+            "222,000  ",
+            "",
+            "92.2 ",
+            "(88.2,94.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2016",
+            "136,000  ",
+            "",
+            "87.7 ",
+            "(79.3,92.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2015",
+            "143,000  ",
+            "",
+            "92.4 ",
+            "(86.1,96.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2016",
+            "203,000  ",
+            "",
+            "86.1 ",
+            "(81.4,89.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2015",
+            "197,000  ",
+            "",
+            "86.6 ",
+            "(81.3,90.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2016",
+            "164,000  ",
+            "",
+            "90.1 ",
+            "(83.7,94.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2015",
+            "165,000  ",
+            "",
+            "90.9 ",
+            "(85.3,94.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2016",
+            "190,000  ",
+            "",
+            "81.9 ",
+            "(74.9,87.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2015",
+            "185,000  ",
+            "",
+            "80.4 ",
+            "(74.4,85.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2016",
+            "109,000  ",
+            "",
+            "82.6 ",
+            "(76.1,87.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2015",
+            "94,000  ",
+            "",
+            "68.5 ",
+            "(59.2,76.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2016",
+            "94,000*  ",
+            "",
+            "91.4* ",
+            "(83.2,95.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2015",
+            "94,000  ",
+            "",
+            "91.3 ",
+            "(84.4,95.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2016",
+            "76,000  ",
+            "",
+            "76.6 ",
+            "(68.5,83.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2015",
+            "74,000  ",
+            "",
+            "75.3 ",
+            "(64.5,83.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2016",
+            "124,000  ",
+            "",
+            "80.0 ",
+            "(73.6,85.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2015",
+            "95,000  ",
+            "",
+            "62.9 ",
+            "(53.5,71.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2016",
+            "94,000  ",
+            "",
+            "77.8 ",
+            "(68.8,84.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2015",
+            "96,000  ",
+            "",
+            "79.7 ",
+            "(72.1,85.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2016",
+            "196,000*  ",
+            "",
+            "94.9* ",
+            "(88.2,97.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2015",
+            "185,000  ",
+            "",
+            "93.7 ",
+            "(85.6,97.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2016",
+            "61,000  ",
+            "",
+            "75.9 ",
+            "(64.8,84.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2015",
+            "55,000  ",
+            "",
+            "68.6 ",
+            "(59.3,76.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2016",
+            "185,000  ",
+            "",
+            "86.7 ",
+            "(77.7,92.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2015",
+            "190,000  ",
+            "",
+            "90.6 ",
+            "(85.7,94.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2016",
+            "304,000*  ",
+            "",
+            "97.4* ",
+            "(93.5,99.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2015",
+            "305,000  ",
+            "",
+            "98.4 ",
+            "(95.9,99.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2016",
+            "** ",
+            "",
+            "** ",
+            ""
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2015",
+            "171,000  ",
+            "",
+            "92.1 ",
+            "(83.5,96.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2016",
+            "164,000  ",
+            "",
+            "82.1 ",
+            "(73.3,88.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2015",
+            "171,000  ",
+            "",
+            "85.6 ",
+            "(79.2,90.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2016",
+            "142,000*  ",
+            "",
+            "95.6* ",
+            "(91.1,97.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2015",
+            "142,000  ",
+            "",
+            "94.7 ",
+            "(89.9,97.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2016",
+            "203,000*  ",
+            "",
+            "93.3* ",
+            "(87.1,96.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2015",
+            "192,000  ",
+            "",
+            "88.0 ",
+            "(82.6,92.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2016",
+            "205,000  ",
+            "",
+            "90.7 ",
+            "(85.1,94.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2015",
+            "186,000  ",
+            "",
+            "83.4 ",
+            "(76.6,88.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2016",
+            "159,000  ",
+            "",
+            "89.5 ",
+            "(81.7,94.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2015",
+            "164,000  ",
+            "",
+            "92.3 ",
+            "(85.7,95.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2016",
+            "194,000  ",
+            "",
+            "93.9 ",
+            "(89.9,96.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2015",
+            "188,000  ",
+            "",
+            "94.6 ",
+            "(88.5,97.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2016",
+            "63,000  ",
+            "",
+            "79.0 ",
+            "(69.3,86.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2015",
+            "62,000  ",
+            "",
+            "78.2 ",
+            "(67.1,86.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2016",
+            "136,000*  ",
+            "",
+            "86.6* ",
+            "(73.2,93.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2015",
+            "151,000  ",
+            "",
+            "96.1 ",
+            "(91.1,98.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2016",
+            "184,000  ",
+            "",
+            "88.4 ",
+            "(83.6,92.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2015",
+            "190,000  ",
+            "",
+            "89.2 ",
+            "(83.2,93.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2016",
+            "309,000  ",
+            "",
+            "81.7 ",
+            "(76.2,86.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2015",
+            "324,000  ",
+            "",
+            "86.7 ",
+            "(82.2,90.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2016",
+            "120,000  ",
+            "",
+            "82.4 ",
+            "(70.4,90.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2015",
+            "121,000  ",
+            "",
+            "85.4 ",
+            "(77.6,90.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2016",
+            "207,000*  ",
+            "",
+            "95.9* ",
+            "(91.2,98.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2015",
+            "213,000  ",
+            "",
+            "98.5 ",
+            "(95.2,99.5)"
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          "** Estimate is suppressed due to insufficient data."
+        ],
+        "info": [
+          {
+            "info_name": "Perception of Neighborhood Safety",
+            "info_measure": "Reporting Neighborhood Safe from Crime",
+            "info_how_calculated": "<p>Estimated number of adults who reported living in a neighborhood safe from crime rounded to the nearest 1,000.</p>",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          },
+          {
+            "info_name": "Perception of Neighborhood Safety",
+            "info_measure": "Percent Neighborhood Safe from Crime",
+            "info_how_calculated": "<p><span>Estimated number of adults who reported living in a neighborhood safe from crime, divided by all adults in the area; expressed as percent.</span></p>",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

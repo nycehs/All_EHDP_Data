@@ -1,0 +1,386 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Cold Stress Deaths",
+        "Measure": "Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in Cold Stress: Cold Stress Deaths - Number 2005 to 2018",
+            "y_axis_title": "Number ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Cold Stress Deaths",
+                "info_measure": "Number",
+                "info_how_calculated": "<p>Number of deaths during cold season months of October-April with an underlying or contributing cause that includes excessive natural cold (ICD10 code X31) and hypothermia (ICD10 code T68), among NYC residents. Number excludes&nbsp;deaths due to excessive cold of man-made origin (ICD10 code W93) and intentional deaths (ICD10 codes X6-X9, Y0, Y35, Y36).</p>",
+                "info_source": "New York City Bureau of Vital Statistics"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "19",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "27",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "15",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "14",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "12",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "9",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "10",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "17",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "16",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "20",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "9",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "11",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "26",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Cold Stress Deaths",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "26  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "11  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "9  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "20  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "16  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "17  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "10  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "9  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "12  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "14  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "15  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "27  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "9  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "19  ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Cold Stress Deaths",
+            "info_measure": "Number",
+            "info_how_calculated": "<p>Number of deaths during cold season months of October-April with an underlying or contributing cause that includes excessive natural cold (ICD10 code X31) and hypothermia (ICD10 code T68), among NYC residents. Number excludes&nbsp;deaths due to excessive cold of man-made origin (ICD10 code W93) and intentional deaths (ICD10 codes X6-X9, Y0, Y35, Y36).</p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

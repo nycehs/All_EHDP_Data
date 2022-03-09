@@ -1,0 +1,939 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Transposition of the Great Arteries (Vessels)",
+        "Measure": "Prevalence",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Transposition of the Great Arteries (Vessels) - Prevalence 2000-2002 to 2010-2012",
+            "y_axis_title": "Prevalence (per 10,000 live births)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Transposition of the Great Arteries (Vessels)",
+                "info_measure": "Prevalence",
+                "info_how_calculated": "<p><span>Number of live births diagnosed with transposition of the great arteries and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</span></p>",
+                "info_source": "New York State Congenital Malformations Registry (CMR)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000-2002",
+                    "3.9",
+                    "",
+                    "2000-2002",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2001-2003",
+                    "3.9",
+                    "",
+                    "2001-2003",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2002-2004",
+                    "4",
+                    "",
+                    "2002-2004",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2003-2005",
+                    "3.8",
+                    "",
+                    "2003-2005",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2004-2006",
+                    "4",
+                    "",
+                    "2004-2006",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2005-2007",
+                    "4.1",
+                    "",
+                    "2005-2007",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2006-2008",
+                    "4.2",
+                    "",
+                    "2006-2008",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2007-2009",
+                    "4",
+                    "",
+                    "2007-2009",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2008-2010",
+                    "4.2",
+                    "",
+                    "2008-2010",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "3.8",
+                    "",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2010-2012",
+                    "3.7",
+                    "",
+                    "2010-2012",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Transposition of the Great Arteries (Vessels)",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2010-2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009-2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008-2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007-2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006-2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005-2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004-2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003-2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002-2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001-2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000-2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "3-Year Total Number",
+          "Prevalence, per 10,000 live births"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010-2012",
+            "132  ",
+            "",
+            "3.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009-2011",
+            "136  ",
+            "",
+            "3.8 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008-2010",
+            "154  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007-2009",
+            "148  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006-2008",
+            "152  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005-2007",
+            "148  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004-2006",
+            "143  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003-2005",
+            "135  ",
+            "",
+            "3.8 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002-2004",
+            "142  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001-2003",
+            "140  ",
+            "",
+            "3.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000-2002",
+            "138  ",
+            "",
+            "3.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010-2012",
+            "32  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009-2011",
+            "28  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008-2010",
+            "31  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007-2009",
+            "28  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006-2008",
+            "32  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005-2007",
+            "30  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004-2006",
+            "27  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003-2005",
+            "27  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002-2004",
+            "32  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001-2003",
+            "31  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000-2002",
+            "24  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010-2012",
+            "50  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009-2011",
+            "51  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008-2010",
+            "56  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007-2009",
+            "50  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006-2008",
+            "59  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005-2007",
+            "59  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004-2006",
+            "61  ",
+            "",
+            "5.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003-2005",
+            "47  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002-2004",
+            "43  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001-2003",
+            "42  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000-2002",
+            "49  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010-2012",
+            "8  ",
+            "",
+            "1.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009-2011",
+            "12  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008-2010",
+            "21  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007-2009",
+            "28  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006-2008",
+            "25  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005-2007",
+            "22  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004-2006",
+            "20  ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003-2005",
+            "24  ",
+            "",
+            "3.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002-2004",
+            "25  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001-2003",
+            "22  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000-2002",
+            "19  ",
+            "",
+            "3.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010-2012",
+            "37  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009-2011",
+            "39  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008-2010",
+            "41  ",
+            "",
+            "4.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007-2009",
+            "37  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006-2008",
+            "34  ",
+            "",
+            "3.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005-2007",
+            "32  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004-2006",
+            "30  ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003-2005",
+            "29  ",
+            "",
+            "3.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002-2004",
+            "36  ",
+            "",
+            "3.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001-2003",
+            "40  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000-2002",
+            "42  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010-2012",
+            "5  ",
+            "",
+            "3.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009-2011",
+            "6  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008-2010",
+            "5  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007-2009",
+            "5  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006-2008",
+            "2  ",
+            "",
+            "1.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005-2007",
+            "5  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004-2006",
+            "5  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003-2005",
+            "8  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002-2004",
+            "6  ",
+            "",
+            "3.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001-2003",
+            "5  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000-2002",
+            "4  ",
+            "",
+            "2.3 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Transposition of the Great Arteries (Vessels)",
+            "info_measure": "3-Year Total Number",
+            "info_how_calculated": "<p><span>Number of live births diagnosed with transposition of the great arteries and reported to the NYS CMR over the 3 year period.</span></p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          },
+          {
+            "info_name": "Transposition of the Great Arteries (Vessels)",
+            "info_measure": "Prevalence",
+            "info_how_calculated": "<p><span>Number of live births diagnosed with transposition of the great arteries and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</span></p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

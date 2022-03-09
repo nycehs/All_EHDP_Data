@@ -1,0 +1,939 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over)",
+        "Measure": "Prevalence",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over) - Prevalence 2000-2002 to 2010-2012",
+            "y_axis_title": "Prevalence (per 10,000 live births)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over)",
+                "info_measure": "Prevalence",
+                "info_how_calculated": "<p><span>Number of live births diagnosed with Down Syndrome / Trisomy 21 to women 35 years or older and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</span></p>",
+                "info_source": "New York State Congenital Malformations Registry (CMR)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000-2002",
+                    "28.2",
+                    "",
+                    "2000-2002",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2001-2003",
+                    "31.6",
+                    "",
+                    "2001-2003",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2002-2004",
+                    "32.2",
+                    "",
+                    "2002-2004",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2003-2005",
+                    "32.1",
+                    "",
+                    "2003-2005",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2004-2006",
+                    "31.1",
+                    "",
+                    "2004-2006",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2005-2007",
+                    "32.3",
+                    "",
+                    "2005-2007",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2006-2008",
+                    "32",
+                    "",
+                    "2006-2008",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2007-2009",
+                    "32.6",
+                    "",
+                    "2007-2009",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2008-2010",
+                    "31.8",
+                    "",
+                    "2008-2010",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "31.8",
+                    "",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2010-2012",
+                    "31",
+                    "",
+                    "2010-2012",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over)",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2010-2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009-2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008-2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007-2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006-2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005-2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004-2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003-2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002-2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001-2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000-2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "3-Year Total Number",
+          "Prevalence, per 10,000 live births"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010-2012",
+            "238  ",
+            "",
+            "31.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009-2011",
+            "238  ",
+            "",
+            "31.8 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008-2010",
+            "235  ",
+            "",
+            "31.8 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007-2009",
+            "237  ",
+            "",
+            "32.6 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006-2008",
+            "228  ",
+            "",
+            "32.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005-2007",
+            "225  ",
+            "",
+            "32.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004-2006",
+            "213  ",
+            "",
+            "31.1 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003-2005",
+            "218  ",
+            "",
+            "32.1 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002-2004",
+            "216  ",
+            "",
+            "32.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001-2003",
+            "208  ",
+            "",
+            "31.6 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000-2002",
+            "182  ",
+            "",
+            "28.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010-2012",
+            "48  ",
+            "",
+            "46.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009-2011",
+            "45  ",
+            "",
+            "43.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008-2010",
+            "47  ",
+            "",
+            "45.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007-2009",
+            "48  ",
+            "",
+            "47.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006-2008",
+            "54  ",
+            "",
+            "54.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005-2007",
+            "47  ",
+            "",
+            "48.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004-2006",
+            "45  ",
+            "",
+            "46.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003-2005",
+            "35  ",
+            "",
+            "35.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002-2004",
+            "35  ",
+            "",
+            "35.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001-2003",
+            "31  ",
+            "",
+            "31.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000-2002",
+            "28  ",
+            "",
+            "29.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010-2012",
+            "84  ",
+            "",
+            "33.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009-2011",
+            "80  ",
+            "",
+            "32.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008-2010",
+            "77  ",
+            "",
+            "32.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007-2009",
+            "89  ",
+            "",
+            "39.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006-2008",
+            "95  ",
+            "",
+            "43.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005-2007",
+            "89  ",
+            "",
+            "42.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004-2006",
+            "79  ",
+            "",
+            "38.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003-2005",
+            "87  ",
+            "",
+            "43.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002-2004",
+            "90  ",
+            "",
+            "45.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001-2003",
+            "90  ",
+            "",
+            "45.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000-2002",
+            "80  ",
+            "",
+            "41.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010-2012",
+            "30  ",
+            "",
+            "16.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009-2011",
+            "44  ",
+            "",
+            "23.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008-2010",
+            "43  ",
+            "",
+            "23.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007-2009",
+            "37  ",
+            "",
+            "20.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006-2008",
+            "25  ",
+            "",
+            "13.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005-2007",
+            "29  ",
+            "",
+            "16.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004-2006",
+            "32  ",
+            "",
+            "18.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003-2005",
+            "33  ",
+            "",
+            "19.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002-2004",
+            "32  ",
+            "",
+            "19.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001-2003",
+            "29  ",
+            "",
+            "18.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000-2002",
+            "24  ",
+            "",
+            "15.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010-2012",
+            "64  ",
+            "",
+            "33.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009-2011",
+            "57  ",
+            "",
+            "30.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008-2010",
+            "59  ",
+            "",
+            "32.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007-2009",
+            "55  ",
+            "",
+            "30.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006-2008",
+            "47  ",
+            "",
+            "26.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005-2007",
+            "54  ",
+            "",
+            "31.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004-2006",
+            "49  ",
+            "",
+            "28.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003-2005",
+            "54  ",
+            "",
+            "31.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002-2004",
+            "46  ",
+            "",
+            "27.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001-2003",
+            "47  ",
+            "",
+            "27.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000-2002",
+            "39  ",
+            "",
+            "22.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010-2012",
+            "12  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009-2011",
+            "12  ",
+            "",
+            "34.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008-2010",
+            "9  ",
+            "",
+            "25.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007-2009",
+            "8  ",
+            "",
+            "22.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006-2008",
+            "7  ",
+            "",
+            "19.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005-2007",
+            "6  ",
+            "",
+            "16.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004-2006",
+            "8  ",
+            "",
+            "21.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003-2005",
+            "9  ",
+            "",
+            "25.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002-2004",
+            "13  ",
+            "",
+            "36.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001-2003",
+            "11  ",
+            "",
+            "31.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000-2002",
+            "11  ",
+            "",
+            "32.2 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over)",
+            "info_measure": "3-Year Total Number",
+            "info_how_calculated": "<p><span>Number of live births diagnosed with Down Syndrome / Trisomy 21 to women 35 years or older and reported to the NYS CMR over the 3 year period.</span></p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          },
+          {
+            "info_name": "Down Syndrome / Trisomy 21 (Maternal Age 35 Yrs and Over)",
+            "info_measure": "Prevalence",
+            "info_how_calculated": "<p><span>Number of live births diagnosed with Down Syndrome / Trisomy 21 to women 35 years or older and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</span></p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

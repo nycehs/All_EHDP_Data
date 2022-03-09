@@ -1,0 +1,522 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "State of Good Repair",
+        "Measure": "Bridges",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "State of Good Repair by Mode of Transportation",
+            "graph_title": "Trends in State of Good Repair in New York City by Mode of Transportation 2001 to 2011",
+            "y_axis_title": "Percent",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "State of Good Repair",
+                "info_measure": "Bridges",
+                "info_how_calculated": "The NYC Department of Transportation (DOT) has under its purview 842 bridges. Federal and State law require that bridges be inspected a minimum of every two years. New York State performs the actual bridge inspections and assigns a numerical rating. The NYC DOT then translates those ratings to the verbal designations of \"very good,\" \"good,\" \"fair\" or \"poor.\" This indicator is the percent of bridges rated as either \"very good\", \"good\", or \"fair\".",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              },
+              {
+                "info_name": "State of Good Repair",
+                "info_measure": "Roads",
+                "info_how_calculated": "The NYC DOT Street Assessment Unit conducts an annual pavement condition survey that assesses conditions for one half of New York City streets. The entire city is evaluated once every two years. Street Assessment inspectors rate individual city streets on a scale of 1 through 10 (1 being the worst and 10 being the best). Any street that receives a rating of 7 or below is eligible for resurfacing, whereas any street with a rating of 8 through 10 is not eligible and is in a state of good repair. Reported are the percentages of streets rating between 8 and 10.",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              },
+              {
+                "info_name": "State of Good Repair",
+                "info_measure": "Subway Station Components",
+                "info_how_calculated": "The number of subway stations for which infrastructure components are replaced on a schedule consistent with its life expectancy. The indicator tracks how many stations have been renovated by the end of their expected useful life, expressed as a percentage.",
+                "info_source": "Metropolitan Transportation Authority"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "State of Good Repair (Bridges)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2001",
+                    "38",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "39",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "42",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "42",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "42",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "42",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "41",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "42",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "41",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "41",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "State of Good Repair (Roads)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "82",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "80",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "74",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "73",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "70",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "66",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "72",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "72",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "72",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "State of Good Repair (Subway Station Components)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "47",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "52",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "72",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "68",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "State of Good Repair",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Bridges, percent",
+          "Roads, percent",
+          "Subway Station Components, percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "41.0 ",
+            " ",
+            "72.0 ",
+            " ",
+            "68.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "N/A ",
+            "",
+            "N/A ",
+            "",
+            "72.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "41.0 ",
+            " ",
+            "72.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "42.0 ",
+            " ",
+            "72.0 ",
+            " ",
+            "52.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "41.0 ",
+            " ",
+            "66.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "42.0 ",
+            " ",
+            "70.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "42.0 ",
+            " ",
+            "73.0 ",
+            " ",
+            "47.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "42.0 ",
+            " ",
+            "74.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "42.0 ",
+            " ",
+            "80.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "39.0 ",
+            " ",
+            "82.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "38.0 ",
+            " ",
+            "82.0 ",
+            " ",
+            "N/A ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "35.0 ",
+            " ",
+            "84.0 ",
+            " ",
+            "N/A ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "State of Good Repair",
+            "info_measure": "Bridges",
+            "info_how_calculated": "The NYC Department of Transportation (DOT) has under its purview 842 bridges. Federal and State law require that bridges be inspected a minimum of every two years. New York State performs the actual bridge inspections and assigns a numerical rating. The NYC DOT then translates those ratings to the verbal designations of \"very good,\" \"good,\" \"fair\" or \"poor.\" This indicator is the percent of bridges rated as either \"very good\", \"good\", or \"fair\".",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          },
+          {
+            "info_name": "State of Good Repair",
+            "info_measure": "Roads",
+            "info_how_calculated": "The NYC DOT Street Assessment Unit conducts an annual pavement condition survey that assesses conditions for one half of New York City streets. The entire city is evaluated once every two years. Street Assessment inspectors rate individual city streets on a scale of 1 through 10 (1 being the worst and 10 being the best). Any street that receives a rating of 7 or below is eligible for resurfacing, whereas any street with a rating of 8 through 10 is not eligible and is in a state of good repair. Reported are the percentages of streets rating between 8 and 10.",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          },
+          {
+            "info_name": "State of Good Repair",
+            "info_measure": "Subway Station Components",
+            "info_how_calculated": "The number of subway stations for which infrastructure components are replaced on a schedule consistent with its life expectancy. The indicator tracks how many stations have been renovated by the end of their expected useful life, expressed as a percentage.",
+            "info_source": [
+              "Metropolitan Transportation Authority "
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

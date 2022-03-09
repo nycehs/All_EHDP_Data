@@ -1,0 +1,939 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Cleft Palate without Cleft Lip",
+        "Measure": "Prevalence",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Cleft Palate without Cleft Lip - Prevalence 2000-2002 to 2010-2012",
+            "y_axis_title": "Prevalence (per 10,000 live births)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Cleft Palate without Cleft Lip",
+                "info_measure": "Prevalence",
+                "info_how_calculated": "<p>Number of live births diagnosed with cleft palate without cleft lip and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</p>",
+                "info_source": "New York State Congenital Malformations Registry (CMR)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000-2002",
+                    "5",
+                    "",
+                    "2000-2002",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2001-2003",
+                    "4.9",
+                    "",
+                    "2001-2003",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2002-2004",
+                    "4.6",
+                    "",
+                    "2002-2004",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2003-2005",
+                    "4.3",
+                    "",
+                    "2003-2005",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2004-2006",
+                    "5",
+                    "",
+                    "2004-2006",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2005-2007",
+                    "5.2",
+                    "",
+                    "2005-2007",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2006-2008",
+                    "5.3",
+                    "",
+                    "2006-2008",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2007-2009",
+                    "4.9",
+                    "",
+                    "2007-2009",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2008-2010",
+                    "5.3",
+                    "",
+                    "2008-2010",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2009-2011",
+                    "5.2",
+                    "",
+                    "2009-2011",
+                    "Years",
+                    "other"
+                  ],
+                  [
+                    "2010-2012",
+                    "4.9",
+                    "",
+                    "2010-2012",
+                    "Years",
+                    "other"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Cleft Palate without Cleft Lip",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2010-2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009-2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008-2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007-2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006-2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005-2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004-2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003-2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002-2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001-2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000-2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "3-Year Total Number",
+          "Prevalence, per 10,000 live births"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010-2012",
+            "175  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009-2011",
+            "187  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008-2010",
+            "191  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007-2009",
+            "178  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006-2008",
+            "191  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005-2007",
+            "187  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004-2006",
+            "179  ",
+            "",
+            "5.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003-2005",
+            "151  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002-2004",
+            "162  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001-2003",
+            "174  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000-2002",
+            "180  ",
+            "",
+            "5.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010-2012",
+            "33  ",
+            "",
+            "5.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009-2011",
+            "41  ",
+            "",
+            "6.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008-2010",
+            "41  ",
+            "",
+            "6.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007-2009",
+            "36  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006-2008",
+            "32  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005-2007",
+            "41  ",
+            "",
+            "6.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004-2006",
+            "40  ",
+            "",
+            "6.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003-2005",
+            "34  ",
+            "",
+            "5.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002-2004",
+            "27  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001-2003",
+            "32  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000-2002",
+            "38  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010-2012",
+            "60  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009-2011",
+            "59  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008-2010",
+            "66  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007-2009",
+            "62  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006-2008",
+            "67  ",
+            "",
+            "5.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005-2007",
+            "55  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004-2006",
+            "51  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003-2005",
+            "33  ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002-2004",
+            "41  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001-2003",
+            "52  ",
+            "",
+            "4.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000-2002",
+            "55  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010-2012",
+            "21  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009-2011",
+            "25  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008-2010",
+            "25  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007-2009",
+            "29  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006-2008",
+            "32  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005-2007",
+            "36  ",
+            "",
+            "5.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004-2006",
+            "34  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003-2005",
+            "33  ",
+            "",
+            "5.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002-2004",
+            "34  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001-2003",
+            "29  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000-2002",
+            "25  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010-2012",
+            "50  ",
+            "",
+            "5.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009-2011",
+            "54  ",
+            "",
+            "5.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008-2010",
+            "49  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007-2009",
+            "44  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006-2008",
+            "52  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005-2007",
+            "44  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004-2006",
+            "44  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003-2005",
+            "37  ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002-2004",
+            "49  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001-2003",
+            "48  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000-2002",
+            "46  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010-2012",
+            "11  ",
+            "",
+            "6.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009-2011",
+            "8  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008-2010",
+            "10  ",
+            "",
+            "5.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007-2009",
+            "7  ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006-2008",
+            "8  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005-2007",
+            "11  ",
+            "",
+            "6.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004-2006",
+            "10  ",
+            "",
+            "5.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003-2005",
+            "14  ",
+            "",
+            "8.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002-2004",
+            "11  ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001-2003",
+            "13  ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000-2002",
+            "16  ",
+            "",
+            "9.2 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Cleft Palate without Cleft Lip",
+            "info_measure": "3-Year Total Number",
+            "info_how_calculated": "<p>Number of live births diagnosed with cleft palate without cleft lip and reported the NYS CMR over the 3 year period.</p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          },
+          {
+            "info_name": "Cleft Palate without Cleft Lip",
+            "info_measure": "Prevalence",
+            "info_how_calculated": "<p>Number of live births diagnosed with cleft palate without cleft lip and reported to the NYS CMR over the 3 year period, divided by the number of live births over the same period; expressed per 10,000.</p>",
+            "info_source": [
+              "New York State Congenital Malformations Registry (CMR)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

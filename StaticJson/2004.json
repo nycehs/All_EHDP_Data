@@ -1,0 +1,320 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Sustainability",
+        "Measure": "New Permits for Units within 1/2 Mile of Transit",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Sustainability - New Permits for Units within 1/2 Mile of Transit 2007 to 2013",
+            "y_axis_title": "New Permits for Units within 1/2 Mile of Transit (percent)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Sustainability",
+                "info_measure": "New Permits for Units within 1/2 Mile of Transit",
+                "info_how_calculated": "The percentage of new building permits for residential units issued annually by the Department of Buildings that are located within a 1/2 mile radius of a transit node (e.g., subway stop, commuter rail station).",
+                "info_source": "New York City Department of City Planning (DCP) Permit and Occupancy Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "86",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "88",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "88",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "78",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "86",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "93.9",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "82.7",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Sustainability",
+        "Measure": "Residential Building Energy Usage(MMBTU)per capita",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Sustainability - Residential Building Energy Usage(MMBTU)per capita 2007 to 2010",
+            "y_axis_title": "Residential Building Energy Usage(MMBTU)per capita (3 year rolling average)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Sustainability",
+                "info_measure": "Residential Building Energy Usage(MMBTU)per capita",
+                "info_how_calculated": "The amount of fuel oil, electricity, natural gas, and steam power used in the City's residential building stock is converted to MMBTU and then divided by the City population. Because a hotter or colder summer or winter can have a significant impact on energy usage, this metric lessens the effects of weather by calculating a 3 year rolling average of energy usage for each year.",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "49.5",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "50.6",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "50.4",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "49.3",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Housing Sustainability",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "New Permits for Units within 1/2 Mile of Transit, percent",
+          "Residential Building Energy Usage(MMBTU)per capita, 3 year rolling average"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "82.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "93.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "86  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "78  ",
+            " ",
+            "49.3 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "88  ",
+            " ",
+            "50.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "88  ",
+            " ",
+            "50.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "86  ",
+            " ",
+            "49.5 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Housing Sustainability",
+            "info_measure": "New Permits for Units within 1/2 Mile of Transit",
+            "info_how_calculated": "The percentage of new building permits for residential units issued annually by the Department of Buildings that are located within a 1/2 mile radius of a transit node (e.g., subway stop, commuter rail station).",
+            "info_source": [
+              "New York City Department of City Planning (DCP) Permit and Occupancy Data "
+            ]
+          },
+          {
+            "info_name": "Housing Sustainability",
+            "info_measure": "Residential Building Energy Usage(MMBTU)per capita",
+            "info_how_calculated": "The amount of fuel oil, electricity, natural gas, and steam power used in the City's residential building stock is converted to MMBTU and then divided by the City population. Because a hotter or colder summer or winter can have a significant impact on energy usage, this metric lessens the effects of weather by calculating a 3 year rolling average of energy usage for each year.",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

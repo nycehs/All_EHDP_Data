@@ -1,0 +1,671 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Air Quality Advisory Days",
+        "Measure": "Sensitive Groups",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Population Subgroups",
+            "graph_title": "Trends in Air Quality Advisory Days in New York City 2003 to 2020",
+            "y_axis_title": "Number of Days",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Air Quality Advisory Days",
+                "info_measure": "Sensitive Groups",
+                "info_how_calculated": "An AQI value of 100 corresponds to the current U.S. standard for a pollutant (0.075 ppm for ozone, 35 ug/m3 for PM2.5), and deviations from the standard are expressed as the pollutant concentration divided by the standard and multiplied by 100. Advisory days for sensitive groups are counted when either ozone or PM2.5 levels are above 100.",
+                "info_source": "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+              },
+              {
+                "info_name": "Air Quality Advisory Days",
+                "info_measure": "General Population",
+                "info_how_calculated": "An AQI value of 100 corresponds to the current U.S. standard for a pollutant (0.075 ppm for ozone, 35 ug/m3 for PM2.5), and deviations from the standard are expressed as the pollutant concentration divided by the standard and multiplied by 100. Advisory days for the general public are counted when either ozone or PM2.5 levels are above 150.",
+                "info_source": "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Air Quality Advisory Days (Sensitive Groups)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2003",
+                    "31",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "18",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "28",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "23",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "25",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "12",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "8",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "15",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "13",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "9",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "3",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "4",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "5",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "11",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "8",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "14",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2019",
+                    "6",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "5",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Air Quality Advisory Days (General Population)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2003",
+                    "6",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "4",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "1",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "1",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "0",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "1",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "1",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "1",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2019",
+                    "0",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "0",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Air Quality Advisory Days",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2020",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2019",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Sensitive Groups, number of days",
+          "General Population, number of days"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2020",
+            "5  ",
+            " ",
+            "0  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2019",
+            "6  ",
+            " ",
+            "0  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "14  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "8  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "11  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "5  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "4  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "3  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "9  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "13  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "15  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "8  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "12  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "25  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "23  ",
+            "",
+            "4  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "28  ",
+            "",
+            "3  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "18  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "31  ",
+            "",
+            "6  ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Air Quality Advisory Days",
+            "info_measure": "Sensitive Groups",
+            "info_how_calculated": "An AQI value of 100 corresponds to the current U.S. standard for a pollutant (0.075 ppm for ozone, 35 ug/m3 for PM2.5), and deviations from the standard are expressed as the pollutant concentration divided by the standard and multiplied by 100. Advisory days for sensitive groups are counted when either ozone or PM2.5 levels are above 100.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          },
+          {
+            "info_name": "Air Quality Advisory Days",
+            "info_measure": "General Population",
+            "info_how_calculated": "An AQI value of 100 corresponds to the current U.S. standard for a pollutant (0.075 ppm for ozone, 35 ug/m3 for PM2.5), and deviations from the standard are expressed as the pollutant concentration divided by the standard and multiplied by 100. Advisory days for the general public are counted when either ozone or PM2.5 levels are above 150.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

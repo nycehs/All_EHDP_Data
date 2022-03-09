@@ -1,0 +1,3172 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "ED visits due to heat stress represent part of the public health burden of extreme heat.",
+        "indicator_name": "Heat Stress Emergency Department Visits",
+        "Measure": "Age-Adjusted Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Heat Stress: Heat Stress Emergency Department Visits - Age-Adjusted Rate 2005 to 2018",
+            "y_axis_title": "Age-Adjusted Rate (per 100,000 residents)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Heat Stress Emergency Department Visits",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;</p>\n<p><span>Counts are summed by 5-year age groups and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 100,000 residents.</span></p>\n<p>&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data, United States Census"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "11",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "17.7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "7.6",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "11.1",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "10.6",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "8.4",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "5.8",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "9.1",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "4",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.4",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "3.8",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "7",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "9.4",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "11.3",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "7.5",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "4.2",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "11.9",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "8.6",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "10.2",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "12.1",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "4.1",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.9",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "4.6",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "7.4",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "6.4",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "6.7",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "7.6",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "5.7",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "5.3",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "8.6",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "3.6",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "4.8",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "3.3",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "5.5",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "8.4",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "11.1",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "7.2",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3.3",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "10.1",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "7.5",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "7.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "9.3",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "3.7",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "6.9",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "4",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "7.2",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "6.5",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9.4",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "4.9",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "2.1",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "9",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "6.3",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "6.2",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "6.1",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "2.9",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "6.9",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "2.9",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "6.5",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "12.3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9.3",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "10.3",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "8.9",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "4.6",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "13.7",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "11.9",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "13.6",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "13.8",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "5.8",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.6",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "11",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "16.2",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "ED visits due to heat stress represent part of the public health burden of extreme heat.",
+        "indicator_name": "Heat Stress Emergency Department Visits",
+        "Measure": "Estimated Annual Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Heat Stress: Heat Stress Emergency Department Visits - Estimated Annual Rate 2005 to 2018",
+            "y_axis_title": "Estimated Annual Rate (per 100,000 residents)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Heat Stress Emergency Department Visits",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;</p>\n<p>Counts are divided by the population using NYC DOHMH intercensal estimates and expressed as cases per 100,000 residents.</p>\n<p>&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data, United States Census"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "10.6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "17",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "7.5",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "10.9",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "10.2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "8.4",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "5.8",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "9",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "4.1",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.5",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "3.8",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "6.8",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "9.3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "11.2",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "7.4",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "4.2",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "12",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "8.5",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "10.1",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "12",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "4",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "8",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "4.6",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "7.4",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "6.5",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "8.9",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "6.7",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3.1",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "7.5",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "5.5",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "4.9",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "8.3",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "3.3",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "4.8",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "3.3",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "5.5",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "8.4",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "11.2",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "5.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "7.3",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3.3",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "10.2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "7.5",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "7.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "9.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "3.7",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "4.1",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "7.3",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "6.6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9.7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "5.1",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "2.1",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "9.3",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "6.3",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "6.3",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "6.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "2.8",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.1",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "2.9",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "6.6",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "12.7",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9.4",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "10.4",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "9.1",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "4.7",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "13.8",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "12.1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "13.4",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "14.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "5.7",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "7.2",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "11.6",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "17",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "ED visits due to heat stress represent part of the public health burden of extreme heat.",
+        "indicator_name": "Heat Stress Emergency Department Visits",
+        "Measure": "Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Heat Stress: Heat Stress Emergency Department Visits - Number 2005 to 2018",
+            "y_axis_title": "Number ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Heat Stress Emergency Department Visits",
+                "info_measure": "Number",
+                "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. &nbsp;Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "143",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "229",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "101",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "148",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "48",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "141",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "117",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "82",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "127",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "59",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "108",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "55",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "98",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "229",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "275",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "143",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "185",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "107",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "306",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "215",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "260",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "311",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "106",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "208",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "119",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "190",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "102",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "141",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "90",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "106",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "49",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "119",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "89",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "79",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "135",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "54",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "79",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "53",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "89",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "676",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "899",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "463",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "593",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "273",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "840",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "621",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "628",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "788",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "312",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "592",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "348",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "609",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "144",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "211",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "81",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "112",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "47",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "209",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "143",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "144",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "147",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "66",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "163",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "66",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "151",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "58",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "43",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "48",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "42",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "22",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "65",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "57",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "63",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "68",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "27",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "34",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "55",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "81",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Heat Stress Emergency Department Visits",
+        "indicator_description": "ED visits due to heat stress represent part of the public health burden of extreme heat.",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Age-Adjusted Rate, per 100,000 residents",
+          "Estimated Annual Rate, per 100,000 residents"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "609  ",
+            "",
+            "7.2 ",
+            "",
+            "7.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "348  ",
+            "",
+            "4.0 ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "592  ",
+            "",
+            "6.9 ",
+            "",
+            "7.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "312  ",
+            "",
+            "3.7 ",
+            "",
+            "3.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "788  ",
+            "",
+            "9.3 ",
+            "",
+            "9.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "628  ",
+            "",
+            "7.5 ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "621  ",
+            "",
+            "7.5 ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "840  ",
+            "",
+            "10.1 ",
+            "",
+            "10.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "273  ",
+            "",
+            "3.3 ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "593  ",
+            "",
+            "7.2 ",
+            "",
+            "7.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "463  ",
+            "",
+            "5.8 ",
+            "",
+            "5.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "899  ",
+            "",
+            "11.1 ",
+            "",
+            "11.2 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "676  ",
+            "",
+            "8.4 ",
+            "",
+            "8.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2018",
+            "98  ",
+            "",
+            "7.0 ",
+            "",
+            "6.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2017",
+            "55  ",
+            "",
+            "3.8 ",
+            "",
+            "3.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2016",
+            "108  ",
+            "",
+            "7.4 ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2014",
+            "59  ",
+            "",
+            "4.0 ",
+            "",
+            "4.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2013",
+            "127  ",
+            "",
+            "9.1 ",
+            "",
+            "9.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2012",
+            "82  ",
+            "",
+            "5.8 ",
+            "",
+            "5.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2011",
+            "117  ",
+            "",
+            "8.4 ",
+            "",
+            "8.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010",
+            "141  ",
+            "",
+            "10.6 ",
+            "",
+            "10.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009",
+            "48  ",
+            "",
+            "3.5 ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008",
+            "148  ",
+            "",
+            "11.1 ",
+            "",
+            "10.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007",
+            "101  ",
+            "",
+            "7.6 ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006",
+            "229  ",
+            "",
+            "17.7 ",
+            "",
+            "17.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005",
+            "143  ",
+            "",
+            "11.0 ",
+            "",
+            "10.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2018",
+            "190  ",
+            "",
+            "7.4 ",
+            "",
+            "7.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2017",
+            "119  ",
+            "",
+            "4.6 ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2016",
+            "208  ",
+            "",
+            "7.9 ",
+            "",
+            "8.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2014",
+            "106  ",
+            "",
+            "4.1 ",
+            "",
+            "4.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2013",
+            "311  ",
+            "",
+            "12.1 ",
+            "",
+            "12.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2012",
+            "260  ",
+            "",
+            "10.2 ",
+            "",
+            "10.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2011",
+            "215  ",
+            "",
+            "8.6 ",
+            "",
+            "8.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010",
+            "306  ",
+            "",
+            "11.9 ",
+            "",
+            "12.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009",
+            "107  ",
+            "",
+            "4.2 ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008",
+            "185  ",
+            "",
+            "7.5 ",
+            "",
+            "7.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007",
+            "143  ",
+            "",
+            "5.8 ",
+            "",
+            "5.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006",
+            "275  ",
+            "",
+            "11.3 ",
+            "",
+            "11.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005",
+            "229  ",
+            "",
+            "9.4 ",
+            "",
+            "9.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2018",
+            "89  ",
+            "",
+            "5.5 ",
+            "",
+            "5.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2017",
+            "53  ",
+            "",
+            "3.3 ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2016",
+            "79  ",
+            "",
+            "4.8 ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2014",
+            "54  ",
+            "",
+            "3.6 ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2013",
+            "135  ",
+            "",
+            "8.6 ",
+            "",
+            "8.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2012",
+            "79  ",
+            "",
+            "5.3 ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2011",
+            "89  ",
+            "",
+            "5.7 ",
+            "",
+            "5.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010",
+            "119  ",
+            "",
+            "7.6 ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009",
+            "49  ",
+            "",
+            "3.0 ",
+            "",
+            "3.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008",
+            "106  ",
+            "",
+            "6.7 ",
+            "",
+            "6.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007",
+            "90  ",
+            "",
+            "5.8 ",
+            "",
+            "5.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006",
+            "141  ",
+            "",
+            "9.0 ",
+            "",
+            "8.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005",
+            "102  ",
+            "",
+            "6.4 ",
+            "",
+            "6.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2018",
+            "151  ",
+            "",
+            "6.5 ",
+            "",
+            "6.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2017",
+            "66  ",
+            "",
+            "2.9 ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2016",
+            "163  ",
+            "",
+            "6.9 ",
+            "",
+            "7.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2014",
+            "66  ",
+            "",
+            "2.9 ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2013",
+            "147  ",
+            "",
+            "6.1 ",
+            "",
+            "6.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2012",
+            "144  ",
+            "",
+            "6.2 ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2011",
+            "143  ",
+            "",
+            "6.3 ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010",
+            "209  ",
+            "",
+            "9.0 ",
+            "",
+            "9.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009",
+            "47  ",
+            "",
+            "2.1 ",
+            "",
+            "2.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008",
+            "112  ",
+            "",
+            "4.9 ",
+            "",
+            "5.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007",
+            "81  ",
+            "",
+            "3.7 ",
+            "",
+            "3.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006",
+            "211  ",
+            "",
+            "9.4 ",
+            "",
+            "9.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005",
+            "144  ",
+            "",
+            "6.5 ",
+            "",
+            "6.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2018",
+            "81  ",
+            "",
+            "16.2 ",
+            "",
+            "17.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2017",
+            "55  ",
+            "",
+            "11.0 ",
+            "",
+            "11.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2016",
+            "34  ",
+            "",
+            "7.6 ",
+            "",
+            "7.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2014",
+            "27  ",
+            "",
+            "5.8 ",
+            "",
+            "5.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2013",
+            "68  ",
+            "",
+            "13.8 ",
+            "",
+            "14.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2012",
+            "63  ",
+            "",
+            "13.6 ",
+            "",
+            "13.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2011",
+            "57  ",
+            "",
+            "11.9 ",
+            "",
+            "12.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010",
+            "65  ",
+            "",
+            "13.7 ",
+            "",
+            "13.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009",
+            "22  ",
+            "",
+            "4.6 ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008",
+            "42  ",
+            "",
+            "8.9 ",
+            "",
+            "9.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007",
+            "48  ",
+            "",
+            "10.3 ",
+            "",
+            "10.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006",
+            "43  ",
+            "",
+            "9.3 ",
+            "",
+            "9.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005",
+            "58  ",
+            "",
+            "12.3 ",
+            "",
+            "12.7 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Heat Stress Emergency Department Visits",
+            "info_measure": "Number",
+            "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. &nbsp;Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+            ]
+          },
+          {
+            "info_name": "Heat Stress Emergency Department Visits",
+            "info_measure": "Age-Adjusted Rate",
+            "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;</p>\n<p><span>Counts are summed by 5-year age groups and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 100,000 residents.</span></p>\n<p>&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data, United States Census"
+            ]
+          },
+          {
+            "info_name": "Heat Stress Emergency Department Visits",
+            "info_measure": "Estimated Annual Rate",
+            "info_how_calculated": "<p>The number of NYC residents treated in a NYC emergency department (ED) during the months of May-September for the effects of heat and light due to weather conditions or undetermined cause. Residents with a diagnosis of excessive heat due to non-environmental conditions were excluded. Data are based on date of visit and include those with a diagnosis of heat-related illness, even if that was not the principal diagnosis. The data also include patients admitted to the hospital after being treated in an emergency department.&nbsp;</p>\n<p>&nbsp;&nbsp;</p>\n<p>Counts are divided by the population using NYC DOHMH intercensal estimates and expressed as cases per 100,000 residents.</p>\n<p>&nbsp;</p>\n<p>Notes: The coding system used to represent diagnoses changed in October 2015. Cases occuring before October 1, 2015 are represented by International Classification of Diseases (ICD), 9th Edition, Clinical Modification (ICD-9-CM) codes&nbsp;992.0-992.9, E900.0 or E900.9. Cases admitted on or after October 1, 2015, are represented by the ICD, 10th Edition, Clinical Modification (ICD-10-CM) codes&nbsp;T67, X30, X32.&nbsp; Cases with diagnoses represented by ICD-9-CM code E900.1 (if admitted before October 1, 2015) or ICD-10-CM code W92 (if admitted on or after October 1, 2015) were excluded. Because of the October 1, 2015 change in diagnostic codes from ICD-9-CM to ICD-10-CM, changes in numbers and rates over time should be interpreted with caution because they may be in part due to changes in the coding system.&nbsp;</p>\n<p>&nbsp;</p>",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data, United States Census"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

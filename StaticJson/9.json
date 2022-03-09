@@ -1,0 +1,6194 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Total (Lifetime) Fertility",
+        "indicator_description": "",
+        "geography": "Neighborhood (UHF 42)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Estimated Annual Rate",
+            "color": [
+              "FFFFB2",
+              "FECD5C",
+              "FD8E3F",
+              "F03C20",
+              "BD0026"
+            ],
+            "start_range": [
+              0.0,
+              1400.0,
+              1700.0,
+              2000.0,
+              2300.0,
+              9999999.0
+            ],
+            "measure": "Estimated Annual Rate",
+            "how_calculated": "<p>Sum of annual age-specific birth rates (grouped by 5-year age intervals, from 10 - 49 years) among NYC resident women, multiplied by 5; expressed per 1,000 women. For more information about this measure, <a href=\"http://www1.nyc.gov/assets/doh/downloads/pdf/tracking/vital-stats-definitions.pdf\" target=\"_blank\"> click here. </a></p>",
+            "source": "NYC BVS",
+            "map_data": [
+              {
+                "year": "2007",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "1538.5",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "1591.8",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "1934",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "1736.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "2271.4",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "2398",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "2502.2",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "2355.5",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "1649.1",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "1832.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "2120.5",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "3486.3",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "3042.5",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "1817.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "1713.7",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "1668.7",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "1889",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "2304.3",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "1662.7",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "1754.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "1922",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "1377.6",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "997",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "1079.3",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "996.7",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "1111.6",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "1447.8",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "2495",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "1232.6",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "1967.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "1530.7",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "878.1",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "1619.3",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "1674.4",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "1620.9",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "1745.5",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "1217.4",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "1866.4",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "2375.1",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "1985.3",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "1640",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "1596.6",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2006",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "1472.5",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "1552.1",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "1932.9",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "1681.3",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "2263.6",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "2404.8",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "2362.2",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "2213.7",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "1550.5",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "1817.2",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "2075.6",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "3150",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "2938.1",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "1762.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "1605.4",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "1632.4",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "1897.9",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "2264.5",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "1684.9",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "1723.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "1978.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "1346.3",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "1235.2",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "1093",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "918.4",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "1186.7",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "1357.2",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "2245.9",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "1255.8",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "1936.4",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "1360.7",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "764.6",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "1539.2",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "1603.6",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "1622.8",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "1699.4",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "1168.8",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "1782.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "2315.1",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "2009.3",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "1638.1",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "1558.9",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2005",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "1489.5",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "1451.9",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "1939.8",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "1597",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "2197.1",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "2339.6",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "2358.9",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "2152.9",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "1432",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "1800.3",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "2010.6",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "2840.6",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "2859.1",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "1798.5",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "1637.2",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "1574.3",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "1827.9",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "2224.1",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "1730.7",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "1701.6",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "1899.5",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "1364.4",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "1226.6",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "1157.7",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "880.5",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "1119.4",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "1345.9",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "1837.7",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "1262.3",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "1885.3",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "1282.9",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "834.9",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "1551.3",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "1538.9",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "1619.3",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "1652.8",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "1172.5",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "1732.7",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "2271.5",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "1847.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "1622.7",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "1515.6",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Bureau of Vital Statistics",
+            "legend_title": "Estimated Annual Rate (per 1,000 women)"
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "UHF42.json",
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Total (Lifetime) Fertility",
+        "Measure": "Estimated Annual Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Total (Lifetime) Fertility - Estimated Annual Rate 1998 to 2007",
+            "y_axis_title": "Estimated Annual Rate (per 1,000 women)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Total (Lifetime) Fertility",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Sum of annual age-specific birth rates (grouped by 5-year age intervals, from 10 - 49 years) among NYC resident women, multiplied by 5; expressed per 1,000 women. For more information about this measure, <a href=\"http://www1.nyc.gov/assets/doh/downloads/pdf/tracking/vital-stats-definitions.pdf\" target=\"_blank\"> click here. </a></p>",
+                "info_source": "New York City Bureau of Vital Statistics"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "2000.2",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "1973.6",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "1995.2",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "2010.8",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1957.4",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1959.1",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1927.1",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1918.7",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1967.2",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1999.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "2016.7",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "2000.1",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "2012.7",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "2019.7",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1982.9",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1988.6",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1997.5",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1978.2",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "2032",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "2105.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "1392.9",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "1412.6",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "1431.2",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "1425.2",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1399.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1447.8",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1447.2",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1422.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1436.7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1449.2",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "1759.7",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "1751.1",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "1769",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "1748.2",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1723.7",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1737.9",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1732.2",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1712",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1749.4",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1794.4",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "1634.6",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "1616.9",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "1631.9",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "1561.3",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1555.8",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1556.8",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1553.8",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1540.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1564.2",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1616.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1998",
+                    "1785.5",
+                    "",
+                    "1998",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "1999",
+                    "1822.3",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2000",
+                    "1853.8",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "1748.3",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "1813.5",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1844.4",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1821",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1745.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1816.2",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1833.2",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Total (Lifetime) Fertility",
+        "show_disparities_data": [
+          {
+            "Measure": "Estimated Annual Rate",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Total (Lifetime) Fertility",
+                "y_axis_title": "Estimated Annual Rate (per 1,000 women) (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Total (Lifetime) Fertility",
+                    "info_measure": "Estimated Annual Rate",
+                    "info_how_calculated": "<p>Sum of annual age-specific birth rates (grouped by 5-year age intervals, from 10 - 49 years) among NYC resident women, multiplied by 5; expressed per 1,000 women. For more information about this measure, <a href=\"http://www1.nyc.gov/assets/doh/downloads/pdf/tracking/vital-stats-definitions.pdf\" target=\"_blank\"> click here. </a></p>",
+                    "info_source": "New York City Bureau of Vital Statistics"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2007",
+                        1454.2
+                      ],
+                      [
+                        "2006",
+                        1353.5
+                      ],
+                      [
+                        "2005",
+                        1323.7
+                      ],
+                      [
+                        "2004",
+                        1333.0
+                      ],
+                      [
+                        "2003",
+                        1303.5
+                      ],
+                      [
+                        "2002",
+                        1251.3
+                      ],
+                      [
+                        "2001",
+                        1255.0
+                      ],
+                      [
+                        "2000",
+                        1335.8
+                      ],
+                      [
+                        "1999",
+                        1328.3
+                      ],
+                      [
+                        "1998",
+                        1269.1
+                      ],
+                      [
+                        "1997",
+                        1257.6
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2007",
+                        1710.0
+                      ],
+                      [
+                        "2006",
+                        1665.9
+                      ],
+                      [
+                        "2005",
+                        1613.5
+                      ],
+                      [
+                        "2004",
+                        1648.3
+                      ],
+                      [
+                        "2003",
+                        1644.5
+                      ],
+                      [
+                        "2002",
+                        1623.4
+                      ],
+                      [
+                        "2001",
+                        1646.9
+                      ],
+                      [
+                        "2000",
+                        1673.3
+                      ],
+                      [
+                        "1999",
+                        1694.7
+                      ],
+                      [
+                        "1998",
+                        1725.4
+                      ],
+                      [
+                        "1997",
+                        1755.8
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2007",
+                        2195.9
+                      ],
+                      [
+                        "2006",
+                        2144.6
+                      ],
+                      [
+                        "2005",
+                        2081.8
+                      ],
+                      [
+                        "2004",
+                        2120.0
+                      ],
+                      [
+                        "2003",
+                        2131.1
+                      ],
+                      [
+                        "2002",
+                        2101.9
+                      ],
+                      [
+                        "2001",
+                        2185.9
+                      ],
+                      [
+                        "2000",
+                        2178.2
+                      ],
+                      [
+                        "1999",
+                        2180.6
+                      ],
+                      [
+                        "1998",
+                        2178.3
+                      ],
+                      [
+                        "1997",
+                        2192.3
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Total (Lifetime) Fertility",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 42)",
+                "sort_index": 48,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "1999",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "1998",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "1997",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Estimated Annual Rate, per 1,000 women"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "1794.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "1749.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "1712.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "1732.2 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "1737.9 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "1723.7 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "1748.2 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "1769.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "1999",
+            "1751.1 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "1998",
+            "1759.7 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "1997",
+            "1888.4 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007",
+            "1999.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006",
+            "1967.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005",
+            "1918.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004",
+            "1927.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003",
+            "1959.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002",
+            "1957.4 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001",
+            "2010.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000",
+            "1995.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "1999",
+            "1973.6 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "1998",
+            "2000.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "1997",
+            "1978.0 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007",
+            "2105.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006",
+            "2032.0 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005",
+            "1978.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004",
+            "1997.5 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003",
+            "1988.6 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002",
+            "1982.9 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001",
+            "2019.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000",
+            "2012.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "1999",
+            "2000.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "1998",
+            "2016.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "1997",
+            "2007.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007",
+            "1449.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006",
+            "1436.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005",
+            "1422.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004",
+            "1447.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003",
+            "1447.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002",
+            "1399.3 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001",
+            "1425.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000",
+            "1431.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "1999",
+            "1412.6 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "1998",
+            "1392.9 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "1997",
+            "1389.0 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007",
+            "1616.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006",
+            "1564.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005",
+            "1540.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004",
+            "1553.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003",
+            "1556.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002",
+            "1555.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001",
+            "1561.3 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000",
+            "1631.9 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "1999",
+            "1616.9 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "1998",
+            "1634.6 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "1997",
+            "1622.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007",
+            "1833.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006",
+            "1816.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005",
+            "1745.1 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004",
+            "1821.0 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003",
+            "1844.4 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002",
+            "1813.5 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001",
+            "1748.3 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000",
+            "1853.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "1999",
+            "1822.3 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "1998",
+            "1785.5 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "1997",
+            "1777.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2007",
+            "2271.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2006",
+            "2263.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2005",
+            "2197.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2004",
+            "2210.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2003",
+            "2248.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2002",
+            "2246.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2001",
+            "2382.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2000",
+            "2362.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "1999",
+            "2328.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "1998",
+            "2307.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "1997",
+            "2306.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2007",
+            "1934.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2006",
+            "1932.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2005",
+            "1939.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2004",
+            "1939.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2003",
+            "1963.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2002",
+            "2017.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2001",
+            "2040.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2000",
+            "2049.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "1999",
+            "2003.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "1998",
+            "2065.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "1997",
+            "1993.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2007",
+            "2398.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2006",
+            "2404.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2005",
+            "2339.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2004",
+            "2350.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2003",
+            "2358.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2002",
+            "2380.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2001",
+            "2370.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2000",
+            "2381.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "1999",
+            "2346.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "1998",
+            "2387.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "1997",
+            "2381.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2007",
+            "2502.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2006",
+            "2362.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2005",
+            "2358.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2004",
+            "2304.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2003",
+            "2385.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2002",
+            "2296.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2001",
+            "2367.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2000",
+            "2217.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "1999",
+            "2309.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "1998",
+            "2328.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "1997",
+            "2318.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2007",
+            "1538.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2006",
+            "1472.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2005",
+            "1489.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2004",
+            "1384.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2003",
+            "1475.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2002",
+            "1416.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2001",
+            "1491.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2000",
+            "1550.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "1999",
+            "1454.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "1998",
+            "1532.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "1997",
+            "2898.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2007",
+            "1591.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2006",
+            "1552.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2005",
+            "1451.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2004",
+            "1464.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2003",
+            "1495.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2002",
+            "1449.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2001",
+            "1531.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2000",
+            "1463.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "1999",
+            "1478.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "1998",
+            "1473.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "1997",
+            "1477.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2007",
+            "1736.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2006",
+            "1681.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2005",
+            "1597.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2004",
+            "1665.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2003",
+            "1676.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2002",
+            "1689.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2001",
+            "1713.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2000",
+            "1715.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "1999",
+            "1685.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "1998",
+            "1716.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "1997",
+            "1716.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2007",
+            "1832.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2006",
+            "1817.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2005",
+            "1800.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2004",
+            "1832.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2003",
+            "1832.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2002",
+            "1865.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2001",
+            "1907.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2000",
+            "1939.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "1999",
+            "1929.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "1998",
+            "2029.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "1997",
+            "1988.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2007",
+            "1668.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2006",
+            "1632.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2005",
+            "1574.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2004",
+            "1652.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2003",
+            "1611.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2002",
+            "1605.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2001",
+            "1622.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2000",
+            "1660.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "1999",
+            "1637.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "1998",
+            "1680.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "1997",
+            "1644.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2007",
+            "3042.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2006",
+            "2938.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2005",
+            "2859.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2004",
+            "2806.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2003",
+            "2738.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2002",
+            "2773.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2001",
+            "2710.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2000",
+            "2696.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "1999",
+            "2652.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "1998",
+            "2569.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "1997",
+            "2573.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2007",
+            "1713.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2006",
+            "1605.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2005",
+            "1637.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2004",
+            "1579.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2003",
+            "1687.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2002",
+            "1679.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2001",
+            "1697.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2000",
+            "1675.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "1999",
+            "1679.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "1998",
+            "1647.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "1997",
+            "1652.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2007",
+            "1889.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2006",
+            "1897.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2005",
+            "1827.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2004",
+            "1857.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2003",
+            "1909.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2002",
+            "1822.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2001",
+            "1870.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2000",
+            "1875.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "1999",
+            "1803.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "1998",
+            "1804.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "1997",
+            "1773.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2007",
+            "1649.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2006",
+            "1550.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2005",
+            "1432.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2004",
+            "1418.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2003",
+            "1371.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2002",
+            "1367.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2001",
+            "1373.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2000",
+            "1360.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "1999",
+            "1376.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "1998",
+            "1474.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "1997",
+            "1517.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2007",
+            "1817.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2006",
+            "1762.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2005",
+            "1798.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2004",
+            "1875.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2003",
+            "1878.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2002",
+            "1914.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2001",
+            "2030.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2000",
+            "2045.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "1999",
+            "2037.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "1998",
+            "2030.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "1997",
+            "2037.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2007",
+            "2120.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2006",
+            "2075.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2005",
+            "2010.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2004",
+            "2029.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2003",
+            "2013.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2002",
+            "2042.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2001",
+            "2140.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2000",
+            "2046.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "1999",
+            "2105.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "1998",
+            "2087.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "1997",
+            "2185.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2007",
+            "2355.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2006",
+            "2213.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2005",
+            "2152.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2004",
+            "2212.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2003",
+            "2317.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2002",
+            "2258.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2001",
+            "2350.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2000",
+            "2268.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "1999",
+            "2319.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "1998",
+            "2424.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "1997",
+            "2307.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2007",
+            "3486.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2006",
+            "3150.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2005",
+            "2840.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2004",
+            "2822.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2003",
+            "2597.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2002",
+            "2599.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2001",
+            "2533.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2000",
+            "2407.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "1999",
+            "2361.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "1998",
+            "2328.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "1997",
+            "2344.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2007",
+            "2304.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2006",
+            "2264.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2005",
+            "2224.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2004",
+            "2275.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2003",
+            "2261.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2002",
+            "2153.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2001",
+            "2231.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2000",
+            "2274.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "1999",
+            "2255.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "1998",
+            "2248.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "1997",
+            "2199.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2007",
+            "1754.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2006",
+            "1723.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2005",
+            "1701.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2004",
+            "1730.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2003",
+            "1677.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2002",
+            "1699.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2001",
+            "1826.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2000",
+            "1785.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "1999",
+            "1685.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "1998",
+            "1702.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "1997",
+            "1775.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2007",
+            "1079.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2006",
+            "1093.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2005",
+            "1157.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2004",
+            "1155.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2003",
+            "1142.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2002",
+            "1091.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2001",
+            "1001.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2000",
+            "1026.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "1999",
+            "1016.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "1998",
+            "989.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "1997",
+            "989.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2007",
+            "1922.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2006",
+            "1978.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2005",
+            "1899.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2004",
+            "1986.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2003",
+            "1978.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2002",
+            "2050.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2001",
+            "2109.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2000",
+            "2139.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "1999",
+            "2062.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "1998",
+            "2107.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "1997",
+            "2121.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2007",
+            "996.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2006",
+            "918.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2005",
+            "880.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2004",
+            "917.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2003",
+            "891.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2002",
+            "879.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2001",
+            "820.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2000",
+            "856.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "1999",
+            "812.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "1998",
+            "780.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "1997",
+            "797.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2007",
+            "1111.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2006",
+            "1186.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2005",
+            "1119.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2004",
+            "1059.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2003",
+            "1064.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2002",
+            "953.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2001",
+            "957.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2000",
+            "920.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "1999",
+            "843.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "1998",
+            "817.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "1997",
+            "761.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2007",
+            "2495.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2006",
+            "2245.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2005",
+            "1837.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2004",
+            "1769.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2003",
+            "1623.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2002",
+            "1207.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2001",
+            "1442.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2000",
+            "1376.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "1999",
+            "1319.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "1998",
+            "1055.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "1997",
+            "1083.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2007",
+            "1447.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2006",
+            "1357.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2005",
+            "1345.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2004",
+            "1363.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2003",
+            "1415.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2002",
+            "1285.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2001",
+            "1326.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2000",
+            "1392.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "1999",
+            "1317.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "1998",
+            "1246.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "1997",
+            "1245.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2007",
+            "997.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2006",
+            "1235.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2005",
+            "1226.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2004",
+            "1230.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2003",
+            "1234.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2002",
+            "1210.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2001",
+            "1181.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2000",
+            "1187.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "1999",
+            "1186.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "1998",
+            "1095.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "1997",
+            "1082.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2007",
+            "1377.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2006",
+            "1346.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2005",
+            "1364.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2004",
+            "1392.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2003",
+            "1347.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2002",
+            "1245.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2001",
+            "1243.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2000",
+            "1229.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "1999",
+            "1243.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "1998",
+            "1227.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "1997",
+            "1188.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2007",
+            "1662.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2006",
+            "1684.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2005",
+            "1730.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2004",
+            "1771.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2003",
+            "1855.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2002",
+            "1868.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2001",
+            "1911.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2000",
+            "1915.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "1999",
+            "2003.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "1998",
+            "2058.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "1997",
+            "2046.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2007",
+            "878.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2006",
+            "764.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2005",
+            "834.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2004",
+            "829.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2003",
+            "805.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2002",
+            "781.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2001",
+            "828.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2000",
+            "825.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "1999",
+            "833.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "1998",
+            "903.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "1997",
+            "913.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2007",
+            "1530.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2006",
+            "1360.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2005",
+            "1282.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2004",
+            "1273.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2003",
+            "1259.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2002",
+            "1273.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2001",
+            "1266.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2000",
+            "1368.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "1999",
+            "1340.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "1998",
+            "1310.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "1997",
+            "1326.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2007",
+            "1674.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2006",
+            "1603.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2005",
+            "1538.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2004",
+            "1650.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2003",
+            "1535.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2002",
+            "1641.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2001",
+            "1551.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2000",
+            "1613.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "1999",
+            "1624.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "1998",
+            "1620.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "1997",
+            "1615.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2007",
+            "1745.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2006",
+            "1699.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2005",
+            "1652.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2004",
+            "1638.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2003",
+            "1677.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2002",
+            "1721.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2001",
+            "1675.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2000",
+            "1686.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "1999",
+            "1773.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "1998",
+            "1793.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "1997",
+            "1743.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2007",
+            "1232.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2006",
+            "1255.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2005",
+            "1262.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2004",
+            "1253.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2003",
+            "1335.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2002",
+            "1287.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2001",
+            "1368.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2000",
+            "1424.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "1999",
+            "1462.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "1998",
+            "1508.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "1997",
+            "1584.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2007",
+            "1619.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2006",
+            "1539.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2005",
+            "1551.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2004",
+            "1508.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2003",
+            "1503.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2002",
+            "1433.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2001",
+            "1497.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2000",
+            "1584.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "1999",
+            "1466.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "1998",
+            "1495.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "1997",
+            "1473.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2007",
+            "1866.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2006",
+            "1782.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2005",
+            "1732.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2004",
+            "1646.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2003",
+            "1687.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2002",
+            "1577.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2001",
+            "1670.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2000",
+            "1718.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "1999",
+            "1752.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "1998",
+            "1770.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "1997",
+            "1768.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2007",
+            "1217.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2006",
+            "1168.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2005",
+            "1172.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2004",
+            "1235.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2003",
+            "1190.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2002",
+            "1257.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2001",
+            "1241.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2000",
+            "1303.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "1999",
+            "1337.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "1998",
+            "1319.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "1997",
+            "1365.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2007",
+            "1620.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2006",
+            "1622.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2005",
+            "1619.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2004",
+            "1627.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2003",
+            "1662.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2002",
+            "1668.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2001",
+            "1651.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2000",
+            "1758.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "1999",
+            "1754.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "1998",
+            "1769.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "1997",
+            "1729.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2007",
+            "1967.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2006",
+            "1936.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2005",
+            "1885.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2004",
+            "1955.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2003",
+            "1928.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2002",
+            "1918.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2001",
+            "1908.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2000",
+            "1992.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "1999",
+            "1899.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "1998",
+            "1930.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "1997",
+            "1868.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2007",
+            "2375.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2006",
+            "2315.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2005",
+            "2271.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2004",
+            "2359.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2003",
+            "2244.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2002",
+            "2169.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2001",
+            "2152.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2000",
+            "2155.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "1999",
+            "2050.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "1998",
+            "2121.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "1997",
+            "1964.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2007",
+            "1596.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2006",
+            "1558.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2005",
+            "1515.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2004",
+            "1612.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2003",
+            "1686.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2002",
+            "1643.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2001",
+            "1556.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2000",
+            "1720.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "1999",
+            "1670.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "1998",
+            "1677.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "1997",
+            "1715.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2007",
+            "1985.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2006",
+            "2009.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2005",
+            "1847.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2004",
+            "1943.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2003",
+            "1917.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2002",
+            "1911.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2001",
+            "1881.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2000",
+            "1958.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "1999",
+            "1925.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "1998",
+            "1820.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "1997",
+            "1818.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2007",
+            "1640.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2006",
+            "1638.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2005",
+            "1622.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2004",
+            "1622.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2003",
+            "1714.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2002",
+            "1710.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2001",
+            "1604.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2000",
+            "1706.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "1999",
+            "1792.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "1998",
+            "1668.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "1997",
+            "1681.2 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Total (Lifetime) Fertility",
+            "info_measure": "Estimated Annual Rate",
+            "info_how_calculated": "<p>Sum of annual age-specific birth rates (grouped by 5-year age intervals, from 10 - 49 years) among NYC resident women, multiplied by 5; expressed per 1,000 women. For more information about this measure, <a href=\"http://www1.nyc.gov/assets/doh/downloads/pdf/tracking/vital-stats-definitions.pdf\" target=\"_blank\"> click here. </a></p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

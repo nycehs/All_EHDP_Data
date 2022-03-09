@@ -1,0 +1,257 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Affordability",
+        "Measure": "Low-Rent Housing Unit Vacancy Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Affordability - Low-Rent Housing Unit Vacancy Rate 2002 to 2011",
+            "y_axis_title": "Low-Rent Housing Unit Vacancy Rate (percent)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Affordability",
+                "info_measure": "Low-Rent Housing Unit Vacancy Rate",
+                "info_how_calculated": "Estimated citywide number of vacant or available for rent units in the lowest rent category (<$700 real 2008 dollars), divided by the citywide estimate of total rental units (occupied and available for rent) in that category.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "1.38",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "1.91",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.98",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Affordability",
+        "Measure": "Housing Affordable for Median Income NYC Household",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Affordability - Housing Affordable for Median Income NYC Household 2002 to 2011",
+            "y_axis_title": "Housing Affordable for Median Income NYC Household (percent)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Affordability",
+                "info_measure": "Housing Affordable for Median Income NYC Household",
+                "info_how_calculated": "For each year of Housing and Vacancy Survey (HVS) data, a housing budget is calculated by taking the estimated citywide median household income for all households (from the HVS), divided by 12 months, and multiplied by 0.3. The estimated percentage of rental units (occupied and vacant/available for rent) with an asking rent (contract) less than or equal to the derived maximum housing budget are counted as affordable to the typical NYC household. This measure incorporates changes in median household income as well as changes in asking rent. ",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "76.1",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "68.5",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "64.1",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "60",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Housing Affordability",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Housing Affordable for Median Income NYC Household, percent",
+          "Low-Rent Housing Unit Vacancy Rate, percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "60  ",
+            " ",
+            "1  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "64.1 ",
+            " ",
+            "0.9 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "68.5 ",
+            " ",
+            "1.9 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "76.1 ",
+            " ",
+            "1.3 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Housing Affordability",
+            "info_measure": "Housing Affordable for Median Income NYC Household",
+            "info_how_calculated": "For each year of Housing and Vacancy Survey (HVS) data, a housing budget is calculated by taking the estimated citywide median household income for all households (from the HVS), divided by 12 months, and multiplied by 0.3. The estimated percentage of rental units (occupied and vacant/available for rent) with an asking rent (contract) less than or equal to the derived maximum housing budget are counted as affordable to the typical NYC household. This measure incorporates changes in median household income as well as changes in asking rent. ",
+            "info_source": [
+              "New York City Housing and Vacancy Survey (HVS)"
+            ]
+          },
+          {
+            "info_name": "Housing Affordability",
+            "info_measure": "Low-Rent Housing Unit Vacancy Rate",
+            "info_how_calculated": "Estimated citywide number of vacant or available for rent units in the lowest rent category (<$700 real 2008 dollars), divided by the citywide estimate of total rental units (occupied and available for rent) in that category.",
+            "info_source": [
+              "New York City Housing and Vacancy Survey (HVS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

@@ -1,0 +1,792 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Walkability Index (Infrastructure)",
+        "indicator_description": "<p>Walkability indices summarize built environment features believed to promote walking, focusing on neighborhood infrastructure. Some potentially important characteristics are usually not included, such as neighborhood safety or attractiveness, like number of street trees.</p>\n<p>For this index, higher scores indicate greater walkability. NYC neighborhoods range in walkability index (infrastructure) score from -4.0 to 9.4, with zero representing an approximate average for the City as a whole.</p>",
+        "geography": "Neighborhood (UHF 42)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Score",
+            "color": [
+              "deebf7",
+              "9ecae1",
+              "3182bd"
+            ],
+            "start_range": [
+              -9999999.0,
+              0.0,
+              1.41,
+              9999999.0
+            ],
+            "measure": "Score",
+            "how_calculated": "<p>Z-scores were calculated and summed across indicators of residential population density (density of population per total residential land area); intersection density; an entropy measure of land use based on the distribution of building floor area among 5 land-use types (education, entertainment, residential (single- and multi-family), retail, and office); the ratio of retail building floor area to retail land area; and subway stop density. This scale is a variation of Frank's Walkability Index.</p>\n<p><strong><a href=\"EPHTPDF/Walkability.pdf\" target=\"_blank\">Click here</a></strong> for a full description of the Walkability Index (Infrastructure).</p>\n<p>For more information, visit <a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+            "source": "Built Environment & Health Project (BEH)",
+            "map_data": [
+              {
+                "year": "2011",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "-2.4",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "-0.7",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "1.1",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "-1.1",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "2.5",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "1.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "1.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "2.0",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "2.9",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "1.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "1.1",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "0.6",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "0.2",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "0.1",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "-1.0",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "0.2",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "0.0",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "2.7",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "0.9",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "1.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "1.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "0.6",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "1",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "7.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "6.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "9.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "4.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "8.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "2.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "1.1",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "-1.9",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "-2.1",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "0.9",
+                    "color": "9ecae1",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "-1.0",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "-0.7",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "-0.2",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "-1.6",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "-2.9",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "-1.0",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "-2.3",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "-2.9",
+                    "color": "deebf7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "-4",
+                    "color": "deebf7",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "The Built Environment &amp; Health Project (BEH), Columbia University",
+            "legend_title": "Score "
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "UHF42.json",
+    "time_trend_data": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Walkability Index (Infrastructure)",
+        "show_disparities_data": [
+          {
+            "Measure": "Score",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Walkability Index (Infrastructure)",
+                "y_axis_title": "Score  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Walkability Index (Infrastructure)",
+                    "info_measure": "Score",
+                    "info_how_calculated": "<p>Z-scores were calculated and summed across indicators of residential population density (density of population per total residential land area); intersection density; an entropy measure of land use based on the distribution of building floor area among 5 land-use types (education, entertainment, residential (single- and multi-family), retail, and office); the ratio of retail building floor area to retail land area; and subway stop density. This scale is a variation of Frank's Walkability Index.</p>\n<p><strong><a href=\"EPHTPDF/Walkability.pdf\" target=\"_blank\">Click here</a></strong> for a full description of the Walkability Index (Infrastructure).</p>\n<p>For more information, visit <a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+                    "info_source": "The Built Environment &amp; Health Project (BEH), Columbia University"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2011",
+                        0.0
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2011",
+                        -0.1
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2011",
+                        1.5
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Walkability Index (Infrastructure)",
+        "Measure": "Score",
+        "Compare": [
+          {
+            "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)",
+            "graph_title": "Neighborhood  Walkability Index (Infrastructure) by Children ages 5 to 17",
+            "y_axis_title": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2011",
+            "x_axis_title": "Walkability Index (Infrastructure) - Score 2011",
+            "info": [
+              {
+                "x_axis_title_reg": "Walkability Index (Infrastructure)",
+                "y_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "x_axis_measure": "Score",
+                "y_axis_measure": "Estimated Annual Rate",
+                "info_name": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of asthma-related emergency department (ED) visits among NYC resident children aged 5 to 17 years, divided by the population of children 5 to 17 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>An ED visit is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2011"
+              },
+              {
+                "x_axis_title_reg": "Walkability Index (Infrastructure)",
+                "y_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "x_axis_measure": "Score",
+                "y_axis_measure": "Estimated Annual Rate",
+                "info_name": "Walkability Index (Infrastructure)",
+                "info_measure": "Score",
+                "info_how_calculated": "<p>Z-scores were calculated and summed across indicators of residential population density (density of population per total residential land area); intersection density; an entropy measure of land use based on the distribution of building floor area among 5 land-use types (education, entertainment, residential (single- and multi-family), retail, and office); the ratio of retail building floor area to retail land area; and subway stop density. This scale is a variation of Frank's Walkability Index.</p>\n<p><strong><a href=\"EPHTPDF/Walkability.pdf\" target=\"_blank\">Click here</a></strong> for a full description of the Walkability Index (Infrastructure).</p>\n<p>For more information, visit <a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+                "info_source": "The Built Environment &amp; Health Project (BEH), Columbia University",
+                "info_year": "2011"
+              }
+            ],
+            "link_data": [
+              [
+                "-2.42",
+                "132.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.69",
+                "153.9",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.13",
+                "257.9",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-1.08",
+                "304.7",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.46",
+                "370.3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.8",
+                "447.3",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.41",
+                "470.3",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.98",
+                "85.8",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.91",
+                "181.4",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.64",
+                "361.4",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.12",
+                "322.4",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.61",
+                "111",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.17",
+                "47.8",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.11",
+                "233.8",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.99",
+                "153.7",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.24",
+                "46.8",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.01",
+                "75.5",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.71",
+                "336",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.94",
+                "236",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.84",
+                "565.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.75",
+                "580.5",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.61",
+                "160",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1",
+                "74.5",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.09",
+                "157.6",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.08",
+                "116.8",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.43",
+                "56",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.75",
+                "298.2",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.42",
+                "160.8",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.42",
+                "187.1",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.06",
+                "157",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-1.9",
+                "84.2",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-2.12",
+                "30.2",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.85",
+                "109.4",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.98",
+                "109.4",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.71",
+                "135.6",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.23",
+                "198.1",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-1.64",
+                "126.6",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-2.85",
+                "209.3",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-0.98",
+                "225.5",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-2.26",
+                "180.4",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-2.86",
+                "71.2",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "-4",
+                "45.6",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ],
+        "link_opts": [
+          {
+            "name": "Asthma",
+            "children": [
+              {
+                "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": []
+  }
+

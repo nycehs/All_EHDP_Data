@@ -1,0 +1,580 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": "Asthma triggers: Children living in homes with cockroaches (ages 0-13 years)",
+        "indicator_description": "",
+        "geography": "Neighborhood (NYC KIDS)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percentage",
+            "color": [
+              "ffffb2",
+              "fecc5c",
+              "fd8d3c",
+              "f03b20",
+              "bd0026"
+            ],
+            "start_range": [
+              -9999999.0,
+              20.0,
+              25.0,
+              30.0,
+              35.0,
+              9999999.0
+            ],
+            "measure": "Percentage",
+            "how_calculated": "<p>Estimated number of children ages 0-13 years living in a home reporting cockroaches in the past 30 days, divided by the number of children in the area; expressed as a percent.</p>",
+            "source": "NYC KIDS Survey",
+            "map_data": [
+              {
+                "year": "2017",
+                "year_data": [
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "32.5",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "39.3",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "41.1",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "56.3",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "31.9",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "37.9",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "28.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "22.7",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "12.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "NYC KIDS Survey",
+            "legend_title": "Percentage "
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "NYCKids.json",
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Children living in homes with cockroaches (ages 0-13 years)",
+        "Measure": "Percentage",
+        "Compare": [
+          {
+            "compare_type": "Children ever diagnosed with asthma (ages 0-13 years) (Percentage)",
+            "graph_title": "Neighborhood Asthma triggers: Children ever diagnosed with asthma (ages 0-13 years) by Children living in homes with cockroaches (ages 0-13 years)",
+            "y_axis_title": "Children living in homes with cockroaches (ages 0-13 years) - Percentage 2017",
+            "x_axis_title": "Children ever diagnosed with asthma (ages 0-13 years) - Percentage 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Children ever diagnosed with asthma (ages 0-13 years)",
+                "y_axis_title_reg": "Children living in homes with cockroaches (ages 0-13 years)",
+                "x_axis_measure": "Percentage",
+                "y_axis_measure": "Percentage",
+                "info_name": "Children ever diagnosed with asthma (ages 0-13 years)",
+                "info_measure": "Percentage",
+                "info_how_calculated": "<p><span>Estimated number of children ages 0-13 years who were ever diagnosed with asthma, divided by all children of the same ages, expressed as a percent.&nbsp;</span></p>",
+                "info_source": "NYC KIDS Survey",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Children ever diagnosed with asthma (ages 0-13 years)",
+                "y_axis_title_reg": "Children living in homes with cockroaches (ages 0-13 years)",
+                "x_axis_measure": "Percentage",
+                "y_axis_measure": "Percentage",
+                "info_name": "Children living in homes with cockroaches (ages 0-13 years)",
+                "info_measure": "Percentage",
+                "info_how_calculated": "<p>Estimated number of children ages 0-13 years living in a home reporting cockroaches in the past 30 days, divided by the number of children in the area; expressed as a percent.</p>",
+                "info_source": "NYC KIDS Survey",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "11.4",
+                "32.5",
+                "Rest of Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.4",
+                "39.3",
+                "East and Central Harlem Neighborhood Health Action Center",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.6",
+                "41.1",
+                "Rest of Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "56.3",
+                "South Bronx Neighborhood Health Action Center",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "31.9",
+                "Rest of Brooklyn",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.3",
+                "37.9",
+                "North and Central Brooklyn Neighborhood Health Action Center",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "28.8",
+                "Rest of Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.7",
+                "22.7",
+                "Queens - South Jamaica and Rockaway",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.8",
+                "12.2",
+                "Staten Island",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ],
+            "status": 1
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ],
+        "link_opts": [
+          {
+            "name": "Asthma",
+            "children": [
+              {
+                "compare_type": "Children ever diagnosed with asthma (ages 0-13 years) (Percentage)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Children living in homes with cockroaches (ages 0-13 years)",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (NYC KIDS)",
+                "sort_index": 65,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 65,
+                    "children": [
+                      {
+                        "name": "Bronx: Rest of Bronx",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: South Bronx Neighborhood Health Action Center",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 65,
+                    "children": [
+                      {
+                        "name": "Brooklyn: North and Central Brooklyn Neighborhood Health Action Center",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Rest of Brooklyn",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 65,
+                    "children": [
+                      {
+                        "name": "Manhattan: East and Central Harlem Neighborhood Health Action Center",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Rest of Manhattan",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 65,
+                    "children": [
+                      {
+                        "name": "Queens: Queens - South Jamaica and Rockaway",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rest of Queens",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 65,
+                    "children": [
+                      {
+                        "name": "Staten Island: Staten Island",
+                        "sort_index": 65,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Count",
+          "Percentage (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "480,000  ",
+            "",
+            "33.9 ",
+            "(32.2,35.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2017",
+            "139,000  ",
+            "",
+            "48  ",
+            "(43.9,52.0)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2017",
+            "163,000  ",
+            "",
+            "33.7 ",
+            "(30.9,36.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2017",
+            "65,000  ",
+            "",
+            "34.2 ",
+            "(29.8,38.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2017",
+            "103,000  ",
+            "",
+            "27.8 ",
+            "(24.6,31.1)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2017",
+            "10,000  ",
+            "",
+            "12.2 ",
+            "(8.0,18.1)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Bronx: Rest of Bronx",
+            "2017",
+            "65,000  ",
+            "",
+            "41.1 ",
+            "(35.8,46.7)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Bronx: South Bronx Neighborhood Health Action Center",
+            "2017",
+            "73,000  ",
+            "",
+            "56.3 ",
+            "(50.0,62.3)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Brooklyn: North and Central Brooklyn Neighborhood Health Action Center",
+            "2017",
+            "54,000  ",
+            "",
+            "37.9 ",
+            "(32.0,44.3)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Brooklyn: Rest of Brooklyn",
+            "2017",
+            "109,000  ",
+            "",
+            "31.9 ",
+            "(28.8,35.1)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Manhattan: East and Central Harlem Neighborhood Health Action Center",
+            "2017",
+            "18,000  ",
+            "",
+            "39.3 ",
+            "(32.6,46.3)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Manhattan: Rest of Manhattan",
+            "2017",
+            "47,000  ",
+            "",
+            "32.5 ",
+            "(27.3,38.3)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Queens: Queens - South Jamaica and Rockaway",
+            "2017",
+            "15,000  ",
+            "",
+            "22.7 ",
+            "(17.7,28.6)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Queens: Rest of Queens",
+            "2017",
+            "88,000  ",
+            "",
+            "28.8 ",
+            "(25.3,32.7)"
+          ],
+          [
+            "65",
+            "Neighborhood (NYC KIDS)",
+            "Staten Island: Staten Island",
+            "2017",
+            "10,000  ",
+            "",
+            "12.2 ",
+            "(8.0,18.1)"
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Children living in homes with cockroaches (ages 0-13 years)",
+            "info_measure": "Count",
+            "info_how_calculated": "<p>Estimated number of children ages 0-13 years living in a home reporting cockroaches in the past 30 days</p>",
+            "info_source": [
+              "NYC KIDS Survey"
+            ]
+          },
+          {
+            "info_name": "Children living in homes with cockroaches (ages 0-13 years)",
+            "info_measure": "Percentage",
+            "info_how_calculated": "<p>Estimated number of children ages 0-13 years living in a home reporting cockroaches in the past 30 days, divided by the number of children in the area; expressed as a percent.</p>",
+            "info_source": [
+              "NYC KIDS Survey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

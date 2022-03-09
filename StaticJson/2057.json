@@ -1,0 +1,2002 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Youth Access to Alcohol",
+        "indicator_description": "",
+        "geography": "Neighborhood (UHF 42)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Service Outlet Density",
+            "color": [
+              "FFFFB2",
+              "FECC5C",
+              "FD8D3C",
+              "E31A1C"
+            ],
+            "start_range": [
+              0.0,
+              75.0,
+              150.0,
+              225.0,
+              9999999.0
+            ],
+            "measure": "Service Outlet Density",
+            "how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for on-premise consumption divided by the population of youths ages 13 to 19 years, using NYC DOHMH intercensal estimates; expressed as retail outlets per 10,000 residents",
+            "source": "NYS Liquor Authority",
+            "map_data": [
+              {
+                "year": "2009",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "97",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "42",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "51",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "82",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "33",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "85",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "56",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "258",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "400",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "46",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "33",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "123",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "43",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "38",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "44",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "147",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "103",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "63",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "98",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "77",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "75",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "371",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "634",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "3514",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "2705",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "2809",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "695",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "1497",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "315",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "181",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "227",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "180",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "142",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "59",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "93",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "58",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "38",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "52",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "102",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "95",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "91",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "105",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Liquor Authority",
+            "legend_title": "Service Outlet Density (per 10,000 youths)"
+          },
+          {
+            "legendtext": "",
+            "display": "Retail Outlet Density",
+            "color": [
+              "FFFFB2",
+              "FECC5C",
+              "FD8D3C",
+              "E31A1C"
+            ],
+            "start_range": [
+              0.0,
+              140.0,
+              240.0,
+              340.0,
+              9999999.0
+            ],
+            "measure": "Retail Outlet Density",
+            "how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for off-premise consumption divided by the population of youths ages 13 to 19 years, using NYC DOHMH intercensal estimates; expressed as retail outlets per 10,000 residents",
+            "source": "NYS Liquor Authority",
+            "map_data": [
+              {
+                "year": "2009",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "114",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "91",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "108",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "118",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "115",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "118",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "149",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "191",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "239",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "146",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "145",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "183",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "85",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "106",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "85",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "176",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "136",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "174",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "161",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "139",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "163",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "165",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "258",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "810",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "727",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "466",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "192",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "407",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "229",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "135",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "101",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "101",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "203",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "82",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "133",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "122",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "81",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "90",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "109",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "109",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "73",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "75",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Liquor Authority",
+            "legend_title": "Retail Outlet Density (per 10,000 youths)"
+          },
+          {
+            "legendtext": "",
+            "display": "Number of Retail Outlets",
+            "color": [
+              "FFFFB2",
+              "FECC5C",
+              "FD8D3C",
+              "E31A1C"
+            ],
+            "start_range": [
+              0.0,
+              140.0,
+              240.0,
+              340.0,
+              9999999.0
+            ],
+            "measure": "Number of Retail Outlets",
+            "how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for off-premise consumption",
+            "source": "NYS Liquor Authority",
+            "map_data": [
+              {
+                "year": "2009",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "81",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "166",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "308",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "347",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "297",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "300",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "261",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "250",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "344",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "454",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "284",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "205",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "273",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "313",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "151",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "239",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "329",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "364",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "354",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "180",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "161",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "179",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "211",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "380",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "256",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "155",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "271",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "77",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "346",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "544",
+                    "color": "E31A1C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "190",
+                    "color": "FECC5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "67",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "331",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "60",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "319",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "315",
+                    "color": "FD8D3C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "138",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "90",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "91",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "139",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "58",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "130",
+                    "color": "FFFFB2",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Liquor Authority",
+            "legend_title": "Number of Retail Outlets "
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "UHF42.json",
+    "time_trend_data": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Youth Access to Alcohol",
+        "show_disparities_data": [
+          {
+            "Measure": "Service Outlet Density",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Youth Access to Alcohol",
+                "y_axis_title": "Service Outlet Density (per 10,000 youths) (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Youth Access to Alcohol",
+                    "info_measure": "Service Outlet Density",
+                    "info_how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for on-premise consumption divided by the population of youths ages 13 to 19 years, using NYC DOHMH intercensal estimates; expressed as retail outlets per 10,000 residents",
+                    "info_source": "New York State Liquor Authority"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2009",
+                        203.5
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2009",
+                        99.5
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2009",
+                        69.0
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Youth Access to Alcohol",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 42)",
+                "sort_index": 48,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number of Retail Outlets",
+          "Number of Service Outlets",
+          "Retail Outlet Density, per 10,000 youths",
+          "Service Outlet Density, per 10,000 youths"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "10,066  ",
+            " ",
+            "12,436  ",
+            " ",
+            "144  ",
+            " ",
+            "178  ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009",
+            "1,760  ",
+            " ",
+            "931  ",
+            " ",
+            "115  ",
+            " ",
+            "61  ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009",
+            "3,206  ",
+            " ",
+            "2,169  ",
+            " ",
+            "141  ",
+            " ",
+            "95  ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009",
+            "2,224  ",
+            " ",
+            "6,109  ",
+            " ",
+            "242  ",
+            " ",
+            "664  ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009",
+            "2,400  ",
+            " ",
+            "2,514  ",
+            " ",
+            "134  ",
+            " ",
+            "140  ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009",
+            "418  ",
+            " ",
+            "461  ",
+            " ",
+            "90  ",
+            " ",
+            "99  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2009",
+            "297  ",
+            " ",
+            "85  ",
+            " ",
+            "115  ",
+            " ",
+            "33  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2009",
+            "308  ",
+            " ",
+            "145  ",
+            " ",
+            "108  ",
+            " ",
+            "51  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2009",
+            "300  ",
+            " ",
+            "215  ",
+            " ",
+            "118  ",
+            " ",
+            "85  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2009",
+            "261  ",
+            " ",
+            "98  ",
+            " ",
+            "149  ",
+            " ",
+            "56  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2009",
+            "81  ",
+            " ",
+            "69  ",
+            " ",
+            "114  ",
+            " ",
+            "97  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2009",
+            "166  ",
+            " ",
+            "77  ",
+            " ",
+            "91  ",
+            " ",
+            "42  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2009",
+            "347  ",
+            " ",
+            "242  ",
+            " ",
+            "118  ",
+            " ",
+            "82  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2009",
+            "454  ",
+            " ",
+            "143  ",
+            " ",
+            "146  ",
+            " ",
+            "46  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2009",
+            "239  ",
+            " ",
+            "199  ",
+            " ",
+            "176  ",
+            " ",
+            "147  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2009",
+            "273  ",
+            " ",
+            "138  ",
+            " ",
+            "85  ",
+            " ",
+            "43  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2009",
+            "151  ",
+            " ",
+            "77  ",
+            " ",
+            "85  ",
+            " ",
+            "44  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2009",
+            "329  ",
+            " ",
+            "250  ",
+            " ",
+            "136  ",
+            " ",
+            "103  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2009",
+            "344  ",
+            " ",
+            "576  ",
+            " ",
+            "239  ",
+            " ",
+            "400  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2009",
+            "313  ",
+            " ",
+            "113  ",
+            " ",
+            "106  ",
+            " ",
+            "38  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2009",
+            "284  ",
+            " ",
+            "65  ",
+            " ",
+            "145  ",
+            " ",
+            "33  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2009",
+            "250  ",
+            " ",
+            "338  ",
+            " ",
+            "191  ",
+            " ",
+            "258  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2009",
+            "205  ",
+            " ",
+            "138  ",
+            " ",
+            "183  ",
+            " ",
+            "123  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2009",
+            "364  ",
+            " ",
+            "132  ",
+            " ",
+            "174  ",
+            " ",
+            "63  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2009",
+            "180  ",
+            " ",
+            "100  ",
+            " ",
+            "139  ",
+            " ",
+            "77  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2009",
+            "380  ",
+            " ",
+            "1,649  ",
+            " ",
+            "810  ",
+            " ",
+            "3,514  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2009",
+            "161  ",
+            " ",
+            "74  ",
+            " ",
+            "163  ",
+            " ",
+            "75  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2009",
+            "256  ",
+            " ",
+            "952  ",
+            " ",
+            "727  ",
+            " ",
+            "2,705  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2009",
+            "155  ",
+            " ",
+            "935  ",
+            " ",
+            "466  ",
+            " ",
+            "2,809  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2009",
+            "77  ",
+            " ",
+            "283  ",
+            " ",
+            "407  ",
+            " ",
+            "1,497  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2009",
+            "271  ",
+            " ",
+            "981  ",
+            " ",
+            "192  ",
+            " ",
+            "695  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2009",
+            "211  ",
+            " ",
+            "518  ",
+            " ",
+            "258  ",
+            " ",
+            "634  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2009",
+            "179  ",
+            " ",
+            "401  ",
+            " ",
+            "165  ",
+            " ",
+            "371  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2009",
+            "354  ",
+            " ",
+            "216  ",
+            " ",
+            "161  ",
+            " ",
+            "98  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2009",
+            "67  ",
+            " ",
+            "120  ",
+            " ",
+            "101  ",
+            " ",
+            "180  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2009",
+            "190  ",
+            " ",
+            "428  ",
+            " ",
+            "101  ",
+            " ",
+            "227  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2009",
+            "60  ",
+            " ",
+            "43  ",
+            " ",
+            "82  ",
+            " ",
+            "59  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2009",
+            "315  ",
+            " ",
+            "149  ",
+            " ",
+            "122  ",
+            " ",
+            "58  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2009",
+            "346  ",
+            " ",
+            "476  ",
+            " ",
+            "229  ",
+            " ",
+            "315  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2009",
+            "331  ",
+            " ",
+            "231  ",
+            " ",
+            "203  ",
+            " ",
+            "142  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2009",
+            "90  ",
+            " ",
+            "52  ",
+            " ",
+            "90  ",
+            " ",
+            "52  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2009",
+            "138  ",
+            " ",
+            "64  ",
+            " ",
+            "81  ",
+            " ",
+            "38  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2009",
+            "319  ",
+            " ",
+            "224  ",
+            " ",
+            "133  ",
+            " ",
+            "93  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2009",
+            "544  ",
+            " ",
+            "727  ",
+            " ",
+            "135  ",
+            " ",
+            "181  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2009",
+            "91  ",
+            " ",
+            "85  ",
+            " ",
+            "109  ",
+            " ",
+            "102  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2009",
+            "130  ",
+            " ",
+            "183  ",
+            " ",
+            "75  ",
+            " ",
+            "105  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2009",
+            "139  ",
+            " ",
+            "121  ",
+            " ",
+            "109  ",
+            " ",
+            "95  ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2009",
+            "58  ",
+            " ",
+            "72  ",
+            " ",
+            "73  ",
+            " ",
+            "91  ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Youth Access to Alcohol",
+            "info_measure": "Number of Retail Outlets",
+            "info_how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for off-premise consumption",
+            "info_source": [
+              "New York State Liquor Authority"
+            ]
+          },
+          {
+            "info_name": "Youth Access to Alcohol",
+            "info_measure": "Number of Service Outlets",
+            "info_how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for on-premise consumption",
+            "info_source": [
+              "New York State Liquor Authority"
+            ]
+          },
+          {
+            "info_name": "Youth Access to Alcohol",
+            "info_measure": "Retail Outlet Density",
+            "info_how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for off-premise consumption divided by the population of youths ages 13 to 19 years, using NYC DOHMH intercensal estimates; expressed as retail outlets per 10,000 residents",
+            "info_source": [
+              "New York State Liquor Authority"
+            ]
+          },
+          {
+            "info_name": "Youth Access to Alcohol",
+            "info_measure": "Service Outlet Density",
+            "info_how_calculated": "Number of alcohol outlets with licenses allowing any alcohol to be purchased for on-premise consumption divided by the population of youths ages 13 to 19 years, using NYC DOHMH intercensal estimates; expressed as retail outlets per 10,000 residents",
+            "info_source": [
+              "New York State Liquor Authority"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

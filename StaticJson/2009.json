@@ -1,0 +1,197 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Drinking Water Quality",
+        "Measure": "Analyses Below Maximum Contaminant Levels (MCLs)",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Drinking Water Quality - Analyses Below Maximum Contaminant Levels (MCLs) 2007 to 2011",
+            "y_axis_title": "Analyses Below Maximum Contaminant Levels (MCLs) (percent)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Drinking Water Quality",
+                "info_measure": "Analyses Below Maximum Contaminant Levels (MCLs)",
+                "info_how_calculated": "The number of NYC drinking water analyses that are below the NYS maximum contaminant level (MCL) for 227 different contaminants tested throughout the year, divided by the total number of analyses performed throughout the year; expressed as a percent, with a maximum value of 100%. The NYC Department of Environmental Protection performs over 10,000 drinking water analyses monthly. ",
+                "info_source": "New York City Department of Environmental Protection (DEP) Drinking Water Supply and Quality Report"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "99.97",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "99.93",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "99.98",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "100",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "99.99",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Drinking Water Quality",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Analyses Below Maximum Contaminant Levels (MCLs), percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "100.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "100.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "100.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "99.9 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "100.0 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Drinking Water Quality",
+            "info_measure": "Analyses Below Maximum Contaminant Levels (MCLs)",
+            "info_how_calculated": "The number of NYC drinking water analyses that are below the NYS maximum contaminant level (MCL) for 227 different contaminants tested throughout the year, divided by the total number of analyses performed throughout the year; expressed as a percent, with a maximum value of 100%. The NYC Department of Environmental Protection performs over 10,000 drinking water analyses monthly. ",
+            "info_source": [
+              "New York City Department of Environmental Protection (DEP) Drinking Water Supply and Quality Report"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+

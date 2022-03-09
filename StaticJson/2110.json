@@ -1,0 +1,50 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "Boilers are a common source of PM2.5, which can harm health.",
+        "indicator_name": "Boiler Emissions- Total PM2.5 Emissions",
+        "Measure": "Number per km2",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Boiler Emissions- Total PM2.5 Emissions - Number per km2 2015 to 2015",
+            "y_axis_title": "Number per km2 (number)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Boiler Emissions- Total PM2.5 Emissions",
+                "info_measure": "Number per km2",
+                "info_how_calculated": "Boiler Emissions- Total PM2.5 Emissions per km2",
+                "info_source": "New York City Community Air Survey"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "0.5",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": []
+  }
+

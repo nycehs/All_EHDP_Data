@@ -1,0 +1,897 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Fine Particulate Matter (PM 2.5)",
+        "Measure": "Annual Average",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in Citywide Regulatory Monitoring: Fine Particulate Matter (PM <sub>2.5</sub>) - Annual Average 2001 to 2018",
+            "y_axis_title": "Annual Average (mcg per cubic meter)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Fine Particulate Matter (PM 2.5)",
+                "info_measure": "Annual Average",
+                "info_how_calculated": "This measure is calculated by averaging PM2.5 levels at each monitor, weighted by the number of samples in each quarter, then taking the weighted average of all monitors in the geographic area.",
+                "info_source": "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2001",
+                    "18.2",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "16.8",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "17.8",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "17",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "17.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "15.7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "15.8",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "15.5",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "14.9",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "13.4",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "12.1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "12.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "12.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "11.9",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "11",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "10.2",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "9.7",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "9.5",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Fine Particulate Matter (PM 2.5)",
+        "Measure": "Days Above Regulatory Standard",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "PM2.5",
+            "graph_title": "Trends in PM2.5 Air Quality Advisory Days in New York City 2003 to 2018",
+            "y_axis_title": "Days Above Standard",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Fine Particulate Matter (PM 2.5)",
+                "info_measure": "Days Above Regulatory Standard",
+                "info_how_calculated": "Number of days in the year for which values were reported higher than the U.S. standard (35 ug/m3) in the geographic area.",
+                "info_source": "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+              },
+              {
+                "info_name": "Fine Particulate Matter (PM 2.5)",
+                "info_measure": "Sensitive Groups",
+                "info_how_calculated": "The 98th percentile 24-hour value, in micrograms per cubic meter. This value is higher than 98 percent of 24-hour values for the year.",
+                "info_source": "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "PM 2.5 (Days Above Regulatory Standard)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2003",
+                    "3",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "0",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "0",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "0",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "0",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "0",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "PM 2.5 (Sensitive Groups)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2003",
+                    "14",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "6",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "7",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "14",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "5",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "3",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "2",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "1",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "1",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "0",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "0",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "0",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "1",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Fine Particulate Matter (PM 2.5)",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "98th Percentile, µg/m3",
+          "Days Above Regulatory Standard, number of days",
+          "Annual Average, mcg per cubic meter",
+          "Sensitive Groups, number of days"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "23  ",
+            "",
+            "0  ",
+            "",
+            "9.5 ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "22.9 ",
+            "",
+            "0  ",
+            "",
+            "9.7 ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "24.4 ",
+            "",
+            "0  ",
+            "",
+            "10.2 ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "26.7 ",
+            "",
+            "0  ",
+            "",
+            "11.0 ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "26.2 ",
+            "",
+            "0  ",
+            "",
+            "11.9 ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "26.1 ",
+            "",
+            "0  ",
+            "",
+            "12.4 ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "26.4 ",
+            "",
+            "0  ",
+            "",
+            "12.5 ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "28.2 ",
+            "",
+            "0  ",
+            "",
+            "12.1 ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "30.2 ",
+            "",
+            "0  ",
+            "",
+            "13.4 ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "33.8 ",
+            "",
+            "0  ",
+            "",
+            "14.9 ",
+            "",
+            "3  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "37.2 ",
+            "",
+            "0  ",
+            "",
+            "15.5 ",
+            "",
+            "5  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "39.5 ",
+            "",
+            "0  ",
+            "",
+            "15.8 ",
+            "",
+            "14  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "40.6 ",
+            "",
+            "1  ",
+            "",
+            "15.7 ",
+            "",
+            "7  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "43.2 ",
+            "",
+            "0  ",
+            "",
+            "17.1 ",
+            "",
+            "7  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "43.7 ",
+            "",
+            "0  ",
+            "",
+            "17.0 ",
+            "",
+            "6  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "44.5 ",
+            "",
+            "3  ",
+            "",
+            "17.8 ",
+            "",
+            "14  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "42.7 ",
+            "",
+            "16.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "43.8 ",
+            "",
+            "18.2 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Fine Particulate Matter (PM 2.5)",
+            "info_measure": "98th Percentile",
+            "info_how_calculated": "The 98th percentile 24-hour value, in micrograms per cubic meter. This value is higher than 98 percent of 24-hour values for the year.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          },
+          {
+            "info_name": "Fine Particulate Matter (PM 2.5)",
+            "info_measure": "Days Above Regulatory Standard",
+            "info_how_calculated": "Number of days in the year for which values were reported higher than the U.S. standard (35 ug/m3) in the geographic area.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          },
+          {
+            "info_name": "Fine Particulate Matter (PM 2.5)",
+            "info_measure": "Annual Average",
+            "info_how_calculated": "This measure is calculated by averaging PM2.5 levels at each monitor, weighted by the number of samples in each quarter, then taking the weighted average of all monitors in the geographic area.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          },
+          {
+            "info_name": "Fine Particulate Matter (PM 2.5)",
+            "info_measure": "Sensitive Groups",
+            "info_how_calculated": "The 98th percentile 24-hour value, in micrograms per cubic meter. This value is higher than 98 percent of 24-hour values for the year.",
+            "info_source": [
+              "United States Environmental Protection Agency (EPA) Air Quality System (AQS) Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
