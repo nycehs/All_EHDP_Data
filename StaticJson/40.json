@@ -32,24 +32,6 @@
                 "year": "2017",
                 "year_data": [
                   {
-                    "geo_entity_id": 502,
-                    "data_value": "4.8",
-                    "color": "ffffb2",
-                    "character_display": "*"
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "3.1",
-                    "color": "ffffb2",
-                    "character_display": "*"
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "1.9",
-                    "color": "ffffb2",
-                    "character_display": "*"
-                  },
-                  {
                     "geo_entity_id": 101,
                     "data_value": "16.9",
                     "color": "fd8e3f",
@@ -282,6 +264,24 @@
                     "data_value": "6.4",
                     "color": "ffffb2",
                     "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "4.8",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "3.1",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "1.9",
+                    "color": "ffffb2",
+                    "character_display": "*"
                   }
                 ]
               },
@@ -2093,8 +2093,8 @@
           }
         ],
         "unreliable_text": [
-          "* Estimate is based on small numbers so should be interpreted with caution.",
-          ""
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
         ]
       }
     ],
