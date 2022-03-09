@@ -12,7 +12,7 @@
               ""
             ],
             "compare_type": "Citywide",
-            "graph_title": "Trends in Cold Stress: Cold Stress Deaths - Number 2005 to 2016",
+            "graph_title": "Trends in Cold Stress: Cold Stress Deaths - Number 2005 to 2018",
             "y_axis_title": "Number ",
             "x_axis_title": "Year",
             "info": [
@@ -123,6 +123,22 @@
                     "2016",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2017",
+                    "11",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2018",
+                    "26",
+                    "",
+                    "2018",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -158,9 +174,19 @@
             "name": "Years",
             "children": [
               {
-                "name": "2016",
+                "name": "2018",
                 "col": 3,
                 "chk": true
+              },
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
               },
               {
                 "name": "2015",
@@ -228,6 +254,22 @@
           "Number"
         ],
         "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2018",
+            "26  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "11  ",
+            ""
+          ],
           [
             "10",
             "Citywide",
@@ -341,5 +383,4 @@
       }
     ]
   }
-
 

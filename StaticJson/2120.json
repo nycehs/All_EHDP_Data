@@ -3,7 +3,7 @@
     "map_node": [
       {
         "indicator_name": " PM<sub>2.5</sub>-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
-        "indicator_description": "PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.",
+        "indicator_description": "<p>PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.</p>",
         "geography": "Neighborhood (UHF 42)",
         "dataset": [
           {
@@ -539,6 +539,42 @@
                 "year": "2012-2014",
                 "year_data": [
                   {
+                    "geo_entity_id": 409,
+                    "data_value": "11.2",
+                    "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "13.9",
+                    "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "12.5",
+                    "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "12.7",
+                    "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "14.0",
+                    "color": "74c476",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "11.4",
+                    "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 101,
                     "data_value": "14.0",
                     "color": "74c476",
@@ -752,42 +788,6 @@
                     "geo_entity_id": 408,
                     "data_value": "14.4",
                     "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "11.2",
-                    "color": "bae4b3",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "13.9",
-                    "color": "bae4b3",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "12.5",
-                    "color": "bae4b3",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "12.7",
-                    "color": "bae4b3",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "14.0",
-                    "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "11.4",
-                    "color": "bae4b3",
                     "character_display": ""
                   },
                   {
@@ -1047,42 +1047,6 @@
               {
                 "year": "2009-2011",
                 "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "18.3",
-                    "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "16.2",
-                    "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "18.8",
-                    "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "19.3",
-                    "color": "74c476",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "21.6",
-                    "color": "238b45",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "24.1",
-                    "color": "238b45",
-                    "character_display": ""
-                  },
                   {
                     "geo_entity_id": 107,
                     "data_value": "25",
@@ -1477,6 +1441,42 @@
                     "geo_entity_id": 402,
                     "data_value": "13.2",
                     "color": "bae4b3",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "18.3",
+                    "color": "74c476",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "16.2",
+                    "color": "74c476",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "18.8",
+                    "color": "74c476",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "19.3",
+                    "color": "74c476",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "21.6",
+                    "color": "238b45",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "24.1",
+                    "color": "238b45",
                     "character_display": ""
                   },
                   {
@@ -2599,6 +2599,42 @@
                 "year": "2012-2014",
                 "year_data": [
                   {
+                    "geo_entity_id": 409,
+                    "data_value": "11.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "7.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "3.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "7.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "6.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "11.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 101,
                     "data_value": "6.5",
                     "color": "ffffb2",
@@ -2812,42 +2848,6 @@
                     "geo_entity_id": 408,
                     "data_value": "19.7",
                     "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "11.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "7.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "3.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "7.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "6.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "11.1",
-                    "color": "fecd5c",
                     "character_display": ""
                   },
                   {
@@ -3108,6 +3108,114 @@
                 "year": "2009-2011",
                 "year_data": [
                   {
+                    "geo_entity_id": 403,
+                    "data_value": "19.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "18.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "6.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "23.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "24.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "14.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "10.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "4.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "9.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "7.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "14.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "8.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "14.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "17.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "25",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "16.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "18.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 101,
                     "data_value": "8.5",
                     "color": "ffffb2",
@@ -3285,114 +3393,6 @@
                     "geo_entity_id": 402,
                     "data_value": "26.8",
                     "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "19.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "18.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "6.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "23.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "24.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "14.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "10.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "4.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "9.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "7.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "14.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "8.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "14.8",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "17.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "25",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "16.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "18.6",
-                    "color": "fd8d3c",
                     "character_display": ""
                   },
                   {
@@ -4135,8 +4135,8 @@
     "fileName": "UHF42.json",
     "time_trend_data": [
       {
-        "indicator_description": "PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.",
-        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+        "indicator_description": "<p>PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.</p>",
+        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
         "Measure": "Estimated Annual Rate",
         "Compare": [
           {
@@ -4149,7 +4149,7 @@
             "x_axis_title": "Year",
             "info": [
               {
-                "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+                "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
                 "info_measure": "Estimated Annual Rate",
                 "info_how_calculated": "<p>Estimate is based on the number of hospitalizations for cardiovascular causes associated with the difference in air quality for indicator years relative to natural background (modeled air quality levels under no man-made air pollution emissions). Estimate is calculated using the acute risk of hospitalizations for all cardiovascular causes from the Ito K et al 2010 study conducted on New York City residents above 40 years of age. Neighborhood estimates expressed as annual cases per 100,000 residents over 40 years of age.</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS); US Census, US EPA Air Quality System; Ito K et al (2011) Environ Hlth Persp, 119(4):467-473"
@@ -4389,8 +4389,8 @@
         ]
       },
       {
-        "indicator_description": "PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.",
-        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+        "indicator_description": "<p>PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.</p>",
+        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
         "Measure": "Estimated Annual Number",
         "Compare": [
           {
@@ -4403,7 +4403,7 @@
             "x_axis_title": "Year",
             "info": [
               {
-                "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+                "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
                 "info_measure": "Estimated Annual Number",
                 "info_how_calculated": "<p><span>Estimate is based on the number of hospitalizations for cardiovascular causes associated with the difference in air quality for indicator years relative to natural background (modeled air quality levels under no man-made air pollution emissions). Estimate is calculated using the acute risk of hospitalizations for all cardiovascular causes from the Ito K et al 2010 study conducted on New York City residents above 40 years of age</span></p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS); US Census, US EPA Air Quality System; Ito K et al (2011) Environ Hlth Persp, 119(4):467-473"
@@ -4658,7 +4658,7 @@
                 "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
                 "info": [
                   {
-                    "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+                    "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
                     "info_measure": "Estimated Annual Rate",
                     "info_how_calculated": "<p>Estimate is based on the number of hospitalizations for cardiovascular causes associated with the difference in air quality for indicator years relative to natural background (modeled air quality levels under no man-made air pollution emissions). Estimate is calculated using the acute risk of hospitalizations for all cardiovascular causes from the Ito K et al 2010 study conducted on New York City residents above 40 years of age. Neighborhood estimates expressed as annual cases per 100,000 residents over 40 years of age.</p>",
                     "info_source": "US EPA Air Quality System; Ito K et al (2011) Environ Hlth Persp, 119(4):467-473,New York State Statewide Planning and Research Cooperative System (SPARCS); US Census"
@@ -4732,8 +4732,8 @@
     "link_data_node": [],
     "summarize_data": [
       {
-        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
-        "indicator_description": "PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.",
+        "indicator_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
+        "indicator_description": "<p>PM2.5-attributable cardiovascular hospitalizations represent part of the health burden imposed by fine particle air pollution.</p>",
         "summary_opts": [
           {
             "name": "Geographies",
@@ -7035,7 +7035,7 @@
         ],
         "info": [
           {
-            "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+            "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
             "info_measure": "Estimated Annual Number",
             "info_how_calculated": "<p><span>Estimate is based on the number of hospitalizations for cardiovascular causes associated with the difference in air quality for indicator years relative to natural background (modeled air quality levels under no man-made air pollution emissions). Estimate is calculated using the acute risk of hospitalizations for all cardiovascular causes from the Ito K et al 2010 study conducted on New York City residents above 40 years of age</span></p>",
             "info_source": [
@@ -7043,7 +7043,7 @@
             ]
           },
           {
-            "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older) ",
+            "info_name": "PM2.5-Attributable Cardiovascular Hospitalizations (Adults 40 Yrs and Older)",
             "info_measure": "Estimated Annual Rate",
             "info_how_calculated": "<p>Estimate is based on the number of hospitalizations for cardiovascular causes associated with the difference in air quality for indicator years relative to natural background (modeled air quality levels under no man-made air pollution emissions). Estimate is calculated using the acute risk of hospitalizations for all cardiovascular causes from the Ito K et al 2010 study conducted on New York City residents above 40 years of age. Neighborhood estimates expressed as annual cases per 100,000 residents over 40 years of age.</p>",
             "info_source": [
@@ -7054,5 +7054,4 @@
       }
     ]
   }
-
 

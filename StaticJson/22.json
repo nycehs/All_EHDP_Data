@@ -2762,18 +2762,18 @@
             ]
           },
           {
-            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)",
+            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)",
             "graph_title": "Neighborhood Asthma triggers: Children under 6 years with elevated blood lead levels (BLL) by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
-            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate  BLL>=5 µg/dL (per 1,000 tested) 2014",
+            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate BLL >=5 µg/dL (per 1,000 tested) 2014",
             "info": [
               {
                 "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
                 "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
                 "y_axis_measure": "Percent",
                 "info_name": "Children under 6 years with elevated blood lead levels (BLL)",
-                "info_measure": "Rate  BLL>=5 µg/dL",
+                "info_measure": "Rate BLL >=5 µg/dL",
                 "info_how_calculated": "Number of children less than 6 years old tested in a given year with blood lead levels of 5 mcg/dL or greater, divided by the total number of children less than 6 years old who were tested for lead poisoning in a given year; expressed as cases per 1,000 tested. The numbers in this table include all children tested within a given calendar year, regardless of whether they were tested in previous years with the same or different blood lead levels. While children can receive more than one test during the calendar year, children are only counted once using the highest confirmed blood lead level during the calendar year. If the child does not have a confirmed test in a given year, the child’s blood lead level is based on the highest capillary or unknown test type. This measure differs from the rate of children newly identified with blood lead levels at or above a certain level reported by the Health Department in other publications. <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/EPHTPDF/Childhood_Lead_Exposure_Definitions_June_2016.pdf\" target=\"_blank\">Read more </a>about different measures used by the Health Department for surveillance of childhood lead poisoning.",
                 "info_source": "New York City Healthy Homes Program",
                 "info_year": "2014"
@@ -2781,7 +2781,7 @@
               {
                 "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
                 "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
                 "y_axis_measure": "Percent",
                 "info_name": "Adults Reporting Cockroaches in the Home",
                 "info_measure": "Percent",
@@ -4402,24 +4402,35 @@
             ]
           },
           {
-            "compare_type": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) (Liquid Products)",
-            "graph_title": "Neighborhood Asthma triggers: Insecticides (Pyrethroid/Pyrethrin) by Adults reporting cockroaches in the home",
+            "compare_type": "Commercial Use of Insecticides (Liquid Products)",
+            "graph_title": "Neighborhood Asthma triggers: Insecticides by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
-            "x_axis_title": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) - Liquid Products (gallons) 2012",
+            "x_axis_title": "Commercial Use of Insecticides - Liquid Products (gallons) 2012",
             "info": [
               {
-                "x_axis_title_reg": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "x_axis_title_reg": "Commercial Use of Insecticides",
                 "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
                 "x_axis_measure": "Liquid Products",
                 "y_axis_measure": "Percent",
-                "info_name": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "info_name": "Commercial Use of Insecticides",
                 "info_measure": "Liquid Products",
-                "info_how_calculated": "Sum of gallons of liquid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, or termiticide; and containing active ingredient of the chemical class pyrethrin or pyrethroid.",
+                "info_how_calculated": "Sum of gallons of liquid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, mechanical, or termiticide.",
                 "info_source": "New York State Pesticide Sales and Use Registry (PSUR)",
                 "info_year": "2012"
               },
               {
-                "x_axis_title_reg": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "x_axis_title_reg": "Commercial Use of Insecticides",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Solid Products",
+                "y_axis_measure": "Percent",
+                "info_name": "Commercial Use of Insecticides",
+                "info_measure": "Solid Products",
+                "info_how_calculated": "Sum of pounds of solid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, \"mechanical\", or termiticide.",
+                "info_source": "New York State Pesticide Sales and Use Registry (PSUR)",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Commercial Use of Insecticides",
                 "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
                 "x_axis_measure": "Liquid Products",
                 "y_axis_measure": "Percent",
@@ -4432,7 +4443,7 @@
             ],
             "link_data": [
               [
-                "605",
+                "898",
                 "27.8",
                 "Kingsbridge - Riverdale",
                 "Bronx",
@@ -4441,7 +4452,7 @@
                 ""
               ],
               [
-                "592",
+                "673",
                 "26",
                 "Northeast Bronx",
                 "Bronx",
@@ -4450,7 +4461,7 @@
                 ""
               ],
               [
-                "1592",
+                "2154",
                 "40.8",
                 "Fordham - Bronx Pk",
                 "Bronx",
@@ -4459,7 +4470,7 @@
                 ""
               ],
               [
-                "1496",
+                "1845",
                 "27.9",
                 "Pelham - Throgs Neck",
                 "Bronx",
@@ -4468,7 +4479,7 @@
                 ""
               ],
               [
-                "915",
+                "936",
                 "22.8",
                 "Greenpoint",
                 "Brooklyn",
@@ -4477,7 +4488,7 @@
                 ""
               ],
               [
-                "1337",
+                "1639",
                 "28.9",
                 "Downtown - Heights - Slope",
                 "Brooklyn",
@@ -4486,7 +4497,7 @@
                 ""
               ],
               [
-                "1588",
+                "1759",
                 "32.3",
                 "Bedford Stuyvesant - Crown Heights",
                 "Brooklyn",
@@ -4495,7 +4506,7 @@
                 ""
               ],
               [
-                "500",
+                "792",
                 "37",
                 "East New York",
                 "Brooklyn",
@@ -4504,7 +4515,7 @@
                 ""
               ],
               [
-                "283",
+                "316",
                 "40",
                 "Sunset Park",
                 "Brooklyn",
@@ -4513,7 +4524,7 @@
                 ""
               ],
               [
-                "3515",
+                "3764",
                 "34.7",
                 "Borough Park",
                 "Brooklyn",
@@ -4522,7 +4533,7 @@
                 ""
               ],
               [
-                "1850",
+                "2050",
                 "33.3",
                 "East Flatbush - Flatbush",
                 "Brooklyn",
@@ -4531,7 +4542,7 @@
                 ""
               ],
               [
-                "520",
+                "631",
                 "24.5",
                 "Canarsie - Flatlands",
                 "Brooklyn",
@@ -4540,7 +4551,7 @@
                 ""
               ],
               [
-                "810",
+                "976",
                 "20.5",
                 "Bensonhurst - Bay Ridge",
                 "Brooklyn",
@@ -4549,7 +4560,7 @@
                 ""
               ],
               [
-                "1150",
+                "1363",
                 "35.6",
                 "Coney Island - Sheepshead Bay",
                 "Brooklyn",
@@ -4558,7 +4569,7 @@
                 ""
               ],
               [
-                "1125",
+                "1313",
                 "43.6",
                 "Williamsburg - Bushwick",
                 "Brooklyn",
@@ -4567,7 +4578,7 @@
                 ""
               ],
               [
-                "1890",
+                "1980",
                 "49",
                 "Washington Heights",
                 "Manhattan",
@@ -4576,7 +4587,7 @@
                 ""
               ],
               [
-                "3574",
+                "3669",
                 "41.5",
                 "Central Harlem - Morningside Heights",
                 "Manhattan",
@@ -4585,7 +4596,7 @@
                 ""
               ],
               [
-                "551",
+                "785",
                 "39.2",
                 "East Harlem",
                 "Manhattan",
@@ -4594,7 +4605,7 @@
                 ""
               ],
               [
-                "3032",
+                "3349",
                 "21.4",
                 "Upper West Side",
                 "Manhattan",
@@ -4603,7 +4614,7 @@
                 ""
               ],
               [
-                "10501",
+                "10865",
                 "33.1",
                 "Long Island City - Astoria",
                 "Queens",
@@ -4612,7 +4623,7 @@
                 ""
               ],
               [
-                "2667",
+                "3216",
                 "41.7",
                 "West Queens",
                 "Queens",
@@ -4621,7 +4632,7 @@
                 ""
               ],
               [
-                "1444",
+                "3259",
                 "28.4",
                 "Flushing - Clearview",
                 "Queens",
@@ -4630,7 +4641,7 @@
                 ""
               ],
               [
-                "1185",
+                "2678",
                 "23.1",
                 "Ridgewood - Forest Hills",
                 "Queens",
@@ -4639,7 +4650,7 @@
                 ""
               ],
               [
-                "555",
+                "1728",
                 "20.2",
                 "Southwest Queens",
                 "Queens",
@@ -4648,7 +4659,7 @@
                 ""
               ],
               [
-                "1195",
+                "2319",
                 "18.2",
                 "Jamaica",
                 "Queens",
@@ -4657,7 +4668,7 @@
                 ""
               ],
               [
-                "631",
+                "1028",
                 "11.9",
                 "Southeast Queens",
                 "Queens",
@@ -4666,7 +4677,7 @@
                 ""
               ],
               [
-                "971",
+                "1931",
                 "23.7",
                 "Rockaways",
                 "Queens",
@@ -4675,7 +4686,7 @@
                 ""
               ],
               [
-                "3130",
+                "3588",
                 "17.5",
                 "Upper East Side-Gramercy",
                 "Manhattan",
@@ -4684,7 +4695,7 @@
                 ""
               ],
               [
-                "3615",
+                "4322",
                 "21.8",
                 "Chelsea-Village  ",
                 "Manhattan",
@@ -4693,7 +4704,7 @@
                 ""
               ],
               [
-                "2065",
+                "2340",
                 "25.1",
                 "Union Square-Lower Manhattan",
                 "Manhattan",
@@ -4702,7 +4713,7 @@
                 ""
               ],
               [
-                "1318",
+                "4904",
                 "16.8",
                 "Bayside Little Neck-Fresh Meadows",
                 "Queens",
@@ -4711,7 +4722,7 @@
                 ""
               ],
               [
-                "664",
+                "1143",
                 "16.7",
                 "Northern SI",
                 "Staten Island",
@@ -4720,7 +4731,7 @@
                 ""
               ],
               [
-                "776",
+                "1529",
                 "1",
                 "Southern SI",
                 "Staten Island",
@@ -4729,7 +4740,7 @@
                 "*"
               ],
               [
-                "4463",
+                "5773",
                 "41.3",
                 "South Bronx",
                 "Bronx",
@@ -5150,10 +5161,348 @@
             ]
           },
           {
-            "compare_type": "Commercial Use of Insecticides (Liquid Products)",
+            "compare_type": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) (Liquid Products)",
+            "graph_title": "Neighborhood Asthma triggers: Insecticides (Pyrethroid/Pyrethrin) by Adults reporting cockroaches in the home",
+            "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
+            "x_axis_title": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) - Liquid Products (gallons) 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Liquid Products",
+                "y_axis_measure": "Percent",
+                "info_name": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "info_measure": "Liquid Products",
+                "info_how_calculated": "Sum of gallons of liquid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, or termiticide; and containing active ingredient of the chemical class pyrethrin or pyrethroid.",
+                "info_source": "New York State Pesticide Sales and Use Registry (PSUR)",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin)",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Liquid Products",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Cockroaches in the Home",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              }
+            ],
+            "link_data": [
+              [
+                "605",
+                "27.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "592",
+                "26",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1592",
+                "40.8",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1496",
+                "27.9",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "915",
+                "22.8",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1337",
+                "28.9",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1588",
+                "32.3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "500",
+                "37",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "283",
+                "40",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3515",
+                "34.7",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1850",
+                "33.3",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "520",
+                "24.5",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "810",
+                "20.5",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1150",
+                "35.6",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1125",
+                "43.6",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1890",
+                "49",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3574",
+                "41.5",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "551",
+                "39.2",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3032",
+                "21.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10501",
+                "33.1",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2667",
+                "41.7",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1444",
+                "28.4",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1185",
+                "23.1",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "555",
+                "20.2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1195",
+                "18.2",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "631",
+                "11.9",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "971",
+                "23.7",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3130",
+                "17.5",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3615",
+                "21.8",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2065",
+                "25.1",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1318",
+                "16.8",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "664",
+                "16.7",
+                "Northern SI",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "776",
+                "1",
+                "Southern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "4463",
+                "41.3",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Commercial Use of Insecticides (Solid Products)",
             "graph_title": "Neighborhood Asthma triggers: Insecticides by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
-            "x_axis_title": "Commercial Use of Insecticides - Liquid Products (gallons) 2012",
+            "x_axis_title": "Commercial Use of Insecticides - Solid Products (pounds) 2012",
             "info": [
               {
                 "x_axis_title_reg": "Commercial Use of Insecticides",
@@ -5191,7 +5540,7 @@
             ],
             "link_data": [
               [
-                "898",
+                "2421",
                 "27.8",
                 "Kingsbridge - Riverdale",
                 "Bronx",
@@ -5200,7 +5549,7 @@
                 ""
               ],
               [
-                "673",
+                "2799",
                 "26",
                 "Northeast Bronx",
                 "Bronx",
@@ -5209,7 +5558,7 @@
                 ""
               ],
               [
-                "2154",
+                "5501",
                 "40.8",
                 "Fordham - Bronx Pk",
                 "Bronx",
@@ -5218,7 +5567,7 @@
                 ""
               ],
               [
-                "1845",
+                "5901",
                 "27.9",
                 "Pelham - Throgs Neck",
                 "Bronx",
@@ -5227,7 +5576,7 @@
                 ""
               ],
               [
-                "936",
+                "1935",
                 "22.8",
                 "Greenpoint",
                 "Brooklyn",
@@ -5236,7 +5585,7 @@
                 ""
               ],
               [
-                "1639",
+                "4958",
                 "28.9",
                 "Downtown - Heights - Slope",
                 "Brooklyn",
@@ -5245,7 +5594,7 @@
                 ""
               ],
               [
-                "1759",
+                "2650",
                 "32.3",
                 "Bedford Stuyvesant - Crown Heights",
                 "Brooklyn",
@@ -5254,7 +5603,7 @@
                 ""
               ],
               [
-                "792",
+                "1319",
                 "37",
                 "East New York",
                 "Brooklyn",
@@ -5263,7 +5612,7 @@
                 ""
               ],
               [
-                "316",
+                "3713",
                 "40",
                 "Sunset Park",
                 "Brooklyn",
@@ -5272,7 +5621,7 @@
                 ""
               ],
               [
-                "3764",
+                "3705",
                 "34.7",
                 "Borough Park",
                 "Brooklyn",
@@ -5281,7 +5630,7 @@
                 ""
               ],
               [
-                "2050",
+                "3246",
                 "33.3",
                 "East Flatbush - Flatbush",
                 "Brooklyn",
@@ -5290,7 +5639,7 @@
                 ""
               ],
               [
-                "631",
+                "1519",
                 "24.5",
                 "Canarsie - Flatlands",
                 "Brooklyn",
@@ -5299,7 +5648,7 @@
                 ""
               ],
               [
-                "976",
+                "1754",
                 "20.5",
                 "Bensonhurst - Bay Ridge",
                 "Brooklyn",
@@ -5308,7 +5657,7 @@
                 ""
               ],
               [
-                "1363",
+                "3621",
                 "35.6",
                 "Coney Island - Sheepshead Bay",
                 "Brooklyn",
@@ -5317,7 +5666,7 @@
                 ""
               ],
               [
-                "1313",
+                "3109",
                 "43.6",
                 "Williamsburg - Bushwick",
                 "Brooklyn",
@@ -5326,7 +5675,7 @@
                 ""
               ],
               [
-                "1980",
+                "4284",
                 "49",
                 "Washington Heights",
                 "Manhattan",
@@ -5335,7 +5684,7 @@
                 ""
               ],
               [
-                "3669",
+                "4079",
                 "41.5",
                 "Central Harlem - Morningside Heights",
                 "Manhattan",
@@ -5344,7 +5693,7 @@
                 ""
               ],
               [
-                "785",
+                "1507",
                 "39.2",
                 "East Harlem",
                 "Manhattan",
@@ -5353,7 +5702,7 @@
                 ""
               ],
               [
-                "3349",
+                "7404",
                 "21.4",
                 "Upper West Side",
                 "Manhattan",
@@ -5362,7 +5711,7 @@
                 ""
               ],
               [
-                "10865",
+                "3022",
                 "33.1",
                 "Long Island City - Astoria",
                 "Queens",
@@ -5371,7 +5720,7 @@
                 ""
               ],
               [
-                "3216",
+                "5088",
                 "41.7",
                 "West Queens",
                 "Queens",
@@ -5380,7 +5729,7 @@
                 ""
               ],
               [
-                "3259",
+                "6590",
                 "28.4",
                 "Flushing - Clearview",
                 "Queens",
@@ -5389,7 +5738,7 @@
                 ""
               ],
               [
-                "2678",
+                "3755",
                 "23.1",
                 "Ridgewood - Forest Hills",
                 "Queens",
@@ -5398,7 +5747,7 @@
                 ""
               ],
               [
-                "1728",
+                "3014",
                 "20.2",
                 "Southwest Queens",
                 "Queens",
@@ -5407,7 +5756,7 @@
                 ""
               ],
               [
-                "2319",
+                "4170",
                 "18.2",
                 "Jamaica",
                 "Queens",
@@ -5416,7 +5765,7 @@
                 ""
               ],
               [
-                "1028",
+                "12008",
                 "11.9",
                 "Southeast Queens",
                 "Queens",
@@ -5425,7 +5774,7 @@
                 ""
               ],
               [
-                "1931",
+                "5846",
                 "23.7",
                 "Rockaways",
                 "Queens",
@@ -5434,7 +5783,7 @@
                 ""
               ],
               [
-                "3588",
+                "17705",
                 "17.5",
                 "Upper East Side-Gramercy",
                 "Manhattan",
@@ -5443,7 +5792,7 @@
                 ""
               ],
               [
-                "4322",
+                "18596",
                 "21.8",
                 "Chelsea-Village  ",
                 "Manhattan",
@@ -5452,7 +5801,7 @@
                 ""
               ],
               [
-                "2340",
+                "8516",
                 "25.1",
                 "Union Square-Lower Manhattan",
                 "Manhattan",
@@ -5461,7 +5810,7 @@
                 ""
               ],
               [
-                "4904",
+                "10413",
                 "16.8",
                 "Bayside Little Neck-Fresh Meadows",
                 "Queens",
@@ -5470,7 +5819,7 @@
                 ""
               ],
               [
-                "1143",
+                "6434",
                 "16.7",
                 "Northern SI",
                 "Staten Island",
@@ -5479,7 +5828,7 @@
                 ""
               ],
               [
-                "1529",
+                "37699",
                 "1",
                 "Southern SI",
                 "Staten Island",
@@ -5488,414 +5837,13 @@
                 "*"
               ],
               [
-                "5773",
+                "7826",
                 "41.3",
                 "South Bronx",
                 "Bronx",
                 "",
                 ",",
                 ""
-              ]
-            ]
-          },
-          {
-            "compare_type": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) (Estimated Annual Rate)",
-            "graph_title": "Neighborhood Asthma triggers: Children ages 0 to 4 by Adults reporting cockroaches in the home",
-            "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
-            "x_axis_title": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
-            "info": [
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "info_measure": "Estimated Annual Rate",
-                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident children up to 4 years old, divided by the population of children up to 4 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2012"
-              },
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Adults Reporting Cockroaches in the Home",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2012"
-              }
-            ],
-            "link_data": [
-              [
-                "65.2",
-                "27.8",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "135.9",
-                "26",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "131.6",
-                "40.8",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "153.9",
-                "27.9",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "142.6",
-                "41.3",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "164.5",
-                "41.3",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "203.3",
-                "41.3",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.5",
-                "22.8",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "59.8",
-                "28.9",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "123.1",
-                "32.3",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "113",
-                "37",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.3",
-                "40",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.2",
-                "34.7",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "106.3",
-                "33.3",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "79.2",
-                "24.5",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18.8",
-                "20.5",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.2",
-                "35.6",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "99.7",
-                "43.6",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "56.9",
-                "49",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "145.2",
-                "41.5",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "133.3",
-                "39.2",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.3",
-                "21.4",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.7",
-                "17.5",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.9",
-                "21.8",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.5",
-                "17.5",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.1",
-                "21.8",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "56.4",
-                "25.1",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "31.3",
-                "33.1",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "43.1",
-                "41.7",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.5",
-                "28.4",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "43.2",
-                "16.8",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "46.9",
-                "23.1",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.5",
-                "16.8",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "79.1",
-                "20.2",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82.7",
-                "18.2",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "78.4",
-                "11.9",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "45.4",
-                "23.7",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.8",
-                "16.7",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.2",
-                "16.7",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.1",
-                "1",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "14.6",
-                "1",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
               ]
             ]
           },
@@ -6310,355 +6258,6 @@
             ]
           },
           {
-            "compare_type": "Commercial Use of Insecticides (Solid Products)",
-            "graph_title": "Neighborhood Asthma triggers: Insecticides by Adults reporting cockroaches in the home",
-            "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
-            "x_axis_title": "Commercial Use of Insecticides - Solid Products (pounds) 2012",
-            "info": [
-              {
-                "x_axis_title_reg": "Commercial Use of Insecticides",
-                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Liquid Products",
-                "y_axis_measure": "Percent",
-                "info_name": "Commercial Use of Insecticides",
-                "info_measure": "Liquid Products",
-                "info_how_calculated": "Sum of gallons of liquid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, mechanical, or termiticide.",
-                "info_source": "New York State Pesticide Sales and Use Registry (PSUR)",
-                "info_year": "2012"
-              },
-              {
-                "x_axis_title_reg": "Commercial Use of Insecticides",
-                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Solid Products",
-                "y_axis_measure": "Percent",
-                "info_name": "Commercial Use of Insecticides",
-                "info_measure": "Solid Products",
-                "info_how_calculated": "Sum of pounds of solid pesticide applications that meet the following qualifications: classified as insect growth regulator, insecticide, miticide, \"mechanical\", or termiticide.",
-                "info_source": "New York State Pesticide Sales and Use Registry (PSUR)",
-                "info_year": "2012"
-              },
-              {
-                "x_axis_title_reg": "Commercial Use of Insecticides",
-                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "x_axis_measure": "Liquid Products",
-                "y_axis_measure": "Percent",
-                "info_name": "Adults Reporting Cockroaches in the Home",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2012"
-              }
-            ],
-            "link_data": [
-              [
-                "2421",
-                "27.8",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "2799",
-                "26",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5501",
-                "40.8",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5901",
-                "27.9",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1935",
-                "22.8",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4958",
-                "28.9",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "2650",
-                "32.3",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1319",
-                "37",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3713",
-                "40",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3705",
-                "34.7",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3246",
-                "33.3",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1519",
-                "24.5",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1754",
-                "20.5",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3621",
-                "35.6",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3109",
-                "43.6",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4284",
-                "49",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4079",
-                "41.5",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1507",
-                "39.2",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7404",
-                "21.4",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3022",
-                "33.1",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5088",
-                "41.7",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "6590",
-                "28.4",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3755",
-                "23.1",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3014",
-                "20.2",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4170",
-                "18.2",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12008",
-                "11.9",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5846",
-                "23.7",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17705",
-                "17.5",
-                "Upper East Side-Gramercy",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18596",
-                "21.8",
-                "Chelsea-Village  ",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8516",
-                "25.1",
-                "Union Square-Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "10413",
-                "16.8",
-                "Bayside Little Neck-Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "6434",
-                "16.7",
-                "Northern SI",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37699",
-                "1",
-                "Southern SI",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "7826",
-                "41.3",
-                "South Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Adults with Asthma in the Past 12 Months (Percent)",
             "graph_title": "Neighborhood Asthma triggers: Adults with asthma in the past 12 months by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
@@ -7017,27 +6616,27 @@
             ]
           },
           {
-            "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)",
-            "graph_title": "Neighborhood Asthma triggers: Adults reporting cockroaches in the home by Adults",
-            "y_axis_title": "Asthma Emergency Department Visits (Adults) - Age-Adjusted Rate (per 10,000 residents) 2012",
-            "x_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
+            "compare_type": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) (Estimated Annual Rate)",
+            "graph_title": "Neighborhood Asthma triggers: Children ages 0 to 4 by Adults reporting cockroaches in the home",
+            "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
+            "x_axis_title": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
             "info": [
               {
-                "x_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "y_axis_title_reg": "Asthma Emergency Department Visits (Adults)",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Age-Adjusted Rate",
-                "info_name": "Asthma Emergency Department Visits (Adults)",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of asthma-related emergency department (ED) visits among NYC adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>&nbsp;An ED visit is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident children up to 4 years old, divided by the population of children up to 4 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
                 "info_year": "2012"
               },
               {
-                "x_axis_title_reg": "Adults Reporting Cockroaches in the Home",
-                "y_axis_title_reg": "Asthma Emergency Department Visits (Adults)",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Age-Adjusted Rate",
+                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
                 "info_name": "Adults Reporting Cockroaches in the Home",
                 "info_measure": "Percent",
                 "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
@@ -7047,8 +6646,8 @@
             ],
             "link_data": [
               [
+                "65.2",
                 "27.8",
-                "73.6",
                 "Kingsbridge - Riverdale",
                 "Bronx",
                 "",
@@ -7056,8 +6655,8 @@
                 ""
               ],
               [
+                "135.9",
                 "26",
-                "137.6",
                 "Northeast Bronx",
                 "Bronx",
                 "",
@@ -7065,8 +6664,8 @@
                 ""
               ],
               [
+                "131.6",
                 "40.8",
-                "199.4",
                 "Fordham - Bronx Pk",
                 "Bronx",
                 "",
@@ -7074,8 +6673,8 @@
                 ""
               ],
               [
+                "153.9",
                 "27.9",
-                "162.3",
                 "Pelham - Throgs Neck",
                 "Bronx",
                 "",
@@ -7083,8 +6682,8 @@
                 ""
               ],
               [
+                "142.6",
                 "41.3",
-                "296.3",
                 "Crotona -Tremont",
                 "Bronx",
                 "",
@@ -7092,8 +6691,8 @@
                 ""
               ],
               [
+                "164.5",
                 "41.3",
-                "289.1",
                 "High Bridge - Morrisania",
                 "Bronx",
                 "",
@@ -7101,8 +6700,8 @@
                 ""
               ],
               [
+                "203.3",
                 "41.3",
-                "323.8",
                 "Hunts Point - Mott Haven",
                 "Bronx",
                 "",
@@ -7110,8 +6709,8 @@
                 ""
               ],
               [
+                "15.5",
                 "22.8",
-                "80.8",
                 "Greenpoint",
                 "Brooklyn",
                 "",
@@ -7119,8 +6718,8 @@
                 ""
               ],
               [
+                "59.8",
                 "28.9",
-                "96.6",
                 "Downtown - Heights - Slope",
                 "Brooklyn",
                 "",
@@ -7128,8 +6727,8 @@
                 ""
               ],
               [
+                "123.1",
                 "32.3",
-                "239.6",
                 "Bedford Stuyvesant - Crown Heights",
                 "Brooklyn",
                 "",
@@ -7137,8 +6736,8 @@
                 ""
               ],
               [
+                "113",
                 "37",
-                "229.2",
                 "East New York",
                 "Brooklyn",
                 "",
@@ -7146,8 +6745,8 @@
                 ""
               ],
               [
+                "26.3",
                 "40",
-                "89.8",
                 "Sunset Park",
                 "Brooklyn",
                 "",
@@ -7155,8 +6754,8 @@
                 ""
               ],
               [
+                "15.2",
                 "34.7",
-                "38.9",
                 "Borough Park",
                 "Brooklyn",
                 "",
@@ -7164,8 +6763,8 @@
                 ""
               ],
               [
+                "106.3",
                 "33.3",
-                "146.6",
                 "East Flatbush - Flatbush",
                 "Brooklyn",
                 "",
@@ -7173,8 +6772,8 @@
                 ""
               ],
               [
+                "79.2",
                 "24.5",
-                "104",
                 "Canarsie - Flatlands",
                 "Brooklyn",
                 "",
@@ -7182,8 +6781,8 @@
                 ""
               ],
               [
+                "18.8",
                 "20.5",
-                "32.7",
                 "Bensonhurst - Bay Ridge",
                 "Brooklyn",
                 "",
@@ -7191,8 +6790,8 @@
                 ""
               ],
               [
+                "22.2",
                 "35.6",
-                "60.5",
                 "Coney Island - Sheepshead Bay",
                 "Brooklyn",
                 "",
@@ -7200,8 +6799,8 @@
                 ""
               ],
               [
+                "99.7",
                 "43.6",
-                "274",
                 "Williamsburg - Bushwick",
                 "Brooklyn",
                 "",
@@ -7209,8 +6808,8 @@
                 ""
               ],
               [
+                "56.9",
                 "49",
-                "98.2",
                 "Washington Heights",
                 "Manhattan",
                 "",
@@ -7218,8 +6817,8 @@
                 ""
               ],
               [
+                "145.2",
                 "41.5",
-                "279.9",
                 "Central Harlem - Morningside Heights",
                 "Manhattan",
                 "",
@@ -7227,8 +6826,8 @@
                 ""
               ],
               [
+                "133.3",
                 "39.2",
-                "327.1",
                 "East Harlem",
                 "Manhattan",
                 "",
@@ -7236,8 +6835,8 @@
                 ""
               ],
               [
+                "22.3",
                 "21.4",
-                "61.9",
                 "Upper West Side",
                 "Manhattan",
                 "",
@@ -7245,8 +6844,8 @@
                 ""
               ],
               [
+                "28.7",
                 "17.5",
-                "21.5",
                 "Upper East Side",
                 "Manhattan",
                 "",
@@ -7254,8 +6853,8 @@
                 ""
               ],
               [
+                "28.9",
                 "21.8",
-                "61.8",
                 "Chelsea - Clinton",
                 "Manhattan",
                 "",
@@ -7263,8 +6862,8 @@
                 ""
               ],
               [
+                "26.5",
                 "17.5",
-                "52.1",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
                 "",
@@ -7272,17 +6871,17 @@
                 ""
               ],
               [
+                "19.1",
                 "21.8",
-                "19.8",
                 "Greenwich Village - SoHo",
                 "Manhattan",
-                "",
-                ",",
+                "*",
+                ",*",
                 ""
               ],
               [
+                "56.4",
                 "25.1",
-                "111",
                 "Union Square - Lower East Side",
                 "Manhattan",
                 "",
@@ -7290,17 +6889,8 @@
                 ""
               ],
               [
-                "25.1",
-                "61.7",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
+                "31.3",
                 "33.1",
-                "69.2",
                 "Long Island City - Astoria",
                 "Queens",
                 "",
@@ -7308,8 +6898,8 @@
                 ""
               ],
               [
+                "43.1",
                 "41.7",
-                "43",
                 "West Queens",
                 "Queens",
                 "",
@@ -7317,8 +6907,8 @@
                 ""
               ],
               [
+                "32.5",
                 "28.4",
-                "30.1",
                 "Flushing - Clearview",
                 "Queens",
                 "",
@@ -7326,8 +6916,8 @@
                 ""
               ],
               [
+                "43.2",
                 "16.8",
-                "22.6",
                 "Bayside - Little Neck",
                 "Queens",
                 "",
@@ -7335,8 +6925,8 @@
                 ""
               ],
               [
+                "46.9",
                 "23.1",
-                "41.5",
                 "Ridgewood - Forest Hills",
                 "Queens",
                 "",
@@ -7344,8 +6934,8 @@
                 ""
               ],
               [
+                "22.5",
                 "16.8",
-                "54.9",
                 "Fresh Meadows",
                 "Queens",
                 "",
@@ -7353,8 +6943,8 @@
                 ""
               ],
               [
+                "79.1",
                 "20.2",
-                "73",
                 "Southwest Queens",
                 "Queens",
                 "",
@@ -7362,8 +6952,8 @@
                 ""
               ],
               [
+                "82.7",
                 "18.2",
-                "105.3",
                 "Jamaica",
                 "Queens",
                 "",
@@ -7371,8 +6961,8 @@
                 ""
               ],
               [
+                "78.4",
                 "11.9",
-                "67.2",
                 "Southeast Queens",
                 "Queens",
                 "",
@@ -7380,8 +6970,8 @@
                 ""
               ],
               [
+                "45.4",
                 "23.7",
-                "132.1",
                 "Rockaways",
                 "Queens",
                 "",
@@ -7389,8 +6979,8 @@
                 ""
               ],
               [
+                "65.8",
                 "16.7",
-                "174.7",
                 "Port Richmond",
                 "Staten Island",
                 "",
@@ -7398,8 +6988,8 @@
                 ""
               ],
               [
+                "51.2",
                 "16.7",
-                "126",
                 "Stapleton - St. George",
                 "Staten Island",
                 "",
@@ -7407,22 +6997,22 @@
                 ""
               ],
               [
+                "29.1",
                 "1",
-                "41.5",
                 "Willowbrook",
                 "Staten Island",
-                "*",
-                ",*",
-                ""
+                "",
+                "*,",
+                "*"
               ],
               [
+                "14.6",
                 "1",
-                "45.9",
                 "South Beach - Tottenville",
                 "Staten Island",
-                "*",
-                ",*",
-                ""
+                "",
+                "*,",
+                "*"
               ]
             ]
           },
@@ -7837,6 +7427,416 @@
             ]
           },
           {
+            "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)",
+            "graph_title": "Neighborhood Asthma triggers: Adults reporting cockroaches in the home by Adults",
+            "y_axis_title": "Asthma Emergency Department Visits (Adults) - Age-Adjusted Rate (per 10,000 residents) 2012",
+            "x_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "y_axis_title_reg": "Asthma Emergency Department Visits (Adults)",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Age-Adjusted Rate",
+                "info_name": "Asthma Emergency Department Visits (Adults)",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of asthma-related emergency department (ED) visits among NYC adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>&nbsp;An ED visit is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "y_axis_title_reg": "Asthma Emergency Department Visits (Adults)",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Age-Adjusted Rate",
+                "info_name": "Adults Reporting Cockroaches in the Home",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              }
+            ],
+            "link_data": [
+              [
+                "27.8",
+                "73.6",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26",
+                "137.6",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.8",
+                "199.4",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.9",
+                "162.3",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.3",
+                "296.3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.3",
+                "289.1",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.3",
+                "323.8",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "80.8",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.9",
+                "96.6",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.3",
+                "239.6",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37",
+                "229.2",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40",
+                "89.8",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.7",
+                "38.9",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.3",
+                "146.6",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.5",
+                "104",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.5",
+                "32.7",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35.6",
+                "60.5",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.6",
+                "274",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49",
+                "98.2",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.5",
+                "279.9",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.2",
+                "327.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "61.9",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "21.5",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.8",
+                "61.8",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "52.1",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.8",
+                "19.8",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.1",
+                "111",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.1",
+                "61.7",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "69.2",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.7",
+                "43",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.4",
+                "30.1",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.8",
+                "22.6",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.1",
+                "41.5",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.8",
+                "54.9",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.2",
+                "73",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.2",
+                "105.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.9",
+                "67.2",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.7",
+                "132.1",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "174.7",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "126",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1",
+                "41.5",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1",
+                "45.9",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
             "compare_type": "Adults with Asthma in the Past 12 Months (Age-Adjusted Percent)",
             "graph_title": "Neighborhood Asthma triggers: Adults with asthma in the past 12 months by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
@@ -8147,13 +8147,13 @@
                 "compare_type": "Commercial Use of 'Best Practice' Products (Solid Products)"
               },
               {
-                "compare_type": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) (Liquid Products)"
+                "compare_type": "Commercial Use of Insecticides (Liquid Products)"
               },
               {
                 "compare_type": "Commercial Use of Herbicides (Liquid Products)"
               },
               {
-                "compare_type": "Commercial Use of Insecticides (Liquid Products)"
+                "compare_type": "Commercial Use of Insecticides (Pyrethroid/Pyrethrin) (Liquid Products)"
               },
               {
                 "compare_type": "Commercial Use of Insecticides (Solid Products)"
@@ -8164,7 +8164,7 @@
             "name": "Childhood Lead Exposure",
             "children": [
               {
-                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)"
+                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)"
               }
             ]
           },
@@ -8178,19 +8178,19 @@
                 "compare_type": "Public School Children (5-14 Yrs Old) with Persistent Asthma (Estimated Annual Rate)"
               },
               {
-                "compare_type": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) (Estimated Annual Rate)"
-              },
-              {
                 "compare_type": "Asthma Hospitalizations (Children 5 to 17 Yrs Old) (Estimated Annual Rate)"
               },
               {
                 "compare_type": "Adults with Asthma in the Past 12 Months (Percent)"
               },
               {
-                "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)"
+                "compare_type": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) (Estimated Annual Rate)"
               },
               {
                 "compare_type": "Asthma Hospitalizations (Adults) (Age-Adjusted Rate)"
+              },
+              {
+                "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)"
               },
               {
                 "compare_type": "Adults with Asthma in the Past 12 Months (Age-Adjusted Percent)"
@@ -9347,5 +9347,4 @@
       }
     ]
   }
-
 

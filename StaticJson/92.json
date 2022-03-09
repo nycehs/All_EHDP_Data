@@ -12,7 +12,7 @@
               ""
             ],
             "compare_type": "Population Subgroups",
-            "graph_title": "Trends in Air Quality Advisory Days in New York City 2003 to 2018",
+            "graph_title": "Trends in Air Quality Advisory Days in New York City 2003 to 2020",
             "y_axis_title": "Number of Days",
             "x_axis_title": "Year",
             "info": [
@@ -161,6 +161,22 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "6",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "5",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
                   ]
                 ]
               },
@@ -295,6 +311,22 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "0",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "0",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -330,9 +362,19 @@
             "name": "Years",
             "children": [
               {
-                "name": "2018",
+                "name": "2020",
                 "col": 3,
                 "chk": true
+              },
+              {
+                "name": "2019",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": false
               },
               {
                 "name": "2017",
@@ -421,6 +463,26 @@
           "General Population, number of days"
         ],
         "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2020",
+            "5  ",
+            " ",
+            "0  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2019",
+            "6  ",
+            " ",
+            "0  ",
+            " "
+          ],
           [
             "10",
             "Citywide",
@@ -606,5 +668,4 @@
       }
     ]
   }
-
 

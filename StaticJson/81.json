@@ -381,24 +381,24 @@
         "Measure": "Percent",
         "Compare": [
           {
-            "compare_type": "Carbon Monoxide Incidents  (Estimated Annual Rate)",
+            "compare_type": "Carbon Monoxide Incidents (Estimated Annual Rate)",
             "graph_title": "Neighborhood  Carbon Monoxide Incidents by Homes in 1 or 2 Family Buildings",
             "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
-            "x_axis_title": "Carbon Monoxide Incidents  - Estimated Annual Rate (per 10,000 buildings) 2016",
+            "x_axis_title": "Carbon Monoxide Incidents - Estimated Annual Rate (per 10,000 buildings) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Carbon Monoxide Incidents ",
+                "x_axis_title_reg": "Carbon Monoxide Incidents",
                 "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
                 "x_axis_measure": "Estimated Annual Rate",
                 "y_axis_measure": "Percent",
-                "info_name": "Carbon Monoxide Incidents ",
+                "info_name": "Carbon Monoxide Incidents",
                 "info_measure": "Estimated Annual Rate",
                 "info_how_calculated": "Number of carbon monoxide incidents in an area, where FDNY measured at least 1 ppm at the scene, divided by the number of buildings in the area; expressed as incidents per 10,000 buildings.  ",
                 "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data,Fire Department of New York City (FDNY) Carbon Monoxide Incidents",
                 "info_year": "2016"
               },
               {
-                "x_axis_title_reg": "Carbon Monoxide Incidents ",
+                "x_axis_title_reg": "Carbon Monoxide Incidents",
                 "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
                 "x_axis_measure": "Estimated Annual Rate",
                 "y_axis_measure": "Percent",
@@ -1403,18 +1403,18 @@
             ]
           },
           {
-            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)",
+            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)",
             "graph_title": "Neighborhood  Children under 6 years with elevated blood lead levels (BLL) by Homes in 1 or 2 Family Buildings",
             "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
-            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate  BLL>=5 µg/dL (per 1,000 tested) 2014",
+            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate BLL >=5 µg/dL (per 1,000 tested) 2014",
             "info": [
               {
                 "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
                 "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
-                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
                 "y_axis_measure": "Percent",
                 "info_name": "Children under 6 years with elevated blood lead levels (BLL)",
-                "info_measure": "Rate  BLL>=5 µg/dL",
+                "info_measure": "Rate BLL >=5 µg/dL",
                 "info_how_calculated": "Number of children less than 6 years old tested in a given year with blood lead levels of 5 mcg/dL or greater, divided by the total number of children less than 6 years old who were tested for lead poisoning in a given year; expressed as cases per 1,000 tested. The numbers in this table include all children tested within a given calendar year, regardless of whether they were tested in previous years with the same or different blood lead levels. While children can receive more than one test during the calendar year, children are only counted once using the highest confirmed blood lead level during the calendar year. If the child does not have a confirmed test in a given year, the child’s blood lead level is based on the highest capillary or unknown test type. This measure differs from the rate of children newly identified with blood lead levels at or above a certain level reported by the Health Department in other publications. <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/EPHTPDF/Childhood_Lead_Exposure_Definitions_June_2016.pdf\" target=\"_blank\">Read more </a>about different measures used by the Health Department for surveillance of childhood lead poisoning.",
                 "info_source": "New York City Healthy Homes Program",
                 "info_year": "2014"
@@ -1422,7 +1422,7 @@
               {
                 "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
                 "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
-                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
                 "y_axis_measure": "Percent",
                 "info_name": "Homes in 1 or 2 Family Buildings",
                 "info_measure": "Percent",
@@ -2876,7 +2876,7 @@
             "name": "Carbon Monoxide Incidents",
             "children": [
               {
-                "compare_type": "Carbon Monoxide Incidents  (Estimated Annual Rate)"
+                "compare_type": "Carbon Monoxide Incidents (Estimated Annual Rate)"
               },
               {
                 "compare_type": "Carbon Monoxide Incidents without a Detector (3 Year Avg.) (Average Annual Rate)"
@@ -2887,7 +2887,7 @@
             "name": "Childhood Lead Exposure",
             "children": [
               {
-                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)"
+                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)"
               }
             ]
           },
@@ -3979,5 +3979,4 @@
       }
     ]
   }
-
 

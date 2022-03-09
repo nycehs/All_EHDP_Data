@@ -985,317 +985,6 @@
         "Measure": "Percent",
         "Compare": [
           {
-            "compare_type": "Obese Adults (Percent)",
-            "graph_title": "Neighborhood  Obese Adults by Bike for Transportation in the Past 7 Days",
-            "y_axis_title": "Bike for Transportation in the Past 7 Days - Percent 2014",
-            "x_axis_title": "Obese Adults - Percent 2014",
-            "info": [
-              {
-                "x_axis_title_reg": "Obese Adults",
-                "y_axis_title_reg": "Bike for Transportation in the Past 7 Days",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent",
-                "info_name": "Obese Adults",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults classified as obese; based on the Body Mass Index (BMI) calculated from self-reported weight and height, expressed as a percent. A BMI of 30 or greater is classified as obese.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2014"
-              },
-              {
-                "x_axis_title_reg": "Obese Adults",
-                "y_axis_title_reg": "Bike for Transportation in the Past 7 Days",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent",
-                "info_name": "Bike for Transportation in the Past 7 Days",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults who reported having biked to get to and from places, divided by all adults in the area; expressed as a percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2014"
-              }
-            ],
-            "link_data": [
-              [
-                "27.9",
-                "0.5",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "*",
-                "*,*",
-                "*"
-              ],
-              [
-                "29.6",
-                "5.8",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "34",
-                "5.4",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "16.1",
-                "16.6",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "17.5",
-                "14.2",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.9",
-                "10.6",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "31.3",
-                "5.7",
-                "East New York",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "19.1",
-                "7.2",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "22.6",
-                "6.6",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "30.8",
-                "9.7",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.5",
-                "4.1",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "21",
-                "8.1",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "31.1",
-                "1",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "31.7",
-                "9.3",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "23.3",
-                "5.7",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "34.3",
-                "5.4",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "*",
-                "*,*",
-                "*"
-              ],
-              [
-                "34.9",
-                "4.1",
-                "East Harlem",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "14.5",
-                "8.5",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.7",
-                "6.9",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "23.4",
-                "9.1",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15",
-                "1.9",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "19",
-                "10.7",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "30.7",
-                "9.6",
-                "Southwest Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "30.2",
-                "5",
-                "Jamaica",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "20.7",
-                "3",
-                "Southeast Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "11.8",
-                "8.6",
-                "Upper East Side-Gramercy",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.7",
-                "10.5",
-                "Chelsea-Village  ",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "13",
-                "15.9",
-                "Union Square-Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.9",
-                "5.6",
-                "Northern SI",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "31",
-                "3.7",
-                "Southern SI",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "30.5",
-                "3.8",
-                "South Bronx",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ]
-            ]
-          },
-          {
             "compare_type": "Overweight or Obese Adults (Percent)",
             "graph_title": "Neighborhood  Overweight or Obese Adults by Bike for Transportation in the Past 7 Days",
             "y_axis_title": "Bike for Transportation in the Past 7 Days - Percent 2014",
@@ -1605,6 +1294,317 @@
                 "*"
               ]
             ]
+          },
+          {
+            "compare_type": "Obese Adults (Percent)",
+            "graph_title": "Neighborhood  Obese Adults by Bike for Transportation in the Past 7 Days",
+            "y_axis_title": "Bike for Transportation in the Past 7 Days - Percent 2014",
+            "x_axis_title": "Obese Adults - Percent 2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Obese Adults",
+                "y_axis_title_reg": "Bike for Transportation in the Past 7 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Obese Adults",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults classified as obese; based on the Body Mass Index (BMI) calculated from self-reported weight and height, expressed as a percent. A BMI of 30 or greater is classified as obese.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2014"
+              },
+              {
+                "x_axis_title_reg": "Obese Adults",
+                "y_axis_title_reg": "Bike for Transportation in the Past 7 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Bike for Transportation in the Past 7 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported having biked to get to and from places, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2014"
+              }
+            ],
+            "link_data": [
+              [
+                "27.9",
+                "0.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "29.6",
+                "5.8",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "34",
+                "5.4",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "16.1",
+                "16.6",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "17.5",
+                "14.2",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.9",
+                "10.6",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.3",
+                "5.7",
+                "East New York",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "19.1",
+                "7.2",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "22.6",
+                "6.6",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "30.8",
+                "9.7",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.5",
+                "4.1",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "21",
+                "8.1",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "31.1",
+                "1",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "31.7",
+                "9.3",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "23.3",
+                "5.7",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.3",
+                "5.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "34.9",
+                "4.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "14.5",
+                "8.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.7",
+                "6.9",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "23.4",
+                "9.1",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15",
+                "1.9",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "19",
+                "10.7",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "30.7",
+                "9.6",
+                "Southwest Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "30.2",
+                "5",
+                "Jamaica",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "20.7",
+                "3",
+                "Southeast Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "11.8",
+                "8.6",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "10.5",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13",
+                "15.9",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.9",
+                "5.6",
+                "Northern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "31",
+                "3.7",
+                "Southern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "30.5",
+                "3.8",
+                "South Bronx",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ]
+            ]
           }
         ],
         "unreliable_text": [
@@ -1616,10 +1616,10 @@
             "name": "Overweight",
             "children": [
               {
-                "compare_type": "Obese Adults (Percent)"
+                "compare_type": "Overweight or Obese Adults (Percent)"
               },
               {
-                "compare_type": "Overweight or Obese Adults (Percent)"
+                "compare_type": "Obese Adults (Percent)"
               }
             ]
           }
@@ -2772,5 +2772,4 @@
       }
     ]
   }
-
 
