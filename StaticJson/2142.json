@@ -1,0 +1,860 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Neighborhood Poverty (ACS)",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "compare_type": "Adult Consumption of 1 or More Sugary Drinks Per Day (Percent)",
+            "graph_title": "Neighborhood  Adult Consumption of 1 or More Sugary Drinks Per Day by Neighborhood Poverty (ACS)",
+            "y_axis_title": "Neighborhood Poverty (ACS) - Percent 2008-2012",
+            "x_axis_title": "Adult Consumption of 1 or More Sugary Drinks Per Day - Percent 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Adult Consumption of 1 or More Sugary Drinks Per Day",
+                "y_axis_title_reg": "Neighborhood Poverty (ACS)",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Adult Consumption of 1 or More Sugary Drinks Per Day",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated number of adults who, on average reported having consumed one or more sugary drinks per day, divided by all adults in the area; expressed as a percent. Sugary drinks include soda, sweetened iced tea, sports drinks, fruit punch, and other fruit flavored drinks. (One drink equals 12 ounces). Diet soda, sugar free drinks, 100% juice, and seltzer are not included.</p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Adult Consumption of 1 or More Sugary Drinks Per Day",
+                "y_axis_title_reg": "Neighborhood Poverty (ACS)",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Neighborhood Poverty (ACS)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Neighborhood poverty based on UHF defined as percent of residents with incomes below 100% of the Federal Poverty Level, per American Community Survey, 2008-2012.",
+                "info_source": "American Community Survey",
+                "info_year": "2008-2012"
+              }
+            ],
+            "link_data": [
+              [
+                "17",
+                "16",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39",
+                "15.4",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.1",
+                "31.3",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.3",
+                "21.8",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.5",
+                "39.3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.5",
+                "38.3",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.5",
+                "43.1",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.6",
+                "28.5",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "16.3",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.7",
+                "27.1",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.2",
+                "32.8",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.5",
+                "28.4",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "25.2",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.3",
+                "18.1",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.4",
+                "12.9",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.9",
+                "14.7",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.1",
+                "18.2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.8",
+                "32.5",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29",
+                "25.8",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.3",
+                "27.7",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.9",
+                "31.8",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.7",
+                "12",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.2",
+                "6.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "11.7",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.2",
+                "8.7",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "10.5",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.6",
+                "21.4",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.6",
+                "12.4",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.3",
+                "16",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.4",
+                "18.1",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.2",
+                "13",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.9",
+                "7.9",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.5",
+                "12.4",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.9",
+                "14.1",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "13.1",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35.9",
+                "15.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32",
+                "6.7",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29",
+                "21.4",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.9",
+                "21.6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.9",
+                "17",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.4",
+                "8.2",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.4",
+                "5.6",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)",
+            "graph_title": "Neighborhood  Children under 6 years with elevated blood lead levels (BLL) by Neighborhood Poverty (ACS)",
+            "y_axis_title": "Neighborhood Poverty (ACS) - Percent 2008-2012",
+            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate  BLL>=5 µg/dL (per 1,000 tested) 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Neighborhood Poverty (ACS)",
+                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Children under 6 years with elevated blood lead levels (BLL)",
+                "info_measure": "Rate  BLL>=5 µg/dL",
+                "info_how_calculated": "Number of children less than 6 years old tested in a given year with blood lead levels of 5 mcg/dL or greater, divided by the total number of children less than 6 years old who were tested for lead poisoning in a given year; expressed as cases per 1,000 tested. The numbers in this table include all children tested within a given calendar year, regardless of whether they were tested in previous years with the same or different blood lead levels. While children can receive more than one test during the calendar year, children are only counted once using the highest confirmed blood lead level during the calendar year. If the child does not have a confirmed test in a given year, the child’s blood lead level is based on the highest capillary or unknown test type. This measure differs from the rate of children newly identified with blood lead levels at or above a certain level reported by the Health Department in other publications. <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/EPHTPDF/Childhood_Lead_Exposure_Definitions_June_2016.pdf\" target=\"_blank\">Read more </a>about different measures used by the Health Department for surveillance of childhood lead poisoning.",
+                "info_source": "New York City Healthy Homes Program",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Neighborhood Poverty (ACS)",
+                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Neighborhood Poverty (ACS)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Neighborhood poverty based on UHF defined as percent of residents with incomes below 100% of the Federal Poverty Level, per American Community Survey, 2008-2012.",
+                "info_source": "American Community Survey",
+                "info_year": "2008-2012"
+              }
+            ],
+            "link_data": [
+              [
+                "9.8",
+                "16",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.7",
+                "15.4",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27",
+                "31.3",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.1",
+                "21.8",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "39.3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "38.3",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "43.1",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80.9",
+                "28.5",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.4",
+                "16.3",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.1",
+                "27.1",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.4",
+                "32.8",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.7",
+                "28.4",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "52.6",
+                "25.2",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.6",
+                "18.1",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.4",
+                "12.9",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.5",
+                "14.7",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35.6",
+                "18.2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.2",
+                "32.5",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.9",
+                "25.8",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.4",
+                "27.7",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "31.8",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.1",
+                "12",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.7",
+                "6.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.4",
+                "11.7",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.3",
+                "8.7",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "10.5",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.9",
+                "21.4",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.6",
+                "12.4",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.4",
+                "16",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.6",
+                "18.1",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.5",
+                "13",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5",
+                "7.9",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "20.5",
+                "12.4",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.6",
+                "14.1",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.2",
+                "13.1",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.3",
+                "15.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.3",
+                "6.7",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.1",
+                "21.4",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.2",
+                "21.6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.1",
+                "17",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.2",
+                "8.2",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.9",
+                "5.6",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "link_opts": [
+          {
+            "name": "Sugary Drink Consumption",
+            "children": [
+              {
+                "compare_type": "Adult Consumption of 1 or More Sugary Drinks Per Day (Percent)"
+              }
+            ]
+          },
+          {
+            "name": "Childhood Lead Exposure",
+            "children": [
+              {
+                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": []
+  }
+
+

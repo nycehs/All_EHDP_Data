@@ -1,0 +1,3142 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+        "Measure": "Age-Adjusted Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              "* Estimate is based on small numbers so should be interpreted with caution.",
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Carbon Monoxide Hospitalizations - Other Causes - Age-Adjusted Rate 2000 to 2013",
+            "y_axis_title": "Age-Adjusted Rate (per 100,000 residents)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969. Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9. Counts are summed by 5-year age groups and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per million residents.</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.8",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.5",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.4",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.4",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.7",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.5",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1.2",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.5",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.4",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.4",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.1",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.4",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.1",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.6",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.4",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.6",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.6",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.5",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.6",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.5",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.6",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.6",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.1",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.2",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.3",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.5",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.2",
+                    "*",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.1",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.2",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.2",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.2",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.2",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.5",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.5",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.3",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.4",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.3",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.4",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.2",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.3",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.1",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.5",
+                    "*",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.2",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.3",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.5",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.3",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.6",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.2",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1.5",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.8",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3.3",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.4",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.7",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.6",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.3",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.6",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.1",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+        "Measure": "Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              "* Estimate is based on small numbers so should be interpreted with caution.",
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Carbon Monoxide Hospitalizations - Other Causes - Rate 2000 to 2013",
+            "y_axis_title": "Rate (per 100,000 residents)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+                "info_measure": "Rate",
+                "info_how_calculated": "<p>Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969. Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9. Count is divided by the population using NYC DOHMH intercensal estimates; expressed as cases per million residents.</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.7",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.4",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.4",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.7",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.4",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "1.2",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.4",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.4",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.4",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.1",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.4",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.1",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.6",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.4",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.6",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.6",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.4",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.4",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.6",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.6",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.1",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.2",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.3",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.6",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.4",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.2",
+                    "*",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.1",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.3",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.2",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.2",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.2",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.4",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.5",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.5",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.7",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.3",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.3",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.3",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.4",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.4",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0.4",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.4",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0.2",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.4",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0.1",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.4",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0.5",
+                    "*",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.2",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.5",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.3",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.5",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.3",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0.7",
+                    "*",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0",
+                    "*",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "0.2",
+                    "*",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "1.5",
+                    "*",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "0.4",
+                    "*",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0",
+                    "*",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0.9",
+                    "*",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0.4",
+                    "*",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0.6",
+                    "*",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0.6",
+                    "*",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "0.2",
+                    "*",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0.6",
+                    "*",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "0.2",
+                    "*",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+        "Measure": "Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Carbon Monoxide Hospitalizations - Other Causes - Number 2000 to 2013",
+            "y_axis_title": "Number ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+                "info_measure": "Number",
+                "info_how_calculated": "Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969.  Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9.",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "9",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "6",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "9",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "16",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "6",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "6",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "6",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "10",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "9",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "14",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "12",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "9",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "14",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "16",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "11",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "13",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "11",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "14",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "15",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "11",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "33",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "31",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "22",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "36",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "40",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "25",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "38",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "60",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "26",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "37",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "28",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "27",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "40",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "30",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "9",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "9",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "10",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "8",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "9",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "11",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "12",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "6",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "11",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "12",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "8",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2001",
+                    "7",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "9",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "7",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "6",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2003",
+                    "7",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "14",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Carbon Monoxide Hospitalizations - Other Causes",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Rate, per 100,000 residents",
+          "Age-Adjusted Rate, per 100,000 residents"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "30  ",
+            "",
+            "0.4 ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "40  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "27  ",
+            "",
+            "0.3 ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "28  ",
+            "",
+            "0.3 ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "37  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "26  ",
+            "",
+            "0.3 ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "60  ",
+            "",
+            "0.7 ",
+            "",
+            "0.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "38  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "25  ",
+            "",
+            "0.3 ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "40  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "36  ",
+            "",
+            "0.4 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "22  ",
+            "",
+            "0.3 ",
+            "",
+            "0.3 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "31  ",
+            "",
+            "0.4 ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "33  ",
+            "",
+            "0.4 ",
+            "",
+            "0.4 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2013",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2012",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2011",
+            "** ",
+            "",
+            "0.1* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007",
+            "16  ",
+            "",
+            "1.2 ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2006",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2004",
+            "9  ",
+            "",
+            "0.7* ",
+            "",
+            "0.7* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2001",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2000",
+            "9  ",
+            "",
+            "0.7* ",
+            "",
+            "0.8* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2013",
+            "11  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2012",
+            "15  ",
+            "",
+            "0.6 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2011",
+            "14  ",
+            "",
+            "0.6 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010",
+            "11  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009",
+            "13  ",
+            "",
+            "0.5 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008",
+            "11  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007",
+            "16  ",
+            "",
+            "0.6 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2006",
+            "14  ",
+            "",
+            "0.6 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005",
+            "9  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2004",
+            "12  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003",
+            "14  ",
+            "",
+            "0.6 ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002",
+            "** ",
+            "",
+            "0.1* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2001",
+            "9  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2000",
+            "10  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2013",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2012",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2011",
+            "** ",
+            "",
+            "0.0* ",
+            "",
+            "0.0* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009",
+            "** ",
+            "",
+            "0.3* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008",
+            "** ",
+            "",
+            "0.1* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2006",
+            "6  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005",
+            "7  ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2004",
+            "9  ",
+            "",
+            "0.6* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003",
+            "** ",
+            "",
+            "0.3* ",
+            "",
+            "0.3* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2001",
+            "7  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2000",
+            "** ",
+            "",
+            "0.1* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2013",
+            "8  ",
+            "",
+            "0.3* ",
+            "",
+            "0.3* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2012",
+            "12  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2011",
+            "11  ",
+            "",
+            "0.5* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010",
+            "6  ",
+            "",
+            "0.3* ",
+            "",
+            "0.3* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009",
+            "12  ",
+            "",
+            "0.5 ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007",
+            "11  ",
+            "",
+            "0.5* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2006",
+            "9  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005",
+            "** ",
+            "",
+            "0.1* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2004",
+            "8  ",
+            "",
+            "0.4* ",
+            "",
+            "0.3* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002",
+            "10  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2001",
+            "9  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2000",
+            "9  ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2013",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.1* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2012",
+            "** ",
+            "",
+            "0.6* ",
+            "",
+            "0.6* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2011",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.3* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010",
+            "** ",
+            "",
+            "0.6* ",
+            "",
+            "0.6* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009",
+            "** ",
+            "",
+            "0.6* ",
+            "",
+            "0.7* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.4* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007",
+            "14  ",
+            "",
+            "3.0 ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2006",
+            "** ",
+            "",
+            "0.9* ",
+            "",
+            "0.8* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005",
+            "** ",
+            "",
+            "0.0* ",
+            "",
+            "0.0* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2004",
+            "** ",
+            "",
+            "0.4* ",
+            "",
+            "0.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003",
+            "7  ",
+            "",
+            "1.5* ",
+            "",
+            "1.5* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002",
+            "** ",
+            "",
+            "0.2* ",
+            "",
+            "0.2* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2001",
+            "** ",
+            "",
+            "0.0* ",
+            "",
+            "0.0* ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2000",
+            "** ",
+            "",
+            "0.7* ",
+            "",
+            "0.6* ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "** Estimate is supressed due to insufficient data.",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "info": [
+          {
+            "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+            "info_measure": "Number",
+            "info_how_calculated": "Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969.  Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9.",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+            ]
+          },
+          {
+            "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+            "info_measure": "Rate",
+            "info_how_calculated": "<p>Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969. Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9. Count is divided by the population using NYC DOHMH intercensal estimates; expressed as cases per million residents.</p>",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+            ]
+          },
+          {
+            "info_name": "Carbon Monoxide Hospitalizations (Other Causes)",
+            "info_measure": "Age-Adjusted Rate",
+            "info_how_calculated": "<p>Number of NYC resident hospitalizations containing ICD-9 diagnosis code for carbon monoxide poisoning, 986, or any of the following: E868.2, E868.3, E868.8, E868.9. Must not have any fire-related injury code E890.0-E899.9, nor any intentional injury code E950.0-E969. Acceptable injury codes in range: E800.0-E888.9, E900.0-E909.9. Counts are summed by 5-year age groups and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per million residents.</p>",
+            "info_source": [
+              "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

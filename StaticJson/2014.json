@@ -1,0 +1,198 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Transit Capacity ",
+        "Measure": "Vehicle Revenue Miles (in millions)",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Transit Capacity - Vehicle Revenue Miles (in millions) 1999 to 2014",
+            "y_axis_title": "Vehicle Revenue Miles (in millions) ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Transit Capacity ",
+                "info_measure": "Vehicle Revenue Miles (in millions)",
+                "info_how_calculated": "<p>The total number of miles (in millions) that transit (public transportation) vehicles (subway cars, rail cars, buses, ferry boats, van pools, trams, para-transit vehicles) are scheduled to travel or actually travel while in revenue service. This number combines all transit agencies in the New York metropolitan area, including non-city agencies that provide significant transit service to and from the city (e.g., Long Island Rail Road). Vehicle revenue miles do not include situations when a bus or subway car travels without passengers back to a storage depot.</p>",
+                "info_source": "National Transit Database"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "1999",
+                    "765",
+                    "",
+                    "1999",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "915",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "902",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "915",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "932",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Transit Capacity ",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "1999",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Vehicle Revenue Miles (in millions)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "932  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "915  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "902  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "915  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "1999",
+            "765  ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Transit Capacity ",
+            "info_measure": "Vehicle Revenue Miles (in millions)",
+            "info_how_calculated": "<p>The total number of miles (in millions) that transit (public transportation) vehicles (subway cars, rail cars, buses, ferry boats, van pools, trams, para-transit vehicles) are scheduled to travel or actually travel while in revenue service. This number combines all transit agencies in the New York metropolitan area, including non-city agencies that provide significant transit service to and from the city (e.g., Long Island Rail Road). Vehicle revenue miles do not include situations when a bus or subway car travels without passengers back to a storage depot.</p>",
+            "info_source": [
+              "National Transit Database"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

@@ -1,0 +1,459 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "New York Harbor Water Quality",
+        "Measure": "Dissolved Oxygen Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  New York Harbor Water Quality - Dissolved Oxygen Rate 2001 to 2010",
+            "y_axis_title": "Dissolved Oxygen Rate (mg/L)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "New York Harbor Water Quality",
+                "info_measure": "Dissolved Oxygen Rate",
+                "info_how_calculated": "The annual average dissolved oxygen concentration (mg/L) across Harbor Survey stations. There is a NYS standard of 5.0mg/L necessary to allow bathing, in addition to a less stringent standard to allow fishing and boating. A higher number indicates a cleaner harbor.",
+                "info_source": "New York Harbor Water Quality Survey"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2001",
+                    "33.9",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "35.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "39.5",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "45.6",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "15.6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "24.3",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "15.6",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "13.3",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "27.3",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "24.8",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "New York Harbor Water Quality",
+        "Measure": "Fecal Coliform Rate",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  New York Harbor Water Quality - Fecal Coliform Rate 2001 to 2010",
+            "y_axis_title": "Fecal Coliform Rate (cells/100 mL)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "New York Harbor Water Quality",
+                "info_measure": "Fecal Coliform Rate",
+                "info_how_calculated": "The annual geometric mean of fecal coliform counts across Harbor Survey stations. The state standard to allow bathing is a monthly geometric mean less than or equal to 200 cells / 100mL (from 5 or more samples). There is a less stringent standard to allow fishing and boating.",
+                "info_source": "New York Harbor Water Quality Survey"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2001",
+                    "6.4",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "6.6",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "7.1",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "6.3",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "6.6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "6.6",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "6.4",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "7.2",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "6.8",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "6.5",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "New York Harbor Water Quality",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Dissolved Oxygen Rate, mg/L",
+          "Fecal Coliform Rate, cells/100 mL"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "24.8 ",
+            " ",
+            "6.5 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "27.3 ",
+            " ",
+            "6.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "13.3 ",
+            " ",
+            "7.2 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "15.6 ",
+            " ",
+            "6.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "24.3 ",
+            " ",
+            "6.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "15.6 ",
+            " ",
+            "6.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "45.6 ",
+            " ",
+            "6.3 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "39.5 ",
+            " ",
+            "7.1 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "35.3 ",
+            " ",
+            "6.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "33.9 ",
+            " ",
+            "6.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "23.4 ",
+            " ",
+            "6.5 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "New York Harbor Water Quality",
+            "info_measure": "Dissolved Oxygen Rate",
+            "info_how_calculated": "The annual average dissolved oxygen concentration (mg/L) across Harbor Survey stations. There is a NYS standard of 5.0mg/L necessary to allow bathing, in addition to a less stringent standard to allow fishing and boating. A higher number indicates a cleaner harbor.",
+            "info_source": [
+              "New York Harbor Water Quality Survey"
+            ]
+          },
+          {
+            "info_name": "New York Harbor Water Quality",
+            "info_measure": "Fecal Coliform Rate",
+            "info_how_calculated": "The annual geometric mean of fecal coliform counts across Harbor Survey stations. The state standard to allow bathing is a monthly geometric mean less than or equal to 200 cells / 100mL (from 5 or more samples). There is a less stringent standard to allow fishing and boating.",
+            "info_source": [
+              "New York Harbor Water Quality Survey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

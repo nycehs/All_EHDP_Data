@@ -1,0 +1,873 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Carbon Monoxide Deaths",
+        "Measure": "Fire-Related Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Number of Carbon Monoxide Deaths",
+            "graph_title": "Trends in Carbon Monoxide Deaths 2000 to 2017",
+            "y_axis_title": "Number",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Carbon Monoxide Deaths",
+                "info_measure": "Fire-Related Number",
+                "info_how_calculated": "<p><span><span>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;and accidental injury/poisoning due to fire and flames&nbsp;(ICD10 codes X00-X09) among NYC residents.&nbsp;Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).</span></span></p>\n<p>&nbsp;</p>\n<p><span>&nbsp;</span></p>",
+                "info_source": "New York City Bureau of Vital Statistics"
+              },
+              {
+                "info_name": "Carbon Monoxide Deaths",
+                "info_measure": "Non-Fire-Related Number",
+                "info_how_calculated": "<p>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;and unintentional non-fire poisoning (ICD10 code X47)&nbsp;among NYC residents. Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).&nbsp;</p>\n<p><span>&nbsp;</span></p>",
+                "info_source": "New York City Bureau of Vital Statistics"
+              },
+              {
+                "info_name": "Carbon Monoxide Deaths",
+                "info_measure": "Unknown cause number",
+                "info_how_calculated": "<p>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;among NYC residents that&nbsp;are neither fire-related or non-fire-related, or have codes indicating both fire- and non-fire related causes.&nbsp;<span>Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).</span></p>",
+                "info_source": "New York City Bureau of Vital Statistics"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Carbon Monoxide Deaths (Fire-Related Number)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "2",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "2",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "4",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "0",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "0",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "1",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "1",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "1",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "3",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "1",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "0",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "0",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "0",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Carbon Monoxide Deaths (Non-Fire-Related Number)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "1",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "3",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "10",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "12",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "6",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "11",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "5",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "3",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "2",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "2",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "5",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "3",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "0",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "7",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "6",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "2",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Carbon Monoxide Deaths (Unknown cause number)",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "0",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "0",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "2",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "2",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "1",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "3",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "0",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "0",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "0",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "0",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "0",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "1",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "0",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2013",
+                    "2",
+                    "",
+                    "2013",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2014",
+                    "2",
+                    "",
+                    "2014",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2015",
+                    "0",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "1",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "1",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Carbon Monoxide Deaths",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2013",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Fire-Related Number",
+          "Non-Fire-Related Number",
+          "Unknown cause number"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "0  ",
+            "",
+            "2  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "0  ",
+            "",
+            "6  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "0  ",
+            "",
+            "7  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "1  ",
+            "",
+            "0  ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013",
+            "3  ",
+            "",
+            "3  ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "0  ",
+            "",
+            "5  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "1  ",
+            "",
+            "2  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "1  ",
+            "",
+            "2  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "1  ",
+            "",
+            "2  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "0  ",
+            "",
+            "0  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "3  ",
+            "",
+            "3  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "1  ",
+            "",
+            "5  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "0  ",
+            "",
+            "11  ",
+            "",
+            "3  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "1  ",
+            "",
+            "6  ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "0  ",
+            "",
+            "12  ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "4  ",
+            "",
+            "10  ",
+            "",
+            "2  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "2  ",
+            "",
+            "3  ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "2  ",
+            "",
+            "1  ",
+            "",
+            "0  ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Carbon Monoxide Deaths",
+            "info_measure": "Fire-Related Number",
+            "info_how_calculated": "<p><span><span>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;and accidental injury/poisoning due to fire and flames&nbsp;(ICD10 codes X00-X09) among NYC residents.&nbsp;Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).</span></span></p>\n<p>&nbsp;</p>\n<p><span>&nbsp;</span></p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics"
+            ]
+          },
+          {
+            "info_name": "Carbon Monoxide Deaths",
+            "info_measure": "Non-Fire-Related Number",
+            "info_how_calculated": "<p>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;and unintentional non-fire poisoning (ICD10 code X47)&nbsp;among NYC residents. Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).&nbsp;</p>\n<p><span>&nbsp;</span></p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics"
+            ]
+          },
+          {
+            "info_name": "Carbon Monoxide Deaths",
+            "info_measure": "Unknown cause number",
+            "info_how_calculated": "<p>Number of deaths with an underlying or contributing cause that includes the toxic effect of carbon monoxide (ICD10 code T58)&nbsp;among NYC residents that&nbsp;are neither fire-related or non-fire-related, or have codes indicating both fire- and non-fire related causes.&nbsp;<span>Excludes intentional deaths (ICD10 codes X60-Y09, Y35-36).</span></p>",
+            "info_source": [
+              "New York City Bureau of Vital Statistics"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

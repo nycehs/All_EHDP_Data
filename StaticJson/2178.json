@@ -1,0 +1,630 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Residential unit density",
+        "indicator_description": "Residential unit density\n",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Neighborhood (UHF 42)",
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Per km2"
+        ],
+        "row_data": [
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2014",
+            "11357.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2014",
+            "10614.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2014",
+            "10847.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2014",
+            "10826.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2014",
+            "9479.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2014",
+            "9382.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2014",
+            "10461.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2014",
+            "10688.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2014",
+            "9858.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2014",
+            "9302.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2014",
+            "9184.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2014",
+            "9914.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2014",
+            "10633.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2014",
+            "9850.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2014",
+            "10462.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2014",
+            "11119.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2014",
+            "10976.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2014",
+            "10962.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2014",
+            "9555.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2014",
+            "11118.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2014",
+            "12167.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2014",
+            "10898.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2014",
+            "11215.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2014",
+            "6114.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2014",
+            "12790.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2014",
+            "10097.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2014",
+            "9716.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2014",
+            "11370.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2014",
+            "8252.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2014",
+            "9191.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2014",
+            "9166.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2014",
+            "9524.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2014",
+            "12388.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2014",
+            "9966.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2014",
+            "9597.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2014",
+            "8799.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2014",
+            "9738.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2014",
+            "11016.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2014",
+            "9061.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2014",
+            "7164.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2014",
+            "8289.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2014",
+            "8028.8 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Residential unit density",
+            "info_measure": "Per km2",
+            "info_how_calculated": "New York City, with nearly 27,000 residents per square mile (based on 2010 Census) is a very densely populated city. Some areas are more densely populated than others. Residential density can affect residents’ access to public services, traffic, noise, and housing availability and affordability. \n </p><p>\n“Density of residential units” is calculated by dividing the number of residential units by total residential building floor area in km2.\n<p>\nFor more information, visit  <a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+            "info_source": [
+              "The Built Environment &amp; Health Project (BEH), Columbia University"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

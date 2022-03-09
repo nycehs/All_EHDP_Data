@@ -1,0 +1,170 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": " Children (0 to 12 Years Old) with Asthma in the Past 12 Months",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "84,000  ",
+            " ",
+            "6.1 ",
+            "(5.1, 7.4)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2009",
+            "23,000  ",
+            " ",
+            "8.4 ",
+            "(6.1, 11.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2009",
+            "25,000  ",
+            " ",
+            "5.5 ",
+            "(4.0, 7.5)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2009",
+            "15,000  ",
+            " ",
+            "7.4 ",
+            "(4.6, 11.7)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2009",
+            "16,000  ",
+            " ",
+            "4.5 ",
+            "(2.6, 7.6)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2009",
+            "4,000*  ",
+            " ",
+            "5.1* ",
+            "(2.4, 10.4)"
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "info": [
+          {
+            "info_name": "Children (0 to 12 Years Old) with Asthma in the Past 12 Months",
+            "info_measure": "Number",
+            "info_how_calculated": "Estimated number of children up to 12 years old whose parent or guardian reported Asthma symptoms or attack in the last 12 months, rounded to the nearest 1,000.",
+            "info_source": [
+              "New York City Child Community Health Survey"
+            ]
+          },
+          {
+            "info_name": "Children (0 to 12 Years Old) with Asthma in the Past 12 Months",
+            "info_measure": "Percent",
+            "info_how_calculated": "Estimated number of children up to 12 years old whose parent or guardian reported  asthma symptoms or attack in the last 12 months, divided by all children; expressed as percent.",
+            "info_source": [
+              "New York City Child Community Health Survey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

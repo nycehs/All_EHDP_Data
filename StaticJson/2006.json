@@ -1,0 +1,324 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Energy Reliability",
+        "Measure": "System Average Interruption Frequency Index",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Energy Reliability - System Average Interruption Frequency Index 2000 to 2011",
+            "y_axis_title": "System Average Interruption Frequency Index (per 1,000 customers)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Energy Reliability",
+                "info_measure": "System Average Interruption Frequency Index",
+                "info_how_calculated": "ConEdison calculates a System Average Interruption Frequency Index (SAIFI) on an annual basis, which gauges the relative reliability of the NYC electricity network. It does so by measuring the average number of service interruptions per 1000 customers in a given year.",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "61.68",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "87.09",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "106.52",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "79.48",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "67.07",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "91.83",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "105.7",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "122",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "85.58",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "69.72",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "104",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Energy Reliability",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "System Average Interruption Frequency Index, per 1,000 customers"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "104.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "69.7 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "85.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "122.0 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "105.7 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "91.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "67.1 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "79.5 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "106.5 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "87.1 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "61.7 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Energy Reliability",
+            "info_measure": "System Average Interruption Frequency Index",
+            "info_how_calculated": "ConEdison calculates a System Average Interruption Frequency Index (SAIFI) on an annual basis, which gauges the relative reliability of the NYC electricity network. It does so by measuring the average number of service interruptions per 1000 customers in a given year.",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

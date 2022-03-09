@@ -1,0 +1,345 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Drinking Water Demand",
+        "Measure": "Average Daily Water Use per Capita",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Drinking Water Demand - Average Daily Water Use per Capita 2000 to 2011",
+            "y_axis_title": "Average Daily Water Use per Capita (gallons / person)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Drinking Water Demand",
+                "info_measure": "Average Daily Water Use per Capita",
+                "info_how_calculated": "The average daily number of gallons of drinking water diverted to in-city supply over the course of the year. This amount is divided by the NYC intercensal population estimates, which are calculated by the US Census Bureau and then verified by the NYC Department of City Planning.",
+                "info_source": "New York City Department of Environmental Protection (DEP) Drinking Water Supply and Quality Report"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2000",
+                    "154.9",
+                    "",
+                    "2000",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2001",
+                    "146.8",
+                    "",
+                    "2001",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2002",
+                    "140.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2003",
+                    "134.6",
+                    "",
+                    "2003",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2004",
+                    "134.6",
+                    "",
+                    "2004",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "134.9",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "129.6",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "134.1",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "129.5",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "120.7",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "123.8",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "124.46",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Drinking Water Demand",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Average Daily Water Use per Capita, gallons / person"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "124.4 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "123.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "120.7 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "129.5 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "134.1 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "129.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "134.9 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2004",
+            "134.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "134.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "140.3 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2001",
+            "146.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2000",
+            "154.9 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Drinking Water Demand",
+            "info_measure": "Average Daily Water Use per Capita",
+            "info_how_calculated": "The average daily number of gallons of drinking water diverted to in-city supply over the course of the year. This amount is divided by the NYC intercensal population estimates, which are calculated by the US Census Bureau and then verified by the NYC Department of City Planning.",
+            "info_source": [
+              "New York City Department of Environmental Protection (DEP) Drinking Water Supply and Quality Report"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

@@ -1,0 +1,1393 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "<p>Vegetative cover is the land covered by trees, grass, or other plants. This area is not covered by a hard surface such as paved roads, sidewalks, or buildings. <a href=\"https://www.epa.gov/heat-islands/using-trees-and-vegetation-reduce-heat-islands\">Vegetative cover tends to reduce temperatures in the immediate area</a>.</p>",
+        "indicator_name": "Vegetative Cover",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Vegetative Cover - Percent 2010 to 2017",
+            "y_axis_title": "Percent ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Vegetative Cover",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Spatial information classifying ground cover is used to calculate a percentage of each geographic area that is covered in vegetation. See <a href=\"https://doi.org/10.1117/1.JRS.6.063567\" target=\"_blank\">this paper</a> for classification methods discussion.</p>",
+                "info_source": "University of Vermont remote sensing LiDAR data, assessed using methodology described in: MacFaden, S.W., O’Neil-Dunne, J.P.M., Royer, A.R., Lu, J.W.T., &amp; Rundle, A.G. (2012). High-resolution tree canopy mapping for New York City using LiDAR and object-based image analysis. Journal of Applied Remote Sensing, 6(1)."
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "36.8",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "39",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "26.2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "28",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "25.4",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "26",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "35.7",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "38",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "34.2",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "37",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2010",
+                    "53.7",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "56",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Vegetative Cover",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Vegetative Cover",
+                "y_axis_title": "Percent  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Vegetative Cover",
+                    "info_measure": "Percent",
+                    "info_how_calculated": "<p>Spatial information classifying ground cover is used to calculate a percentage of each geographic area that is covered in vegetation. See <a href=\"https://doi.org/10.1117/1.JRS.6.063567\" target=\"_blank\">this paper</a> for classification methods discussion.</p>",
+                    "info_source": "University of Vermont remote sensing LiDAR data, assessed using methodology described in: MacFaden, S.W., O’Neil-Dunne, J.P.M., Royer, A.R., Lu, J.W.T., &amp; Rundle, A.G. (2012). High-resolution tree canopy mapping for New York City using LiDAR and object-based image analysis. Journal of Applied Remote Sensing, 6(1)."
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2017",
+                        33.5
+                      ],
+                      [
+                        "2010",
+                        31.5
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2017",
+                        32.5
+                      ],
+                      [
+                        "2010",
+                        29.6
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2017",
+                        29.0
+                      ],
+                      [
+                        "2010",
+                        26.6
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Vegetative Cover",
+        "indicator_description": "<p>Vegetative cover is the land covered by trees, grass, or other plants. This area is not covered by a hard surface such as paved roads, sidewalks, or buildings. <a href=\"https://www.epa.gov/heat-islands/using-trees-and-vegetation-reduce-heat-islands\">Vegetative cover tends to reduce temperatures in the immediate area</a>.</p>",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 42)",
+                "sort_index": 48,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "38.0 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "35.7 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2017",
+            "39.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2010",
+            "36.8 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2017",
+            "28.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2010",
+            "26.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2017",
+            "26.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2010",
+            "25.4 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2017",
+            "37.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2010",
+            "34.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2017",
+            "56.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2010",
+            "53.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2017",
+            "32.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2010",
+            "30.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2017",
+            "40.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2010",
+            "38.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2017",
+            "21.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2010",
+            "18.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2017",
+            "18.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2010",
+            "16.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2017",
+            "63.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2010",
+            "61.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2017",
+            "36.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2010",
+            "34.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2017",
+            "46.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2010",
+            "42.4 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2017",
+            "25.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2010",
+            "23.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2017",
+            "28.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2010",
+            "24.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2017",
+            "24.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2010",
+            "20.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2017",
+            "41.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2010",
+            "40.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2017",
+            "23.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2010",
+            "22.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2017",
+            "22.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2010",
+            "19.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2017",
+            "30.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2010",
+            "28.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2017",
+            "29.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2010",
+            "27.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2017",
+            "14.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2010",
+            "12.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2017",
+            "29.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2010",
+            "26.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2017",
+            "18.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2010",
+            "16.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2017",
+            "29.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2010",
+            "26.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2017",
+            "11.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2010",
+            "7.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2017",
+            "31.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2010",
+            "30.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2017",
+            "13.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2010",
+            "10.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2017",
+            "13.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2010",
+            "9.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2017",
+            "24.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2010",
+            "22.6 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2017",
+            "25.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2010",
+            "24.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2017",
+            "22.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2010",
+            "20.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2017",
+            "29.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2010",
+            "26.7 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2017",
+            "35.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2010",
+            "33.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2017",
+            "55.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2010",
+            "52.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2017",
+            "38.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2010",
+            "35.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2017",
+            "46.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2010",
+            "44.3 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2017",
+            "35.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2010",
+            "31.1 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2017",
+            "18.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2010",
+            "17.0 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2017",
+            "45.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2010",
+            "43.9 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2017",
+            "37.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2010",
+            "35.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2017",
+            "44.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2010",
+            "39.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2017",
+            "29.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2010",
+            "27.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2017",
+            "24.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2010",
+            "23.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2017",
+            "41.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2010",
+            "35.8 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2017",
+            "59.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2010",
+            "55.2 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2017",
+            "51.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2010",
+            "48.5 ",
+            " "
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2017",
+            "61.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2010",
+            "59.1 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Vegetative Cover",
+            "info_measure": "Percent",
+            "info_how_calculated": "<p>Spatial information classifying ground cover is used to calculate a percentage of each geographic area that is covered in vegetation. See <a href=\"https://doi.org/10.1117/1.JRS.6.063567\" target=\"_blank\">this paper</a> for classification methods discussion.</p>",
+            "info_source": [
+              "University of Vermont remote sensing LiDAR data, assessed using methodology described in: MacFaden, S.W., O’Neil-Dunne, J.P.M., Royer, A.R., Lu, J.W.T., &amp; Rundle, A.G. (2012). High-resolution tree canopy mapping for New York City using LiDAR and object-based image analysis. Journal of Applied Remote Sensing, 6(1)."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

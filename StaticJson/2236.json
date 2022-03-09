@@ -1,0 +1,3146 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Adults Reporting Driving in the Last 30 Days",
+        "indicator_description": "",
+        "geography": "Neighborhood (UHF 34)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent",
+            "color": [
+              "eff3ff",
+              "bdd7e7",
+              "6baed6",
+              "3182bd",
+              "08519c"
+            ],
+            "start_range": [
+              -9999999.0,
+              28.7,
+              36.8,
+              44.9,
+              52.0,
+              9999999.0
+            ],
+            "measure": "Percent",
+            "how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "35.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "46.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "27.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "44.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "33.7",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "46.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "35.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "42.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "27.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "41.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "36.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "54.5",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "44.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "38.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "25.9",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "27",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "22.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "25",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "34.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "43",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "34.5",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "55.4",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "46",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "53.9",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "49.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "58.5",
+                    "color": "08519c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "50.7",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "41.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "34.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "25.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "60",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "54.3",
+                    "color": "08519c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "77.3",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "21",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2015",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "38.6",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "52.7",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "29.5",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "42.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "35.1",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "52",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "34.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "40.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "15.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "44.9",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "36.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "57.4",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "47.2",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "44.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "19.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "26.9",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "28.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "17.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "35.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "53.3",
+                    "color": "08519c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "37.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "51.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "50.7",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "47.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "45.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "73.8",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "50",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "30",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "34.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "26",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "62.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "58.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "78.5",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "23.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Percent "
+          },
+          {
+            "legendtext": "",
+            "display": "Number",
+            "color": [
+              "eff3ff",
+              "bdd7e7",
+              "6baed6",
+              "3182bd",
+              "08519c"
+            ],
+            "start_range": [
+              -9999999.0,
+              40000.0,
+              78000.0,
+              93000.0,
+              101000.0,
+              9999999.0
+            ],
+            "measure": "Number",
+            "how_calculated": "<p>Estimated number of adults who reported driving in NYC in the last 30 days, <span>rounded to the nearest 1,000.</span></p>",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "25000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "71000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "51000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "106000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "35000",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "84000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "88000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "28000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "102000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "85000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "83000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "73000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "91000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "41000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "28000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "20000",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "64000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "77000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "132000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "123000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "96000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "115000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "112000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "93000",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "41000",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "129000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "72000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "91000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "79000",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "168000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "82000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2015",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "27000",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "79000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "99000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "36000",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "95000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "83000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "15000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "109000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "86000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "89000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "78000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "103000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "29000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "35000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "14000",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "65000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "95000",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "145000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "113000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "105000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "101000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "101000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "112000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "40000",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "94000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "69000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "55000",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "94000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "82000",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "169000",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "93000",
+                    "color": "3182bd",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Number "
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ]
+      }
+    ],
+    "fileName": "UHF34.json",
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Adults Reporting Driving in the Last 30 Days",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Adults Reporting Driving in the Last 30 Days - Percent 2015 to 2016",
+            "y_axis_title": "Percent ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Adults Reporting Driving in the Last 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+                "info_source": "New York City Community Health Survey (CHS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "34.1",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "32.2",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "39.7",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "39.1",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "29.3",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "31.7",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "41.3",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "40.7",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "50.2",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "48.4",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "70.4",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "68.1",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Adults Reporting Driving in the Last 30 Days",
+        "Measure": "Number",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in  Adults Reporting Driving in the Last 30 Days - Number 2015 to 2016",
+            "y_axis_title": "Number ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Adults Reporting Driving in the Last 30 Days",
+                "info_measure": "Number",
+                "info_how_calculated": "<p>Estimated number of adults who reported driving in NYC in the last 30 days, <span>rounded to the nearest 1,000.</span></p>",
+                "info_source": "New York City Community Health Survey (CHS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "353000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "336000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "781000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "768000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "389000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "424000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "2684000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "2658000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "908000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "883000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2015",
+                    "252000",
+                    "",
+                    "2015",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2016",
+                    "246000",
+                    "",
+                    "2016",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Adults Reporting Driving in the Last 30 Days",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Adults Reporting Driving in the Last 30 Days",
+                "y_axis_title": "Percent  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 34)",
+                "info": [
+                  {
+                    "info_name": "Adults Reporting Driving in the Last 30 Days",
+                    "info_measure": "Percent",
+                    "info_how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+                    "info_source": "New York City Community Health Survey (CHS)"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2016",
+                        54.2
+                      ],
+                      [
+                        "2015",
+                        51.0
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2016",
+                        43.8
+                      ],
+                      [
+                        "2015",
+                        46.5
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2016",
+                        27.4
+                      ],
+                      [
+                        "2015",
+                        29.1
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Adults Reporting Driving in the Last 30 Days",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "compare_type": "Monthly Bicycle Use (Percent)",
+            "graph_title": "Neighborhood  Monthly Bicycle Use by Adults Reporting Driving in the Last 30 Days",
+            "y_axis_title": "Adults Reporting Driving in the Last 30 Days - Percent 2016",
+            "x_axis_title": "Monthly Bicycle Use - Percent 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Monthly Bicycle Use",
+                "y_axis_title_reg": "Adults Reporting Driving in the Last 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Monthly Bicycle Use",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported having ridden a bicycle in NYC at least once a month in the past year, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2016"
+              },
+              {
+                "x_axis_title_reg": "Monthly Bicycle Use",
+                "y_axis_title_reg": "Adults Reporting Driving in the Last 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Driving in the Last 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "14.3",
+                "35.2",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "7.4",
+                "46.8",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "12.1",
+                "27.2",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.4",
+                "44.4",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.1",
+                "33.7",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "32",
+                "46.1",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "35.4",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.3",
+                "42.2",
+                "East New York",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "19.1",
+                "27.7",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.6",
+                "41.9",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.9",
+                "36.1",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "54.5",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13",
+                "44.6",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.8",
+                "38.9",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "25.9",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.4",
+                "27",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.4",
+                "22.7",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.9",
+                "25",
+                "East Harlem",
+                "Manhattan",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "12.8",
+                "34.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.4",
+                "43",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "34.5",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.9",
+                "55.4",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.7",
+                "46",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "53.9",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.2",
+                "49.8",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.3",
+                "58.5",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "21.9",
+                "50.7",
+                "Rockaways",
+                "Queens",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "18.3",
+                "41.2",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.7",
+                "34.9",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.8",
+                "25.4",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.8",
+                "60",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "5.2",
+                "54.3",
+                "Northern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "18.3",
+                "77.3",
+                "Southern SI",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13",
+                "21",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Adults Who Walk or Bike for Transportation (Percent)",
+            "graph_title": "Neighborhood  Adults Who Walk or Bike for Transportation by Adults Reporting Driving in the Last 30 Days",
+            "y_axis_title": "Adults Reporting Driving in the Last 30 Days - Percent 2016",
+            "x_axis_title": "Adults Who Walk or Bike for Transportation - Percent 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Who Walk or Bike for Transportation",
+                "y_axis_title_reg": "Adults Reporting Driving in the Last 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Who Walk or Bike for Transportation",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported having walked or bicycled more than 10 blocks to get to and from work, school, public transportation or to do errands, in the past 30 days, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Adults Who Walk or Bike for Transportation",
+                "y_axis_title_reg": "Adults Reporting Driving in the Last 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Driving in the Last 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "73.9",
+                "35.2",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.7",
+                "46.8",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80",
+                "27.2",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.3",
+                "44.4",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "33.7",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "92",
+                "46.1",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.1",
+                "35.4",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.5",
+                "42.2",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "93.1",
+                "27.7",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.8",
+                "41.9",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82",
+                "36.1",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.1",
+                "54.5",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.5",
+                "44.6",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.6",
+                "38.9",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "79.9",
+                "25.9",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.2",
+                "27",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.1",
+                "22.7",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.6",
+                "25",
+                "East Harlem",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "90.8",
+                "34.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.5",
+                "43",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.4",
+                "34.5",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "79.2",
+                "55.4",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.8",
+                "46",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "53.9",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "79.8",
+                "49.8",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.1",
+                "58.5",
+                "Southeast Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "77.3",
+                "50.7",
+                "Rockaways",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "92.1",
+                "41.2",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.3",
+                "34.9",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.4",
+                "25.4",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.4",
+                "60",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.2",
+                "54.3",
+                "Northern SI",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "65.5",
+                "77.3",
+                "Southern SI",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.1",
+                "21",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          ""
+        ],
+        "link_opts": [
+          {
+            "name": "Physical Activity",
+            "children": [
+              {
+                "compare_type": "Monthly Bicycle Use (Percent)"
+              },
+              {
+                "compare_type": "Adults Who Walk or Bike for Transportation (Percent)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Adults Reporting Driving in the Last 30 Days",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 34)",
+                "sort_index": 44,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: South Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea-Village  ",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square-Lower Manhattan",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side-Gramercy",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside Little Neck-Fresh Meadows",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Staten Island: Northern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Southern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2015",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "2,658,000  ",
+            "",
+            "40.7 ",
+            "(39.3,42.1)"
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2015",
+            "2,684,000  ",
+            "",
+            "41.3 ",
+            "(40.0,42.7)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2016",
+            "336,000  ",
+            "",
+            "32.2 ",
+            "(29.3,35.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2015",
+            "353,000  ",
+            "",
+            "34.1 ",
+            "(31.2,37.1)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2016",
+            "768,000  ",
+            "",
+            "39.1 ",
+            "(36.8,41.4)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2015",
+            "781,000  ",
+            "",
+            "39.7 ",
+            "(37.3,42.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2016",
+            "424,000  ",
+            "",
+            "31.7 ",
+            "(28.6,35.1)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2015",
+            "389,000  ",
+            "",
+            "29.3 ",
+            "(26.6,32.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2016",
+            "883,000  ",
+            "",
+            "48.4 ",
+            "(45.5,51.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2015",
+            "908,000  ",
+            "",
+            "50.2 ",
+            "(47.5,52.9)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2016",
+            "246,000  ",
+            "",
+            "68.1 ",
+            "(61.8,73.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2015",
+            "252,000  ",
+            "",
+            "70.4 ",
+            "(64.4,75.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2016",
+            "51,000  ",
+            "",
+            "27.2 ",
+            "(21.3,34.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2015",
+            "55,000  ",
+            "",
+            "29.5 ",
+            "(23.2,36.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2016",
+            "25,000  ",
+            "",
+            "35.2 ",
+            "(26.0,45.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2015",
+            "27,000*  ",
+            "",
+            "38.6* ",
+            "(27.5,51.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2016",
+            "71,000  ",
+            "",
+            "46.8 ",
+            "(38.9,54.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2015",
+            "79,000  ",
+            "",
+            "52.7 ",
+            "(44.1,61.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2016",
+            "106,000  ",
+            "",
+            "44.4 ",
+            "(37.8,51.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2015",
+            "99,000  ",
+            "",
+            "42.3 ",
+            "(35.7,49.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2016",
+            "82,000  ",
+            "",
+            "21.0 ",
+            "(17.0,25.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2015",
+            "93,000  ",
+            "",
+            "23.8 ",
+            "(20.1,28.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2016",
+            "88,000  ",
+            "",
+            "35.4 ",
+            "(29.8,41.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2015",
+            "83,000  ",
+            "",
+            "34.2 ",
+            "(28.2,40.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2016",
+            "73,000  ",
+            "",
+            "44.6 ",
+            "(36.5,53.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2015",
+            "78,000  ",
+            "",
+            "47.2 ",
+            "(38.2,56.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2016",
+            "102,000  ",
+            "",
+            "41.9 ",
+            "(35.1,49.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2015",
+            "109,000  ",
+            "",
+            "44.9 ",
+            "(38.4,51.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2016",
+            "83,000  ",
+            "",
+            "54.5 ",
+            "(44.6,64.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2015",
+            "89,000  ",
+            "",
+            "57.4 ",
+            "(48.2,66.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2016",
+            "91,000  ",
+            "",
+            "38.9 ",
+            "(32.6,45.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2015",
+            "103,000  ",
+            "",
+            "44.2 ",
+            "(37.5,51.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2016",
+            "84,000  ",
+            "",
+            "46.1 ",
+            "(38.4,54.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2015",
+            "95,000  ",
+            "",
+            "52.0 ",
+            "(44.0,60.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2016",
+            "85,000  ",
+            "",
+            "36.1 ",
+            "(29.7,42.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2015",
+            "86,000  ",
+            "",
+            "36.8 ",
+            "(30.5,43.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2016",
+            "55,000  ",
+            "",
+            "42.2 ",
+            "(33.9,51.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2015",
+            "55,000  ",
+            "",
+            "40.6 ",
+            "(31.8,50.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2016",
+            "35,000*  ",
+            "",
+            "33.7* ",
+            "(23.7,45.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2015",
+            "36,000*  ",
+            "",
+            "35.1* ",
+            "(23.8,48.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2016",
+            "28,000  ",
+            "",
+            "27.7 ",
+            "(19.9,37.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2015",
+            "15,000  ",
+            "",
+            "15.4 ",
+            "(9.6,23.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2016",
+            "41,000  ",
+            "",
+            "25.9 ",
+            "(19.9,33.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2015",
+            "29,000  ",
+            "",
+            "19.1 ",
+            "(13.3,26.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2016",
+            "28,000  ",
+            "",
+            "22.7 ",
+            "(16.3,30.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2015",
+            "35,000  ",
+            "",
+            "28.7 ",
+            "(21.5,37.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2016",
+            "72,000  ",
+            "",
+            "34.9 ",
+            "(26.8,44.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2015",
+            "69,000  ",
+            "",
+            "34.3 ",
+            "(26.6,42.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2016",
+            "20,000*  ",
+            "",
+            "25.0* ",
+            "(15.8,37.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2015",
+            "14,000  ",
+            "",
+            "17.4 ",
+            "(11.8,25.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2016",
+            "55,000  ",
+            "",
+            "25.4 ",
+            "(18.9,33.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2015",
+            "55,000  ",
+            "",
+            "26.0 ",
+            "(19.9,33.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2016",
+            "129,000  ",
+            "",
+            "41.2 ",
+            "(33.6,49.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2015",
+            "94,000  ",
+            "",
+            "30.0 ",
+            "(24.2,36.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2016",
+            "64,000  ",
+            "",
+            "34.4 ",
+            "(25.8,44.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2015",
+            "65,000  ",
+            "",
+            "35.2 ",
+            "(27.2,44.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2016",
+            "55,000  ",
+            "",
+            "27.0 ",
+            "(20.3,34.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2015",
+            "55,000  ",
+            "",
+            "26.9 ",
+            "(20.9,34.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2016",
+            "91,000  ",
+            "",
+            "60.0 ",
+            "(50.0,69.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2015",
+            "94,000  ",
+            "",
+            "62.1 ",
+            "(52.8,70.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2016",
+            "123,000  ",
+            "",
+            "55.4 ",
+            "(45.5,64.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2015",
+            "113,000  ",
+            "",
+            "51.4 ",
+            "(44.2,58.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2016",
+            "112,000  ",
+            "",
+            "49.8 ",
+            "(41.6,58.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2015",
+            "101,000  ",
+            "",
+            "45.8 ",
+            "(38.1,53.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2016",
+            "77,000  ",
+            "",
+            "43.0 ",
+            "(34.3,52.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2015",
+            "95,000*  ",
+            "",
+            "53.3* ",
+            "(42.0,64.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2016",
+            "96,000  ",
+            "",
+            "46.0 ",
+            "(38.8,53.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2015",
+            "105,000  ",
+            "",
+            "50.7 ",
+            "(42.5,58.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2016",
+            "41,000*  ",
+            "",
+            "50.7* ",
+            "(40.5,60.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2015",
+            "40,000*  ",
+            "",
+            "50.0* ",
+            "(39.2,60.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2016",
+            "93,000*  ",
+            "",
+            "58.5* ",
+            "(45.8,70.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2015",
+            "112,000  ",
+            "",
+            "73.8 ",
+            "(65.7,80.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2016",
+            "115,000  ",
+            "",
+            "53.9 ",
+            "(47.3,60.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2015",
+            "101,000  ",
+            "",
+            "47.4 ",
+            "(39.7,55.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2016",
+            "132,000  ",
+            "",
+            "34.5 ",
+            "(29.3,40.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2015",
+            "145,000  ",
+            "",
+            "37.9 ",
+            "(32.7,43.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2016",
+            "79,000*  ",
+            "",
+            "54.3* ",
+            "(43.8,64.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2015",
+            "82,000  ",
+            "",
+            "58.1 ",
+            "(48.9,66.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2016",
+            "168,000  ",
+            "",
+            "77.3 ",
+            "(69.8,83.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2015",
+            "169,000  ",
+            "",
+            "78.5 ",
+            "(70.5,84.8)"
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Adults Reporting Driving in the Last 30 Days",
+            "info_measure": "Number",
+            "info_how_calculated": "<p>Estimated number of adults who reported driving in NYC in the last 30 days, <span>rounded to the nearest 1,000.</span></p>",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          },
+          {
+            "info_name": "Adults Reporting Driving in the Last 30 Days",
+            "info_measure": "Percent",
+            "info_how_calculated": "<p>Estimated percent of adults who reported driving in NYC in the last 30 days<span>; expressed as a percent</span>.</p>",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

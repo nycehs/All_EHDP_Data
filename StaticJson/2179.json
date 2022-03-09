@@ -1,0 +1,5737 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": "Housing Maintenance: Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+        "indicator_description": "",
+        "geography": "Neighborhood (Sub-borough/PUMA)",
+        "dataset": [
+          {
+            "legendtext": "Percent of homes with no maintenance defects (higher percent is better)",
+            "display": "Percent",
+            "color": [
+              "08519c",
+              "3182bd",
+              "6baed6",
+              "bdd7e7",
+              "eff3ff"
+            ],
+            "start_range": [
+              -9999999.0,
+              33.1,
+              41.8,
+              51.2,
+              59.3,
+              9999999.0
+            ],
+            "measure": "Percent",
+            "how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+            "source": "NYC HVS",
+            "map_data": [
+              {
+                "year": "2017",
+                "year_data": [
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "36.2",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "32.2",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 3,
+                    "data_value": "35.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4,
+                    "data_value": "25.8",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 5,
+                    "data_value": "37.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6,
+                    "data_value": "33.6",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 7,
+                    "data_value": "43.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8,
+                    "data_value": "62.7",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 9,
+                    "data_value": "48.7",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "46.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "59.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 12,
+                    "data_value": "48.3",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 13,
+                    "data_value": "33.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 14,
+                    "data_value": "46.7",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 15,
+                    "data_value": "45.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 16,
+                    "data_value": "51.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 17,
+                    "data_value": "55.7",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 18,
+                    "data_value": "36.9",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 19,
+                    "data_value": "44.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "65.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "68.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 22,
+                    "data_value": "67.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 23,
+                    "data_value": "60",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 24,
+                    "data_value": "55.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 25,
+                    "data_value": "63.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 26,
+                    "data_value": "36",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 27,
+                    "data_value": "46",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 28,
+                    "data_value": "51.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 29,
+                    "data_value": "61.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "34.3",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "74.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 32,
+                    "data_value": "71.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 33,
+                    "data_value": "58.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 34,
+                    "data_value": "64.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 35,
+                    "data_value": "38.5",
+                    "color": "3182bd",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 36,
+                    "data_value": "45",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 37,
+                    "data_value": "47.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 38,
+                    "data_value": "39.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 39,
+                    "data_value": "51.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "49.1",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "48.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 42,
+                    "data_value": "46.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 43,
+                    "data_value": "78",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 44,
+                    "data_value": "63.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 45,
+                    "data_value": "61.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 46,
+                    "data_value": "64.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 47,
+                    "data_value": "65.9",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 48,
+                    "data_value": "69.9",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 49,
+                    "data_value": "83.1",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "42",
+                    "color": "6baed6",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 51,
+                    "data_value": "56.4",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "53.1",
+                    "color": "bdd7e7",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "63.8",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "87.1",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "77.6",
+                    "color": "eff3ff",
+                    "character_display": "*"
+                  }
+                ]
+              },
+              {
+                "year": "2008",
+                "year_data": [
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "32.5",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "29.2",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 3,
+                    "data_value": "22.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4,
+                    "data_value": "20.7",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 5,
+                    "data_value": "18.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6,
+                    "data_value": "43.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 7,
+                    "data_value": "41.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8,
+                    "data_value": "49.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 9,
+                    "data_value": "29.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "29.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "51.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 12,
+                    "data_value": "34.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 13,
+                    "data_value": "42.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 14,
+                    "data_value": "33.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 15,
+                    "data_value": "59.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 16,
+                    "data_value": "38.9",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 17,
+                    "data_value": "64.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 18,
+                    "data_value": "19.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 19,
+                    "data_value": "26.8",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "56.5",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "58.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 22,
+                    "data_value": "47.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 23,
+                    "data_value": "67.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 24,
+                    "data_value": "32",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 25,
+                    "data_value": "66",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 26,
+                    "data_value": "20.4",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 27,
+                    "data_value": "31.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 28,
+                    "data_value": "53.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 29,
+                    "data_value": "64.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "40",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "54.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 32,
+                    "data_value": "65.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 33,
+                    "data_value": "55.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 34,
+                    "data_value": "61.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 35,
+                    "data_value": "39.5",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 36,
+                    "data_value": "51.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 37,
+                    "data_value": "36.7",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 38,
+                    "data_value": "29.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 39,
+                    "data_value": "46.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "44.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "50.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 42,
+                    "data_value": "51.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 43,
+                    "data_value": "61.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 44,
+                    "data_value": "50.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 45,
+                    "data_value": "42",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 46,
+                    "data_value": "53.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 47,
+                    "data_value": "58.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 48,
+                    "data_value": "64.5",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 49,
+                    "data_value": "52.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "55.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 51,
+                    "data_value": "55.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "50.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "45.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "65.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "85",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2005",
+                "year_data": [
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "47.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "30.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 3,
+                    "data_value": "21.3",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4,
+                    "data_value": "19.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 5,
+                    "data_value": "32.5",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6,
+                    "data_value": "42.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 7,
+                    "data_value": "35.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8,
+                    "data_value": "61.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 9,
+                    "data_value": "37.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "34.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "47.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 12,
+                    "data_value": "39.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 13,
+                    "data_value": "38.7",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 14,
+                    "data_value": "47.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 15,
+                    "data_value": "40.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 16,
+                    "data_value": "49.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 17,
+                    "data_value": "51",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 18,
+                    "data_value": "24.9",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 19,
+                    "data_value": "18.1",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "56.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "54.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 22,
+                    "data_value": "39",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 23,
+                    "data_value": "62.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 24,
+                    "data_value": "21.3",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 25,
+                    "data_value": "65.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 26,
+                    "data_value": "25.3",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 27,
+                    "data_value": "37.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 28,
+                    "data_value": "55.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 29,
+                    "data_value": "39.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "28",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "54.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 32,
+                    "data_value": "53.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 33,
+                    "data_value": "56.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 34,
+                    "data_value": "55.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 35,
+                    "data_value": "30.2",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 36,
+                    "data_value": "27.7",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 37,
+                    "data_value": "30.6",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 38,
+                    "data_value": "20.9",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 39,
+                    "data_value": "56.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "56.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "57",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 42,
+                    "data_value": "53.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 43,
+                    "data_value": "59.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 44,
+                    "data_value": "57.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 45,
+                    "data_value": "65",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 46,
+                    "data_value": "54.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 47,
+                    "data_value": "60.5",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 48,
+                    "data_value": "75",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 49,
+                    "data_value": "50.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "46.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 51,
+                    "data_value": "56.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "59",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "37.5",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "51.5",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "71.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2002",
+                "year_data": [
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "33.8",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "34.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 3,
+                    "data_value": "18.9",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4,
+                    "data_value": "12.2",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 5,
+                    "data_value": "22.9",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6,
+                    "data_value": "37",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 7,
+                    "data_value": "43.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8,
+                    "data_value": "61.9",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 9,
+                    "data_value": "42",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "37.2",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "81.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 12,
+                    "data_value": "47.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 13,
+                    "data_value": "35.4",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 14,
+                    "data_value": "38.6",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 15,
+                    "data_value": "41.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 16,
+                    "data_value": "42.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 17,
+                    "data_value": "50",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 18,
+                    "data_value": "32",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 19,
+                    "data_value": "32.8",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "63.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "55.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 22,
+                    "data_value": "46.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 23,
+                    "data_value": "59.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 24,
+                    "data_value": "36.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 25,
+                    "data_value": "55",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 26,
+                    "data_value": "31.2",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 27,
+                    "data_value": "37.5",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 28,
+                    "data_value": "47.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 29,
+                    "data_value": "44.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "36.1",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "46.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 32,
+                    "data_value": "63.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 33,
+                    "data_value": "52",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 34,
+                    "data_value": "58",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 35,
+                    "data_value": "35.7",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 36,
+                    "data_value": "32.7",
+                    "color": "08519c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 37,
+                    "data_value": "35.5",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 38,
+                    "data_value": "35.2",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 39,
+                    "data_value": "62.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "52.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "45.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 42,
+                    "data_value": "36.9",
+                    "color": "3182bd",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 43,
+                    "data_value": "59.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 44,
+                    "data_value": "55.5",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 45,
+                    "data_value": "58.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 46,
+                    "data_value": "53",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 47,
+                    "data_value": "59.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 48,
+                    "data_value": "77.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 49,
+                    "data_value": "74.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "65.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 51,
+                    "data_value": "68.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "61.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "44.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "62.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "76.6",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Housing and Vacancy Survey (HVS)",
+            "legend_title": "Percent "
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ]
+      }
+    ],
+    "fileName": "Subboro.json",
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Boroughs",
+            "graph_title": "Trends in Housing Maintenance: Renter-occupied homes with no maintenance deficiencies (TCNY2020) - Percent 2002 to 2017",
+            "y_axis_title": "Percent ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "Bronx",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "31.9",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "34.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "30.3",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "38.3",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Brooklyn",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "46.1",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "42.1",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "44.7",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "52",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Manhattan",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "45.5",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "41",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "50.7",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "54",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "46.3",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "43.9",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "45.9",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "51.9",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Queens",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "57.8",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "57.6",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "51.2",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "57.3",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              },
+              {
+                "line_label": "Staten Island",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "59.1",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "50.9",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "61.6",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2017",
+                    "73.6",
+                    "",
+                    "2017",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": "Housing Maintenance: Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": "Housing Maintenance: Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "y_axis_title": "Percent  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (Sub-borough/PUMA)",
+                "info": [
+                  {
+                    "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                    "info_measure": "Percent",
+                    "info_how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+                    "info_source": "New York City Housing and Vacancy Survey (HVS)"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2017",
+                        63.9
+                      ],
+                      [
+                        "2008",
+                        55.5
+                      ],
+                      [
+                        "2005",
+                        56.5
+                      ],
+                      [
+                        "2002",
+                        58.7
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2017",
+                        50.2
+                      ],
+                      [
+                        "2008",
+                        48.3
+                      ],
+                      [
+                        "2005",
+                        50.1
+                      ],
+                      [
+                        "2002",
+                        46.8
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2017",
+                        38.5
+                      ],
+                      [
+                        "2008",
+                        36.7
+                      ],
+                      [
+                        "2005",
+                        30.6
+                      ],
+                      [
+                        "2002",
+                        35.4
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "compare_type": "Homes with Cockroaches (Percent of Households)",
+            "graph_title": "Neighborhood Housing Maintenance: Renter-occupied homes with no maintenance deficiencies (TCNY2020) by Homes with cockroaches",
+            "y_axis_title": "Homes with Cockroaches - Percent of Households 2017",
+            "x_axis_title": "Renter-occupied homes with no maintenance deficiencies (TCNY2020) - Percent 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "y_axis_title_reg": "Homes with Cockroaches",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Homes with Cockroaches",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "<p>Estimated number of households in an area that reported seeing at least one cockroach daily over the last month, divided by the number of households in the area; expressed as percent.</p>",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "y_axis_title_reg": "Homes with Cockroaches",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "36.2",
+                "45.9",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.2",
+                "39.2",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35.6",
+                "43.6",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.8",
+                "53",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.1",
+                "49",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.6",
+                "33",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "43.9",
+                "47",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "62.7",
+                "14.7",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "48.7",
+                "30.9",
+                "Pelham Parkway",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "46.3",
+                "34",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "59.3",
+                "19.6",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "48.3",
+                "18.2",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "33.1",
+                "31.3",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.7",
+                "33.5",
+                "Bushwick",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "45.2",
+                "30.4",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.4",
+                "21.2",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.7",
+                "33.2",
+                "Sunset Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "36.9",
+                "34",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "44.1",
+                "37.7",
+                "South Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.8",
+                "21.7",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.7",
+                "16.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.1",
+                "25.8",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "60",
+                "17.9",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.3",
+                "23.9",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.2",
+                "18.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36",
+                "49.4",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46",
+                "37.5",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.1",
+                "25",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61.8",
+                "9.6",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.3",
+                "36",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.4",
+                "11.8",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.2",
+                "9.9",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "58.6",
+                "15.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64.6",
+                "10.2",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.5",
+                "33.6",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "45",
+                "26.8",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.1",
+                "30.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.4",
+                "35.1",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.6",
+                "13.1",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.1",
+                "27.8",
+                "Sunnyside/Woodside",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "48.7",
+                "37.1",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.3",
+                "48.4",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78",
+                "8.6",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.3",
+                "13.3",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61.8",
+                "20.8",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64.3",
+                "22.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.9",
+                "14.8",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "69.9",
+                "10.5",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "83.1",
+                "7.5",
+                "Bayside/Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "42",
+                "19.6",
+                "Jamaica",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "56.4",
+                "8.1",
+                "Bellerose/Rosedale",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "53.1",
+                "24.9",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "63.8",
+                "11.5",
+                "North Shore",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "87.1",
+                "2.8",
+                "Mid Island",
+                "Staten Island",
+                "*",
+                "*,*",
+                "*"
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)",
+            "graph_title": "Neighborhood Housing Maintenance: Homes near structures rated good or excellent by Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+            "y_axis_title": "Renter-occupied homes with no maintenance deficiencies (TCNY2020) - Percent 2017",
+            "x_axis_title": "Homes near Structures Rated Good or Excellent - Percent of Households 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "y_axis_title_reg": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes near Structures Rated Good or Excellent",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "<p>Estimated number of households in an area that rated their neighborhood structures as good or excellent, divided by the number of households in the area; expressed as percent.</p>",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "y_axis_title_reg": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "45.7",
+                "36.2",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.2",
+                "32.2",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "50.8",
+                "35.6",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.1",
+                "25.8",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.4",
+                "37.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80",
+                "33.6",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "70.8",
+                "43.9",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.8",
+                "62.7",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "79.1",
+                "48.7",
+                "Pelham Parkway",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "63.4",
+                "46.3",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86",
+                "59.3",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.6",
+                "48.3",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "75.8",
+                "33.1",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "46.7",
+                "Bushwick",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "69.2",
+                "45.2",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.6",
+                "51.4",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.4",
+                "55.7",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "78.4",
+                "36.9",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "72.8",
+                "44.1",
+                "South Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.5",
+                "65.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.5",
+                "68.7",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.4",
+                "67.1",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.7",
+                "60",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.2",
+                "55.3",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.2",
+                "63.2",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "52.5",
+                "36",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73",
+                "46",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "79.3",
+                "51.1",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.6",
+                "61.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.6",
+                "34.3",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.1",
+                "74.4",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "95.6",
+                "71.2",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.9",
+                "58.6",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "95.4",
+                "64.6",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.2",
+                "38.5",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "70.7",
+                "45",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "60.1",
+                "47.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.2",
+                "39.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84",
+                "51.6",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.2",
+                "49.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "84",
+                "48.7",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.6",
+                "46.3",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.3",
+                "78",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "93.7",
+                "63.3",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.8",
+                "61.8",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.2",
+                "64.3",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.1",
+                "65.9",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "85.7",
+                "69.9",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "98",
+                "83.1",
+                "Bayside/Little Neck",
+                "Queens",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "74.3",
+                "42",
+                "Jamaica",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "87.7",
+                "56.4",
+                "Bellerose/Rosedale",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "73.8",
+                "53.1",
+                "Rockaways",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "82.2",
+                "63.8",
+                "North Shore",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "91.1",
+                "87.1",
+                "Mid Island",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "96.8",
+                "77.6",
+                "South Shore",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "link_opts": [
+          {
+            "name": "Cockroaches",
+            "children": [
+              {
+                "compare_type": "Homes with Cockroaches (Percent of Households)"
+              }
+            ]
+          },
+          {
+            "name": "Housing",
+            "children": [
+              {
+                "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "by neighborhood (Sub-borough / PUMA)",
+                "sort_index": 50,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Bronx: Highbridge/South Concourse",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights/Mosholu",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania/East Tremont",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven/Hunts Point",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham Parkway",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Riverdale/Kingsbridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Soundview/Parkchester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Throgs Neck/Co-op City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: University Heights/Fordham",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge/Baychester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bay Ridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brooklyn Heights/Fort Greene",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville/Ocean Hill",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York/Starret City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands/Canarsie",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: N. Crown Heights/Prospect Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope/Carroll Gardens",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay/Gravesend",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: South Crown Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg/Greenpoint",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea/Clinton/Midtown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village/Financial District",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side/Chinatown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights/Hamilton Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town/Turtle Bay",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights/Inwood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Queens: Astoria",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bayside/Little Neck",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bellerose/Rosedale",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst/Corona",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing/Whitestone",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Forest Hills/Rego Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hillcrest/Fresh Meadows",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Howard Beach/South Ozone Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens/Woodhaven",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Middle Village/Ridgewood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Sunnyside/Woodside",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Staten Island: Mid Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: North Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2017",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2017",
+            "967,000  ",
+            "",
+            "51.9 ",
+            "(50.9,52.8)"
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "626,995  ",
+            "",
+            "45.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "674,522  ",
+            "",
+            "43.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "768,611  ",
+            "",
+            "46.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2017",
+            "129,000  ",
+            "",
+            "38.3 ",
+            "(35.6,41)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2008",
+            "69,063  ",
+            "",
+            "30.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2005",
+            "100,806  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2002",
+            "94,764  ",
+            "",
+            "31.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2017",
+            "300,000  ",
+            "",
+            "52.0 ",
+            "(50.2,53.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2008",
+            "193,767  ",
+            "",
+            "44.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2005",
+            "196,513  ",
+            "",
+            "42.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2002",
+            "238,240  ",
+            "",
+            "46.1 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2017",
+            "274,000  ",
+            "",
+            "54.0 ",
+            "(51.5,56.5)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2008",
+            "188,048  ",
+            "",
+            "50.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2005",
+            "161,219  ",
+            "",
+            "41.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2002",
+            "204,040  ",
+            "",
+            "45.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2017",
+            "221,000  ",
+            "",
+            "57.3 ",
+            "(54.7,59.9)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2008",
+            "148,416  ",
+            "",
+            "51.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2005",
+            "195,175  ",
+            "",
+            "57.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2002",
+            "203,012  ",
+            "",
+            "57.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2017",
+            "43,000  ",
+            "",
+            "73.6 ",
+            "(67.8,79.4)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2008",
+            "27,700  ",
+            "",
+            "61.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2005",
+            "20,809  ",
+            "",
+            "50.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2002",
+            "28,556  ",
+            "",
+            "59.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2017",
+            "13,000  ",
+            "",
+            "35.6 ",
+            "(26.6,44.6)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2008",
+            "5,287  ",
+            "",
+            "22.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2005",
+            "6,910  ",
+            "",
+            "21.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2002",
+            "6,456  ",
+            "",
+            "18.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2017",
+            "15,000  ",
+            "",
+            "37.1 ",
+            "(29,45.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2008",
+            "4,695  ",
+            "",
+            "18.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2005",
+            "10,438  ",
+            "",
+            "32.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2002",
+            "7,472  ",
+            "",
+            "22.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2017",
+            "14,000  ",
+            "",
+            "32.2 ",
+            "(25.4,39.1)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2008",
+            "8,396  ",
+            "",
+            "29.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2005",
+            "11,936  ",
+            "",
+            "30.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2002",
+            "12,419  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2017",
+            "15,000  ",
+            "",
+            "36.2 ",
+            "(28.5,44)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2008",
+            "9,910  ",
+            "",
+            "32.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2005",
+            "16,616  ",
+            "",
+            "47.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2002",
+            "11,529  ",
+            "",
+            "33.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2017",
+            "13,000*  ",
+            "",
+            "48.7* ",
+            "(37.9,59.5)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2008",
+            "4,242  ",
+            "",
+            "29.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2005",
+            "8,399  ",
+            "",
+            "37.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2002",
+            "8,754  ",
+            "",
+            "42.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2017",
+            "8,000*  ",
+            "",
+            "33.6* ",
+            "(22.3,44.9)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2008",
+            "8,833  ",
+            "",
+            "43.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2005",
+            "9,906  ",
+            "",
+            "42.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2002",
+            "10,163  ",
+            "",
+            "37.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2017",
+            "18,000  ",
+            "",
+            "43.9 ",
+            "(37,50.8)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2008",
+            "11,621  ",
+            "",
+            "41.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2005",
+            "13,876  ",
+            "",
+            "35.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2002",
+            "17,489  ",
+            "",
+            "43.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2017",
+            "9,000*  ",
+            "",
+            "62.7* ",
+            "(49.1,76.3)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2008",
+            "4,925  ",
+            "",
+            "49.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2005",
+            "7,543  ",
+            "",
+            "61.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2002",
+            "7,186  ",
+            "",
+            "61.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2017",
+            "10,000  ",
+            "",
+            "25.8 ",
+            "(18.9,32.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2008",
+            "6,134  ",
+            "",
+            "20.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2005",
+            "7,030  ",
+            "",
+            "19.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2002",
+            "4,250  ",
+            "",
+            "12.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2017",
+            "14,000  ",
+            "",
+            "46.3 ",
+            "(36.3,56.3)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2008",
+            "5,021  ",
+            "",
+            "29.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2005",
+            "8,152  ",
+            "",
+            "34.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2002",
+            "9,046  ",
+            "",
+            "37.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2017",
+            "19,000  ",
+            "",
+            "65.8 ",
+            "(57.7,74)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2008",
+            "15,585  ",
+            "",
+            "56.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2005",
+            "11,895  ",
+            "",
+            "56.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2002",
+            "14,950  ",
+            "",
+            "63.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2017",
+            "12,000  ",
+            "",
+            "33.1 ",
+            "(24,42.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2008",
+            "10,334  ",
+            "",
+            "42.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2005",
+            "10,033  ",
+            "",
+            "38.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2002",
+            "10,971  ",
+            "",
+            "35.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2017",
+            "31,000  ",
+            "",
+            "68.7 ",
+            "(62.1,75.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2008",
+            "15,364  ",
+            "",
+            "58.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2005",
+            "17,173  ",
+            "",
+            "54.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2002",
+            "19,849  ",
+            "",
+            "55.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2017",
+            "18,000  ",
+            "",
+            "67.1 ",
+            "(58.9,75.3)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2008",
+            "10,855  ",
+            "",
+            "47.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2005",
+            "9,641  ",
+            "",
+            "39.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2002",
+            "11,589  ",
+            "",
+            "46.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2017",
+            "14,000*  ",
+            "",
+            "48.3* ",
+            "(38.2,58.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2008",
+            "6,712  ",
+            "",
+            "34.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2005",
+            "9,159  ",
+            "",
+            "39.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2002",
+            "12,826  ",
+            "",
+            "47.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2017",
+            "11,000  ",
+            "",
+            "36.0 ",
+            "(27.2,44.8)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2008",
+            "5,031  ",
+            "",
+            "20.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2005",
+            "6,233  ",
+            "",
+            "25.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2002",
+            "9,227  ",
+            "",
+            "31.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2017",
+            "15,000*  ",
+            "",
+            "46.7* ",
+            "(35.4,58)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2008",
+            "7,687  ",
+            "",
+            "33.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2005",
+            "12,771  ",
+            "",
+            "47.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2002",
+            "10,238  ",
+            "",
+            "38.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2017",
+            "17,000  ",
+            "",
+            "60.0 ",
+            "(50.9,69.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2008",
+            "14,922  ",
+            "",
+            "67.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2005",
+            "14,984  ",
+            "",
+            "62.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2002",
+            "14,334  ",
+            "",
+            "59.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2017",
+            "14,000  ",
+            "",
+            "46.0 ",
+            "(37.8,54.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2008",
+            "7,651  ",
+            "",
+            "31.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2005",
+            "9,519  ",
+            "",
+            "37.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2002",
+            "10,907  ",
+            "",
+            "37.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2017",
+            "15,000  ",
+            "",
+            "45.2 ",
+            "(36.5,53.9)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2008",
+            "17,610  ",
+            "",
+            "59.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2005",
+            "11,779  ",
+            "",
+            "40.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2002",
+            "13,777  ",
+            "",
+            "41.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2017",
+            "22,000  ",
+            "",
+            "55.3 ",
+            "(46.3,64.3)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2008",
+            "9,261  ",
+            "",
+            "32.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2005",
+            "7,581  ",
+            "",
+            "21.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2002",
+            "13,407  ",
+            "",
+            "36.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2017",
+            "15,000  ",
+            "",
+            "51.1 ",
+            "(42.4,59.8)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2008",
+            "9,522  ",
+            "",
+            "53.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2005",
+            "10,969  ",
+            "",
+            "55.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2002",
+            "10,103  ",
+            "",
+            "47.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2017",
+            "12,000*  ",
+            "",
+            "36.9* ",
+            "(26.5,47.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2008",
+            "4,613  ",
+            "",
+            "19.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2005",
+            "7,868  ",
+            "",
+            "24.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2002",
+            "10,608  ",
+            "",
+            "32.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2017",
+            "12,000  ",
+            "",
+            "51.4 ",
+            "(41.5,61.3)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2008",
+            "7,296  ",
+            "",
+            "38.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2005",
+            "10,840  ",
+            "",
+            "49.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2002",
+            "10,527  ",
+            "",
+            "42.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2017",
+            "19,000  ",
+            "",
+            "63.2 ",
+            "(54.3,72)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2008",
+            "14,083  ",
+            "",
+            "66.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2005",
+            "15,131  ",
+            "",
+            "65.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2002",
+            "14,578  ",
+            "",
+            "55.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2017",
+            "15,000  ",
+            "",
+            "44.1 ",
+            "(34.7,53.5)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2008",
+            "6,470  ",
+            "",
+            "26.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2005",
+            "4,564  ",
+            "",
+            "18.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2002",
+            "9,507  ",
+            "",
+            "32.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2017",
+            "14,000*  ",
+            "",
+            "55.7* ",
+            "(44.6,66.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2008",
+            "14,426  ",
+            "",
+            "64.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2005",
+            "11,155  ",
+            "",
+            "51.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2002",
+            "13,110  ",
+            "",
+            "50.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2017",
+            "26,000  ",
+            "",
+            "59.3 ",
+            "(52.9,65.8)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2008",
+            "16,344  ",
+            "",
+            "51.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2005",
+            "15,216  ",
+            "",
+            "47.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2002",
+            "27,734  ",
+            "",
+            "81.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2017",
+            "19,000  ",
+            "",
+            "45.0 ",
+            "(37,53.1)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2008",
+            "15,407  ",
+            "",
+            "51.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2005",
+            "7,252  ",
+            "",
+            "27.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2002",
+            "9,683  ",
+            "",
+            "32.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2017",
+            "39,000  ",
+            "",
+            "74.4 ",
+            "(68.3,80.6)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2008",
+            "20,605  ",
+            "",
+            "54.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2005",
+            "21,230  ",
+            "",
+            "54.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2002",
+            "18,609  ",
+            "",
+            "46.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2017",
+            "18,000  ",
+            "",
+            "47.1 ",
+            "(38.2,56.1)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2008",
+            "10,740  ",
+            "",
+            "36.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2005",
+            "8,797  ",
+            "",
+            "30.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2002",
+            "11,018  ",
+            "",
+            "35.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2017",
+            "32,000  ",
+            "",
+            "61.8 ",
+            "(54.7,69)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2008",
+            "23,080  ",
+            "",
+            "64.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2005",
+            "10,352  ",
+            "",
+            "39.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2002",
+            "14,502  ",
+            "",
+            "44.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2017",
+            "20,000  ",
+            "",
+            "34.3 ",
+            "(28,40.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2008",
+            "16,839  ",
+            "",
+            "40.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2005",
+            "11,542  ",
+            "",
+            "28.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2002",
+            "16,995  ",
+            "",
+            "36.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2017",
+            "14,000*  ",
+            "",
+            "38.5* ",
+            "(28,49)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2008",
+            "10,360  ",
+            "",
+            "39.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2005",
+            "10,005  ",
+            "",
+            "30.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2002",
+            "13,364  ",
+            "",
+            "35.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2017",
+            "34,000  ",
+            "",
+            "71.2 ",
+            "(63.7,78.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2008",
+            "23,139  ",
+            "",
+            "65.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2005",
+            "23,004  ",
+            "",
+            "53.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2002",
+            "29,632  ",
+            "",
+            "63.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2017",
+            "40,000  ",
+            "",
+            "64.6 ",
+            "(58.2,71)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2008",
+            "32,738  ",
+            "",
+            "61.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2005",
+            "30,212  ",
+            "",
+            "55.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2002",
+            "36,829  ",
+            "",
+            "58.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2017",
+            "35,000  ",
+            "",
+            "58.6 ",
+            "(51.8,65.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2008",
+            "23,755  ",
+            "",
+            "55.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2005",
+            "28,299  ",
+            "",
+            "56.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2002",
+            "33,888  ",
+            "",
+            "52.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2017",
+            "24,000  ",
+            "",
+            "39.4 ",
+            "(34.4,44.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2008",
+            "11,386  ",
+            "",
+            "29.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2005",
+            "10,525  ",
+            "",
+            "20.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2002",
+            "19,520  ",
+            "",
+            "35.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2017",
+            "29,000  ",
+            "",
+            "51.6 ",
+            "(45.1,58.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2008",
+            "19,622  ",
+            "",
+            "46.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2005",
+            "27,299  ",
+            "",
+            "56.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2002",
+            "28,339  ",
+            "",
+            "62.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2017",
+            "8,000*  ",
+            "",
+            "83.1* ",
+            "(72.3,93.8)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2008",
+            "3,859  ",
+            "",
+            "52.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2005",
+            "4,912  ",
+            "",
+            "50.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2002",
+            "8,314  ",
+            "",
+            "74.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2017",
+            "8,000*  ",
+            "",
+            "56.4* ",
+            "(40.3,72.5)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2008",
+            "5,851  ",
+            "",
+            "55.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2005",
+            "7,539  ",
+            "",
+            "56.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2002",
+            "9,424  ",
+            "",
+            "68.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2017",
+            "17,000  ",
+            "",
+            "46.3 ",
+            "(37.4,55.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2008",
+            "12,607  ",
+            "",
+            "51.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2005",
+            "15,243  ",
+            "",
+            "53.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2002",
+            "9,977  ",
+            "",
+            "36.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2017",
+            "22,000  ",
+            "",
+            "61.8 ",
+            "(52.9,70.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2008",
+            "13,203  ",
+            "",
+            "42.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2005",
+            "22,714  ",
+            "",
+            "65.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2002",
+            "21,354  ",
+            "",
+            "58.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2017",
+            "13,000  ",
+            "",
+            "63.3 ",
+            "(54.1,72.5)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2008",
+            "8,501  ",
+            "",
+            "50.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2005",
+            "13,866  ",
+            "",
+            "57.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2002",
+            "13,768  ",
+            "",
+            "55.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2017",
+            "18,000  ",
+            "",
+            "64.3 ",
+            "(55.1,73.5)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2008",
+            "9,523  ",
+            "",
+            "53.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2005",
+            "12,102  ",
+            "",
+            "54.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2002",
+            "12,779  ",
+            "",
+            "53.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2017",
+            "8,000*  ",
+            "",
+            "69.9* ",
+            "(53.9,85.9)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2008",
+            "7,178  ",
+            "",
+            "64.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2005",
+            "8,755  ",
+            "",
+            "75.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2002",
+            "11,523  ",
+            "",
+            "77.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2017",
+            "16,000  ",
+            "",
+            "48.7 ",
+            "(39.3,58.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2008",
+            "12,202  ",
+            "",
+            "50.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2005",
+            "16,349  ",
+            "",
+            "57.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2002",
+            "12,669  ",
+            "",
+            "45.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2017",
+            "12,000*  ",
+            "",
+            "42.0* ",
+            "(31.9,52.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2008",
+            "11,744  ",
+            "",
+            "55.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2005",
+            "11,017  ",
+            "",
+            "46.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2002",
+            "17,243  ",
+            "",
+            "65.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2017",
+            "14,000*  ",
+            "",
+            "65.9* ",
+            "(55.2,76.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2008",
+            "12,769  ",
+            "",
+            "58.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2005",
+            "13,001  ",
+            "",
+            "60.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2002",
+            "14,510  ",
+            "",
+            "59.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2017",
+            "28,000  ",
+            "",
+            "78.0 ",
+            "(70.3,85.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2008",
+            "11,829  ",
+            "",
+            "61.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2005",
+            "16,718  ",
+            "",
+            "59.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2002",
+            "17,430  ",
+            "",
+            "59.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2017",
+            "12,000*  ",
+            "",
+            "53.1* ",
+            "(40.8,65.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2008",
+            "8,262  ",
+            "",
+            "50.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2005",
+            "10,043  ",
+            "",
+            "59.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2002",
+            "11,238  ",
+            "",
+            "61.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2017",
+            "16,000*  ",
+            "",
+            "49.1* ",
+            "(37.9,60.2)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2008",
+            "11,266  ",
+            "",
+            "44.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2005",
+            "15,618  ",
+            "",
+            "56.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2002",
+            "14,445  ",
+            "",
+            "52.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2017",
+            "14,000*  ",
+            "",
+            "87.1* ",
+            "(79.4,94.9)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2008",
+            "7,900  ",
+            "",
+            "65.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2005",
+            "5,449  ",
+            "",
+            "51.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2002",
+            "8,806  ",
+            "",
+            "62.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2017",
+            "18,000*  ",
+            "",
+            "63.8* ",
+            "(53.1,74.4)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2008",
+            "9,289  ",
+            "",
+            "45.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2005",
+            "6,925  ",
+            "",
+            "37.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2002",
+            "8,762  ",
+            "",
+            "44.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2017",
+            "12,000*  ",
+            "",
+            "77.6* ",
+            "(65.6,89.7)"
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2008",
+            "10,511  ",
+            "",
+            "85.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2005",
+            "8,435  ",
+            "",
+            "71.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2002",
+            "10,988  ",
+            "",
+            "76.6 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "info": [
+          {
+            "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+            "info_measure": "Number",
+            "info_how_calculated": "Estimated number of renter-occupied households reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit).",
+            "info_source": [
+              "New York City Housing and Vacancy Survey (HVS)"
+            ]
+          },
+          {
+            "info_name": "Renter-occupied homes with no maintenance deficiencies (TCNY2020)",
+            "info_measure": "Percent",
+            "info_how_calculated": "Estimated number of renter-occupied households in an area reporting no maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of renter-occupied households in the area; expressed as percent..",
+            "info_source": [
+              "New York City Housing and Vacancy Survey (HVS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

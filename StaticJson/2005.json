@@ -1,0 +1,261 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Cleaner Energy",
+        "Measure": "Carbon Intensity of Electricity",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Cleaner Energy - Carbon Intensity of Electricity 2005 to 2012",
+            "y_axis_title": "Carbon Intensity of Electricity (CO2e lbs / MWh)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Cleaner Energy",
+                "info_measure": "Carbon Intensity of Electricity",
+                "info_how_calculated": "The number of pounds of CO2e produced by all NYC sources of electricity, divided by the citywide electric energy usage in megawatt-hours. The amount of CO2e that an electricity source will produce depends on the fuel that is burned and loss that occurs within the distribution network. CO2 equivalents include both emissions of CO2 as well as an equivalent amount of CO2 (in terms of global warming impact) of greenhouse gases of other greenhouse gases. These gases include methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6), each of which has a specific global warming potential (potential to trap heat in Earth's atmosphere). All six greenhouse gases are converted to CO2e and added together to report in one common unit.",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2005",
+                    "931.9",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2006",
+                    "833.8",
+                    "",
+                    "2006",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2007",
+                    "809.5",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "766.4",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "692.2",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "696.9",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "657.69",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "674.911",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Cleaner Energy",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Carbon Intensity of Electricity, CO2e lbs / MWh"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "674.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "657.7 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "696.9 ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "692.2 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "766.4 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "809.5 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2006",
+            "833.8 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "931.9 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Cleaner Energy",
+            "info_measure": "Carbon Intensity of Electricity",
+            "info_how_calculated": "The number of pounds of CO2e produced by all NYC sources of electricity, divided by the citywide electric energy usage in megawatt-hours. The amount of CO2e that an electricity source will produce depends on the fuel that is burned and loss that occurs within the distribution network. CO2 equivalents include both emissions of CO2 as well as an equivalent amount of CO2 (in terms of global warming impact) of greenhouse gases of other greenhouse gases. These gases include methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6), each of which has a specific global warming potential (potential to trap heat in Earth's atmosphere). All six greenhouse gases are converted to CO2e and added together to report in one common unit.",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

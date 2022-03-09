@@ -1,0 +1,156 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Energy Efficiency",
+        "Measure": "Energy Usage (MMBTU) per capita",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Energy Efficiency - Energy Usage (MMBTU) per capita 2007 to 2009",
+            "y_axis_title": "Energy Usage (MMBTU) per capita (3 year rolling average)",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Energy Efficiency",
+                "info_measure": "Energy Usage (MMBTU) per capita",
+                "info_how_calculated": "The amount of fuel oil, electricity, natural gas, and steam power used in the City's building stock is converted to MMBTU and then divided by the City population. Because a hotter or colder summer or winter can have a significant impact on energy usage, this metric lessens the effects of weather by calculating a 3 year rolling average of energy usage for each year.",
+                "info_source": "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "101.5",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "101.2",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "102.6",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Energy Efficiency",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Energy Usage (MMBTU) per capita, 3 year rolling average"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "102.6 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "101.2 ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "101.5 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Energy Efficiency",
+            "info_measure": "Energy Usage (MMBTU) per capita",
+            "info_how_calculated": "The amount of fuel oil, electricity, natural gas, and steam power used in the City's building stock is converted to MMBTU and then divided by the City population. Because a hotter or colder summer or winter can have a significant impact on energy usage, this metric lessens the effects of weather by calculating a 3 year rolling average of energy usage for each year.",
+            "info_source": [
+              "New York City Mayor's Office of Long Term Planning and Sustainability (OLTPS) PlaNYC Indicator Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

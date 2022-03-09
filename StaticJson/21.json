@@ -1,0 +1,4494 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": "Personal Use: Tempo",
+        "indicator_description": "",
+        "geography": "UHF34",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent of Households",
+            "color": [
+              "FFFFB2",
+              "FECD5C",
+              "FD8E3F",
+              "F03C20",
+              "BD0026"
+            ],
+            "start_range": [
+              0.0,
+              2.0,
+              4.0,
+              6.0,
+              8.0,
+              9999999.0
+            ],
+            "measure": "Percent of Households",
+            "how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2003",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "2.6",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "2.3",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "10.2",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "5.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "5.5",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "2.4",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "3.2",
+                    "color": "FECD5C",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "8.7",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "8.1",
+                    "color": "BD0026",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "2.7",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "4.4",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "4.3",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "3.8",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "2.9",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "13",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "10.5",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "8.7",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "14",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "0.7",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "1.1",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "6.6",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "3.2",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "4.6",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "4.1",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "4.8",
+                    "color": "FD8E3F",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "2.1",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "2.7",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "1.7",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "3.5",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "2.9",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "0.7",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "1.1",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "0.9",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "12.9",
+                    "color": "BD0026",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Percent of Households "
+          },
+          {
+            "legendtext": "",
+            "display": "Number of Households",
+            "color": [
+              "FFFFB2",
+              "FECD5C",
+              "FD8E3F",
+              "F03C20",
+              "BD0026"
+            ],
+            "start_range": [
+              0.0,
+              1000.0,
+              2300.0,
+              3600.0,
+              4900.0,
+              9999999.0
+            ],
+            "measure": "Number of Households",
+            "how_calculated": "Estimated number of households that reported personal use of the pesticide Tempo, rounded to the nearest 1,000.",
+            "source": "NYC CHS",
+            "map_data": [
+              {
+                "year": "2003",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "9000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "4000",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "4000",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "4000",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "4000",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "6000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "8000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "5000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "5000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "8000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "4000",
+                    "color": "F03C20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "5000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "3000",
+                    "color": "FD8E3F",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "2000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "0",
+                    "color": "FFFFB2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "1000",
+                    "color": "FECD5C",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "16000",
+                    "color": "BD0026",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Community Health Survey (CHS)",
+            "legend_title": "Number of Households "
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          ""
+        ]
+      }
+    ],
+    "fileName": "UHF34.json",
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Personal Use of Pesticide \"Tempo\"",
+        "Measure": "Percent of Households",
+        "Compare": [
+          {
+            "compare_type": "Homes with Cockroaches (Percent)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes with Cockroaches",
+            "y_axis_title": "Homes with Cockroaches - Percent 2008",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Cockroaches",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes with Cockroaches",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of households in an area that reported seeing at least one cockroach daily over the last month, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2008"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Cockroaches",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "37.9",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "35.4",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "53.3",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "30.1",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "49.5",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "49.5",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "41.2",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "26",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "22.7",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "44.9",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "39.3",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "20.7",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "32.5",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "47.5",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "27.1",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "22.9",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "21.7",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "44.5",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "51.2",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "38.2",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "50.7",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "21.8",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "9.5",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "22.1",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "13.5",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "13.9",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "33.9",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "16.1",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "35.6",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "37.4",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "21.7",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "9.3",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "19.4",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "20.2",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "16.8",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "17.7",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "10.9",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "20.7",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "13.9",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "10.1",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "6.4",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "1",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Adults Reporting Cockroaches in the Home (Percent)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Adults Reporting Cockroaches in the Home",
+            "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2003",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Cockroaches in the Home",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of respondents in an area that reported cockroaches in the past 30 days, divided by the number of respondents in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Adults Reporting Cockroaches in the Home",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "30.7",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "24.7",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "60.8",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "36.5",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "32.6",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.4",
+                "27.6",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "42.7",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "36.2",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "45.1",
+                "Sunset Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "31.3",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "39.9",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "11.4",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "21.6",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "22.7",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "43.3",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "57.5",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "38.8",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "57.4",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "31.1",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "31",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "35.9",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "17.9",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "24",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "18.3",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "26.2",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "8.9",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "30.3",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "9.9",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "21.9",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "34.7",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "10.1",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "10.9",
+                "Northern SI",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "4.4",
+                "Southern SI",
+                "Staten Island",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "12.9",
+                "57.5",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes with Cracks or Holes (Percent of Households)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes with Cracks or Holes",
+            "y_axis_title": "Homes with Cracks or Holes - Percent of Households 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Cracks or Holes",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Homes with Cracks or Holes",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported cracks or holes in the home, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Cracks or Holes",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "20.3",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "16.4",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "23.1",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "15.3",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "27.9",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "29.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "23.5",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "4",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "21.2",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "26.7",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "16.2",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "16.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "15.6",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "19.5",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "6.8",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "8.4",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "6.3",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "19",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "22.1",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "28.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "18",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "15.1",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "11.8",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "14.9",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "9.9",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "17.4",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "23.1",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "18.2",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "10.3",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "10.2",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "5.5",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "4.7",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "7.4",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "2.7",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "5.1",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "5.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "3.5",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "2.9",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "10.8",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "8.3",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "5.8",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "2.1",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes with Leaks (Percent of Households)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes with Leaks",
+            "y_axis_title": "Homes with Leaks - Percent of Households 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Leaks",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Homes with Leaks",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported leaks coming from outside the unit, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with Leaks",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "23.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "21.3",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "31.1",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "20",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "37",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "37.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "28",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "5.7",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "18.2",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "23.8",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "17.3",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "17.4",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "16.7",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "23.2",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "12.9",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "11.8",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "12.5",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "16.5",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "24.1",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "25",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "17.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "20.2",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "16.5",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "22.1",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "13.3",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "18.3",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "23",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "18.9",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "10.5",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "14",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "11.3",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "13.3",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "11.7",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "14.9",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "7.2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "9.9",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "9.2",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "7.5",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "17.6",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "13.5",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "9.5",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "2.7",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes in Deteriorating or Dilapidated Buildings  (Percent)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes in Deteriorating or Dilapidated Buildings ",
+            "y_axis_title": "Homes in Deteriorating or Dilapidated Buildings  - Percent 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes in Deteriorating or Dilapidated Buildings ",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in Deteriorating or Dilapidated Buildings ",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of households in an area in deteriorated or dilapidatied buildings, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes in Deteriorating or Dilapidated Buildings ",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "6.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "6.3",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "10.4",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "2.2",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "13.1",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "14.6",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "5.5",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "5.4",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "5.7",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "5.3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "4.3",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "8",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "6.2",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "2.4",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "1.2",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "3.2",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "3.5",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "7.8",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "3",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "4.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "2.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "2.9",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "0.7",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "2",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "0.6",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "5.9",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "9.5",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "6.4",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "4.5",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "3.2",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "3.4",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "7.4",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "1.6",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "3.4",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "2.9",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "1.5",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "1",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "2.1",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "9.5",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "7.4",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "5.4",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "1.5",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes with 3 or More Maintenance Deficiencies (Percent)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes with 3 or More Maintenance Deficiencies",
+            "y_axis_title": "Homes with 3 or More Maintenance Deficiencies - Percent 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with 3 or More Maintenance Deficiencies",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes with 3 or More Maintenance Deficiencies",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of households in an area reporting three or more maintenance deficiencies (heating equipment breakdown, additional heating required, rodent infestation, cracks/holes in the walls, ceilings or floors, broken plaster/peeling paint larger than 8½ x 11 inches, toilet breakdowns, or water leaks from outside the unit), divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes with 3 or More Maintenance Deficiencies",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "17.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "15.5",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "26.7",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "13.9",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "33.8",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "30.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "25.7",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "4.8",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "14.6",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "24.7",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "16.6",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "10.1",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "12.9",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "19.7",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "7",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "5.6",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "6.3",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "18.8",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "19.5",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "26.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "16.2",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "10.6",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "7.6",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "11.7",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "8.1",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "12.4",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "18",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "13.1",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "6.3",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "8.2",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "4.6",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "3.1",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "4.9",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "6.8",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "4.2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "5.2",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "3.1",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "5.8",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "9.3",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "6.7",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "4.2",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "0.3",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes near Structures Rated Good or Excellent (Percent)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Homes near Structures Rated Good or Excellent",
+            "y_axis_title": "Homes near Structures Rated Good or Excellent - Percent 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes near Structures Rated Good or Excellent",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of households in an area that rated their neighborhood structures as good or excellent, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "73.6",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "78.6",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "57.7",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "71.4",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "39.1",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "36.9",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "44.2",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "86.7",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "79.6",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "59.1",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "57",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "74.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "78.6",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "66.2",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "78.1",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "90.5",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "84.9",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "55",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "58",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "53.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "61.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "88.3",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "84",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "91.4",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "86.3",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "64.5",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "83.9",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "86.1",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "78.1",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "87.9",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "92.7",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "89.3",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "86.9",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "82.6",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "77.2",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "88.1",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "77.5",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "79.5",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "85.2",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "90.7",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "96.9",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Regular Exterminator Service (Percent of Households)",
+            "graph_title": "Neighborhood Personal Use: Tempo by Regular Exterminator Service",
+            "y_axis_title": "Regular Exterminator Service - Percent of Households 2002",
+            "x_axis_title": "Personal Use of Pesticide \"Tempo\" - Percent of Households 2003",
+            "info": [
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Regular Exterminator Service",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Regular Exterminator Service",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported regular exterminator service, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2002"
+              },
+              {
+                "x_axis_title_reg": "Personal Use of Pesticide \"Tempo\"",
+                "y_axis_title_reg": "Regular Exterminator Service",
+                "x_axis_measure": "Percent of Households",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Personal Use of Pesticide \"Tempo\"",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2003"
+              }
+            ],
+            "link_data": [
+              [
+                "2.6",
+                "55.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.3",
+                "35.4",
+                "Northeast Bronx",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "10.2",
+                "51.2",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.1",
+                "35.1",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "60.5",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "58.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "55.1",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "29.1",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.4",
+                "44.7",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.2",
+                "46.3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "41.6",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "32.6",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.7",
+                "40.7",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.4",
+                "33.8",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.3",
+                "23.2",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "40.7",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "41.7",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13",
+                "46.1",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "71.8",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "69.3",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "70.1",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "0.7",
+                "77.4",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "77.6",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "64.6",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "69.6",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "62.7",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "60.3",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.9",
+                "62.3",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "38.8",
+                "Long Island City - Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.6",
+                "38.8",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.2",
+                "30.4",
+                "Flushing - Clearview",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "13.6",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.6",
+                "41.2",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "37.7",
+                "Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.1",
+                "22.4",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.8",
+                "29.4",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.1",
+                "13.1",
+                "Southeast Queens",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.7",
+                "47.2",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "21.3",
+                "Port Richmond",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "18.3",
+                "Stapleton - St. George",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "15.4",
+                "Willowbrook",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "12.8",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          ""
+        ],
+        "link_opts": [
+          {
+            "name": "Cockroaches",
+            "children": [
+              {
+                "compare_type": "Homes with Cockroaches (Percent)"
+              },
+              {
+                "compare_type": "Adults Reporting Cockroaches in the Home (Percent)"
+              }
+            ]
+          },
+          {
+            "name": "Housing",
+            "children": [
+              {
+                "compare_type": "Homes with Cracks or Holes (Percent of Households)"
+              },
+              {
+                "compare_type": "Homes with Leaks (Percent of Households)"
+              },
+              {
+                "compare_type": "Homes in Deteriorating or Dilapidated Buildings  (Percent)"
+              },
+              {
+                "compare_type": "Homes with 3 or More Maintenance Deficiencies (Percent)"
+              },
+              {
+                "compare_type": "Homes near Structures Rated Good or Excellent (Percent)"
+              }
+            ]
+          },
+          {
+            "name": "Pesticides",
+            "children": [
+              {
+                "compare_type": "Regular Exterminator Service (Percent of Households)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Personal Use: Tempo",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 34)",
+                "sort_index": 44,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: South Bronx",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea-Village  ",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square-Lower Manhattan",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side-Gramercy",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside Little Neck-Fresh Meadows",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 44,
+                    "children": [
+                      {
+                        "name": "Staten Island: Northern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Southern SI",
+                        "sort_index": 44,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number of Households",
+          "Percent of Households (95% CL)"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2003",
+            "124,000  ",
+            " ",
+            "4.8 ",
+            "(4.3, 5.4)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2003",
+            "32,000  ",
+            " ",
+            "8.2 ",
+            "(6.6, 10.1)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2003",
+            "36,000  ",
+            " ",
+            "4.8 ",
+            "(4.0, 5.7)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2003",
+            "27,000  ",
+            " ",
+            "4.9 ",
+            "(3.9, 6.2)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2003",
+            "26,000  ",
+            " ",
+            "3.8 ",
+            "(2.9, 4.8)"
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2003",
+            "2,000*  ",
+            " ",
+            "1.0* ",
+            "(0.4, 2.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Fordham - Bronx Pk",
+            "2003",
+            "9,000  ",
+            " ",
+            "10.2 ",
+            "(6.7, 15.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2003",
+            "1,000*  ",
+            " ",
+            "2.6* ",
+            "(1.0, 6.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Northeast Bronx",
+            "2003",
+            "2,000*  ",
+            " ",
+            "2.3* ",
+            "(1.1, 5.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: Pelham - Throgs Neck",
+            "2003",
+            "4,000  ",
+            " ",
+            "5.1 ",
+            "(2.8, 9.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Bronx: South Bronx",
+            "2003",
+            "16,000  ",
+            " ",
+            "12.9 ",
+            "(9.5, 17.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2003",
+            "4,000  ",
+            " ",
+            "3.2 ",
+            "(1.8, 5.6)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2003",
+            "3,000*  ",
+            " ",
+            "3.8* ",
+            "(1.8, 8.0)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Borough Park",
+            "2003",
+            "3,000*  ",
+            " ",
+            "2.7* ",
+            "(1.3, 5.4)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2003",
+            "3,000*  ",
+            " ",
+            "4.3* ",
+            "(2.4, 7.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2003",
+            "2,000*  ",
+            " ",
+            "2.9* ",
+            "(1.4, 5.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2003",
+            "2,000*  ",
+            " ",
+            "2.4* ",
+            "(1.0, 5.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2003",
+            "4,000  ",
+            " ",
+            "4.4* ",
+            "(2.3, 8.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: East New York",
+            "2003",
+            "4,000  ",
+            " ",
+            "8.7 ",
+            "(5.4, 13.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Greenpoint",
+            "2003",
+            "2,000*  ",
+            " ",
+            "5.5* ",
+            "(3.0, 9.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Sunset Park",
+            "2003",
+            "2,000*  ",
+            " ",
+            "8.1* ",
+            "(4.6, 13.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2003",
+            "6,000  ",
+            " ",
+            "13.0 ",
+            "(9.0, 18.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2003",
+            "5,000  ",
+            " ",
+            "8.7 ",
+            "(5.2, 14.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Chelsea-Village  ",
+            "2003",
+            "3,000*  ",
+            " ",
+            "3.5* ",
+            "(1.7, 6.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: East Harlem",
+            "2003",
+            "5,000  ",
+            " ",
+            "14.0 ",
+            "(9.6, 19.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Union Square-Lower Manhattan",
+            "2003",
+            "2,000*  ",
+            " ",
+            "2.9* ",
+            "(1.3, 6.2)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper East Side-Gramercy",
+            "2003",
+            "3,000*  ",
+            " ",
+            "1.7* ",
+            "(0.7, 4.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Upper West Side",
+            "2003",
+            "1,000*  ",
+            " ",
+            "0.7* ",
+            "(0.1, 3.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Manhattan: Washington Heights",
+            "2003",
+            "8,000  ",
+            " ",
+            "10.5 ",
+            "(6.7, 15.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Bayside Little Neck-Fresh Meadows",
+            "2003",
+            "0*  ",
+            " ",
+            "0.7* ",
+            "(0.2, 2.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Flushing - Clearview",
+            "2003",
+            "3,000*  ",
+            " ",
+            "3.2* ",
+            "(1.6, 6.5)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Jamaica",
+            "2003",
+            "5,000  ",
+            " ",
+            "4.8 ",
+            "(2.7, 8.3)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Long Island City - Astoria",
+            "2003",
+            "1,000*  ",
+            " ",
+            "1.1* ",
+            "(0.5, 2.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Ridgewood - Forest Hills",
+            "2003",
+            "3,000*  ",
+            " ",
+            "4.6* ",
+            "(2.4, 8.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Rockaways",
+            "2003",
+            "1,000*  ",
+            " ",
+            "2.7* ",
+            "(1.2, 5.8)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southeast Queens",
+            "2003",
+            "1,000*  ",
+            " ",
+            "2.1* ",
+            "(0.8, 5.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: Southwest Queens",
+            "2003",
+            "4,000  ",
+            " ",
+            "4.1 ",
+            "(2.3, 7.1)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Queens: West Queens",
+            "2003",
+            "8,000  ",
+            " ",
+            "6.6 ",
+            "(4.0, 10.9)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Northern SI",
+            "2003",
+            "1,000*  ",
+            " ",
+            "1.1* ",
+            "(0.3, 4.7)"
+          ],
+          [
+            "44",
+            "Neighborhood (UHF 34)",
+            "Staten Island: Southern SI",
+            "2003",
+            "1,000*  ",
+            " ",
+            "0.9* ",
+            "(0.3, 2.7)"
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "info": [
+          {
+            "info_name": "Personal Use of Pesticide \"Tempo\"",
+            "info_measure": "Number of Households",
+            "info_how_calculated": "Estimated number of households that reported personal use of the pesticide Tempo, rounded to the nearest 1,000.",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          },
+          {
+            "info_name": "Personal Use of Pesticide \"Tempo\"",
+            "info_measure": "Percent of Households",
+            "info_how_calculated": "Estimated number of households in an area that reported personal use of the pesticide Tempo, divided by the number of households in the area; expressed as percent.",
+            "info_source": [
+              "New York City Community Health Survey (CHS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

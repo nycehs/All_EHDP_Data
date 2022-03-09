@@ -1,0 +1,820 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)",
+            "graph_title": "Neighborhood  Children under 6 years with elevated blood lead levels (BLL) by Neighborhood Race/Ethnicity - Non Hispanic Black",
+            "y_axis_title": "Neighborhood Race/Ethnicity - Non Hispanic Black - Percent 2010",
+            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate  BLL>=5 µg/dL (per 1,000 tested) 2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Children under 6 years with elevated blood lead levels (BLL)",
+                "info_measure": "Rate  BLL>=5 µg/dL",
+                "info_how_calculated": "Number of children less than 6 years old tested in a given year with blood lead levels of 5 mcg/dL or greater, divided by the total number of children less than 6 years old who were tested for lead poisoning in a given year; expressed as cases per 1,000 tested. The numbers in this table include all children tested within a given calendar year, regardless of whether they were tested in previous years with the same or different blood lead levels. While children can receive more than one test during the calendar year, children are only counted once using the highest confirmed blood lead level during the calendar year. If the child does not have a confirmed test in a given year, the child’s blood lead level is based on the highest capillary or unknown test type. This measure differs from the rate of children newly identified with blood lead levels at or above a certain level reported by the Health Department in other publications. <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/EPHTPDF/Childhood_Lead_Exposure_Definitions_June_2016.pdf\" target=\"_blank\">Read more </a>about different measures used by the Health Department for surveillance of childhood lead poisoning.",
+                "info_source": "New York City Healthy Homes Program",
+                "info_year": "2014"
+              },
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+                "x_axis_measure": "Rate  BLL>=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+                "info_measure": "Percent",
+                "info_how_calculated": "Neighborhoods are ranked according to the percent of people who consider themselves non-Hispanic blacks. Rankings are divided into 3 approximately equal groupings of low, medium and high population density. ",
+                "info_source": "United States Census,American Community Survey",
+                "info_year": "2010"
+              }
+            ],
+            "link_data": [
+              [
+                "10.2",
+                "2",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.2",
+                "2",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.6",
+                "3",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.6",
+                "3",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "2",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "2",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "2",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "2",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "3",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.3",
+                "3",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.3",
+                "3",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19",
+                "2",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19",
+                "2",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "56.1",
+                "1",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "56.1",
+                "1",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.5",
+                "2",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.5",
+                "2",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.9",
+                "3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.9",
+                "3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "3",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "3",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "1",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "1",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.1",
+                "1",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.1",
+                "1",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25",
+                "3",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25",
+                "3",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.3",
+                "3",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.3",
+                "3",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "1",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "1",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.6",
+                "2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.6",
+                "2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.3",
+                "3",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.3",
+                "3",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "2",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "2",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "3",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "3",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.9",
+                "2",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.9",
+                "2",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.4",
+                "1",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.4",
+                "1",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.4",
+                "1",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.4",
+                "1",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.4",
+                "1",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.4",
+                "1",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.1",
+                "1",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.1",
+                "1",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "2",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "2",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.5",
+                "1",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.5",
+                "1",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "20.2",
+                "2",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.2",
+                "2",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.1",
+                "2",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.1",
+                "2",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.5",
+                "1",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.5",
+                "1",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.2",
+                "1",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "4.2",
+                "1",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "17.6",
+                "1",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.6",
+                "1",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.8",
+                "2",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.8",
+                "2",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.9",
+                "3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.9",
+                "3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "3",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "3",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "3",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "3",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33",
+                "3",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33",
+                "3",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.8",
+                "2",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.8",
+                "2",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.1",
+                "1",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.1",
+                "1",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.3",
+                "1",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.3",
+                "1",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "link_opts": [
+          {
+            "name": "Childhood Lead Exposure",
+            "children": [
+              {
+                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate  BLL>=5 µg/dL)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": []
+  }
+
+

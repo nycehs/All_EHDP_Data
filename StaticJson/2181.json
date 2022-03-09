@@ -1,0 +1,1126 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Sidewalk Area",
+        "indicator_description": "<p>Sidewalks are a critical component of New York City residents&rsquo; commute. Ample sidewalks in neighborhoods are important for commuting, businesses, and physical activity. Greater sidewalk area facilitates safer pedestrian traffic that, in turn, attracts businesses and fosters community. &ldquo;Sidewalk area&rdquo; measures the percent of a neighborhood that is covered by sidewalk area.</p>",
+        "geography": "Neighborhood (UHF 42)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent of Land Area",
+            "color": [
+              "ffffb2",
+              "fecd5c",
+              "fd8d3c",
+              "e31a1c"
+            ],
+            "start_range": [
+              -9999999.0,
+              6.0,
+              7.0,
+              9.0,
+              9999999.0
+            ],
+            "measure": "Percent of Land Area",
+            "how_calculated": "<p>The total sidewalk area (curb-to-building) in km2 within the UHF neighborhood divided by the total land area (excluding inland water bodies). Higher percentages indicate greater sidewalk area, with zero representing no sidewalk area.</p>\n<p>For more information, visit&nbsp;<a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+            "source": "Built Environment & Health Project (BEH)",
+            "map_data": [
+              {
+                "year": "2014",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "3.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "6.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "7.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "4.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "8.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "9.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "6.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "9.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "8.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "10.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "8.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "6.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "9.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "8.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "4.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "7.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "7.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "10.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "8.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "11",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "10.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "10.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "11.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "11",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "11.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "9.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "10",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "9.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "7.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "6.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "6.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "6.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "7.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "7.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "3.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "4.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "4.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "2.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "3.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "The Built Environment &amp; Health Project (BEH), Columbia University",
+            "legend_title": "Percent of Land Area "
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "UHF42.json",
+    "time_trend_data": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Sidewalk Area",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent of Land Area",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Sidewalk Area",
+                "y_axis_title": "Percent of Land Area  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Sidewalk Area",
+                    "info_measure": "Percent of Land Area",
+                    "info_how_calculated": "<p>The total sidewalk area (curb-to-building) in km2 within the UHF neighborhood divided by the total land area (excluding inland water bodies). Higher percentages indicate greater sidewalk area, with zero representing no sidewalk area.</p>\n<p>For more information, visit&nbsp;<a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+                    "info_source": "The Built Environment &amp; Health Project (BEH), Columbia University"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2014",
+                        7.8
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2014",
+                        7.4
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2014",
+                        8.8
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Sidewalk Area",
+        "indicator_description": "<p>Sidewalks are a critical component of New York City residents&rsquo; commute. Ample sidewalks in neighborhoods are important for commuting, businesses, and physical activity. Greater sidewalk area facilitates safer pedestrian traffic that, in turn, attracts businesses and fosters community. &ldquo;Sidewalk area&rdquo; measures the percent of a neighborhood that is covered by sidewalk area.</p>",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 42)",
+                "sort_index": 48,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2014",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Percent of Land Area"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2014",
+            "6.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2014",
+            "6.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2014",
+            "7.8 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2014",
+            "9.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2014",
+            "7.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2014",
+            "3.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2014",
+            "8.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2014",
+            "7.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2014",
+            "9.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2014",
+            "6.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2014",
+            "3.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2014",
+            "6.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2014",
+            "4.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2014",
+            "10.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2014",
+            "7.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2014",
+            "9.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2014",
+            "4.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2014",
+            "7.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2014",
+            "8.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2014",
+            "8.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2014",
+            "8.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2014",
+            "9.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2014",
+            "6.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2014",
+            "10.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2014",
+            "11.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2014",
+            "11.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2014",
+            "7.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2014",
+            "11.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2014",
+            "11.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2014",
+            "10.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2014",
+            "9.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2014",
+            "10.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2014",
+            "10.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2014",
+            "8.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2014",
+            "6.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2014",
+            "6.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2014",
+            "6.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2014",
+            "7.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2014",
+            "9.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2014",
+            "6.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2014",
+            "3.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2014",
+            "7.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2014",
+            "8.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2014",
+            "7.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2014",
+            "4.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2014",
+            "3.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2014",
+            "4.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2014",
+            "2.7 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Sidewalk Area",
+            "info_measure": "Percent of Land Area",
+            "info_how_calculated": "<p>The total sidewalk area (curb-to-building) in km2 within the UHF neighborhood divided by the total land area (excluding inland water bodies). Higher percentages indicate greater sidewalk area, with zero representing no sidewalk area.</p>\n<p>For more information, visit&nbsp;<a href=\"http://beh.columbia.edu/\" target=\"_blank\">http://beh.columbia.edu/</a>.</p>",
+            "info_source": [
+              "The Built Environment &amp; Health Project (BEH), Columbia University"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

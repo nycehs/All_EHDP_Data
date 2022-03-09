@@ -1,0 +1,312 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Supply ",
+        "Measure": "Total Number of Existing Units",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Supply - Total Number of Existing Units 2002 to 2008",
+            "y_axis_title": "Total Number of Existing Units ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Supply ",
+                "info_measure": "Total Number of Existing Units",
+                "info_how_calculated": "The number of housing units in NYC is derived from the Housing and Vacancy Survey (HVS), which is a triennial, population-based, cross-sectional survey of housing units in NYC.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2002",
+                    "3208587",
+                    "",
+                    "2002",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2005",
+                    "3260856",
+                    "",
+                    "2005",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "3328395",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "indicator_description": "",
+        "indicator_name": "Housing Supply ",
+        "Measure": "Cumulative Number of New Units since 2007",
+        "Compare": [
+          {
+            "unreliability_text": [
+              ""
+            ],
+            "compare_type": "Citywide",
+            "graph_title": "Trends in  Housing Supply - Cumulative Number of New Units since 2007 2007 to 2012",
+            "y_axis_title": "Cumulative Number of New Units since 2007 ",
+            "x_axis_title": "Year",
+            "info": [
+              {
+                "info_name": "Housing Supply ",
+                "info_measure": "Cumulative Number of New Units since 2007",
+                "info_how_calculated": "The cumulative sum of the number of Certificates of Occupancy, including Temporary Certificates of Occupancy, issued annually by the Department of Buildings since the inception of PlaNYC in 2007. A Certificate of Occupancy is required by the City and indicates that a building is ready for occupation. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                "info_source": "New York City Department of City Planning (DCP) Permit and Occupancy Data"
+              }
+            ],
+            "line_data": [
+              {
+                "line_label": "New York City",
+                "goal": "0",
+                "line_data": [
+                  [
+                    "2007",
+                    "26382",
+                    "",
+                    "2007",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2008",
+                    "50427",
+                    "",
+                    "2008",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2009",
+                    "74879",
+                    "",
+                    "2009",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2010",
+                    "98924",
+                    "",
+                    "2010",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2011",
+                    "122969",
+                    "",
+                    "2011",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2012",
+                    "125837",
+                    "",
+                    "2012",
+                    "Year",
+                    "year"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Housing Supply ",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2012",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2011",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2010",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Cumulative Number of New Units since 2007",
+          "Total Number of Existing Units"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2012",
+            "125,837  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2011",
+            "122,969  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2010",
+            "98,924  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2009",
+            "74,879  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2008",
+            "50,427  ",
+            " ",
+            "3,328,395  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "26,382  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2005",
+            "3,260,856  ",
+            " "
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2002",
+            "3,208,587  ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Housing Supply ",
+            "info_measure": "Cumulative Number of New Units since 2007",
+            "info_how_calculated": "The cumulative sum of the number of Certificates of Occupancy, including Temporary Certificates of Occupancy, issued annually by the Department of Buildings since the inception of PlaNYC in 2007. A Certificate of Occupancy is required by the City and indicates that a building is ready for occupation. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "info_source": [
+              "New York City Department of City Planning (DCP) Permit and Occupancy Data "
+            ]
+          },
+          {
+            "info_name": "Housing Supply ",
+            "info_measure": "Total Number of Existing Units",
+            "info_how_calculated": "The number of housing units in NYC is derived from the Housing and Vacancy Survey (HVS), which is a triennial, population-based, cross-sectional survey of housing units in NYC.",
+            "info_source": [
+              "New York City Housing and Vacancy Survey (HVS)"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

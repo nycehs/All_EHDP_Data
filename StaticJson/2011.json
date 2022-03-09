@@ -1,0 +1,276 @@
+
+  {
+    "map_node": [],
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Modal Shift - All Travel",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide (All Boroughs)",
+                "children": [
+                  {
+                    "name": "",
+                    "sort_index": 100,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 100,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2009",
+                "col": 3,
+                "chk": true
+              },
+              {
+                "name": "2008",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2006",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2005",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2004",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2003",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2002",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2001",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2000",
+                "col": 3,
+                "chk": false
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Automobile and Transit Volume, percent of year 2000 volume"
+        ],
+        "row_data": [
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2009",
+            "110.5 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2008",
+            "113.4 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2007",
+            "109.8 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2006",
+            "106.9 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2005",
+            "104.9 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2004",
+            "102.7 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2003",
+            "100.9 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2002",
+            "103.6 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2001",
+            "102.7 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "",
+            "2000",
+            "100.0 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2009",
+            "97.6 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2008",
+            "97.3 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2007",
+            "99.3 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2006",
+            "99.7 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2005",
+            "100.1 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2004",
+            "101.2 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2003",
+            "100.7 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2002",
+            "99.3 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2001",
+            "97.7 ",
+            " "
+          ],
+          [
+            "100",
+            "Citywide (All Boroughs)",
+            "Bronx: Automobile Traffic",
+            "2000",
+            "100.0 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Modal Shift - All Travel",
+            "info_measure": "Automobile and Transit Volume",
+            "info_how_calculated": "Automobile traffic is calculated by summing data reported in the New York Metropolitan Transportation Council's (NYMTC) annual hub-bound (Manhattan below 60th St) report, the NYC Department of Transportation’s (DOT) screenline reports, and annual bridge traffic data. The NYMTC and NYC DOT traffic and screenline reports are manual counts that are modeled in order to extrapolate throughout the year. Transit ridership is calculated from NYC transit subway and bus boarding data, and includes bicycle ridership as estimated from NYC DOT bicycle screenline (boundary) counts and NYMTC annual hub-bound reports. Both numbers are indexed so that their volume percentage in the year 2000 equals 100.",
+            "info_source": [
+              "New York City Department of Transportation Sustainable Streets Index"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+

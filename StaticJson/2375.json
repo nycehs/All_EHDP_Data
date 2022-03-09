@@ -1,0 +1,1990 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Non-fatal Assault Hospitalizations",
+        "indicator_description": "<p>Violence is frequently described through homicide statistics.&nbsp;While it is a leading cause of death and captures the most severe form of violence, non-fatal violence-related injuries resulting in hospitalizations are much more common and help paint the larger picture on the burden of violence and its impact on the health and future of individuals, families, and communities.</p>",
+        "geography": "Neighborhood (Community District)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Age-Adjusted Rate",
+            "color": [
+              "eff3ff",
+              "bdd7e7",
+              "6baed6",
+              "2171b5"
+            ],
+            "start_range": [
+              -9999999.0,
+              19.0,
+              32.0,
+              65.0,
+              9999999.0
+            ],
+            "measure": "Age-Adjusted Rate",
+            "how_calculated": "<p>Counts were calculated as described above and summed within five age groups (0-17, 18-24, 25-44, 45-64, 65+) and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates, expressed as cases per 100,000 residents.</p>",
+            "source": "SPARCS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "19.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "30.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "24.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "21.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "25.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "13.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 108,
+                    "data_value": "12",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 109,
+                    "data_value": "45.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 110,
+                    "data_value": "81",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 111,
+                    "data_value": "82.4",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 112,
+                    "data_value": "31.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "163.9",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "143.9",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "119.7",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "83.9",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "69",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "107.3",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "66.1",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "19.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "54.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "32.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "55.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 212,
+                    "data_value": "69",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "21.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "32.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "65.2",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "38.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "82.6",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "24",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "19.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "69.2",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "62.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "16.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 311,
+                    "data_value": "17.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 312,
+                    "data_value": "22.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 313,
+                    "data_value": "51.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 314,
+                    "data_value": "32.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 315,
+                    "data_value": "14.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 316,
+                    "data_value": "108.1",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 317,
+                    "data_value": "76",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 318,
+                    "data_value": "38.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "58.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "12.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "23.2",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "27.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "18.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "15.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "18.7",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "33.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "38.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 411,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 412,
+                    "data_value": "58.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 413,
+                    "data_value": "20.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 414,
+                    "data_value": "56.1",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "70.8",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "36.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "15.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "Statewide Planning and Research Cooperative System",
+            "legend_title": "Age-Adjusted Rate (per 100,000 residents)"
+          },
+          {
+            "legendtext": "",
+            "display": "Number",
+            "color": [
+              "eff3ff",
+              "bdd7e7",
+              "6baed6",
+              "2171b5"
+            ],
+            "start_range": [
+              -9999999.0,
+              36.0,
+              54.0,
+              98.0,
+              9999999.0
+            ],
+            "measure": "Number",
+            "how_calculated": "<p>&nbsp;</p>\n<p><span>Number of NYC non-fatal assault hospitalizations among all ages was identified using the following ICD10-CM codes: X92-X99, Y00-Y04, Y07-Y09, T(36-65).x3, T(36-65).xx3, T71.xx3, T74, T76. Only live discharges and initial encounters are included. Assaults classified as terrorism, legal intervention, or operations of war are excluded. All figures include NYC residents only.</span></p>",
+            "source": "SPARCS",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "14",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "59",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "34",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "13",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "43",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "27",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 108,
+                    "data_value": "22",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 109,
+                    "data_value": "54",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 110,
+                    "data_value": "97",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 111,
+                    "data_value": "107",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 112,
+                    "data_value": "67",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "163",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "82",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "112",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "133",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "98",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "94",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "103",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "21",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "102",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "37",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "65",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 212,
+                    "data_value": "107",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "46",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "39",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "103",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "46",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "151",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "24",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "26",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "70",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "62",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "21",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 311,
+                    "data_value": "35",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 312,
+                    "data_value": "42",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 313,
+                    "data_value": "54",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 314,
+                    "data_value": "53",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 315,
+                    "data_value": "24",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 316,
+                    "data_value": "91",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 317,
+                    "data_value": "115",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 318,
+                    "data_value": "73",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "125",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "16",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "43",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "54",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "31",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "38",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "30",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "49",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "46",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 411,
+                    "data_value": "***",
+                    "color": "E1E1E1",
+                    "character_display": "***"
+                  },
+                  {
+                    "geo_entity_id": 412,
+                    "data_value": "135",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 413,
+                    "data_value": "39",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 414,
+                    "data_value": "61",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "127",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "46",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "24",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "Statewide Planning and Research Cooperative System",
+            "legend_title": "Number "
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "*** Number is suppressed for confidentiality reasons."
+        ]
+      }
+    ],
+    "fileName": "CD.json",
+    "time_trend_data": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Non-fatal Assault Hospitalizations",
+        "show_disparities_data": [
+          {
+            "Measure": "Age-Adjusted Rate",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Non-fatal Assault Hospitalizations",
+                "y_axis_title": "Age-Adjusted Rate (per 100,000 residents) (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2012-16 (Community District)",
+                "info": [
+                  {
+                    "info_name": "Non-fatal Assault Hospitalizations",
+                    "info_measure": "Age-Adjusted Rate",
+                    "info_how_calculated": "<p>Counts were calculated as described above and summed within five age groups (0-17, 18-24, 25-44, 45-64, 65+) and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates, expressed as cases per 100,000 residents.</p>",
+                    "info_source": "Statewide Planning and Research Cooperative System"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2016",
+                        19.7
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2016",
+                        32.8
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2016",
+                        66.1
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "link_data_node": [],
+    "summarize_data": [
+      {
+        "indicator_name": "Non-fatal Assault Hospitalizations",
+        "indicator_description": "<p>Violence is frequently described through homicide statistics.&nbsp;While it is a leading cause of death and captures the most severe form of violence, non-fatal violence-related injuries resulting in hospitalizations are much more common and help paint the larger picture on the burden of violence and its impact on the health and future of individuals, families, and communities.</p>",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (community district)",
+                "sort_index": 51,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Bronx: Belmont and East Tremont (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham and University Heights (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Highbridge and Concourse (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point and Longwood (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights and Bedford (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morris Park and Bronxdale (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania and Crotona (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven and Melrose (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Parkchester and Soundview (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Riverdale and Fieldston (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Throgs Neck and Co-op City (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge and Baychester (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bay Ridge and Dyker Heights (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville (CD16)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island (CD13)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Crown Heights and Prospect Heights (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush (CD17)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York and Starrett City (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush and Midwood (CD14)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands and Canarsie (CD18)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Fort Greene and Brooklyn Heights (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint and Williamsburg (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope and Carroll Gardens (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay (CD15)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: South Crown Heights and Lefferts Gardens (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Clinton and Chelsea (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Financial District (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village and Soho (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side and Chinatown (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Midtown (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights and Hamilton Heights (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town and Turtle Bay (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights and Inwood (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside and Little Neck (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst and Corona (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing and Whitestone (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hillcrest and Fresh Meadows (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica and Hollis (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens and Woodhaven (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City and Astoria (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Queens Village (CD13)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rego Park and Forest Hills (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood and Maspeth (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaway and Broad Channel (CD14)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: South Ozone Park and Howard Beach (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Woodside and Sunnyside (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Staten Island: South Beach and Willowbrook (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: St. George and Stapleton (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Tottenville and Great Kills (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2016",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Age-Adjusted Rate, per 100,000 residents"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2016",
+            "3,841  ",
+            "",
+            "43.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2016",
+            "1,193  ",
+            "",
+            "80.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2016",
+            "1,129  ",
+            "",
+            "42.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2016",
+            "605  ",
+            "",
+            "34.5 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2016",
+            "712  ",
+            "",
+            "30.7 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2016",
+            "202  ",
+            "",
+            "43.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Belmont and East Tremont (CD6)",
+            "2016",
+            "94  ",
+            "",
+            "107.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Fordham and University Heights (CD5)",
+            "2016",
+            "98  ",
+            "",
+            "69.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Highbridge and Concourse (CD4)",
+            "2016",
+            "133  ",
+            "",
+            "83.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Hunts Point and Longwood (CD2)",
+            "2016",
+            "82  ",
+            "",
+            "143.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Kingsbridge Heights and Bedford (CD7)",
+            "2016",
+            "103  ",
+            "",
+            "66.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Morris Park and Bronxdale (CD11)",
+            "2016",
+            "65  ",
+            "",
+            "55.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Morrisania and Crotona (CD3)",
+            "2016",
+            "112  ",
+            "",
+            "119.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Mott Haven and Melrose (CD1)",
+            "2016",
+            "163  ",
+            "",
+            "163.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Parkchester and Soundview (CD9)",
+            "2016",
+            "102  ",
+            "",
+            "54.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Riverdale and Fieldston (CD8)",
+            "2016",
+            "21  ",
+            "",
+            "19.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Throgs Neck and Co-op City (CD10)",
+            "2016",
+            "37  ",
+            "",
+            "32.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Williamsbridge and Baychester (CD12)",
+            "2016",
+            "107  ",
+            "",
+            "69.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bay Ridge and Dyker Heights (CD10)",
+            "2016",
+            "21  ",
+            "",
+            "16.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bedford Stuyvesant (CD3)",
+            "2016",
+            "103  ",
+            "",
+            "65.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bensonhurst (CD11)",
+            "2016",
+            "35  ",
+            "",
+            "17.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Borough Park (CD12)",
+            "2016",
+            "42  ",
+            "",
+            "22.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Brownsville (CD16)",
+            "2016",
+            "91  ",
+            "",
+            "108.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bushwick (CD4)",
+            "2016",
+            "46  ",
+            "",
+            "38.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Coney Island (CD13)",
+            "2016",
+            "54  ",
+            "",
+            "51.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Crown Heights and Prospect Heights (CD8)",
+            "2016",
+            "70  ",
+            "",
+            "69.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: East Flatbush (CD17)",
+            "2016",
+            "115  ",
+            "",
+            "76.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: East New York and Starrett City (CD5)",
+            "2016",
+            "151  ",
+            "",
+            "82.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Flatbush and Midwood (CD14)",
+            "2016",
+            "53  ",
+            "",
+            "32.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Flatlands and Canarsie (CD18)",
+            "2016",
+            "73  ",
+            "",
+            "38.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Fort Greene and Brooklyn Heights (CD2)",
+            "2016",
+            "39  ",
+            "",
+            "32.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Greenpoint and Williamsburg (CD1)",
+            "2016",
+            "46  ",
+            "",
+            "21.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Park Slope and Carroll Gardens (CD6)",
+            "2016",
+            "24  ",
+            "",
+            "24.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Sheepshead Bay (CD15)",
+            "2016",
+            "24  ",
+            "",
+            "14.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: South Crown Heights and Lefferts Gardens (CD9)",
+            "2016",
+            "62  ",
+            "",
+            "62.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Sunset Park (CD7)",
+            "2016",
+            "26  ",
+            "",
+            "19.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Central Harlem (CD10)",
+            "2016",
+            "97  ",
+            "",
+            "81.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Clinton and Chelsea (CD4)",
+            "2016",
+            "34  ",
+            "",
+            "24.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: East Harlem (CD11)",
+            "2016",
+            "107  ",
+            "",
+            "82.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Financial District (CD1)",
+            "2016",
+            "14  ",
+            "",
+            "19.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Greenwich Village and Soho (CD2)",
+            "2016",
+            "*** ",
+            "",
+            "*** ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Lower East Side and Chinatown (CD3)",
+            "2016",
+            "59  ",
+            "",
+            "30.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Midtown (CD5)",
+            "2016",
+            "13  ",
+            "",
+            "21.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Morningside Heights and Hamilton Heights (CD9)",
+            "2016",
+            "54  ",
+            "",
+            "45.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Stuyvesant Town and Turtle Bay (CD6)",
+            "2016",
+            "43  ",
+            "",
+            "25.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Upper East Side (CD8)",
+            "2016",
+            "22  ",
+            "",
+            "12.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Upper West Side (CD7)",
+            "2016",
+            "27  ",
+            "",
+            "13.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Washington Heights and Inwood (CD12)",
+            "2016",
+            "67  ",
+            "",
+            "31.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Bayside and Little Neck (CD11)",
+            "2016",
+            "*** ",
+            "",
+            "*** ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Elmhurst and Corona (CD4)",
+            "2016",
+            "54  ",
+            "",
+            "27.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Flushing and Whitestone (CD7)",
+            "2016",
+            "38  ",
+            "",
+            "15.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Hillcrest and Fresh Meadows (CD8)",
+            "2016",
+            "30  ",
+            "",
+            "18.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Jackson Heights (CD3)",
+            "2016",
+            "43  ",
+            "",
+            "23.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Jamaica and Hollis (CD12)",
+            "2016",
+            "135  ",
+            "",
+            "58.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Kew Gardens and Woodhaven (CD9)",
+            "2016",
+            "49  ",
+            "",
+            "33.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Long Island City and Astoria (CD1)",
+            "2016",
+            "125  ",
+            "",
+            "58.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Queens Village (CD13)",
+            "2016",
+            "39  ",
+            "",
+            "20.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Rego Park and Forest Hills (CD6)",
+            "2016",
+            "*** ",
+            "",
+            "*** ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Ridgewood and Maspeth (CD5)",
+            "2016",
+            "31  ",
+            "",
+            "18.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Rockaway and Broad Channel (CD14)",
+            "2016",
+            "61  ",
+            "",
+            "56.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: South Ozone Park and Howard Beach (CD10)",
+            "2016",
+            "46  ",
+            "",
+            "38.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Woodside and Sunnyside (CD2)",
+            "2016",
+            "16  ",
+            "",
+            "12.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: South Beach and Willowbrook (CD2)",
+            "2016",
+            "46  ",
+            "",
+            "36.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: St. George and Stapleton (CD1)",
+            "2016",
+            "127  ",
+            "",
+            "70.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: Tottenville and Great Kills (CD3)",
+            "2016",
+            "24  ",
+            "",
+            "15.3 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          "",
+          "*** Number is suppressed for confidentiality reasons."
+        ],
+        "info": [
+          {
+            "info_name": "Non-fatal Assault Hospitalizations",
+            "info_measure": "Number",
+            "info_how_calculated": "<p>&nbsp;</p>\n<p><span>Number of NYC non-fatal assault hospitalizations among all ages was identified using the following ICD10-CM codes: X92-X99, Y00-Y04, Y07-Y09, T(36-65).x3, T(36-65).xx3, T71.xx3, T74, T76. Only live discharges and initial encounters are included. Assaults classified as terrorism, legal intervention, or operations of war are excluded. All figures include NYC residents only.</span></p>",
+            "info_source": [
+              "Statewide Planning and Research Cooperative System"
+            ]
+          },
+          {
+            "info_name": "Non-fatal Assault Hospitalizations",
+            "info_measure": "Age-Adjusted Rate",
+            "info_how_calculated": "<p>Counts were calculated as described above and summed within five age groups (0-17, 18-24, 25-44, 45-64, 65+) and divided by the population in each age group, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates, expressed as cases per 100,000 residents.</p>",
+            "info_source": [
+              "Statewide Planning and Research Cooperative System"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+
