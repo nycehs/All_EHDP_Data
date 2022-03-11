@@ -21,6 +21,8 @@ library(odbc)
 library(lubridate)
 library(fs)
 library(keyring)
+library(rvest)
+library(httr)
 
 #-----------------------------------------------------------------------------------------#
 # Connecting to BESP_Indicator
