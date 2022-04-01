@@ -78,7 +78,7 @@ avail_data <-
 push_history <- 
     EHDP_odbc %>% 
     tbl("push_history") %>% 
-    filter(data_upload_date >= !!today()) %>% 
+    filter(data_upload_date >= !!(today()-2)) %>% 
     distinct(name) %>% 
     collect()
 
@@ -174,7 +174,7 @@ for (i in 1:length(internal_id)) {
     
     # save DataHandler.ashx response JSON
     
-    write_lines(indicator_json[[i]], paste0("output/StaticJson/", internal_id[i], ".json"))
+    write_lines(indicator_json[[i]], paste0("StaticJson/", internal_id[i], ".json"))
     
 }
 
