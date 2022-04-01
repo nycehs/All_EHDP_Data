@@ -78,7 +78,7 @@ avail_data <-
 push_history <- 
     EHDP_odbc %>% 
     tbl("push_history") %>% 
-    filter(data_upload_date >= !!(today()-2)) %>% 
+    filter(data_upload_date >= !!(today()-5)) %>% 
     distinct(name) %>% 
     collect()
 
