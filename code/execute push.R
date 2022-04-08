@@ -61,6 +61,7 @@ EHDP_odbc <-
 ret <- EHDP_odbc %>% dbExecute("EXECUTE dbo.migrate_stag_to_prod_push_ready")
 print(ret)
 
+
 #-----------------------------------------------------------------------------------------#
 # Updating StaticJson ----
 #-----------------------------------------------------------------------------------------#
@@ -78,7 +79,7 @@ avail_data <-
 push_history <- 
     EHDP_odbc %>% 
     tbl("push_history") %>% 
-    filter(data_upload_date >= !!(today()-5)) %>% 
+    filter(data_upload_date >= !!(today()-2)) %>% 
     distinct(name) %>% 
     collect()
 

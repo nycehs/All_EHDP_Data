@@ -1702,6 +1702,54 @@
                 "year": "2012",
                 "year_data": [
                   {
+                    "geo_entity_id": 410,
+                    "data_value": "78.9",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305307,
+                    "data_value": "86.3",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306308,
+                    "data_value": "85.8",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309310,
+                    "data_value": "84.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404406,
+                    "data_value": "78.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501502,
+                    "data_value": "83.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503504,
+                    "data_value": "77.2",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105106107,
+                    "data_value": "72.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 101,
                     "data_value": "77.6",
                     "color": "6baed6",
@@ -1855,54 +1903,6 @@
                     "geo_entity_id": 409,
                     "data_value": "78.2",
                     "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "78.9",
-                    "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305307,
-                    "data_value": "86.3",
-                    "color": "2171b5",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306308,
-                    "data_value": "85.8",
-                    "color": "2171b5",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309310,
-                    "data_value": "84.8",
-                    "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404406,
-                    "data_value": "78.2",
-                    "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501502,
-                    "data_value": "83.2",
-                    "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503504,
-                    "data_value": "77.2",
-                    "color": "6baed6",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105106107,
-                    "data_value": "72.8",
-                    "color": "bdd7e7",
                     "character_display": ""
                   }
                 ]
@@ -6535,794 +6535,6 @@
         "Measure": "Percent",
         "Compare": [
           {
-            "compare_type": "Walking Distance to a Park (Percent of Population)",
-            "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Walking Distance to a Park",
-            "y_axis_title": "Walking Distance to a Park - Percent of Population 2017",
-            "x_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
-            "info": [
-              {
-                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "y_axis_title_reg": "Walking Distance to a Park",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Population",
-                "info_name": "Walking Distance to a Park",
-                "info_measure": "Percent of Population",
-                "info_how_calculated": "<p>A map of \"walk-to-a-park service areas\" from the NYC Parks Department was overlayed onto a map of 2017 population estimates by census tract to calculate the percentage of the population that potentially live within the service area.&nbsp;These percentages were aggregated up to a neighborhood level.</p>",
-                "info_source": "New York City Department of Parks and Recreation,New York City DOHMH population estimates, modified from US Census Bureau inter-censal population estimates",
-                "info_year": "2017"
-              },
-              {
-                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "y_axis_title_reg": "Walking Distance to a Park",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Population",
-                "info_name": "Adults Reporting Exercise in the Past 30 Days",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2017"
-              }
-            ],
-            "link_data": [
-              [
-                "76.9",
-                "88",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.9",
-                "88",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63",
-                "54",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63",
-                "54",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "98",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "98",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "78",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "78",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "99",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "99",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64.6",
-                "98",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64.6",
-                "98",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.4",
-                "96",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "65.4",
-                "96",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74",
-                "94",
-                "Greenpoint",
-                "Brooklyn",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74",
-                "94",
-                "Greenpoint",
-                "Brooklyn",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "82.6",
-                "94",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82.6",
-                "94",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "94",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "94",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.1",
-                "84",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.1",
-                "84",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64",
-                "87",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64",
-                "87",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.2",
-                "73",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.2",
-                "73",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "62",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "62",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69",
-                "76",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69",
-                "76",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69.5",
-                "80",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69.5",
-                "80",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "67.6",
-                "78",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "67.6",
-                "78",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.6",
-                "93",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.6",
-                "93",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.2",
-                "100",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.2",
-                "100",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.2",
-                "99",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.2",
-                "99",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "80.8",
-                "99",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "80.8",
-                "99",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.4",
-                "99",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.4",
-                "99",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "90.8",
-                "95",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "90.8",
-                "95",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.1",
-                "94",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.1",
-                "94",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "91",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "91",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.8",
-                "99",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.8",
-                "99",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.9",
-                "100",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.9",
-                "100",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82",
-                "99",
-                "Lower Manhattan",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "82",
-                "99",
-                "Lower Manhattan",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "78.9",
-                "66",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "78.9",
-                "66",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "72",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "72",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.9",
-                "77",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.9",
-                "77",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.2",
-                "74",
-                "Bayside - Little Neck",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "76.2",
-                "74",
-                "Bayside - Little Neck",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.6",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.6",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "72.6",
-                "62",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "72.6",
-                "62",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.5",
-                "65",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.5",
-                "65",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "74",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "74",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.9",
-                "40",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.9",
-                "40",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "74.5",
-                "84",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "74.5",
-                "84",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71",
-                "55",
-                "Port Richmond",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71",
-                "55",
-                "Port Richmond",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71.2",
-                "73",
-                "Stapleton - St. George",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71.2",
-                "73",
-                "Stapleton - St. George",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74.4",
-                "56",
-                "Willowbrook",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74.4",
-                "56",
-                "Willowbrook",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.9",
-                "60",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "60",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Self-Reported Health (Percent Excellent, Very Good, or Good Health)",
             "graph_title": "Neighborhood  Self-Reported Health by Adults Reporting Exercise in the Past 30 Days",
             "y_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
@@ -7661,6 +6873,794 @@
             ]
           },
           {
+            "compare_type": "Walking Distance to a Park (Percent of Population)",
+            "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Walking Distance to a Park",
+            "y_axis_title": "Walking Distance to a Park - Percent of Population 2017",
+            "x_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Walking Distance to a Park",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Population",
+                "info_name": "Walking Distance to a Park",
+                "info_measure": "Percent of Population",
+                "info_how_calculated": "<p>A map of \"walk-to-a-park service areas\" from the NYC Parks Department was overlayed onto a map of 2017 population estimates by census tract to calculate the percentage of the population that potentially live within the service area.&nbsp;These percentages were aggregated up to a neighborhood level.</p>",
+                "info_source": "New York City Department of Parks and Recreation,New York City DOHMH population estimates, modified from US Census Bureau inter-censal population estimates",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Walking Distance to a Park",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Population",
+                "info_name": "Adults Reporting Exercise in the Past 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "76.9",
+                "88",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.9",
+                "88",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63",
+                "54",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63",
+                "54",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "98",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "98",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.8",
+                "78",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.8",
+                "78",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "99",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "99",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "98",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "98",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "96",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "96",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74",
+                "94",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "74",
+                "94",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "82.6",
+                "94",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.6",
+                "94",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "94",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "94",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.1",
+                "84",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.1",
+                "84",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64",
+                "87",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64",
+                "87",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.2",
+                "73",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.2",
+                "73",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "62",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "62",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69",
+                "76",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69",
+                "76",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.5",
+                "80",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.5",
+                "80",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.6",
+                "78",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.6",
+                "78",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.6",
+                "93",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.6",
+                "93",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.2",
+                "100",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.2",
+                "100",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.2",
+                "99",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.2",
+                "99",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80.8",
+                "99",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80.8",
+                "99",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.4",
+                "99",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.4",
+                "99",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "94",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "94",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "91",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "91",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "99",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "99",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "100",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "100",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "99",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "99",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.9",
+                "66",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.9",
+                "66",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "72",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "72",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.9",
+                "77",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.9",
+                "77",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "74",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "74",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "62",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "62",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.5",
+                "65",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.5",
+                "65",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "74",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "74",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "40",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "40",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.5",
+                "84",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.5",
+                "84",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "55",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "55",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "73",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "73",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "56",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "56",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "60",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "60",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
             "compare_type": "Vegetative Cover (Percent)",
             "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Vegetative Cover",
             "y_axis_title": "Vegetative Cover - Percent 2017",
@@ -7727,7 +7727,7 @@
                 ""
               ],
               [
-                "73.8",
+                "68.2",
                 "32",
                 "Crotona -Tremont",
                 "Bronx",
@@ -7736,7 +7736,7 @@
                 ""
               ],
               [
-                "64.6",
+                "68.2",
                 "21",
                 "High Bridge - Morrisania",
                 "Bronx",
@@ -7745,12 +7745,12 @@
                 ""
               ],
               [
-                "65.4",
+                "68.2",
                 "18",
                 "Hunts Point - Mott Haven",
                 "Bronx",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
@@ -7889,7 +7889,7 @@
                 ""
               ],
               [
-                "90.8",
+                "89",
                 "22",
                 "Upper East Side",
                 "Manhattan",
@@ -7898,7 +7898,7 @@
                 ""
               ],
               [
-                "86.1",
+                "82.8",
                 "11",
                 "Chelsea - Clinton",
                 "Manhattan",
@@ -7907,7 +7907,7 @@
                 ""
               ],
               [
-                "81.1",
+                "89",
                 "13",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
@@ -7916,7 +7916,7 @@
                 ""
               ],
               [
-                "85.8",
+                "82.8",
                 "13",
                 "Greenwich Village - SoHo",
                 "Manhattan",
@@ -7925,7 +7925,7 @@
                 ""
               ],
               [
-                "85.9",
+                "85.1",
                 "25",
                 "Union Square - Lower East Side",
                 "Manhattan",
@@ -7934,12 +7934,12 @@
                 ""
               ],
               [
-                "82",
+                "85.1",
                 "24",
                 "Lower Manhattan",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
@@ -7970,25 +7970,25 @@
                 ""
               ],
               [
-                "76.2",
+                "73.4",
                 "55",
                 "Bayside - Little Neck",
                 "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.6",
-                "45",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
                 "72.6",
+                "45",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
                 "46",
                 "Fresh Meadows",
                 "Queens",
@@ -8033,375 +8033,37 @@
                 ""
               ],
               [
-                "71",
+                "71.1",
                 "41",
                 "Port Richmond",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "71.2",
+                "71.1",
                 "51",
                 "Stapleton - St. George",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "74.4",
+                "72",
                 "61",
                 "Willowbrook",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "70.9",
+                "72",
                 "59",
                 "South Beach - Tottenville",
                 "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
-            "compare_type": "Obese Adults (Percent)",
-            "graph_title": "Neighborhood  Obese Adults by Adults Reporting Exercise in the Past 30 Days",
-            "y_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
-            "x_axis_title": "Obese Adults - Percent 2017",
-            "info": [
-              {
-                "x_axis_title_reg": "Obese Adults",
-                "y_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent",
-                "info_name": "Obese Adults",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults classified as obese; based on the Body Mass Index (BMI) calculated from self-reported weight and height, expressed as a percent. A BMI of 30 or greater is classified as obese.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2017"
-              },
-              {
-                "x_axis_title_reg": "Obese Adults",
-                "y_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent",
-                "info_name": "Adults Reporting Exercise in the Past 30 Days",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2017"
-              }
-            ],
-            "link_data": [
-              [
-                "23.7",
-                "76.9",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "27.9",
-                "63",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.5",
-                "70.9",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32",
-                "73.8",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "21.1",
-                "74",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "21.8",
-                "82.6",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.1",
-                "71.4",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "31.7",
-                "73.1",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.5",
-                "64",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.7",
-                "65.2",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.9",
-                "77.5",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.5",
-                "69",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.5",
-                "69.5",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.4",
-                "67.6",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.5",
-                "75.6",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29",
-                "75.2",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "24.8",
-                "73.2",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.6",
-                "80.8",
-                "East Harlem",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "13.4",
-                "91.4",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "24",
-                "78.9",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.7",
-                "71.4",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.9",
-                "75.9",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.7",
-                "72.6",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.6",
-                "70.5",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.5",
-                "71.4",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.1",
-                "84.9",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.7",
-                "74.5",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12.9",
-                "89",
-                "Upper East Side-Gramercy",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "9",
-                "82.8",
-                "Chelsea-Village  ",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.2",
-                "85.1",
-                "Union Square-Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.7",
-                "73.4",
-                "Bayside Little Neck-Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.2",
-                "71.1",
-                "Northern SI",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.4",
-                "72",
-                "Southern SI",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.1",
-                "68.2",
-                "South Bronx",
-                "Bronx",
                 "",
                 ",",
                 ""
@@ -8747,6 +8409,344 @@
             ]
           },
           {
+            "compare_type": "Obese Adults (Percent)",
+            "graph_title": "Neighborhood  Obese Adults by Adults Reporting Exercise in the Past 30 Days",
+            "y_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
+            "x_axis_title": "Obese Adults - Percent 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Obese Adults",
+                "y_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Obese Adults",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults classified as obese; based on the Body Mass Index (BMI) calculated from self-reported weight and height, expressed as a percent. A BMI of 30 or greater is classified as obese.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Obese Adults",
+                "y_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Exercise in the Past 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "23.7",
+                "76.9",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "27.9",
+                "63",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.5",
+                "70.9",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32",
+                "73.8",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.1",
+                "74",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "21.8",
+                "82.6",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.1",
+                "71.4",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.7",
+                "73.1",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.5",
+                "64",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.7",
+                "65.2",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.9",
+                "77.5",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.5",
+                "69",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.5",
+                "69.5",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.4",
+                "67.6",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.5",
+                "75.6",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29",
+                "75.2",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.8",
+                "73.2",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.6",
+                "80.8",
+                "East Harlem",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "13.4",
+                "91.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24",
+                "78.9",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.7",
+                "71.4",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.9",
+                "75.9",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.7",
+                "72.6",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.6",
+                "70.5",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.5",
+                "71.4",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.1",
+                "84.9",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.7",
+                "74.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.9",
+                "89",
+                "Upper East Side-Gramercy",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9",
+                "82.8",
+                "Chelsea-Village  ",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.2",
+                "85.1",
+                "Union Square-Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.7",
+                "73.4",
+                "Bayside Little Neck-Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.2",
+                "71.1",
+                "Northern SI",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.4",
+                "72",
+                "Southern SI",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.1",
+                "68.2",
+                "South Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
             "compare_type": "Perception of Neighborhood Safety (Percent Neighborhood Safe from Crime)",
             "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Perception of Neighborhood Safety",
             "y_axis_title": "Perception of Neighborhood Safety - Percent Neighborhood Safe from Crime 2016",
@@ -9082,6 +9082,14 @@
         ],
         "link_opts": [
           {
+            "name": "Health Care",
+            "children": [
+              {
+                "compare_type": "Self-Reported Health (Percent Excellent, Very Good, or Good Health)"
+              }
+            ]
+          },
+          {
             "name": "Active Design",
             "children": [
               {
@@ -9093,21 +9101,13 @@
             ]
           },
           {
-            "name": "Health Care",
-            "children": [
-              {
-                "compare_type": "Self-Reported Health (Percent Excellent, Very Good, or Good Health)"
-              }
-            ]
-          },
-          {
             "name": "Overweight",
             "children": [
               {
-                "compare_type": "Obese Adults (Percent)"
+                "compare_type": "Overweight or Obese Adults (Percent)"
               },
               {
-                "compare_type": "Overweight or Obese Adults (Percent)"
+                "compare_type": "Obese Adults (Percent)"
               }
             ]
           },
