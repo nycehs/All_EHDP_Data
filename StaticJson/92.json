@@ -12,7 +12,7 @@
               ""
             ],
             "compare_type": "Population Subgroups",
-            "graph_title": "Trends in Air Quality Advisory Days in New York City 2003 to 2020",
+            "graph_title": "Trends in Air Quality Advisory Days in New York City 2003 to 2021",
             "y_axis_title": "Number of Days",
             "x_axis_title": "Year",
             "info": [
@@ -177,6 +177,14 @@
                     "2020",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2021",
+                    "12",
+                    "",
+                    "2021",
+                    "Year",
+                    "year"
                   ]
                 ]
               },
@@ -327,6 +335,14 @@
                     "2020",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2021",
+                    "1",
+                    "",
+                    "2021",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -362,9 +378,14 @@
             "name": "Years",
             "children": [
               {
-                "name": "2020",
+                "name": "2021",
                 "col": 3,
                 "chk": true
+              },
+              {
+                "name": "2020",
+                "col": 3,
+                "chk": false
               },
               {
                 "name": "2019",
@@ -463,6 +484,16 @@
           "General Population, number of days"
         ],
         "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2021",
+            "12  ",
+            "",
+            "1  ",
+            ""
+          ],
           [
             "10",
             "Citywide",

@@ -12,7 +12,7 @@
               ""
             ],
             "compare_type": "Citywide",
-            "graph_title": "Trends in Citywide Regulatory Monitoring: Fine Particulate Matter (PM <sub>2.5</sub>) - Annual Average 2001 to 2018",
+            "graph_title": "Trends in Citywide Regulatory Monitoring: Fine Particulate Matter (PM <sub>2.5</sub>) - Annual Average 2001 to 2021",
             "y_axis_title": "Annual Average (mcg per cubic meter)",
             "x_axis_title": "Year",
             "info": [
@@ -171,6 +171,30 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "9.4",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "9",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2021",
+                    "8.3",
+                    "",
+                    "2021",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -188,7 +212,7 @@
               ""
             ],
             "compare_type": "PM2.5",
-            "graph_title": "Trends in PM2.5 Air Quality Advisory Days in New York City 2003 to 2018",
+            "graph_title": "Trends in PM2.5 Air Quality Advisory Days in New York City 2003 to 2021",
             "y_axis_title": "Days Above Standard",
             "x_axis_title": "Year",
             "info": [
@@ -337,6 +361,30 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "0",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "0",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2021",
+                    "1",
+                    "",
+                    "2021",
+                    "Year",
+                    "year"
                   ]
                 ]
               },
@@ -471,6 +519,30 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "0",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2020",
+                    "0",
+                    "",
+                    "2020",
+                    "Year",
+                    "year"
+                  ],
+                  [
+                    "2021",
+                    "1",
+                    "",
+                    "2021",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -506,9 +578,24 @@
             "name": "Years",
             "children": [
               {
-                "name": "2018",
+                "name": "2021",
                 "col": 3,
                 "chk": true
+              },
+              {
+                "name": "2020",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2019",
+                "col": 3,
+                "chk": false
+              },
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": false
               },
               {
                 "name": "2017",
@@ -584,16 +671,6 @@
                 "name": "2003",
                 "col": 3,
                 "chk": false
-              },
-              {
-                "name": "2002",
-                "col": 3,
-                "chk": false
-              },
-              {
-                "name": "2001",
-                "col": 3,
-                "chk": false
               }
             ]
           }
@@ -609,6 +686,48 @@
           "Sensitive Groups, number of days"
         ],
         "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2021",
+            "22.9 ",
+            "",
+            "1  ",
+            "",
+            "8.3 ",
+            "",
+            "1  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2020",
+            "23.4 ",
+            "",
+            "0  ",
+            "",
+            "9.0 ",
+            "",
+            "0  ",
+            ""
+          ],
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2019",
+            "23.5 ",
+            "",
+            "0  ",
+            "",
+            "9.4 ",
+            "",
+            "0  ",
+            ""
+          ],
           [
             "10",
             "Citywide",
@@ -832,26 +951,6 @@
             "",
             "14  ",
             ""
-          ],
-          [
-            "10",
-            "Citywide",
-            "New York City",
-            "2002",
-            "42.7 ",
-            "",
-            "16.8 ",
-            " "
-          ],
-          [
-            "10",
-            "Citywide",
-            "New York City",
-            "2001",
-            "43.8 ",
-            "",
-            "18.2 ",
-            " "
           ]
         ],
         "unreliability_text": [
