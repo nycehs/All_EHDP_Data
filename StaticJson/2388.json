@@ -24,129 +24,345 @@
             ],
             "measure": "Percent of Population",
             "how_calculated": "<p>A map of \"walk-to-a-park service areas\" from the NYC Parks Department was overlayed onto a map of 2017 population estimates by census tract to calculate the percentage of the population that potentially live within the service area.&nbsp;These percentages were aggregated up to a neighborhood level.</p>",
-            "source": "NYC DOHMH population estimates",
+            "source": "NYC Parks",
             "map_data": [
               {
                 "year": "2017",
                 "year_data": [
                   {
-                    "geo_entity_id": 8172,
-                    "data_value": "64",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8176,
-                    "data_value": "93",
+                    "geo_entity_id": 4709,
+                    "data_value": "100",
                     "color": "238443",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8501,
-                    "data_value": "68",
-                    "color": "ffffcc",
+                    "geo_entity_id": 4717,
+                    "data_value": "78",
+                    "color": "c2e699",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8505,
-                    "data_value": "58",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8507,
-                    "data_value": "58",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8508,
-                    "data_value": "62",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8511,
-                    "data_value": "65",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8512,
-                    "data_value": "38",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8514,
-                    "data_value": "67",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8522,
-                    "data_value": "93",
+                    "geo_entity_id": 4719,
+                    "data_value": "98",
                     "color": "238443",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8524,
-                    "data_value": "62",
+                    "geo_entity_id": 4721,
+                    "data_value": "92",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4723,
+                    "data_value": "91",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4725,
+                    "data_value": "79",
+                    "color": "c2e699",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4726,
+                    "data_value": "85",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4727,
+                    "data_value": "92",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4728,
+                    "data_value": "70",
+                    "color": "c2e699",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4729,
+                    "data_value": "53",
                     "color": "ffffcc",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8525,
-                    "data_value": "61",
-                    "color": "ffffcc",
+                    "geo_entity_id": 4730,
+                    "data_value": "77",
+                    "color": "c2e699",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8528,
-                    "data_value": "56",
-                    "color": "ffffcc",
+                    "geo_entity_id": 4731,
+                    "data_value": "84",
+                    "color": "78c679",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8532,
-                    "data_value": "54",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 8535,
+                    "geo_entity_id": 4732,
                     "data_value": "83",
                     "color": "78c679",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8536,
-                    "data_value": "66",
+                    "geo_entity_id": 4733,
+                    "data_value": "91",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4734,
+                    "data_value": "84",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4735,
+                    "data_value": "96",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4737,
+                    "data_value": "91",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4738,
+                    "data_value": "99",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4740,
+                    "data_value": "100",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4741,
+                    "data_value": "87",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4742,
+                    "data_value": "65",
                     "color": "ffffcc",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8537,
-                    "data_value": "62",
+                    "geo_entity_id": 4743,
+                    "data_value": "45",
                     "color": "ffffcc",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8545,
-                    "data_value": "66",
+                    "geo_entity_id": 4744,
+                    "data_value": "61",
                     "color": "ffffcc",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8548,
-                    "data_value": "52",
+                    "geo_entity_id": 4745,
+                    "data_value": "87",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4746,
+                    "data_value": "94",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4750,
+                    "data_value": "78",
+                    "color": "c2e699",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4758,
+                    "data_value": "67",
                     "color": "ffffcc",
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 8554,
-                    "data_value": "60",
+                    "geo_entity_id": 4760,
+                    "data_value": "80",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4761,
+                    "data_value": "91",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4763,
+                    "data_value": "96",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4764,
+                    "data_value": "97",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4768,
+                    "data_value": "100",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4769,
+                    "data_value": "93",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4772,
+                    "data_value": "94",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4773,
+                    "data_value": "98",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4775,
+                    "data_value": "96",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4776,
+                    "data_value": "89",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4777,
+                    "data_value": "91",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4778,
+                    "data_value": "89",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4779,
+                    "data_value": "99",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4781,
+                    "data_value": "100",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4782,
+                    "data_value": "84",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4783,
+                    "data_value": "67",
                     "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4785,
+                    "data_value": "98",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4788,
+                    "data_value": "63",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4790,
+                    "data_value": "93",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4791,
+                    "data_value": "54",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4793,
+                    "data_value": "95",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4795,
+                    "data_value": "47",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4796,
+                    "data_value": "67",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6101,
+                    "data_value": "94",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6103,
+                    "data_value": "99",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6104,
+                    "data_value": "100",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6106,
+                    "data_value": "99",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6109,
+                    "data_value": "99",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6111,
+                    "data_value": "100",
+                    "color": "238443",
                     "character_display": ""
                   },
                   {
@@ -1494,342 +1710,6 @@
                     "character_display": ""
                   },
                   {
-                    "geo_entity_id": 4709,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4717,
-                    "data_value": "78",
-                    "color": "c2e699",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4719,
-                    "data_value": "98",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4721,
-                    "data_value": "92",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4723,
-                    "data_value": "91",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4725,
-                    "data_value": "79",
-                    "color": "c2e699",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4726,
-                    "data_value": "85",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4727,
-                    "data_value": "92",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4728,
-                    "data_value": "70",
-                    "color": "c2e699",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4729,
-                    "data_value": "53",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4730,
-                    "data_value": "77",
-                    "color": "c2e699",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4731,
-                    "data_value": "84",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4732,
-                    "data_value": "83",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4733,
-                    "data_value": "91",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4734,
-                    "data_value": "84",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4735,
-                    "data_value": "96",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4737,
-                    "data_value": "91",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4738,
-                    "data_value": "99",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4740,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4741,
-                    "data_value": "87",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4742,
-                    "data_value": "65",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4743,
-                    "data_value": "45",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4744,
-                    "data_value": "61",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4745,
-                    "data_value": "87",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4746,
-                    "data_value": "94",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4750,
-                    "data_value": "78",
-                    "color": "c2e699",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4758,
-                    "data_value": "67",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4760,
-                    "data_value": "80",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4761,
-                    "data_value": "91",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4763,
-                    "data_value": "96",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4764,
-                    "data_value": "97",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4768,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4769,
-                    "data_value": "93",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4772,
-                    "data_value": "94",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4773,
-                    "data_value": "98",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4775,
-                    "data_value": "96",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4776,
-                    "data_value": "89",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4777,
-                    "data_value": "91",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4778,
-                    "data_value": "89",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4779,
-                    "data_value": "99",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4781,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4782,
-                    "data_value": "84",
-                    "color": "78c679",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4783,
-                    "data_value": "67",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4785,
-                    "data_value": "98",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4788,
-                    "data_value": "63",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4790,
-                    "data_value": "93",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4791,
-                    "data_value": "54",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4793,
-                    "data_value": "95",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4795,
-                    "data_value": "47",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 4796,
-                    "data_value": "67",
-                    "color": "ffffcc",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6101,
-                    "data_value": "94",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6103,
-                    "data_value": "99",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6104,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6106,
-                    "data_value": "99",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6109,
-                    "data_value": "99",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 6111,
-                    "data_value": "100",
-                    "color": "238443",
-                    "character_display": ""
-                  },
-                  {
                     "geo_entity_id": 6112,
                     "data_value": "99",
                     "color": "238443",
@@ -2283,6 +2163,126 @@
                     "geo_entity_id": 8171,
                     "data_value": "95",
                     "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8172,
+                    "data_value": "64",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8176,
+                    "data_value": "93",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8501,
+                    "data_value": "68",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8505,
+                    "data_value": "58",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8507,
+                    "data_value": "58",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8508,
+                    "data_value": "62",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8511,
+                    "data_value": "65",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8512,
+                    "data_value": "38",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8514,
+                    "data_value": "67",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8522,
+                    "data_value": "93",
+                    "color": "238443",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8524,
+                    "data_value": "62",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8525,
+                    "data_value": "61",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8528,
+                    "data_value": "56",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8532,
+                    "data_value": "54",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8535,
+                    "data_value": "83",
+                    "color": "78c679",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8536,
+                    "data_value": "66",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8537,
+                    "data_value": "62",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8545,
+                    "data_value": "66",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8548,
+                    "data_value": "52",
+                    "color": "ffffcc",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8554,
+                    "data_value": "60",
+                    "color": "ffffcc",
                     "character_display": ""
                   }
                 ]
@@ -2367,794 +2367,6 @@
         "indicator_name": "Walking Distance to a Park",
         "Measure": "Percent of Population",
         "Compare": [
-          {
-            "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)",
-            "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Walking Distance to a Park",
-            "y_axis_title": "Walking Distance to a Park - Percent of Population 2017",
-            "x_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
-            "info": [
-              {
-                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "y_axis_title_reg": "Walking Distance to a Park",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Population",
-                "info_name": "Adults Reporting Exercise in the Past 30 Days",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2017"
-              },
-              {
-                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
-                "y_axis_title_reg": "Walking Distance to a Park",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Population",
-                "info_name": "Walking Distance to a Park",
-                "info_measure": "Percent of Population",
-                "info_how_calculated": "<p>A map of \"walk-to-a-park service areas\" from the NYC Parks Department was overlayed onto a map of 2017 population estimates by census tract to calculate the percentage of the population that potentially live within the service area.&nbsp;These percentages were aggregated up to a neighborhood level.</p>",
-                "info_source": "New York City Department of Parks and Recreation,New York City DOHMH population estimates, modified from US Census Bureau inter-censal population estimates",
-                "info_year": "2017"
-              }
-            ],
-            "link_data": [
-              [
-                "76.9",
-                "88",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.9",
-                "88",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63",
-                "54",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63",
-                "54",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "98",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "98",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "78",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "78",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "99",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.8",
-                "99",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64.6",
-                "98",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64.6",
-                "98",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.4",
-                "96",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "65.4",
-                "96",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74",
-                "94",
-                "Greenpoint",
-                "Brooklyn",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74",
-                "94",
-                "Greenpoint",
-                "Brooklyn",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "82.6",
-                "94",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82.6",
-                "94",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "94",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "94",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.1",
-                "84",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.1",
-                "84",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64",
-                "87",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "64",
-                "87",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.2",
-                "73",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.2",
-                "73",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "62",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "62",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69",
-                "76",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69",
-                "76",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69.5",
-                "80",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "69.5",
-                "80",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "67.6",
-                "78",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "67.6",
-                "78",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.6",
-                "93",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.6",
-                "93",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.2",
-                "100",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.2",
-                "100",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.2",
-                "99",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "73.2",
-                "99",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "80.8",
-                "99",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "80.8",
-                "99",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.4",
-                "99",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.4",
-                "99",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "90.8",
-                "95",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "90.8",
-                "95",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.1",
-                "94",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.1",
-                "94",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "91",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "91",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.8",
-                "99",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.8",
-                "99",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.9",
-                "100",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "85.9",
-                "100",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82",
-                "99",
-                "Lower Manhattan",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "82",
-                "99",
-                "Lower Manhattan",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "78.9",
-                "66",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "78.9",
-                "66",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "72",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "72",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.9",
-                "77",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.9",
-                "77",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.2",
-                "74",
-                "Bayside - Little Neck",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "76.2",
-                "74",
-                "Bayside - Little Neck",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.6",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.6",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "72.6",
-                "62",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "72.6",
-                "62",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.5",
-                "65",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.5",
-                "65",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "74",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.4",
-                "74",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.9",
-                "40",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.9",
-                "40",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "74.5",
-                "84",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "74.5",
-                "84",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71",
-                "55",
-                "Port Richmond",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71",
-                "55",
-                "Port Richmond",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71.2",
-                "73",
-                "Stapleton - St. George",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "71.2",
-                "73",
-                "Stapleton - St. George",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74.4",
-                "56",
-                "Willowbrook",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "74.4",
-                "56",
-                "Willowbrook",
-                "Staten Island",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "70.9",
-                "60",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "60",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
           {
             "compare_type": "Overweight or Obese Adults (Percent)",
             "graph_title": "Neighborhood  Overweight or Obese Adults by Walking Distance to a Park",
@@ -3258,7 +2470,7 @@
                 ""
               ],
               [
-                "75.5",
+                "75.1",
                 "99",
                 "Crotona -Tremont",
                 "Bronx",
@@ -3267,7 +2479,7 @@
                 ""
               ],
               [
-                "75.5",
+                "75.1",
                 "99",
                 "Crotona -Tremont",
                 "Bronx",
@@ -3276,7 +2488,7 @@
                 ""
               ],
               [
-                "72.8",
+                "75.1",
                 "98",
                 "High Bridge - Morrisania",
                 "Bronx",
@@ -3285,7 +2497,7 @@
                 ""
               ],
               [
-                "72.8",
+                "75.1",
                 "98",
                 "High Bridge - Morrisania",
                 "Bronx",
@@ -3294,7 +2506,7 @@
                 ""
               ],
               [
-                "78.4",
+                "75.1",
                 "96",
                 "Hunts Point - Mott Haven",
                 "Bronx",
@@ -3303,7 +2515,7 @@
                 ""
               ],
               [
-                "78.4",
+                "75.1",
                 "96",
                 "Hunts Point - Mott Haven",
                 "Bronx",
@@ -3582,43 +2794,43 @@
                 ""
               ],
               [
-                "39.5",
+                "37.4",
                 "95",
                 "Upper East Side",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "39.5",
+                "37.4",
                 "95",
                 "Upper East Side",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "34.2",
+                "36.7",
                 "94",
                 "Chelsea - Clinton",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "34.2",
+                "36.7",
                 "94",
                 "Chelsea - Clinton",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "42.9",
+                "37.4",
                 "91",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
@@ -3627,7 +2839,7 @@
                 ""
               ],
               [
-                "42.9",
+                "37.4",
                 "91",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
@@ -3636,25 +2848,25 @@
                 ""
               ],
               [
-                "25.6",
+                "36.7",
                 "99",
                 "Greenwich Village - SoHo",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "25.6",
+                "36.7",
                 "99",
                 "Greenwich Village - SoHo",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "32.2",
+                "37",
                 "100",
                 "Union Square - Lower East Side",
                 "Manhattan",
@@ -3663,7 +2875,7 @@
                 ""
               ],
               [
-                "32.2",
+                "37",
                 "100",
                 "Union Square - Lower East Side",
                 "Manhattan",
@@ -3672,21 +2884,21 @@
                 ""
               ],
               [
-                "57.9",
+                "37",
                 "99",
                 "Lower Manhattan",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "57.9",
+                "37",
                 "99",
                 "Lower Manhattan",
                 "Manhattan",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
@@ -3744,43 +2956,43 @@
                 ""
               ],
               [
-                "51.2",
+                "53.4",
                 "74",
                 "Bayside - Little Neck",
                 "Queens",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "51.2",
+                "53.4",
                 "74",
                 "Bayside - Little Neck",
                 "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "55.5",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "55.5",
-                "71",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
                 "59.5",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "59.5",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "53.4",
                 "62",
                 "Fresh Meadows",
                 "Queens",
@@ -3789,7 +3001,7 @@
                 ""
               ],
               [
-                "59.5",
+                "53.4",
                 "62",
                 "Fresh Meadows",
                 "Queens",
@@ -3870,99 +3082,887 @@
                 ""
               ],
               [
-                "72.1",
+                "64.6",
                 "55",
                 "Port Richmond",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "72.1",
+                "64.6",
                 "55",
                 "Port Richmond",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "60.4",
+                "64.6",
                 "73",
                 "Stapleton - St. George",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "60.4",
+                "64.6",
                 "73",
                 "Stapleton - St. George",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "51.1",
+                "59.5",
                 "56",
                 "Willowbrook",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "51.1",
+                "59.5",
                 "56",
                 "Willowbrook",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "63.4",
+                "59.5",
                 "60",
                 "South Beach - Tottenville",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ],
               [
-                "63.4",
+                "59.5",
                 "60",
                 "South Beach - Tottenville",
                 "Staten Island",
-                "*",
-                ",*",
+                "",
+                ",",
                 ""
               ]
             ],
             "status": 1
+          },
+          {
+            "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)",
+            "graph_title": "Neighborhood  Adults Reporting Exercise in the Past 30 Days by Walking Distance to a Park",
+            "y_axis_title": "Walking Distance to a Park - Percent of Population 2017",
+            "x_axis_title": "Adults Reporting Exercise in the Past 30 Days - Percent 2017",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Walking Distance to a Park",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Population",
+                "info_name": "Adults Reporting Exercise in the Past 30 Days",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults who reported participating in any physical activities or exercises, such as running, calisthenics, golf, gardening, or walking for exercise, in the past 30 days, divided by all adults in the area; expressed as a percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2017"
+              },
+              {
+                "x_axis_title_reg": "Adults Reporting Exercise in the Past 30 Days",
+                "y_axis_title_reg": "Walking Distance to a Park",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Population",
+                "info_name": "Walking Distance to a Park",
+                "info_measure": "Percent of Population",
+                "info_how_calculated": "<p>A map of \"walk-to-a-park service areas\" from the NYC Parks Department was overlayed onto a map of 2017 population estimates by census tract to calculate the percentage of the population that potentially live within the service area.&nbsp;These percentages were aggregated up to a neighborhood level.</p>",
+                "info_source": "New York City Department of Parks and Recreation,New York City DOHMH population estimates, modified from US Census Bureau inter-censal population estimates",
+                "info_year": "2017"
+              }
+            ],
+            "link_data": [
+              [
+                "76.9",
+                "88",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.9",
+                "88",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63",
+                "54",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63",
+                "54",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "98",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "98",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.8",
+                "78",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.8",
+                "78",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "99",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "99",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "98",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "98",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "96",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.2",
+                "96",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74",
+                "94",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "74",
+                "94",
+                "Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "82.6",
+                "94",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.6",
+                "94",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "94",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "94",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.1",
+                "84",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.1",
+                "84",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64",
+                "87",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64",
+                "87",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.2",
+                "73",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.2",
+                "73",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "62",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "62",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69",
+                "76",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69",
+                "76",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.5",
+                "80",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "69.5",
+                "80",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.6",
+                "78",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "67.6",
+                "78",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.6",
+                "93",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.6",
+                "93",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.2",
+                "100",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.2",
+                "100",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.2",
+                "99",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.2",
+                "99",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80.8",
+                "99",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "80.8",
+                "99",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.4",
+                "99",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.4",
+                "99",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "94",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "94",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "91",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "91",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "99",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.8",
+                "99",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "100",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "100",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "99",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "99",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.9",
+                "66",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.9",
+                "66",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "72",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "72",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.9",
+                "77",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.9",
+                "77",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "74",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "74",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.6",
+                "71",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "62",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "73.4",
+                "62",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.5",
+                "65",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.5",
+                "65",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "74",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.4",
+                "74",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "40",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "40",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.5",
+                "84",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "74.5",
+                "84",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "55",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "55",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "73",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.1",
+                "73",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "56",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "56",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "60",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72",
+                "60",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
           }
         ],
         "unreliable_text": [
-          "",
-          "* Estimate is based on small numbers so should be interpreted with caution."
+          "* Estimate is based on small numbers so should be interpreted with caution.",
+          ""
         ],
         "link_opts": [
-          {
-            "name": "Physical Activity",
-            "children": [
-              {
-                "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)"
-              }
-            ]
-          },
           {
             "name": "Overweight",
             "children": [
               {
                 "compare_type": "Overweight or Obese Adults (Percent)"
+              }
+            ]
+          },
+          {
+            "name": "Physical Activity",
+            "children": [
+              {
+                "compare_type": "Adults Reporting Exercise in the Past 30 Days (Percent)"
               }
             ]
           }

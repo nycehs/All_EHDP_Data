@@ -2,7 +2,68 @@
   {
     "map_node": [],
     "time_trend_data": [],
-    "show_disparities_node": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Neighborhood Race/Ethnicity - Non Hispanic Black",
+        "show_disparities_data": [
+          {
+            "Measure": "Percent",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Neighborhood Race/Ethnicity - Non Hispanic Black",
+                "y_axis_title": "Percent  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2012-16 (Sub-borough/PUMA)",
+                "info": [
+                  {
+                    "info_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+                    "info_measure": "Percent",
+                    "info_how_calculated": "Neighborhoods are ranked according to the percent of people who consider themselves non-Hispanic blacks. Rankings are divided into 3 approximately equal groupings of low, medium and high population density. ",
+                    "info_source": "United States Census,American Community Survey"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2013-17",
+                        5.7
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2013-17",
+                        19.6
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2013-17",
+                        33.0
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "link_data_node": [
       {
         "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
@@ -34,7 +95,7 @@
                 "info_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
                 "info_measure": "Percent",
                 "info_how_calculated": "Neighborhoods are ranked according to the percent of people who consider themselves non-Hispanic blacks. Rankings are divided into 3 approximately equal groupings of low, medium and high population density. ",
-                "info_source": "American Community Survey,United States Census",
+                "info_source": "United States Census,American Community Survey",
                 "info_year": "2010"
               }
             ],
@@ -814,6 +875,5813 @@
         ]
       }
     ],
-    "summarize_data": []
+    "summarize_data": [
+      {
+        "indicator_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (UHF 42)",
+                "sort_index": 48,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Bronx: Crotona -Tremont",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham - Bronx Pk",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: High Bridge - Morrisania",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point - Mott Haven",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge - Riverdale",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Northeast Bronx",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham - Throgs Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant - Crown Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst - Bay Ridge",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie - Flatlands",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island - Sheepshead Bay",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Downtown - Heights - Slope",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush - Flatbush",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg - Bushwick",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem - Morningside Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea - Clinton",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy Park - Murray Hill",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village - SoHo",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower Manhattan",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Union Square - Lower East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside - Little Neck",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing - Clearview",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City - Astoria",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood - Forest Hills",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southeast Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Southwest Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: West Queens",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 48,
+                    "children": [
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Beach - Tottenville",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton - St. George",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Willowbrook",
+                        "sort_index": 48,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (Sub-borough/PUMA)",
+                "sort_index": 50,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Bronx: Highbridge/South Concourse",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights/Mosholu",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania/East Tremont",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven/Hunts Point",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham Parkway",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Riverdale/Kingsbridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Soundview/Parkchester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Throgs Neck/Co-op City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: University Heights/Fordham",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge/Baychester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bay Ridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brooklyn Heights/Fort Greene",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville/Ocean Hill",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York/Starret City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands/Canarsie",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: N. Crown Heights/Prospect Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope/Carroll Gardens",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay/Gravesend",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: South Crown Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg/Greenpoint",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea/Clinton/Midtown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village/Financial District",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side/Chinatown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights/Hamilton Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town/Turtle Bay",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights/Inwood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Queens: Astoria",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bayside/Little Neck",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bellerose/Rosedale",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst/Corona",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing/Whitestone",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Forest Hills/Rego Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hillcrest/Fresh Meadows",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Howard Beach/South Ozone Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens/Woodhaven",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Middle Village/Ridgewood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Sunnyside/Woodside",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Staten Island: Mid Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: North Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (Community District)",
+                "sort_index": 51,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Bronx: Belmont and East Tremont (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham and University Heights (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Highbridge and Concourse (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point and Longwood (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights and Bedford (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morris Park and Bronxdale (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania and Crotona (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven and Melrose (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Parkchester and Soundview (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Riverdale and Fieldston (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Throgs Neck and Co-op City (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge and Baychester (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bay Ridge and Dyker Heights (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville (CD16)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island (CD13)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Crown Heights and Prospect Heights (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush (CD17)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York and Starrett City (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush and Midwood (CD14)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands and Canarsie (CD18)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Fort Greene and Brooklyn Heights (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint and Williamsburg (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope and Carroll Gardens (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay (CD15)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: South Crown Heights and Lefferts Gardens (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Clinton and Chelsea (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Financial District (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village and Soho (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side and Chinatown (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Midtown (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights and Hamilton Heights (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town and Turtle Bay (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights and Inwood (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Queens: Bayside and Little Neck (CD11)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst and Corona (CD4)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing and Whitestone (CD7)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hillcrest and Fresh Meadows (CD8)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica and Hollis (CD12)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens and Woodhaven (CD9)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Long Island City and Astoria (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Queens Village (CD13)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rego Park and Forest Hills (CD6)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood and Maspeth (CD5)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaway and Broad Channel (CD14)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: South Ozone Park and Howard Beach (CD10)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Woodside and Sunnyside (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 51,
+                    "children": [
+                      {
+                        "name": "Staten Island: South Beach and Willowbrook (CD2)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: St. George and Stapleton (CD1)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Tottenville and Great Kills (CD3)",
+                        "sort_index": 51,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (NTA)",
+                "sort_index": 55,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 55,
+                    "children": [
+                      {
+                        "name": "Bronx: Allerton-Pelham Gardens",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Bedford Park-Fordham North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Belmont",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Bronxdale",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Claremont-Bathgate",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Co-op City",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Crotona Park East",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: East Concourse-Concourse Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: East Tremont",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Eastchester-Edenwald-Baychester",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Fordham South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Highbridge",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Hunts Point",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Longwood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Melrose South-Mott Haven North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania-Melrose",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven-Port Morris",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mount Hope",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: North Riverdale-Fieldston-Riverdale",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Norwood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Parkchester",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham Bay-Country Club-City Island",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham Parkway",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Schuylerville-Throgs Neck-Edgewater Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Soundview-Bruckner",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Soundview-Castle Hill-Clason Point-Harding Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Spuyten Duyvil-Kingsbridge",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: University Heights-Morris Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Van Cortlandt Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Van Nest-Morris Park-Westchester Square",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: West Concourse",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: West Farms-Bronx River",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Westchester-Unionport",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge-Olinville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Woodlawn-Wakefield",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 55,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bath Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bay Ridge",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst East",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst West",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brighton Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brooklyn Heights-Cobble Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Canarsie",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Carroll Gardens-Columbia Street-Red Hook",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Clinton Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Crown Heights North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Crown Heights South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Cypress Hills-City Line",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Dyker Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush-Farragut",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York (Pennsylvania Ave)",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Williamsburg",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Erasmus",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Fort Greene",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Georgetown-Marine Park-Bergen Beach-Mill Basin",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Gravesend",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Greenpoint",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Homecrest",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Kensington-Ocean Parkway",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Madison",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Midwood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: North Side-South Side",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Ocean Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Ocean Parkway South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope-Gowanus",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Prospect Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Prospect Lefferts Gardens-Wingate",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Rugby-Remsen Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Seagate-Coney Island",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay-Gerritsen Beach-Manhattan Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Starrett City",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Stuyvesant Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park East",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park West",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: West Brighton",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Windsor Terrace",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 55,
+                    "children": [
+                      {
+                        "name": "Manhattan: Battery Park City-Lower Manhattan",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Central Harlem North-Polo Grounds",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Central Harlem South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chinatown",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Clinton",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Gramercy",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Hamilton Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Hudson Yards-Chelsea-Flatiron-Union Square",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lenox Hill-Roosevelt Island",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lincoln Square",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Manhattanville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Marble Hill-Inwood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Midtown-Midtown South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Murray Hill-Kips Bay",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: SoHo-TriBeCa-Civic Center-Little Italy",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town-Cooper Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Turtle Bay-East Midtown",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side-Carnegie Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights South",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: West Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Yorkville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 55,
+                    "children": [
+                      {
+                        "name": "Queens: Astoria",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Auburndale",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Baisley Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bayside-Bayside Hills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bellerose",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Briarwood-Jamaica Hills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Cambria Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: College Point",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Corona",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Douglas Manor-Douglaston-Little Neck",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: East Elmhurst",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: East Flushing",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst-Maspeth",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Far Rockaway-Bayswater",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Forest Hills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Fresh Meadows-Utopia",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ft. Totten-Bay Terrace-Clearview",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Glen Oaks-Floral Park-New Hyde Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Glendale",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hammels-Arverne-Edgemere",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hollis",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hunters Point-Sunnyside-West Maspeth",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica Estates-Holliswood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens Hills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Laurelton",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Lindenwood-Howard Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Maspeth",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Middle Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Murray Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: North Corona",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Oakland Gardens",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Old Astoria",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ozone Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Pomonok-Flushing Heights-Hillcrest",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Queens Village",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Queensboro Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Queensbridge-Ravenswood-Long Island City",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rego Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Richmond Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Ridgewood",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rosedale",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: South Jamaica",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: South Ozone Park",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Springfield Gardens North",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Springfield Gardens South-Brookville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: St. Albans",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Steinway",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Whitestone",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Woodhaven",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Woodside",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 55,
+                    "children": [
+                      {
+                        "name": "Staten Island: Annadale-Huguenot-Prince's Bay-Eltingville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Arden Heights",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Charleston-Richmond Valley-Tottenville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Grasmere-Arrochar-Ft. Wadsworth",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Great Kills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Grymes Hill-Clifton-Fox Hills",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: New Brighton-Silver Lake",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: New Dorp-Midland Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: New Springville-Bloomfield-Travis",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Oakwood-Oakwood Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Old Town-Dongan Hills-South Beach",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Port Richmond",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Rossville-Woodrow",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Stapleton-Rosebank",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: West New Brighton-New Brighton-St. George",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: Westerleigh",
+                        "sort_index": 55,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2013-17",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2013-17",
+            "2,081,507  ",
+            "",
+            "24.3 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2013-17",
+            "489,532  ",
+            "",
+            "33.6 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2013-17",
+            "869,467  ",
+            "",
+            "33.0 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2013-17",
+            "246,603  ",
+            "",
+            "14.9 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2013-17",
+            "426,668  ",
+            "",
+            "18.2 ",
+            ""
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2013-17",
+            "49,237  ",
+            "",
+            "10.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Crotona -Tremont",
+            "2013-17",
+            "74,025  ",
+            "",
+            "33.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Fordham - Bronx Pk",
+            "2013-17",
+            "69,718  ",
+            "",
+            "26.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: High Bridge - Morrisania",
+            "2013-17",
+            "83,445  ",
+            "",
+            "37.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Hunts Point - Mott Haven",
+            "2013-17",
+            "44,757  ",
+            "",
+            "31.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Kingsbridge - Riverdale",
+            "2013-17",
+            "13,598  ",
+            "",
+            "14.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Northeast Bronx",
+            "2013-17",
+            "125,610  ",
+            "",
+            "61.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Bronx: Pelham - Throgs Neck",
+            "2013-17",
+            "76,626  ",
+            "",
+            "24.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bedford Stuyvesant - Crown Heights",
+            "2013-17",
+            "229,596  ",
+            "",
+            "68.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Bensonhurst - Bay Ridge",
+            "2013-17",
+            "3,427  ",
+            "",
+            "1.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Borough Park",
+            "2013-17",
+            "14,823  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Canarsie - Flatlands",
+            "2013-17",
+            "140,461  ",
+            "",
+            "66.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Coney Island - Sheepshead Bay",
+            "2013-17",
+            "21,247  ",
+            "",
+            "7.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Downtown - Heights - Slope",
+            "2013-17",
+            "39,006  ",
+            "",
+            "15.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East Flatbush - Flatbush",
+            "2013-17",
+            "218,424  ",
+            "",
+            "71.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: East New York",
+            "2013-17",
+            "114,435  ",
+            "",
+            "59.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Greenpoint",
+            "2013-17",
+            "8,030  ",
+            "",
+            "5.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Sunset Park",
+            "2013-17",
+            "4,099  ",
+            "",
+            "3.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Brooklyn: Williamsburg - Bushwick",
+            "2013-17",
+            "75,919  ",
+            "",
+            "33.8 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Central Harlem - Morningside Heights",
+            "2013-17",
+            "100,327  ",
+            "",
+            "54.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Chelsea - Clinton",
+            "2013-17",
+            "10,550  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: East Harlem",
+            "2013-17",
+            "38,899  ",
+            "",
+            "33.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Gramercy Park - Murray Hill",
+            "2013-17",
+            "4,518  ",
+            "",
+            "3.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Greenwich Village - SoHo",
+            "2013-17",
+            "2,520  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Lower Manhattan",
+            "2013-17",
+            "3,168  ",
+            "",
+            "5.3 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Union Square - Lower East Side",
+            "2013-17",
+            "13,348  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper East Side",
+            "2013-17",
+            "6,560  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Upper West Side",
+            "2013-17",
+            "16,971  ",
+            "",
+            "7.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Manhattan: Washington Heights",
+            "2013-17",
+            "46,984  ",
+            "",
+            "17.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Bayside - Little Neck",
+            "2013-17",
+            "2,179  ",
+            "",
+            "2.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Flushing - Clearview",
+            "2013-17",
+            "6,271  ",
+            "",
+            "2.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Fresh Meadows",
+            "2013-17",
+            "7,762  ",
+            "",
+            "7.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Jamaica",
+            "2013-17",
+            "166,333  ",
+            "",
+            "52.1 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Long Island City - Astoria",
+            "2013-17",
+            "13,697  ",
+            "",
+            "6.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Ridgewood - Forest Hills",
+            "2013-17",
+            "6,271  ",
+            "",
+            "2.4 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Rockaways",
+            "2013-17",
+            "46,313  ",
+            "",
+            "37.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southeast Queens",
+            "2013-17",
+            "121,507  ",
+            "",
+            "44.0 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: Southwest Queens",
+            "2013-17",
+            "31,528  ",
+            "",
+            "10.7 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Queens: West Queens",
+            "2013-17",
+            "31,258  ",
+            "",
+            "6.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Port Richmond",
+            "2013-17",
+            "17,855  ",
+            "",
+            "26.2 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: South Beach - Tottenville",
+            "2013-17",
+            "3,042  ",
+            "",
+            "1.6 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Stapleton - St. George",
+            "2013-17",
+            "24,120  ",
+            "",
+            "19.5 ",
+            ""
+          ],
+          [
+            "48",
+            "Neighborhood (UHF 42)",
+            "Staten Island: Willowbrook",
+            "2013-17",
+            "4,220  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2013-17",
+            "50,753  ",
+            "",
+            "35.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2013-17",
+            "24,423  ",
+            "",
+            "18.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2013-17",
+            "61,995  ",
+            "",
+            "35.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2013-17",
+            "53,428  ",
+            "",
+            "33.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2013-17",
+            "31,540  ",
+            "",
+            "24.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2013-17",
+            "17,276  ",
+            "",
+            "15.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2013-17",
+            "65,093  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2013-17",
+            "37,837  ",
+            "",
+            "30.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2013-17",
+            "46,274  ",
+            "",
+            "33.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2013-17",
+            "100,913  ",
+            "",
+            "68.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2013-17",
+            "2,439  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2013-17",
+            "79,959  ",
+            "",
+            "55.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2013-17",
+            "2,363  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2013-17",
+            "4,032  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2013-17",
+            "39,616  ",
+            "",
+            "28.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2013-17",
+            "95,611  ",
+            "",
+            "78.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2013-17",
+            "38,301  ",
+            "",
+            "28.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2013-17",
+            "14,079  ",
+            "",
+            "12.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2013-17",
+            "123,712  ",
+            "",
+            "89.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2013-17",
+            "91,361  ",
+            "",
+            "57.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2013-17",
+            "52,944  ",
+            "",
+            "32.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2013-17",
+            "136,660  ",
+            "",
+            "64.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2013-17",
+            "80,865  ",
+            "",
+            "61.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2013-17",
+            "9,275  ",
+            "",
+            "7.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2013-17",
+            "6,843  ",
+            "",
+            "4.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2013-17",
+            "75,487  ",
+            "",
+            "68.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2013-17",
+            "4,918  ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2013-17",
+            "11,002  ",
+            "",
+            "6.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2013-17",
+            "83,851  ",
+            "",
+            "60.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2013-17",
+            "10,491  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2013-17",
+            "44,317  ",
+            "",
+            "35.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2013-17",
+            "3,941  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2013-17",
+            "13,946  ",
+            "",
+            "8.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2013-17",
+            "34,368  ",
+            "",
+            "26.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2013-17",
+            "5,319  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2013-17",
+            "6,393  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2013-17",
+            "14,107  ",
+            "",
+            "7.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2013-17",
+            "29,870  ",
+            "",
+            "13.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2013-17",
+            "13,241  ",
+            "",
+            "7.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2013-17",
+            "2,554  ",
+            "",
+            "2.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2013-17",
+            "117,949  ",
+            "",
+            "57.4 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2013-17",
+            "12,419  ",
+            "",
+            "8.7 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2013-17",
+            "6,234  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2013-17",
+            "3,672  ",
+            "",
+            "3.1 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2013-17",
+            "20,804  ",
+            "",
+            "12.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2013-17",
+            "21,917  ",
+            "",
+            "15.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2013-17",
+            "11,442  ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2013-17",
+            "154,445  ",
+            "",
+            "63.2 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2013-17",
+            "9,754  ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2013-17",
+            "3,195  ",
+            "",
+            "1.8 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2013-17",
+            "46,313  ",
+            "",
+            "37.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2013-17",
+            "2,748  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2013-17",
+            "6,213  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2013-17",
+            "41,038  ",
+            "",
+            "23.6 ",
+            ""
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2013-17",
+            "1,986  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Belmont and East Tremont (CD6)",
+            "2013-17",
+            "61,995  ",
+            "",
+            "35.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Fordham and University Heights (CD5)",
+            "2013-17",
+            "46,274  ",
+            "",
+            "33.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Highbridge and Concourse (CD4)",
+            "2013-17",
+            "50,753  ",
+            "",
+            "35.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Hunts Point and Longwood (CD2)",
+            "2013-17",
+            "53,428  ",
+            "",
+            "33.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Kingsbridge Heights and Bedford (CD7)",
+            "2013-17",
+            "24,423  ",
+            "",
+            "18.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Morris Park and Bronxdale (CD11)",
+            "2013-17",
+            "31,540  ",
+            "",
+            "24.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Morrisania and Crotona (CD3)",
+            "2013-17",
+            "61,995  ",
+            "",
+            "35.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Mott Haven and Melrose (CD1)",
+            "2013-17",
+            "53,428  ",
+            "",
+            "33.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Parkchester and Soundview (CD9)",
+            "2013-17",
+            "65,093  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Riverdale and Fieldston (CD8)",
+            "2013-17",
+            "17,276  ",
+            "",
+            "15.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Throgs Neck and Co-op City (CD10)",
+            "2013-17",
+            "37,837  ",
+            "",
+            "30.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Bronx: Williamsbridge and Baychester (CD12)",
+            "2013-17",
+            "100,913  ",
+            "",
+            "68.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bay Ridge and Dyker Heights (CD10)",
+            "2013-17",
+            "2,439  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bedford Stuyvesant (CD3)",
+            "2013-17",
+            "79,959  ",
+            "",
+            "55.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bensonhurst (CD11)",
+            "2013-17",
+            "2,363  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Borough Park (CD12)",
+            "2013-17",
+            "4,032  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Brownsville (CD16)",
+            "2013-17",
+            "95,611  ",
+            "",
+            "78.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Bushwick (CD4)",
+            "2013-17",
+            "38,301  ",
+            "",
+            "28.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Coney Island (CD13)",
+            "2013-17",
+            "14,079  ",
+            "",
+            "12.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Crown Heights and Prospect Heights (CD8)",
+            "2013-17",
+            "80,865  ",
+            "",
+            "61.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: East Flatbush (CD17)",
+            "2013-17",
+            "123,712  ",
+            "",
+            "89.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: East New York and Starrett City (CD5)",
+            "2013-17",
+            "91,361  ",
+            "",
+            "57.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Flatbush and Midwood (CD14)",
+            "2013-17",
+            "52,944  ",
+            "",
+            "32.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Flatlands and Canarsie (CD18)",
+            "2013-17",
+            "136,660  ",
+            "",
+            "64.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Fort Greene and Brooklyn Heights (CD2)",
+            "2013-17",
+            "39,616  ",
+            "",
+            "28.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Greenpoint and Williamsburg (CD1)",
+            "2013-17",
+            "11,002  ",
+            "",
+            "6.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Park Slope and Carroll Gardens (CD6)",
+            "2013-17",
+            "9,275  ",
+            "",
+            "7.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Sheepshead Bay (CD15)",
+            "2013-17",
+            "6,843  ",
+            "",
+            "4.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: South Crown Heights and Lefferts Gardens (CD9)",
+            "2013-17",
+            "75,487  ",
+            "",
+            "68.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Brooklyn: Sunset Park (CD7)",
+            "2013-17",
+            "4,918  ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Central Harlem (CD10)",
+            "2013-17",
+            "83,851  ",
+            "",
+            "60.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Clinton and Chelsea (CD4)",
+            "2013-17",
+            "10,491  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: East Harlem (CD11)",
+            "2013-17",
+            "44,317  ",
+            "",
+            "35.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Financial District (CD1)",
+            "2013-17",
+            "3,941  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Greenwich Village and Soho (CD2)",
+            "2013-17",
+            "3,941  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Lower East Side and Chinatown (CD3)",
+            "2013-17",
+            "13,946  ",
+            "",
+            "8.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Midtown (CD5)",
+            "2013-17",
+            "10,491  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Morningside Heights and Hamilton Heights (CD9)",
+            "2013-17",
+            "34,368  ",
+            "",
+            "26.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Stuyvesant Town and Turtle Bay (CD6)",
+            "2013-17",
+            "5,319  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Upper East Side (CD8)",
+            "2013-17",
+            "6,393  ",
+            "",
+            "2.9 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Upper West Side (CD7)",
+            "2013-17",
+            "14,107  ",
+            "",
+            "7.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Manhattan: Washington Heights and Inwood (CD12)",
+            "2013-17",
+            "29,870  ",
+            "",
+            "13.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Bayside and Little Neck (CD11)",
+            "2013-17",
+            "2,554  ",
+            "",
+            "2.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Elmhurst and Corona (CD4)",
+            "2013-17",
+            "12,419  ",
+            "",
+            "8.7 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Flushing and Whitestone (CD7)",
+            "2013-17",
+            "6,234  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Hillcrest and Fresh Meadows (CD8)",
+            "2013-17",
+            "20,804  ",
+            "",
+            "12.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Jackson Heights (CD3)",
+            "2013-17",
+            "11,442  ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Jamaica and Hollis (CD12)",
+            "2013-17",
+            "154,445  ",
+            "",
+            "63.2 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Kew Gardens and Woodhaven (CD9)",
+            "2013-17",
+            "9,754  ",
+            "",
+            "6.3 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Long Island City and Astoria (CD1)",
+            "2013-17",
+            "13,241  ",
+            "",
+            "7.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Queens Village (CD13)",
+            "2013-17",
+            "117,949  ",
+            "",
+            "57.4 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Rego Park and Forest Hills (CD6)",
+            "2013-17",
+            "3,672  ",
+            "",
+            "3.1 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Ridgewood and Maspeth (CD5)",
+            "2013-17",
+            "3,195  ",
+            "",
+            "1.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Rockaway and Broad Channel (CD14)",
+            "2013-17",
+            "46,313  ",
+            "",
+            "37.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: South Ozone Park and Howard Beach (CD10)",
+            "2013-17",
+            "21,917  ",
+            "",
+            "15.8 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Queens: Woodside and Sunnyside (CD2)",
+            "2013-17",
+            "2,748  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: South Beach and Willowbrook (CD2)",
+            "2013-17",
+            "6,213  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: St. George and Stapleton (CD1)",
+            "2013-17",
+            "41,038  ",
+            "",
+            "23.6 ",
+            ""
+          ],
+          [
+            "51",
+            "Neighborhood (Community District)",
+            "Staten Island: Tottenville and Great Kills (CD3)",
+            "2013-17",
+            "1,986  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Allerton-Pelham Gardens",
+            "2013-17",
+            "10,918  ",
+            "",
+            "34.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Bedford Park-Fordham North",
+            "2013-17",
+            "11,166  ",
+            "",
+            "19.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Belmont",
+            "2013-17",
+            "5,257  ",
+            "",
+            "17.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Bronxdale",
+            "2013-17",
+            "11,860  ",
+            "",
+            "31.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Claremont-Bathgate",
+            "2013-17",
+            "16,834  ",
+            "",
+            "47.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Co-op City",
+            "2013-17",
+            "30,616  ",
+            "",
+            "63.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Crotona Park East",
+            "2013-17",
+            "7,661  ",
+            "",
+            "34.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: East Concourse-Concourse Village",
+            "2013-17",
+            "25,900  ",
+            "",
+            "39.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: East Tremont",
+            "2013-17",
+            "15,499  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Eastchester-Edenwald-Baychester",
+            "2013-17",
+            "26,553  ",
+            "",
+            "71.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Fordham South",
+            "2013-17",
+            "8,238  ",
+            "",
+            "28.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Highbridge",
+            "2013-17",
+            "15,015  ",
+            "",
+            "36.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Hunts Point",
+            "2013-17",
+            "8,266  ",
+            "",
+            "30.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Kingsbridge Heights",
+            "2013-17",
+            "5,738  ",
+            "",
+            "17.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Longwood",
+            "2013-17",
+            "8,741  ",
+            "",
+            "30.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Melrose South-Mott Haven North",
+            "2013-17",
+            "15,921  ",
+            "",
+            "36.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Morrisania-Melrose",
+            "2013-17",
+            "16,620  ",
+            "",
+            "40.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Mott Haven-Port Morris",
+            "2013-17",
+            "14,076  ",
+            "",
+            "28.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Mount Hope",
+            "2013-17",
+            "19,227  ",
+            "",
+            "35.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: North Riverdale-Fieldston-Riverdale",
+            "2013-17",
+            "2,749  ",
+            "",
+            "9.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Norwood",
+            "2013-17",
+            "7,519  ",
+            "",
+            "17.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Parkchester",
+            "2013-17",
+            "13,303  ",
+            "",
+            "43.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Pelham Bay-Country Club-City Island",
+            "2013-17",
+            "1,303  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Pelham Parkway",
+            "2013-17",
+            "4,844  ",
+            "",
+            "16.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Schuylerville-Throgs Neck-Edgewater Park",
+            "2013-17",
+            "5,872  ",
+            "",
+            "12.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Soundview-Bruckner",
+            "2013-17",
+            "10,547  ",
+            "",
+            "28.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Soundview-Castle Hill-Clason Point-Harding Park",
+            "2013-17",
+            "23,370  ",
+            "",
+            "40.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Spuyten Duyvil-Kingsbridge",
+            "2013-17",
+            "3,687  ",
+            "",
+            "11.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: University Heights-Morris Heights",
+            "2013-17",
+            "18,809  ",
+            "",
+            "32.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Van Cortlandt Village",
+            "2013-17",
+            "10,840  ",
+            "",
+            "20.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Van Nest-Morris Park-Westchester Square",
+            "2013-17",
+            "2,867  ",
+            "",
+            "11.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: West Concourse",
+            "2013-17",
+            "9,838  ",
+            "",
+            "25.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: West Farms-Bronx River",
+            "2013-17",
+            "11,580  ",
+            "",
+            "32.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Westchester-Unionport",
+            "2013-17",
+            "6,223  ",
+            "",
+            "21.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Williamsbridge-Olinville",
+            "2013-17",
+            "47,854  ",
+            "",
+            "72.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Bronx: Woodlawn-Wakefield",
+            "2013-17",
+            "26,402  ",
+            "",
+            "59.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bath Beach",
+            "2013-17",
+            "585  ",
+            "",
+            "1.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bay Ridge",
+            "2013-17",
+            "1,994  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bedford",
+            "2013-17",
+            "33,765  ",
+            "",
+            "43.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bensonhurst East",
+            "2013-17",
+            "807  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bensonhurst West",
+            "2013-17",
+            "971  ",
+            "",
+            "1.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Borough Park",
+            "2013-17",
+            "1,259  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Brighton Beach",
+            "2013-17",
+            "349  ",
+            "",
+            "1.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Brooklyn Heights-Cobble Hill",
+            "2013-17",
+            "1,111  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Brownsville",
+            "2013-17",
+            "45,612  ",
+            "",
+            "79.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bushwick North",
+            "2013-17",
+            "11,681  ",
+            "",
+            "19.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Bushwick South",
+            "2013-17",
+            "26,620  ",
+            "",
+            "35.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Canarsie",
+            "2013-17",
+            "76,742  ",
+            "",
+            "86.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Carroll Gardens-Columbia Street-Red Hook",
+            "2013-17",
+            "5,513  ",
+            "",
+            "12.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Clinton Hill",
+            "2013-17",
+            "15,225  ",
+            "",
+            "39.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Crown Heights North",
+            "2013-17",
+            "75,207  ",
+            "",
+            "68.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Crown Heights South",
+            "2013-17",
+            "25,518  ",
+            "",
+            "62.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Cypress Hills-City Line",
+            "2013-17",
+            "15,850  ",
+            "",
+            "32.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",
+            "2013-17",
+            "9,895  ",
+            "",
+            "22.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Dyker Heights",
+            "2013-17",
+            "445  ",
+            "",
+            "1.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: East Flatbush-Farragut",
+            "2013-17",
+            "48,185  ",
+            "",
+            "91.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: East New York",
+            "2013-17",
+            "67,686  ",
+            "",
+            "69.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: East New York (Pennsylvania Ave)",
+            "2013-17",
+            "22,988  ",
+            "",
+            "78.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: East Williamsburg",
+            "2013-17",
+            "4,875  ",
+            "",
+            "13.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Erasmus",
+            "2013-17",
+            "24,717  ",
+            "",
+            "84.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Flatbush",
+            "2013-17",
+            "49,994  ",
+            "",
+            "45.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Flatlands",
+            "2013-17",
+            "53,643  ",
+            "",
+            "72.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Fort Greene",
+            "2013-17",
+            "13,374  ",
+            "",
+            "42.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Georgetown-Marine Park-Bergen Beach-Mill Basin",
+            "2013-17",
+            "6,275  ",
+            "",
+            "13.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Gravesend",
+            "2013-17",
+            "3,005  ",
+            "",
+            "9.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Greenpoint",
+            "2013-17",
+            "1,121  ",
+            "",
+            "3.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Homecrest",
+            "2013-17",
+            "899  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Kensington-Ocean Parkway",
+            "2013-17",
+            "2,536  ",
+            "",
+            "6.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Madison",
+            "2013-17",
+            "807  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Midwood",
+            "2013-17",
+            "2,950  ",
+            "",
+            "5.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: North Side-South Side",
+            "2013-17",
+            "3,278  ",
+            "",
+            "5.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Ocean Hill",
+            "2013-17",
+            "27,011  ",
+            "",
+            "77.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Ocean Parkway South",
+            "2013-17",
+            "237  ",
+            "",
+            "1.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Park Slope-Gowanus",
+            "2013-17",
+            "3,762  ",
+            "",
+            "5.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Prospect Heights",
+            "2013-17",
+            "5,658  ",
+            "",
+            "26.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Prospect Lefferts Gardens-Wingate",
+            "2013-17",
+            "49,969  ",
+            "",
+            "72.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Rugby-Remsen Village",
+            "2013-17",
+            "50,801  ",
+            "",
+            "91.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Seagate-Coney Island",
+            "2013-17",
+            "10,511  ",
+            "",
+            "33.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Sheepshead Bay-Gerritsen Beach-Manhattan Beach",
+            "2013-17",
+            "5,137  ",
+            "",
+            "7.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Starrett City",
+            "2013-17",
+            "7,825  ",
+            "",
+            "62.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Stuyvesant Heights",
+            "2013-17",
+            "46,194  ",
+            "",
+            "67.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Sunset Park East",
+            "2013-17",
+            "1,312  ",
+            "",
+            "1.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Sunset Park West",
+            "2013-17",
+            "2,588  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: West Brighton",
+            "2013-17",
+            "214  ",
+            "",
+            "1.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Williamsburg",
+            "2013-17",
+            "1,728  ",
+            "",
+            "5.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Brooklyn: Windsor Terrace",
+            "2013-17",
+            "1,018  ",
+            "",
+            "4.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Battery Park City-Lower Manhattan",
+            "2013-17",
+            "1,174  ",
+            "",
+            "2.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Central Harlem North-Polo Grounds",
+            "2013-17",
+            "56,552  ",
+            "",
+            "65.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Central Harlem South",
+            "2013-17",
+            "27,299  ",
+            "",
+            "53.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Chinatown",
+            "2013-17",
+            "3,605  ",
+            "",
+            "7.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Clinton",
+            "2013-17",
+            "3,327  ",
+            "",
+            "7.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: East Harlem North",
+            "2013-17",
+            "26,074  ",
+            "",
+            "41.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: East Harlem South",
+            "2013-17",
+            "17,241  ",
+            "",
+            "28.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: East Village",
+            "2013-17",
+            "2,200  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Gramercy",
+            "2013-17",
+            "1,149  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Hamilton Heights",
+            "2013-17",
+            "18,500  ",
+            "",
+            "34.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Hudson Yards-Chelsea-Flatiron-Union Square",
+            "2013-17",
+            "5,886  ",
+            "",
+            "7.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Lenox Hill-Roosevelt Island",
+            "2013-17",
+            "2,957  ",
+            "",
+            "3.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Lincoln Square",
+            "2013-17",
+            "2,601  ",
+            "",
+            "4.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Lower East Side",
+            "2013-17",
+            "8,141  ",
+            "",
+            "11.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Manhattanville",
+            "2013-17",
+            "7,725  ",
+            "",
+            "32.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Marble Hill-Inwood",
+            "2013-17",
+            "7,434  ",
+            "",
+            "13.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Midtown-Midtown South",
+            "2013-17",
+            "1,278  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Morningside Heights",
+            "2013-17",
+            "8,143  ",
+            "",
+            "15.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Murray Hill-Kips Bay",
+            "2013-17",
+            "2,289  ",
+            "",
+            "4.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: SoHo-TriBeCa-Civic Center-Little Italy",
+            "2013-17",
+            "1,225  ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Stuyvesant Town-Cooper Village",
+            "2013-17",
+            "1,108  ",
+            "",
+            "4.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Turtle Bay-East Midtown",
+            "2013-17",
+            "773  ",
+            "",
+            "1.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Upper East Side-Carnegie Hill",
+            "2013-17",
+            "517  ",
+            "",
+            "0.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Upper West Side",
+            "2013-17",
+            "11,504  ",
+            "",
+            "8.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Washington Heights North",
+            "2013-17",
+            "6,871  ",
+            "",
+            "9.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Washington Heights South",
+            "2013-17",
+            "15,552  ",
+            "",
+            "16.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: West Village",
+            "2013-17",
+            "1,542  ",
+            "",
+            "2.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Manhattan: Yorkville",
+            "2013-17",
+            "2,919  ",
+            "",
+            "3.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Astoria",
+            "2013-17",
+            "3,757  ",
+            "",
+            "4.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Auburndale",
+            "2013-17",
+            "322  ",
+            "",
+            "1.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Baisley Park",
+            "2013-17",
+            "28,660  ",
+            "",
+            "70.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Bayside-Bayside Hills",
+            "2013-17",
+            "1,034  ",
+            "",
+            "2.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Bellerose",
+            "2013-17",
+            "2,152  ",
+            "",
+            "7.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+            "2013-17",
+            "1,925  ",
+            "",
+            "6.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Briarwood-Jamaica Hills",
+            "2013-17",
+            "5,435  ",
+            "",
+            "12.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Cambria Heights",
+            "2013-17",
+            "19,120  ",
+            "",
+            "92.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: College Point",
+            "2013-17",
+            "670  ",
+            "",
+            "2.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Corona",
+            "2013-17",
+            "10,383  ",
+            "",
+            "17.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Douglas Manor-Douglaston-Little Neck",
+            "2013-17",
+            "284  ",
+            "",
+            "1.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: East Elmhurst",
+            "2013-17",
+            "4,949  ",
+            "",
+            "22.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: East Flushing",
+            "2013-17",
+            "533  ",
+            "",
+            "2.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Elmhurst",
+            "2013-17",
+            "2,036  ",
+            "",
+            "2.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Elmhurst-Maspeth",
+            "2013-17",
+            "247  ",
+            "",
+            "1.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Far Rockaway-Bayswater",
+            "2013-17",
+            "24,286  ",
+            "",
+            "44.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Flushing",
+            "2013-17",
+            "3,133  ",
+            "",
+            "4.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Forest Hills",
+            "2013-17",
+            "2,368  ",
+            "",
+            "2.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Fresh Meadows-Utopia",
+            "2013-17",
+            "960  ",
+            "",
+            "5.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Ft. Totten-Bay Terrace-Clearview",
+            "2013-17",
+            "207  ",
+            "",
+            "0.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Glen Oaks-Floral Park-New Hyde Park",
+            "2013-17",
+            "1,310  ",
+            "",
+            "5.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Glendale",
+            "2013-17",
+            "680  ",
+            "",
+            "1.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Hammels-Arverne-Edgemere",
+            "2013-17",
+            "20,102  ",
+            "",
+            "49.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Hollis",
+            "2013-17",
+            "13,335  ",
+            "",
+            "61.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Hunters Point-Sunnyside-West Maspeth",
+            "2013-17",
+            "1,919  ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Jackson Heights",
+            "2013-17",
+            "2,931  ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Jamaica",
+            "2013-17",
+            "9,511  ",
+            "",
+            "16.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Jamaica Estates-Holliswood",
+            "2013-17",
+            "7,014  ",
+            "",
+            "26.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Kew Gardens",
+            "2013-17",
+            "1,450  ",
+            "",
+            "6.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Kew Gardens Hills",
+            "2013-17",
+            "2,769  ",
+            "",
+            "7.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Laurelton",
+            "2013-17",
+            "25,051  ",
+            "",
+            "91.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Lindenwood-Howard Beach",
+            "2013-17",
+            "813  ",
+            "",
+            "2.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Maspeth",
+            "2013-17",
+            "381  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Middle Village",
+            "2013-17",
+            "481  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Murray Hill",
+            "2013-17",
+            "1,172  ",
+            "",
+            "2.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: North Corona",
+            "2013-17",
+            "3,562  ",
+            "",
+            "6.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Oakland Gardens",
+            "2013-17",
+            "914  ",
+            "",
+            "3.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Old Astoria",
+            "2013-17",
+            "3,435  ",
+            "",
+            "12.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Ozone Park",
+            "2013-17",
+            "1,631  ",
+            "",
+            "6.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Pomonok-Flushing Heights-Hillcrest",
+            "2013-17",
+            "4,626  ",
+            "",
+            "12.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Queens Village",
+            "2013-17",
+            "27,186  ",
+            "",
+            "49.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Queensboro Hill",
+            "2013-17",
+            "353  ",
+            "",
+            "1.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Queensbridge-Ravenswood-Long Island City",
+            "2013-17",
+            "4,895  ",
+            "",
+            "24.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Rego Park",
+            "2013-17",
+            "1,304  ",
+            "",
+            "4.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Richmond Hill",
+            "2013-17",
+            "5,544  ",
+            "",
+            "8.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Ridgewood",
+            "2013-17",
+            "1,648  ",
+            "",
+            "2.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Rosedale",
+            "2013-17",
+            "23,027  ",
+            "",
+            "84.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: South Jamaica",
+            "2013-17",
+            "28,682  ",
+            "",
+            "66.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: South Ozone Park",
+            "2013-17",
+            "19,473  ",
+            "",
+            "22.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Springfield Gardens North",
+            "2013-17",
+            "25,049  ",
+            "",
+            "92.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Springfield Gardens South-Brookville",
+            "2013-17",
+            "20,084  ",
+            "",
+            "88.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: St. Albans",
+            "2013-17",
+            "49,208  ",
+            "",
+            "89.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Steinway",
+            "2013-17",
+            "1,154  ",
+            "",
+            "2.4 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Whitestone",
+            "2013-17",
+            "166  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Woodhaven",
+            "2013-17",
+            "2,760  ",
+            "",
+            "4.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Queens: Woodside",
+            "2013-17",
+            "582  ",
+            "",
+            "1.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Annadale-Huguenot-Prince's Bay-Eltingville",
+            "2013-17",
+            "167  ",
+            "",
+            "0.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Arden Heights",
+            "2013-17",
+            "508  ",
+            "",
+            "1.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Charleston-Richmond Valley-Tottenville",
+            "2013-17",
+            "287  ",
+            "",
+            "1.2 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Grasmere-Arrochar-Ft. Wadsworth",
+            "2013-17",
+            "1,310  ",
+            "",
+            "8.1 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Great Kills",
+            "2013-17",
+            "371  ",
+            "",
+            "0.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Grymes Hill-Clifton-Fox Hills",
+            "2013-17",
+            "6,815  ",
+            "",
+            "31.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+            "2013-17",
+            "10,021  ",
+            "",
+            "32.0 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: New Brighton-Silver Lake",
+            "2013-17",
+            "1,716  ",
+            "",
+            "9.8 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: New Dorp-Midland Beach",
+            "2013-17",
+            "411  ",
+            "",
+            "1.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: New Springville-Bloomfield-Travis",
+            "2013-17",
+            "2,363  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Oakwood-Oakwood Beach",
+            "2013-17",
+            "541  ",
+            "",
+            "2.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Old Town-Dongan Hills-South Beach",
+            "2013-17",
+            "1,395  ",
+            "",
+            "5.6 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Port Richmond",
+            "2013-17",
+            "2,975  ",
+            "",
+            "15.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Rossville-Woodrow",
+            "2013-17",
+            "112  ",
+            "",
+            "0.5 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Stapleton-Rosebank",
+            "2013-17",
+            "5,780  ",
+            "",
+            "21.7 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",
+            "2013-17",
+            "734  ",
+            "",
+            "2.3 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: West New Brighton-New Brighton-St. George",
+            "2013-17",
+            "12,781  ",
+            "",
+            "38.9 ",
+            ""
+          ],
+          [
+            "55",
+            "Neighborhood (NTA)",
+            "Staten Island: Westerleigh",
+            "2013-17",
+            "950  ",
+            "",
+            "3.9 ",
+            ""
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+            "info_measure": "Number",
+            "info_how_calculated": "<p>Average population from ACS 5-year Estimate.</p>",
+            "info_source": [
+              "American Community Survey"
+            ]
+          },
+          {
+            "info_name": "Neighborhood Race/Ethnicity - Non Hispanic Black",
+            "info_measure": "Percent",
+            "info_how_calculated": "Neighborhoods are ranked according to the percent of people who consider themselves non-Hispanic blacks. Rankings are divided into 3 approximately equal groupings of low, medium and high population density. ",
+            "info_source": [
+              "American Community Survey, United States Census"
+            ]
+          }
+        ]
+      }
+    ]
   }
 

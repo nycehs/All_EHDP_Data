@@ -1339,6 +1339,30 @@
                 "year": "2012-2013",
                 "year_data": [
                   {
+                    "geo_entity_id": 101,
+                    "data_value": "688",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "2162",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "3363",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "3752",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 105,
                     "data_value": "3317",
                     "color": "2171b5",
@@ -1564,30 +1588,6 @@
                     "geo_entity_id": 504,
                     "data_value": "1169",
                     "color": "bdd7e7",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "688",
-                    "color": "eff3ff",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "2162",
-                    "color": "2171b5",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "3363",
-                    "color": "2171b5",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "3752",
-                    "color": "2171b5",
                     "character_display": ""
                   }
                 ]
@@ -3142,416 +3142,6 @@
             ]
           },
           {
-            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
-            "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Nitrogen Dioxide (NO2)",
-            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Annual Average 2018",
-            "x_axis_title": "Public School Children (5-14 Yrs Old) with Asthma - Estimated Annual Rate (per 1,000) 2013-2014",
-            "info": [
-              {
-                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Nitrogen Dioxide (NO2)",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Annual Average 2018"
-              },
-              {
-                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Public School Children (5-14 Yrs Old) with Asthma",
-                "info_measure": "Estimated Annual Rate",
-                "info_how_calculated": "<p>Number of public school children, aged 5-14 years, with a diagnosis of asthma that has been reported to NYC DOHMH during the current or previous school year, divided by the 5-14 year old population, expressed per 1,000. Rates are calculated by residence of the child. Note: Use of a denominator consisting of all 5-14 year olds results in an underestimate of the true asthma prevalence, since the numerator represents only children enrolled in public schools that report to NYC DOHMH.</p>",
-                "info_source": "New York City Automated School Health Records",
-                "info_year": "2013-2014"
-              }
-            ],
-            "link_data": [
-              [
-                "71.9",
-                "15.77",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "92.7",
-                "16.16",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "94.4",
-                "17.25",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "98.4",
-                "16.89",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "106.5",
-                "19.76",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "105.2",
-                "20.83",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "131.9",
-                "20.23",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "38.4",
-                "21.93",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63.9",
-                "21.14",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "103.6",
-                "19.42",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.2",
-                "17.56",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.7",
-                "19.67",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.4",
-                "18.11",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "66.2",
-                "17.9",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "68.3",
-                "14.48",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.1",
-                "16.86",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.1",
-                "14.35",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.3",
-                "20.95",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.3",
-                "19.73",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.2",
-                "21.66",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102",
-                "20.91",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47.6",
-                "22.22",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.7",
-                "23.42",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "58",
-                "27.57",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41.7",
-                "28.69",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.3",
-                "24.79",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "22.94",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63.8",
-                "25.15",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "78.2",
-                "20.89",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.3",
-                "19.9",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.6",
-                "17.63",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "59.4",
-                "15.77",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "72.4",
-                "17.94",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "55.7",
-                "17.34",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "75.4",
-                "17.19",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82",
-                "17.55",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "16.21",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.8",
-                "10.52",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "90.9",
-                "16.77",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.3",
-                "14.26",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "54.2",
-                "13.57",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "48.2",
-                "11.05",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Black Carbon (Mean)",
             "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Black Carbon",
             "y_axis_title": "Black Carbon - Mean (absorbance units) Annual Average 2018",
@@ -3953,6 +3543,416 @@
               [
                 "48.2",
                 "0.52",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
+            "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Nitrogen Dioxide (NO2)",
+            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Annual Average 2018",
+            "x_axis_title": "Public School Children (5-14 Yrs Old) with Asthma - Estimated Annual Rate (per 1,000) 2013-2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Nitrogen Dioxide (NO2)",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Annual Average 2018"
+              },
+              {
+                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Public School Children (5-14 Yrs Old) with Asthma",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of public school children, aged 5-14 years, with a diagnosis of asthma that has been reported to NYC DOHMH during the current or previous school year, divided by the 5-14 year old population, expressed per 1,000. Rates are calculated by residence of the child. Note: Use of a denominator consisting of all 5-14 year olds results in an underestimate of the true asthma prevalence, since the numerator represents only children enrolled in public schools that report to NYC DOHMH.</p>",
+                "info_source": "New York City Automated School Health Records",
+                "info_year": "2013-2014"
+              }
+            ],
+            "link_data": [
+              [
+                "71.9",
+                "15.77",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.7",
+                "16.16",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.4",
+                "17.25",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "98.4",
+                "16.89",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "106.5",
+                "19.76",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "105.2",
+                "20.83",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "131.9",
+                "20.23",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "21.93",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.9",
+                "21.14",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "103.6",
+                "19.42",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.2",
+                "17.56",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.7",
+                "19.67",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.4",
+                "18.11",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "66.2",
+                "17.9",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.3",
+                "14.48",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.1",
+                "16.86",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.1",
+                "14.35",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.3",
+                "20.95",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.3",
+                "19.73",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.2",
+                "21.66",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102",
+                "20.91",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.6",
+                "22.22",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.7",
+                "23.42",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "58",
+                "27.57",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.7",
+                "28.69",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.3",
+                "24.79",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "22.94",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.8",
+                "25.15",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.2",
+                "20.89",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.3",
+                "19.9",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.6",
+                "17.63",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "59.4",
+                "15.77",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.4",
+                "17.94",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.7",
+                "17.34",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "75.4",
+                "17.19",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82",
+                "17.55",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "16.21",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.8",
+                "10.52",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.9",
+                "16.77",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.3",
+                "14.26",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "54.2",
+                "13.57",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "48.2",
+                "11.05",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -4782,416 +4782,6 @@
             ]
           },
           {
-            "compare_type": "Cigarette Smoking among Adults (Percent)",
-            "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Cigarette Smoking among Adults",
-            "y_axis_title": "Cigarette Smoking among Adults - Percent 2014",
-            "x_axis_title": "Public School Children (5-14 Yrs Old) with Asthma - Estimated Annual Rate (per 1,000) 2013-2014",
-            "info": [
-              {
-                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
-                "y_axis_title_reg": "Cigarette Smoking among Adults",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Cigarette Smoking among Adults",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults in an area who report current, active smoking, divided by all adults in the area; expressed as percent.\r\n\r\n\r\n",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2014"
-              },
-              {
-                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
-                "y_axis_title_reg": "Cigarette Smoking among Adults",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Public School Children (5-14 Yrs Old) with Asthma",
-                "info_measure": "Estimated Annual Rate",
-                "info_how_calculated": "<p>Number of public school children, aged 5-14 years, with a diagnosis of asthma that has been reported to NYC DOHMH during the current or previous school year, divided by the 5-14 year old population, expressed per 1,000. Rates are calculated by residence of the child. Note: Use of a denominator consisting of all 5-14 year olds results in an underestimate of the true asthma prevalence, since the numerator represents only children enrolled in public schools that report to NYC DOHMH.</p>",
-                "info_source": "New York City Automated School Health Records",
-                "info_year": "2013-2014"
-              }
-            ],
-            "link_data": [
-              [
-                "71.9",
-                "9",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "92.7",
-                "8.6",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "94.4",
-                "21.7",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "98.4",
-                "21.4",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "106.5",
-                "15.9",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "105.2",
-                "15.9",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "131.9",
-                "15.9",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "38.4",
-                "17.7",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "63.9",
-                "6.9",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "103.6",
-                "16.3",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.2",
-                "16.7",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.7",
-                "17.7",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.4",
-                "11.8",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "66.2",
-                "5.4",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "68.3",
-                "13.6",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.1",
-                "18.2",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.1",
-                "18.8",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "86.3",
-                "16.2",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "84.3",
-                "7.5",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "91.2",
-                "23",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102",
-                "20.2",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47.6",
-                "14",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.7",
-                "9.2",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "58",
-                "17.5",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41.7",
-                "9.2",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.3",
-                "17.5",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.5",
-                "9.6",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "63.8",
-                "9.6",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "78.2",
-                "8.9",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "77.3",
-                "11.8",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "65.6",
-                "13.7",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "59.4",
-                "7.5",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "72.4",
-                "13.3",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "55.7",
-                "7.5",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "75.4",
-                "18.9",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "82",
-                "13.5",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.9",
-                "7.7",
-                "Southeast Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "76.8",
-                "20.6",
-                "Rockaways",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "90.9",
-                "20.7",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "71.3",
-                "20.7",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "54.2",
-                "13.3",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "48.2",
-                "13.3",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Adults with Health Insurance (Percent)",
             "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Adults with Health Insurance",
             "y_axis_title": "Adults with Health Insurance - Percent 2014",
@@ -5593,6 +5183,416 @@
               [
                 "48.2",
                 "89.4",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Cigarette Smoking among Adults (Percent)",
+            "graph_title": "Neighborhood Asthma Prevalence - Public school children (age 5-14) with asthma by Cigarette Smoking among Adults",
+            "y_axis_title": "Cigarette Smoking among Adults - Percent 2014",
+            "x_axis_title": "Public School Children (5-14 Yrs Old) with Asthma - Estimated Annual Rate (per 1,000) 2013-2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
+                "y_axis_title_reg": "Cigarette Smoking among Adults",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Cigarette Smoking among Adults",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults in an area who report current, active smoking, divided by all adults in the area; expressed as percent.\r\n\r\n\r\n",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2014"
+              },
+              {
+                "x_axis_title_reg": "Public School Children (5-14 Yrs Old) with Asthma",
+                "y_axis_title_reg": "Cigarette Smoking among Adults",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Public School Children (5-14 Yrs Old) with Asthma",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of public school children, aged 5-14 years, with a diagnosis of asthma that has been reported to NYC DOHMH during the current or previous school year, divided by the 5-14 year old population, expressed per 1,000. Rates are calculated by residence of the child. Note: Use of a denominator consisting of all 5-14 year olds results in an underestimate of the true asthma prevalence, since the numerator represents only children enrolled in public schools that report to NYC DOHMH.</p>",
+                "info_source": "New York City Automated School Health Records",
+                "info_year": "2013-2014"
+              }
+            ],
+            "link_data": [
+              [
+                "71.9",
+                "9",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "92.7",
+                "8.6",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.4",
+                "21.7",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "98.4",
+                "21.4",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "106.5",
+                "15.9",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "105.2",
+                "15.9",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "131.9",
+                "15.9",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "17.7",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "63.9",
+                "6.9",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "103.6",
+                "16.3",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.2",
+                "16.7",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.7",
+                "17.7",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.4",
+                "11.8",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "66.2",
+                "5.4",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "68.3",
+                "13.6",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.1",
+                "18.2",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.1",
+                "18.8",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.3",
+                "16.2",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.3",
+                "7.5",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.2",
+                "23",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102",
+                "20.2",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.6",
+                "14",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.7",
+                "9.2",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "58",
+                "17.5",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.7",
+                "9.2",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.3",
+                "17.5",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.5",
+                "9.6",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.8",
+                "9.6",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.2",
+                "8.9",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "77.3",
+                "11.8",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "65.6",
+                "13.7",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "59.4",
+                "7.5",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "72.4",
+                "13.3",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.7",
+                "7.5",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "75.4",
+                "18.9",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82",
+                "13.5",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.9",
+                "7.7",
+                "Southeast Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "76.8",
+                "20.6",
+                "Rockaways",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "90.9",
+                "20.7",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "71.3",
+                "20.7",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "54.2",
+                "13.3",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "48.2",
+                "13.3",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -6744,16 +6744,24 @@
                 "compare_type": "Sulfur Dioxide (SO2) (Mean)"
               },
               {
-                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
+                "compare_type": "Black Carbon (Mean)"
               },
               {
-                "compare_type": "Black Carbon (Mean)"
+                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
               },
               {
                 "compare_type": "Nitric Oxide (NO) (Mean)"
               },
               {
                 "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
+              }
+            ]
+          },
+          {
+            "name": "Health Care",
+            "children": [
+              {
+                "compare_type": "Adults with Health Insurance (Percent)"
               }
             ]
           },
@@ -6768,14 +6776,6 @@
               },
               {
                 "compare_type": "Adults Reporting Secondhand Smoke at Home (Percent)"
-              }
-            ]
-          },
-          {
-            "name": "Health Care",
-            "children": [
-              {
-                "compare_type": "Adults with Health Insurance (Percent)"
               }
             ]
           },

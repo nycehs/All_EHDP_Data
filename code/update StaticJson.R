@@ -67,7 +67,7 @@ avail_data <-
 push_history <- 
     EHDP_odbc %>% 
     tbl("push_history") %>% 
-    filter(data_upload_date >= !!(today()-2)) %>% 
+    # filter(data_upload_date >= !!(today()-2)) %>% 
     distinct(name) %>% 
     collect()
 
@@ -87,7 +87,8 @@ internal_id <- recently_pushed$internal_id %>% unique() %>% sort()
 
 indicator_json <- list()
 
-url_root <- "https://a816-dohbesp.nyc.gov/IndicatorPublic/"
+# url_root <- "https://a816-dohbesp.nyc.gov/IndicatorPublic/"
+url_root <- "http://appbesp101/IndicatorPublic/"
 
 # invoke session
 

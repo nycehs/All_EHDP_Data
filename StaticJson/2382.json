@@ -8,6 +8,1572 @@
         "dataset": [
           {
             "legendtext": "",
+            "display": "Age-Adjusted Rate",
+            "color": [
+              "ffffb2",
+              "fecd5c",
+              "fd8d3c",
+              "e31a1c"
+            ],
+            "start_range": [
+              -9999999.0,
+              11.0,
+              17.0,
+              30.0,
+              9999999.0
+            ],
+            "measure": "Age-Adjusted Rate",
+            "how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+            "source": "NYS SPARCS Hospitalization",
+            "map_data": [
+              {
+                "year": "2018",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "10.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "17.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "27.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "21",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "31.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "32.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "42.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "6.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "6.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "12.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "12.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "6.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "2.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "8.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "7.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "3.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "6.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "15.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "8.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "19.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "16.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "1.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "3.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "2.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "0.8",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "5.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "5.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "4.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "6.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "4.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "3.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "4.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "6.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "6.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "7.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "6.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "7.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "11.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "12.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "7.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "4.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "10.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "18",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "27.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "22.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "32.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "40",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "50.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "4.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "8.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "14.3",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "12.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "6.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "4.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "10.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "8.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "2.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "7.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "14",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "9.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "20.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "26.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "3.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "1.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "3.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "1.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "1.3",
+                    "color": "ffffb2",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "7.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "5.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "6.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "4.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "4.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "4.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "6.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "7.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "11.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "7.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "8.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "26.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "14.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "5.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2014",
+                "year_data": [
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "9.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "20.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "18.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "7.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "16.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "45",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "18",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "42.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "46",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "10.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "4.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "11.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "7.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "3.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "19.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "10.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "20.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "13.3",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "7.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "7.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "10.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "10.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "13",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "16",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "10.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "18.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "27.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "10.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "9.7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "17",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "30.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "48.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "33.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "52.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "56.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "75.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "13.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "17.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "37.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "42.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "20.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2013",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "17.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "26.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "49.9",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "30.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "56.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "59.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "75.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "19.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "42.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "44.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "25.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "8.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "24.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "17.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "8.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "17.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "51.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "18.8",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "42",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "56.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "11.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "5.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "13.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "7.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "3.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "22.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "10",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "17.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "13.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "7.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "5.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "11.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "10.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "14.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "15.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "11.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "23.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "32.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "23.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "11",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "9.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2012",
+                "year_data": [
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "18.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "61.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "21.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "41",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "61.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "12.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "4.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "13.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "6.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "4.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "22.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "12.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "19.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "13.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "8.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "5.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "12.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "9.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "14.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "19.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "11.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "23",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "39.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "27.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "11.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "14.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "20.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "32.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "57.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "37",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "69.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "66.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "67.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "16",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "22.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "43.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "42",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "26.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "11.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "25.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "18.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "7.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  }
+                ]
+              },
+              {
+                "year": "2011",
+                "year_data": [
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "23.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "39.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "68.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "10.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "11.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "8.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "4.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "23.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "8.3",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "20",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "13.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "10",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "6.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "11.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "10.9",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "12.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "20.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "12.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "29.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "33.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "28.4",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "12.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "13.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "22.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "29.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "59.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "42",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "76.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "66.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "74.4",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "18.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "28.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "43.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "46.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "30.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "13.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "25.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "20.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "8.8",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "18.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "59.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+            "legend_title": "Age-Adjusted Rate (per 10,000 residents)"
+          },
+          {
+            "legendtext": "",
             "display": "Estimated Annual Rate",
             "color": [
               "ffffb2",
@@ -1060,90 +2626,6 @@
                 "year": "2012",
                 "year_data": [
                   {
-                    "geo_entity_id": 401,
-                    "data_value": "17.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "12.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "9.9",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "6.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "13.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "10.3",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "13.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "19.8",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "12.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "24.5",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "39.6",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "28.9",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "12.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "15.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
                     "geo_entity_id": 101,
                     "data_value": "22.8",
                     "color": "f03b20",
@@ -1309,6 +2791,90 @@
                     "geo_entity_id": 310,
                     "data_value": "9",
                     "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "17.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "12.6",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "9.9",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "6.4",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "13.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "10.3",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "13.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "19.8",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "12.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "24.5",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "39.6",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "28.9",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "12.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "15.7",
+                    "color": "fd8d3c",
                     "character_display": ""
                   }
                 ]
@@ -1573,1572 +3139,6 @@
             ],
             "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
             "legend_title": "Estimated Annual Rate (per 10,000 residents)"
-          },
-          {
-            "legendtext": "",
-            "display": "Age-Adjusted Rate",
-            "color": [
-              "ffffb2",
-              "fecd5c",
-              "fd8d3c",
-              "e31a1c"
-            ],
-            "start_range": [
-              -9999999.0,
-              11.0,
-              17.0,
-              30.0,
-              9999999.0
-            ],
-            "measure": "Age-Adjusted Rate",
-            "how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-            "source": "NYS SPARCS Hospitalization",
-            "map_data": [
-              {
-                "year": "2018",
-                "year_data": [
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "6.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "12.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "12.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "6.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "2.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "8.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "7.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "3.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "6.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "15.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "8.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "19.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "16.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "1.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "3.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "2.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "0.8",
-                    "color": "ffffb2",
-                    "character_display": "*"
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "5.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "5.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "4.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "6.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "4.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "3.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "4.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "6.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "6.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "7.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "6.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "7.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "11.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "12.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "7.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "4.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "10.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "17.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "27.8",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "21",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "31.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "32.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "42.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "6.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  }
-                ]
-              },
-              {
-                "year": "2016",
-                "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "10.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "18",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "27.8",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "22.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "32.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "40",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "50.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "4.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "8.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "14.3",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "12.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "6.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "4.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "10.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "8.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "2.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "7.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "14",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "9.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "20.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "26.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "3.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "1.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "3.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "1.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "1.3",
-                    "color": "ffffb2",
-                    "character_display": "*"
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "7.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "5.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "6.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "4.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "4.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "4.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "6.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "7.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "11.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "7.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "8.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "26.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "14.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "5.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  }
-                ]
-              },
-              {
-                "year": "2014",
-                "year_data": [
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "9.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "20.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "18.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "7.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "16.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "45",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "18",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "42.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "46",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "10.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "4.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "11.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "7.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "3.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "19.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "10.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "20.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "13.3",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "7.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "7.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "10.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "10.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "13",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "16",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "10.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "18.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "27.8",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "10.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "9.7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "17",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "30.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "48.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "33.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "52.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "56.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "75.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "13.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "17.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "37.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "42.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "20.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  }
-                ]
-              },
-              {
-                "year": "2013",
-                "year_data": [
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "17.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "8.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "17.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "51.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "18.8",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "42",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "56.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "11.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "5.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "13.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "7.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "3.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "22.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "10",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "17.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "13.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "7.1",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "5.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "11.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "10.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "14.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "15.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "11.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "23.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "32.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "23.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "11",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "9.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "17.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "26.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "49.9",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "30.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "56.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "59.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "75.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "19.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "42.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "44.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "25.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "8.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "24.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  }
-                ]
-              },
-              {
-                "year": "2012",
-                "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "20.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "32.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "57.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "37",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "69.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "66.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "67.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "16",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "22.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "43.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "42",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "26.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "11.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "25.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "18.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "7.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "18.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "61.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "21.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "41",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "61.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "12.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "4.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "13.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "6.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "4.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "22.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "12.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "19.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "13.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "8.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "5.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "12.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "9.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "14.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "19.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "11.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "23",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "39.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "27.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "11.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "14.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  }
-                ]
-              },
-              {
-                "year": "2011",
-                "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "22.6",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "29.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "59.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "42",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "76.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "66.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "74.4",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "18.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "28.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "43.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "46.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "30.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "13.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "25.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "20.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "8.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "18.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "59.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "23.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "39.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "68.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "10.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "11.9",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "8.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "4.4",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "23.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "8.3",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "20",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "13.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "10",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "6.8",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "11.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "10.9",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "12.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "20.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "12.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "29.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "33.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "28.4",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "12.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "13.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  }
-                ]
-              }
-            ],
-            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-            "legend_title": "Age-Adjusted Rate (per 10,000 residents)"
           },
           {
             "legendtext": "",
@@ -3423,6 +3423,114 @@
                 "year": "2016",
                 "year_data": [
                   {
+                    "geo_entity_id": 307,
+                    "data_value": "22",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "**",
+                    "color": "E1E1E1",
+                    "character_display": "**"
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "124",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "21",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "114",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "225",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "107",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "32",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "89",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "55",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "172",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "297",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "139",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "77",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "133",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "142",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "52",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "89",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 101,
                     "data_value": "87",
                     "color": "ffffb2",
@@ -3565,120 +3673,120 @@
                     "data_value": "48",
                     "color": "ffffb2",
                     "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "22",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "**",
-                    "color": "E1E1E1",
-                    "character_display": "**"
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "124",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "21",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "114",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "225",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "107",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "32",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "89",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "55",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "172",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "297",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "139",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "77",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "133",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "142",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "52",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "89",
-                    "color": "fecc5c",
-                    "character_display": ""
                   }
                 ]
               },
               {
                 "year": "2014",
                 "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "138",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "510",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "849",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "794",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "751",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "860",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "736",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "108",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "303",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "912",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "568",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "173",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "229",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "493",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "329",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "132",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "412",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "608",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
                   {
                     "geo_entity_id": 301,
                     "data_value": "382",
@@ -3822,120 +3930,84 @@
                     "data_value": "157",
                     "color": "fecc5c",
                     "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "138",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "510",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "849",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "794",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "751",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "860",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "736",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "108",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "303",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "912",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "568",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "173",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "229",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "493",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "329",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "132",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "412",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "608",
-                    "color": "bd0026",
-                    "character_display": ""
                   }
                 ]
               },
               {
                 "year": "2013",
                 "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "153",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "451",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "872",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "719",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "783",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "878",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "721",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "152",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "370",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "1016",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "583",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "207",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
                   {
                     "geo_entity_id": 206,
                     "data_value": "223",
@@ -4115,120 +4187,12 @@
                     "data_value": "153",
                     "color": "fecc5c",
                     "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "153",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "451",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "872",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "719",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "783",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "878",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "721",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "152",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "370",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "1016",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "583",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "207",
-                    "color": "fd8d3c",
-                    "character_display": ""
                   }
                 ]
               },
               {
                 "year": "2012",
                 "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "169",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "537",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "986",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "866",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "943",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "954",
-                    "color": "bd0026",
-                    "character_display": ""
-                  },
                   {
                     "geo_entity_id": 107,
                     "data_value": "638",
@@ -4443,6 +4407,42 @@
                     "geo_entity_id": 504,
                     "data_value": "241",
                     "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "169",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "537",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "986",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "866",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "943",
+                    "color": "bd0026",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "954",
+                    "color": "bd0026",
                     "character_display": ""
                   }
                 ]
@@ -8228,416 +8228,6 @@
             ]
           },
           {
-            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
-            "graph_title": "Neighborhood Asthma Hospitalizations - Adults by Nitrogen Dioxide (NO2)",
-            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Annual Average 2018",
-            "x_axis_title": "Asthma Hospitalizations (Adults) - Age-Adjusted Rate (per 10,000 residents) 2016",
-            "info": [
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Adults)",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Nitrogen Dioxide (NO2)",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Annual Average 2018"
-              },
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Adults)",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Asthma Hospitalizations (Adults)",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2016"
-              }
-            ],
-            "link_data": [
-              [
-                "10.8",
-                "15.77",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18",
-                "16.16",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.8",
-                "17.25",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.2",
-                "16.89",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.2",
-                "19.76",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40",
-                "20.83",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "50.8",
-                "20.23",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4.6",
-                "21.93",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.7",
-                "21.14",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.3",
-                "19.42",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12.1",
-                "17.56",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "6.1",
-                "19.67",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4.6",
-                "18.11",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "10.2",
-                "17.9",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.1",
-                "14.48",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "2.8",
-                "16.86",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.6",
-                "14.35",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14",
-                "20.95",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "9.8",
-                "19.73",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.3",
-                "21.66",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.4",
-                "20.91",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3.5",
-                "22.22",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1.8",
-                "23.42",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "3.8",
-                "27.57",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1.9",
-                "28.69",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "1.3",
-                "24.79",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "*",
-                ",*",
-                ""
-              ],
-              [
-                "7.5",
-                "22.94",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5.6",
-                "25.15",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7",
-                "20.89",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "6.1",
-                "19.9",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4.5",
-                "17.63",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4.1",
-                "15.77",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "4.2",
-                "17.94",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "6.5",
-                "17.34",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.4",
-                "17.19",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.5",
-                "17.55",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.4",
-                "16.21",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.2",
-                "10.52",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.4",
-                "16.77",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.8",
-                "14.26",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7",
-                "13.57",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "5.6",
-                "11.05",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Black Carbon (Mean)",
             "graph_title": "Neighborhood Asthma Hospitalizations - Adults by Black Carbon",
             "y_axis_title": "Black Carbon - Mean (absorbance units) Annual Average 2018",
@@ -9039,6 +8629,416 @@
               [
                 "5.6",
                 "0.52",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
+            "graph_title": "Neighborhood Asthma Hospitalizations - Adults by Nitrogen Dioxide (NO2)",
+            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Annual Average 2018",
+            "x_axis_title": "Asthma Hospitalizations (Adults) - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Asthma Hospitalizations (Adults)",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Nitrogen Dioxide (NO2)",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Annual Average 2018"
+              },
+              {
+                "x_axis_title_reg": "Asthma Hospitalizations (Adults)",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Asthma Hospitalizations (Adults)",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident adults (18 years and older), divided by the population in 5 year age groups, using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown for adults, because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "10.8",
+                "15.77",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "16.16",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.8",
+                "17.25",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "16.89",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.2",
+                "19.76",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40",
+                "20.83",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "50.8",
+                "20.23",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.6",
+                "21.93",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.7",
+                "21.14",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.3",
+                "19.42",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.1",
+                "17.56",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.1",
+                "19.67",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.6",
+                "18.11",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.2",
+                "17.9",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.1",
+                "14.48",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.8",
+                "16.86",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.6",
+                "14.35",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14",
+                "20.95",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.8",
+                "19.73",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.3",
+                "21.66",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.4",
+                "20.91",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.5",
+                "22.22",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.8",
+                "23.42",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "3.8",
+                "27.57",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.9",
+                "28.69",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.3",
+                "24.79",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "7.5",
+                "22.94",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.6",
+                "25.15",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7",
+                "20.89",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.1",
+                "19.9",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.5",
+                "17.63",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.1",
+                "15.77",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.2",
+                "17.94",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.5",
+                "17.34",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.4",
+                "17.19",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.5",
+                "17.55",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.4",
+                "16.21",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.2",
+                "10.52",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.4",
+                "16.77",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.8",
+                "14.26",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7",
+                "13.57",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.6",
+                "11.05",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -9525,7 +9525,7 @@
               ],
               [
                 "32.2",
-                "17.4",
+                "13.6",
                 "Crotona -Tremont",
                 "Bronx",
                 "",
@@ -9534,7 +9534,7 @@
               ],
               [
                 "40",
-                "11.5",
+                "13.6",
                 "High Bridge - Morrisania",
                 "Bronx",
                 "",
@@ -9543,12 +9543,12 @@
               ],
               [
                 "50.8",
-                "11.2",
+                "13.6",
                 "Hunts Point - Mott Haven",
                 "Bronx",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "4.6",
@@ -9687,25 +9687,25 @@
               ],
               [
                 "1.8",
-                "4.7",
+                "8.3",
                 "Upper East Side",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "3.8",
-                "13.9",
+                "12.6",
                 "Chelsea - Clinton",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "1.9",
-                "14.3",
+                "8.3",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
                 "",
@@ -9713,9 +9713,27 @@
                 ""
               ],
               [
+                "1.3",
+                "12.6",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
                 "7.5",
-                "22.8",
+                "20.7",
                 "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.6",
+                "20.7",
+                "Lower Manhattan",
                 "Manhattan",
                 "",
                 ",",
@@ -9750,25 +9768,25 @@
               ],
               [
                 "4.1",
-                "16.3",
+                "15.1",
                 "Bayside - Little Neck",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "4.2",
-                "13.9",
+                "9.8",
                 "Ridgewood - Forest Hills",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "6.5",
-                "9.8",
+                "15.1",
                 "Fresh Meadows",
                 "Queens",
                 "",
@@ -9812,8 +9830,17 @@
                 ""
               ],
               [
+                "26.4",
+                "14.6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
                 "14.8",
-                "14.7",
+                "14.6",
                 "Stapleton - St. George",
                 "Staten Island",
                 "",
@@ -9822,16 +9849,16 @@
               ],
               [
                 "7",
-                "17.5",
+                "16.7",
                 "Willowbrook",
                 "Staten Island",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "5.6",
-                "16.4",
+                "16.7",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -10987,10 +11014,10 @@
                 "compare_type": "Ozone (O3) (Mean)"
               },
               {
-                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
+                "compare_type": "Black Carbon (Mean)"
               },
               {
-                "compare_type": "Black Carbon (Mean)"
+                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
               },
               {
                 "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"

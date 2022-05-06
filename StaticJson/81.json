@@ -1,0 +1,4517 @@
+
+  {
+    "map_node": [
+      {
+        "indicator_name": " Homes in 1 or 2 Family Buildings",
+        "indicator_description": "",
+        "geography": "Neighborhood (Sub-borough/PUMA)",
+        "dataset": [
+          {
+            "legendtext": "",
+            "display": "Percent",
+            "color": [
+              "eff3ff",
+              "bdd7e7",
+              "6baed6",
+              "2171b5"
+            ],
+            "start_range": [
+              -9999999.0,
+              6.3,
+              18.4,
+              36.8,
+              9999999.0
+            ],
+            "measure": "Percent",
+            "how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+            "source": "NYC PLUTO™",
+            "map_data": [
+              {
+                "year": "2007",
+                "year_data": [
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "6.3",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "7.6",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 3,
+                    "data_value": "2.5",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 4,
+                    "data_value": "4.9",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 5,
+                    "data_value": "4.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 6,
+                    "data_value": "8.9",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 7,
+                    "data_value": "17",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 8,
+                    "data_value": "36.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 9,
+                    "data_value": "33.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 10,
+                    "data_value": "44",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 11,
+                    "data_value": "7.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 12,
+                    "data_value": "7.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 13,
+                    "data_value": "19.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 14,
+                    "data_value": "18.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 15,
+                    "data_value": "35.6",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 16,
+                    "data_value": "16.8",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 17,
+                    "data_value": "29.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 18,
+                    "data_value": "13.7",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 19,
+                    "data_value": "16.4",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 20,
+                    "data_value": "33.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 21,
+                    "data_value": "34.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 22,
+                    "data_value": "30.5",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 23,
+                    "data_value": "15.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 24,
+                    "data_value": "19",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 25,
+                    "data_value": "39.6",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 26,
+                    "data_value": "19.3",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 27,
+                    "data_value": "36.8",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 28,
+                    "data_value": "69.7",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 29,
+                    "data_value": "0.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 30,
+                    "data_value": "0.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 31,
+                    "data_value": "0.2",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 32,
+                    "data_value": "0.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 33,
+                    "data_value": "0.5",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 34,
+                    "data_value": "0.8",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 35,
+                    "data_value": "1.1",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 36,
+                    "data_value": "1.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 37,
+                    "data_value": "0.3",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 38,
+                    "data_value": "0.4",
+                    "color": "eff3ff",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 39,
+                    "data_value": "18.4",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 40,
+                    "data_value": "18.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 41,
+                    "data_value": "27.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 42,
+                    "data_value": "15.1",
+                    "color": "bdd7e7",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 43,
+                    "data_value": "50.9",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 44,
+                    "data_value": "18.8",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 45,
+                    "data_value": "39",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 46,
+                    "data_value": "36.7",
+                    "color": "6baed6",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 47,
+                    "data_value": "52.7",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 48,
+                    "data_value": "76.4",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 49,
+                    "data_value": "60.8",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 50,
+                    "data_value": "62.3",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 51,
+                    "data_value": "80.2",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "38.5",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "64.8",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "77.6",
+                    "color": "2171b5",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "91.7",
+                    "color": "2171b5",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+            "legend_title": "Percent "
+          }
+        ],
+        "unreliable_text": [
+          ""
+        ]
+      }
+    ],
+    "fileName": "Subboro.json",
+    "time_trend_data": [],
+    "show_disparities_node": [],
+    "link_data_node": [
+      {
+        "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
+        "indicator_name": "Homes in 1 or 2 Family Buildings",
+        "Measure": "Percent",
+        "Compare": [
+          {
+            "compare_type": "Carbon Monoxide Incidents (Estimated Annual Rate)",
+            "graph_title": "Neighborhood  Carbon Monoxide Incidents by Homes in 1 or 2 Family Buildings",
+            "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
+            "x_axis_title": "Carbon Monoxide Incidents - Estimated Annual Rate (per 10,000 buildings) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Carbon Monoxide Incidents",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Carbon Monoxide Incidents",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "Number of carbon monoxide incidents in an area, where FDNY measured at least 1 ppm at the scene, divided by the number of buildings in the area; expressed as incidents per 10,000 buildings.  ",
+                "info_source": "Fire Department of New York City (FDNY) Carbon Monoxide Incidents,New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2016"
+              },
+              {
+                "x_axis_title_reg": "Carbon Monoxide Incidents",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in 1 or 2 Family Buildings",
+                "info_measure": "Percent",
+                "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+                "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2007"
+              }
+            ],
+            "link_data": [
+              [
+                "188.1",
+                "6.3",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "188.1",
+                "6.3",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "129.3",
+                "7.6",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "129.3",
+                "7.6",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "126.8",
+                "2.5",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "126.8",
+                "2.5",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "169.5",
+                "4.9",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "169.5",
+                "4.9",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "114",
+                "4.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "114",
+                "4.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61.2",
+                "8.9",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61.2",
+                "8.9",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76",
+                "17",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76",
+                "17",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "36.3",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "36.3",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.9",
+                "33.6",
+                "Pelham Parkway",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.9",
+                "33.6",
+                "Pelham Parkway",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.7",
+                "44",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.7",
+                "44",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.4",
+                "7.7",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.4",
+                "7.7",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "192.7",
+                "7.8",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "192.7",
+                "7.8",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "129",
+                "19.8",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "129",
+                "19.8",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.2",
+                "18.8",
+                "Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "63.2",
+                "18.8",
+                "Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.5",
+                "35.6",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.5",
+                "35.6",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.7",
+                "16.8",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.7",
+                "16.8",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.3",
+                "29.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.3",
+                "29.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "118.1",
+                "13.7",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "118.1",
+                "13.7",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.4",
+                "16.4",
+                "South Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "68.4",
+                "16.4",
+                "South Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.2",
+                "33.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.2",
+                "33.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.3",
+                "34.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.3",
+                "34.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36",
+                "30.5",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36",
+                "30.5",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.8",
+                "15.1",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.8",
+                "15.1",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.9",
+                "19",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.9",
+                "19",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.1",
+                "39.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.1",
+                "39.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "137.1",
+                "19.3",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "137.1",
+                "19.3",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "36.8",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.4",
+                "36.8",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.4",
+                "69.7",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.4",
+                "69.7",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.9",
+                "0.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.9",
+                "0.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "265.1",
+                "0.1",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "265.1",
+                "0.1",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "114.9",
+                "0.2",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "114.9",
+                "0.2",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.3",
+                "0.3",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.3",
+                "0.3",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "160.6",
+                "0.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "160.6",
+                "0.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64.7",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "64.7",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "216",
+                "1.1",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "216",
+                "1.1",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "209.3",
+                "1.3",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "209.3",
+                "1.3",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "455.8",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "455.8",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "230.8",
+                "0.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "230.8",
+                "0.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.5",
+                "18.4",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.5",
+                "18.4",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.3",
+                "18.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.3",
+                "18.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.4",
+                "27.8",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.4",
+                "27.8",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.7",
+                "15.1",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.7",
+                "15.1",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.7",
+                "50.9",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.7",
+                "50.9",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.1",
+                "18.8",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.1",
+                "18.8",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7",
+                "39",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7",
+                "39",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15",
+                "36.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15",
+                "36.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "52.7",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "5.5",
+                "52.7",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.6",
+                "76.4",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.6",
+                "76.4",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.6",
+                "60.8",
+                "Bayside/Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.6",
+                "60.8",
+                "Bayside/Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.1",
+                "62.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.1",
+                "62.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.8",
+                "80.2",
+                "Bellerose/Rosedale",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.8",
+                "80.2",
+                "Bellerose/Rosedale",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.4",
+                "64.8",
+                "North Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.4",
+                "64.8",
+                "North Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.2",
+                "77.6",
+                "Mid Island",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.2",
+                "77.6",
+                "Mid Island",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.3",
+                "91.7",
+                "South Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.3",
+                "91.7",
+                "South Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes with Working Carbon Monoxide Detector (Percent)",
+            "graph_title": "Neighborhood  Homes with working carbon monoxide detector by Homes in 1 or 2 Family Buildings",
+            "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
+            "x_axis_title": "Homes with Working Carbon Monoxide Detector - Percent 2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Homes with Working Carbon Monoxide Detector",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes with Working Carbon Monoxide Detector",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of households in an area reporting a working carbon monoxide detector inside the home, divided by the number of households in the area; expressed as percent.",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2014"
+              },
+              {
+                "x_axis_title_reg": "Homes with Working Carbon Monoxide Detector",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in 1 or 2 Family Buildings",
+                "info_measure": "Percent",
+                "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+                "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2007"
+              }
+            ],
+            "link_data": [
+              [
+                "90.8",
+                "6.3",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.8",
+                "7.6",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89",
+                "2.5",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.9",
+                "4.9",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.3",
+                "4.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.2",
+                "8.9",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.1",
+                "17",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.7",
+                "36.3",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.4",
+                "33.6",
+                "Pelham Parkway",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.7",
+                "44",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.3",
+                "7.7",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.8",
+                "7.8",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.5",
+                "19.8",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.4",
+                "18.8",
+                "Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.7",
+                "35.6",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.8",
+                "16.8",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.4",
+                "29.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87",
+                "13.7",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "93.9",
+                "16.4",
+                "South Crown Heights",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "83.3",
+                "33.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "34.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.5",
+                "30.5",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "93.1",
+                "15.1",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.9",
+                "19",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.3",
+                "39.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.7",
+                "19.3",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "83.8",
+                "36.8",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.7",
+                "69.7",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85",
+                "0.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "72.7",
+                "0.1",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.4",
+                "0.2",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "78.9",
+                "0.3",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.8",
+                "0.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.5",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "87.7",
+                "1.1",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.3",
+                "1.3",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.1",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.2",
+                "0.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.2",
+                "18.4",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "85.7",
+                "18.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.3",
+                "27.8",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.2",
+                "15.1",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.6",
+                "50.9",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.7",
+                "18.8",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "82.1",
+                "39",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "86.1",
+                "36.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.6",
+                "52.7",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "92.8",
+                "76.4",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "88.5",
+                "60.8",
+                "Bayside/Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "89.1",
+                "62.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "84.9",
+                "80.2",
+                "Bellerose/Rosedale",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90.3",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "91.5",
+                "64.8",
+                "North Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "90",
+                "77.6",
+                "Mid Island",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "93.5",
+                "91.7",
+                "South Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)",
+            "graph_title": "Neighborhood  Children under 6 years with elevated blood lead levels (BLL) by Homes in 1 or 2 Family Buildings",
+            "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
+            "x_axis_title": "Children under 6 years with elevated blood lead levels (BLL) - Rate BLL >=5 µg/dL (per 1,000 tested) 2014",
+            "info": [
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Children under 6 years with elevated blood lead levels (BLL)",
+                "info_measure": "Rate BLL >=5 µg/dL",
+                "info_how_calculated": "Number of children less than 6 years old tested in a given year with blood lead levels of 5 mcg/dL or greater, divided by the total number of children less than 6 years old who were tested for lead poisoning in a given year; expressed as cases per 1,000 tested. The numbers in this table include all children tested within a given calendar year, regardless of whether they were tested in previous years with the same or different blood lead levels. While children can receive more than one test during the calendar year, children are only counted once using the highest confirmed blood lead level during the calendar year. If the child does not have a confirmed test in a given year, the child’s blood lead level is based on the highest capillary or unknown test type. This measure differs from the rate of children newly identified with blood lead levels at or above a certain level reported by the Health Department in other publications. <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/EPHTPDF/Childhood_Lead_Exposure_Definitions_June_2016.pdf\" target=\"_blank\">Read more </a>about different measures used by the Health Department for surveillance of childhood lead poisoning.",
+                "info_source": "New York City Healthy Homes Program",
+                "info_year": "2014"
+              },
+              {
+                "x_axis_title_reg": "Children under 6 years with elevated blood lead levels (BLL)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Rate BLL >=5 µg/dL",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in 1 or 2 Family Buildings",
+                "info_measure": "Percent",
+                "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+                "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2007"
+              }
+            ],
+            "link_data": [
+              [
+                "10.2",
+                "9.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.6",
+                "39.4",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "7.1",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "29.6",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "7.2",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.3",
+                "2.9",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19",
+                "8",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "56.1",
+                "8.5",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.5",
+                "12.4",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.9",
+                "16.4",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "37.5",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "29.2",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.1",
+                "28.6",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25",
+                "26.3",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.3",
+                "65.1",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.8",
+                "33.4",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.6",
+                "30.3",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.3",
+                "15.5",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "0.8",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "1.1",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.9",
+                "0.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.4",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.4",
+                "0.3",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.4",
+                "0.3",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.1",
+                "1.2",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "0.2",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.5",
+                "0",
+                "Lower Manhattan",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "20.2",
+                "16.3",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.1",
+                "26.6",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "13.5",
+                "40.4",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "4.2",
+                "54.7",
+                "Bayside - Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "17.6",
+                "32.3",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.8",
+                "43.8",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.6",
+                "63.8",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.9",
+                "55.8",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16",
+                "79.3",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33",
+                "73.8",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.8",
+                "59.6",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.1",
+                "79.3",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.3",
+                "90.3",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Carbon Monoxide Incidents without a Detector (3 Year Avg.) (Average Annual Rate)",
+            "graph_title": "Neighborhood  Carbon Monoxide Incidents without a Detector (3 Year Avg.) by Homes in 1 or 2 Family Buildings",
+            "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
+            "x_axis_title": "Carbon Monoxide Incidents without a Detector (3 Year Avg.) - Average Annual Rate (per 10,000 buildings) 2011-2013",
+            "info": [
+              {
+                "x_axis_title_reg": "Carbon Monoxide Incidents without a Detector (3 Year Avg.)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Average Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Carbon Monoxide Incidents without a Detector (3 Year Avg.)",
+                "info_measure": "Average Annual Rate",
+                "info_how_calculated": "A 3-year average annual rate of carbon monoxide incidents where FDNY measured at least 1 ppm at the scene, and there was no detector (alarm) or alarm did not go off; expressed as incidents per 10,000 buildings.",
+                "info_source": "Fire Department of New York City (FDNY) Carbon Monoxide Incidents",
+                "info_year": "2011-2013"
+              },
+              {
+                "x_axis_title_reg": "Carbon Monoxide Incidents without a Detector (3 Year Avg.)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Average Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in 1 or 2 Family Buildings",
+                "info_measure": "Percent",
+                "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+                "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2007"
+              }
+            ],
+            "link_data": [
+              [
+                "7.8",
+                "6.3",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "2.5",
+                "7.6",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.3",
+                "2.5",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "5.4",
+                "4.9",
+                "University Heights/Fordham",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "4.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.7",
+                "8.9",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.2",
+                "17",
+                "Soundview/Parkchester",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.5",
+                "36.3",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.8",
+                "33.6",
+                "Pelham Parkway",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.3",
+                "44",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.4",
+                "7.7",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "2.6",
+                "7.8",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.7",
+                "19.8",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.6",
+                "18.8",
+                "Bushwick",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.3",
+                "35.6",
+                "East New York/Starret City",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.5",
+                "16.8",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "1.5",
+                "29.3",
+                "Sunset Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.2",
+                "13.7",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.5",
+                "16.4",
+                "South Crown Heights",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.5",
+                "33.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "34.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.8",
+                "30.5",
+                "Borough Park",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.7",
+                "15.1",
+                "Coney Island",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.4",
+                "19",
+                "Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "39.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.8",
+                "19.3",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.3",
+                "36.8",
+                "East Flatbush",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "69.7",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "9.8",
+                "0.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.7",
+                "0.1",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "6.5",
+                "0.2",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "8.6",
+                "0.3",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.8",
+                "0.5",
+                "Upper West Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "6.1",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.1",
+                "1.1",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "5.6",
+                "1.3",
+                "Central Harlem",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "8",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "3.6",
+                "0.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.8",
+                "18.4",
+                "Astoria",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "1.3",
+                "18.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.4",
+                "27.8",
+                "Jackson Heights",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.9",
+                "15.1",
+                "Elmhurst/Corona",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.1",
+                "50.9",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "18.8",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.2",
+                "39",
+                "Flushing/Whitestone",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.5",
+                "36.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.3",
+                "52.7",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.3",
+                "76.4",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.3",
+                "60.8",
+                "Bayside/Little Neck",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.3",
+                "62.3",
+                "Jamaica",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.1",
+                "80.2",
+                "Bellerose/Rosedale",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "64.8",
+                "North Shore",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.6",
+                "77.6",
+                "Mid Island",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ],
+              [
+                "0.8",
+                "91.7",
+                "South Shore",
+                "Staten Island",
+                "*",
+                ",*",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Homes with Grab Bars in Bathroom (among older adult households) (Percent)",
+            "graph_title": "Neighborhood  Homes with grab bars in bathroom (among older adult households) by Homes in 1 or 2 Family Buildings",
+            "y_axis_title": "Homes in 1 or 2 Family Buildings - Percent 2007",
+            "x_axis_title": "Homes with Grab Bars in Bathroom (among older adult households) - Percent 2011",
+            "info": [
+              {
+                "x_axis_title_reg": "Homes with Grab Bars in Bathroom (among older adult households)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes with Grab Bars in Bathroom (among older adult households)",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of homes with grab bars in the bathroom, among homes with adults aged 65 years or older, divided by the estimated number of households with adults aged 65 years or older; expressed as a percent. ",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2011"
+              },
+              {
+                "x_axis_title_reg": "Homes with Grab Bars in Bathroom (among older adult households)",
+                "y_axis_title_reg": "Homes in 1 or 2 Family Buildings",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent",
+                "info_name": "Homes in 1 or 2 Family Buildings",
+                "info_measure": "Percent",
+                "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+                "info_source": "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data",
+                "info_year": "2007"
+              }
+            ],
+            "link_data": [
+              [
+                "44.6",
+                "6.3",
+                "Mott Haven/Hunts Point",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61.7",
+                "7.6",
+                "Morrisania/East Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.8",
+                "2.5",
+                "Highbridge/South Concourse",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34",
+                "4.9",
+                "University Heights/Fordham",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.7",
+                "4.1",
+                "Kingsbridge Heights/Mosholu",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.2",
+                "8.9",
+                "Riverdale/Kingsbridge",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.9",
+                "17",
+                "Soundview/Parkchester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.8",
+                "36.3",
+                "Throgs Neck/Co-op City",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.2",
+                "33.6",
+                "Pelham Parkway",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.6",
+                "44",
+                "Williamsbridge/Baychester",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.4",
+                "7.7",
+                "Williamsburg/Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.4",
+                "7.8",
+                "Brooklyn Heights/Fort Greene",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "48.3",
+                "19.8",
+                "Bedford Stuyvesant",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.4",
+                "18.8",
+                "Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "50.6",
+                "35.6",
+                "East New York/Starret City",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.6",
+                "16.8",
+                "Park Slope/Carroll Gardens",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "25.2",
+                "29.3",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.6",
+                "13.7",
+                "N. Crown Heights/Prospect Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.4",
+                "16.4",
+                "South Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.9",
+                "33.8",
+                "Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.7",
+                "34.8",
+                "Bensonhurst",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "55.5",
+                "30.5",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "45.8",
+                "15.1",
+                "Coney Island",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.5",
+                "19",
+                "Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.3",
+                "39.6",
+                "Sheepshead Bay/Gravesend",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.2",
+                "19.3",
+                "Brownsville/Ocean Hill",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28",
+                "36.8",
+                "East Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.3",
+                "69.7",
+                "Flatlands/Canarsie",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.4",
+                "0.8",
+                "Greenwich Village/Financial District",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.8",
+                "0.1",
+                "Lower East Side/Chinatown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41",
+                "0.2",
+                "Chelsea/Clinton/Midtown",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.1",
+                "0.3",
+                "Stuyvesant Town/Turtle Bay",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.4",
+                "0.5",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.5",
+                "0.8",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "31.4",
+                "1.1",
+                "Morningside Heights/Hamilton Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "48.2",
+                "1.3",
+                "Central Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.1",
+                "0.3",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.6",
+                "0.4",
+                "Washington Heights/Inwood",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.1",
+                "18.4",
+                "Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.5",
+                "18.1",
+                "Sunnyside/Woodside",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.5",
+                "27.8",
+                "Jackson Heights",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.2",
+                "15.1",
+                "Elmhurst/Corona",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29",
+                "50.9",
+                "Middle Village/Ridgewood",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.8",
+                "18.8",
+                "Forest Hills/Rego Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.1",
+                "39",
+                "Flushing/Whitestone",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.3",
+                "36.7",
+                "Hillcrest/Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.7",
+                "52.7",
+                "Kew Gardens/Woodhaven",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.7",
+                "76.4",
+                "Howard Beach/South Ozone Park",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.2",
+                "60.8",
+                "Bayside/Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.7",
+                "62.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.4",
+                "80.2",
+                "Bellerose/Rosedale",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.7",
+                "38.5",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.7",
+                "64.8",
+                "North Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.1",
+                "77.6",
+                "Mid Island",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.9",
+                "91.7",
+                "South Shore",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          }
+        ],
+        "unreliable_text": [
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
+        ],
+        "link_opts": [
+          {
+            "name": "Carbon Monoxide Incidents",
+            "children": [
+              {
+                "compare_type": "Carbon Monoxide Incidents (Estimated Annual Rate)"
+              },
+              {
+                "compare_type": "Carbon Monoxide Incidents without a Detector (3 Year Avg.) (Average Annual Rate)"
+              }
+            ]
+          },
+          {
+            "name": "Housing",
+            "children": [
+              {
+                "compare_type": "Homes with Working Carbon Monoxide Detector (Percent)"
+              }
+            ]
+          },
+          {
+            "name": "Childhood Lead Exposure",
+            "children": [
+              {
+                "compare_type": "Children under 6 years with elevated blood lead levels (BLL) (Rate BLL >=5 µg/dL)"
+              }
+            ]
+          },
+          {
+            "name": "Falls Among Older Adults",
+            "children": [
+              {
+                "compare_type": "Homes with Grab Bars in Bathroom (among older adult households) (Percent)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "summarize_data": [
+      {
+        "indicator_name": "Homes in 1 or 2 Family Buildings",
+        "indicator_description": "",
+        "summary_opts": [
+          {
+            "name": "Geographies",
+            "children": [
+              {
+                "name": "Citywide",
+                "children": [
+                  {
+                    "name": "New York City",
+                    "sort_index": 10,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Borough",
+                "children": [
+                  {
+                    "name": "Bronx",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Brooklyn",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Manhattan",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Queens",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  },
+                  {
+                    "name": "Staten Island",
+                    "sort_index": 20,
+                    "col": 2,
+                    "chk": true
+                  }
+                ]
+              },
+              {
+                "name": "Neighborhood (subborough/PUMA)",
+                "sort_index": 50,
+                "children": [
+                  {
+                    "name": "Bronx Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Bronx: Highbridge/South Concourse",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Kingsbridge Heights/Mosholu",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Morrisania/East Tremont",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Mott Haven/Hunts Point",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Pelham Parkway",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Riverdale/Kingsbridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Soundview/Parkchester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Throgs Neck/Co-op City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: University Heights/Fordham",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Bronx: Williamsbridge/Baychester",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Brooklyn Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Brooklyn: Bay Ridge",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bedford Stuyvesant",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bensonhurst",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Borough Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brooklyn Heights/Fort Greene",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Brownsville/Ocean Hill",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Bushwick",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Coney Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: East New York/Starret City",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatbush",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Flatlands/Canarsie",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: N. Crown Heights/Prospect Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Park Slope/Carroll Gardens",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sheepshead Bay/Gravesend",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: South Crown Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Sunset Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Brooklyn: Williamsburg/Greenpoint",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manhattan Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Manhattan: Central Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Chelsea/Clinton/Midtown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: East Harlem",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Greenwich Village/Financial District",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Lower East Side/Chinatown",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Morningside Heights/Hamilton Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Stuyvesant Town/Turtle Bay",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper East Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Upper West Side",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Manhattan: Washington Heights/Inwood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Queens Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Queens: Astoria",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bayside/Little Neck",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Bellerose/Rosedale",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Elmhurst/Corona",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Flushing/Whitestone",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Forest Hills/Rego Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Hillcrest/Fresh Meadows",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Howard Beach/South Ozone Park",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jackson Heights",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Jamaica",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Kew Gardens/Woodhaven",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Middle Village/Ridgewood",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Rockaways",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Queens: Sunnyside/Woodside",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Staten Island Neighborhoods",
+                    "sort_index": 50,
+                    "children": [
+                      {
+                        "name": "Staten Island: Mid Island",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: North Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      },
+                      {
+                        "name": "Staten Island: South Shore",
+                        "sort_index": 50,
+                        "col": 2,
+                        "chk": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Years",
+            "children": [
+              {
+                "name": "2007",
+                "col": 3,
+                "chk": true
+              }
+            ]
+          }
+        ],
+        "column_headers": [
+          "sort_index",
+          "GeographyID",
+          "Geography",
+          "Year",
+          "Number",
+          "Percent"
+        ],
+        "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2007",
+            "807,149  ",
+            " ",
+            "24.2 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Bronx",
+            "2007",
+            "81,191  ",
+            " ",
+            "16.3 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Brooklyn",
+            "2007",
+            "252,034  ",
+            " ",
+            "26.4 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Manhattan",
+            "2007",
+            "5,326  ",
+            " ",
+            "0.6 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Queens",
+            "2007",
+            "337,140  ",
+            " ",
+            "42.0 ",
+            " "
+          ],
+          [
+            "20",
+            "Borough",
+            "Staten Island",
+            "2007",
+            "131,458  ",
+            " ",
+            "77.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Highbridge/South Concourse",
+            "2007",
+            "1,195  ",
+            " ",
+            "2.5 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Kingsbridge Heights/Mosholu",
+            "2007",
+            "1,901  ",
+            " ",
+            "4.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Morrisania/East Tremont",
+            "2007",
+            "4,350  ",
+            " ",
+            "7.6 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Mott Haven/Hunts Point",
+            "2007",
+            "3,230  ",
+            " ",
+            "6.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Pelham Parkway",
+            "2007",
+            "15,018  ",
+            " ",
+            "33.6 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Riverdale/Kingsbridge",
+            "2007",
+            "4,238  ",
+            " ",
+            "8.9 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Soundview/Parkchester",
+            "2007",
+            "11,177  ",
+            " ",
+            "17.0 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Throgs Neck/Co-op City",
+            "2007",
+            "16,987  ",
+            " ",
+            "36.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: University Heights/Fordham",
+            "2007",
+            "2,270  ",
+            " ",
+            "4.9 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Bronx: Williamsbridge/Baychester",
+            "2007",
+            "21,030  ",
+            " ",
+            "44.0 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bay Ridge",
+            "2007",
+            "17,676  ",
+            " ",
+            "33.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bedford Stuyvesant",
+            "2007",
+            "10,709  ",
+            " ",
+            "19.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bensonhurst",
+            "2007",
+            "22,682  ",
+            " ",
+            "34.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Borough Park",
+            "2007",
+            "15,648  ",
+            " ",
+            "30.5 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brooklyn Heights/Fort Greene",
+            "2007",
+            "4,718  ",
+            " ",
+            "7.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Brownsville/Ocean Hill",
+            "2007",
+            "8,924  ",
+            " ",
+            "19.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Bushwick",
+            "2007",
+            "8,156  ",
+            " ",
+            "18.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Coney Island",
+            "2007",
+            "7,544  ",
+            " ",
+            "15.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East Flatbush",
+            "2007",
+            "17,681  ",
+            " ",
+            "36.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: East New York/Starret City",
+            "2007",
+            "17,570  ",
+            " ",
+            "35.6 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatbush",
+            "2007",
+            "11,143  ",
+            " ",
+            "19.0 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Flatlands/Canarsie",
+            "2007",
+            "45,235  ",
+            " ",
+            "69.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: N. Crown Heights/Prospect Heights",
+            "2007",
+            "7,348  ",
+            " ",
+            "13.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Park Slope/Carroll Gardens",
+            "2007",
+            "8,809  ",
+            " ",
+            "16.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sheepshead Bay/Gravesend",
+            "2007",
+            "23,821  ",
+            " ",
+            "39.6 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: South Crown Heights",
+            "2007",
+            "6,693  ",
+            " ",
+            "16.4 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Sunset Park",
+            "2007",
+            "13,125  ",
+            " ",
+            "29.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Brooklyn: Williamsburg/Greenpoint",
+            "2007",
+            "4,549  ",
+            " ",
+            "7.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Central Harlem",
+            "2007",
+            "864  ",
+            " ",
+            "1.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Chelsea/Clinton/Midtown",
+            "2007",
+            "192  ",
+            " ",
+            "0.2 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: East Harlem",
+            "2007",
+            "135  ",
+            " ",
+            "0.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Greenwich Village/Financial District",
+            "2007",
+            "746  ",
+            " ",
+            "0.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Lower East Side/Chinatown",
+            "2007",
+            "101  ",
+            " ",
+            "0.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Morningside Heights/Hamilton Heights",
+            "2007",
+            "574  ",
+            " ",
+            "1.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Stuyvesant Town/Turtle Bay",
+            "2007",
+            "360  ",
+            " ",
+            "0.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper East Side",
+            "2007",
+            "1,282  ",
+            " ",
+            "0.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Upper West Side",
+            "2007",
+            "560  ",
+            " ",
+            "0.5 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Manhattan: Washington Heights/Inwood",
+            "2007",
+            "305  ",
+            " ",
+            "0.4 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Astoria",
+            "2007",
+            "14,030  ",
+            " ",
+            "18.4 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bayside/Little Neck",
+            "2007",
+            "27,090  ",
+            " ",
+            "60.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Bellerose/Rosedale",
+            "2007",
+            "48,203  ",
+            " ",
+            "80.2 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Elmhurst/Corona",
+            "2007",
+            "6,485  ",
+            " ",
+            "15.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Flushing/Whitestone",
+            "2007",
+            "36,240  ",
+            " ",
+            "39.0 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Forest Hills/Rego Park",
+            "2007",
+            "10,249  ",
+            " ",
+            "18.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Hillcrest/Fresh Meadows",
+            "2007",
+            "20,684  ",
+            " ",
+            "36.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Howard Beach/South Ozone Park",
+            "2007",
+            "29,667  ",
+            " ",
+            "76.4 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jackson Heights",
+            "2007",
+            "14,959  ",
+            " ",
+            "27.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Jamaica",
+            "2007",
+            "45,028  ",
+            " ",
+            "62.3 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Kew Gardens/Woodhaven",
+            "2007",
+            "23,501  ",
+            " ",
+            "52.7 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Middle Village/Ridgewood",
+            "2007",
+            "33,292  ",
+            " ",
+            "50.9 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Rockaways",
+            "2007",
+            "18,027  ",
+            " ",
+            "38.5 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Queens: Sunnyside/Woodside",
+            "2007",
+            "9,676  ",
+            " ",
+            "18.1 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: Mid Island",
+            "2007",
+            "37,155  ",
+            " ",
+            "77.6 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: North Shore",
+            "2007",
+            "40,829  ",
+            " ",
+            "64.8 ",
+            " "
+          ],
+          [
+            "50",
+            "Neighborhood (Sub-borough/PUMA)",
+            "Staten Island: South Shore",
+            "2007",
+            "53,470  ",
+            " ",
+            "91.7 ",
+            " "
+          ]
+        ],
+        "unreliability_text": [
+          ""
+        ],
+        "info": [
+          {
+            "info_name": "Homes in 1 or 2 Family Buildings",
+            "info_measure": "Number",
+            "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning.",
+            "info_source": [
+              "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data"
+            ]
+          },
+          {
+            "info_name": "Homes in 1 or 2 Family Buildings",
+            "info_measure": "Percent",
+            "info_how_calculated": "Number of residential units in one or two family homes as identified by NYC Department of City Planning, divided by all residential units; expressed as a percent.",
+            "info_source": [
+              "New York City Primary Land Use Tax Lot Output (PLUTO™ ) Property Characteristic Data"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
