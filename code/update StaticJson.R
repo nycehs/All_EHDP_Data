@@ -82,13 +82,13 @@ internal_id <- recently_pushed$internal_id %>% unique() %>% sort()
 
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Getting JSON from site via DataHandler.ashx ----
+# Getting JSON from production site via DataHandler.ashx ----
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 
 indicator_json <- list()
+internal_id_errors <- numeric()
 
-# url_root <- "https://a816-dohbesp.nyc.gov/IndicatorPublic/"
-url_root <- "http://appbesp101/IndicatorPublic/"
+url_root <- "https://a816-dohbesp.nyc.gov/IndicatorPublic/"
 
 # invoke session
 
@@ -135,6 +135,8 @@ for (i in 1:length(internal_id)) {
     
     if (is.null(this_form)) {
         
+        internal_id_errors[length(internal_id_errors) + 1] <- internal_id[i]
+        
         cat(" <--ERROR")
         cat("\n")
         next
@@ -165,6 +167,95 @@ for (i in 1:length(internal_id)) {
     # save DataHandler.ashx response JSON
     
     write_lines(indicator_json[[i]], paste0("StaticJson/", internal_id[i], ".json"))
+    
+}
+
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+# Getting JSON from staging site via DataHandler.ashx ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+
+# if the page doesn't exist already on production, it will redirect to the homepage before
+#   the STAGE hack can take effect. So, in order to get these indicators, we have to use
+#   the staging site. The data format is the same, so it should be fine.
+
+url_root <- "http://appbesp101/IndicatorPublic/"
+
+# invoke session
+
+the_session <- session(paste0(url_root, "PublicTracking.aspx"))
+
+
+# ---- loop through internal_ids ---- #
+
+for (i in 1:length(internal_id_errors)) {
+    
+    
+    cat(i, "/", length(internal_id_errors), " [", internal_id_errors[i], "]", sep = "")
+    
+    
+    # ---- modifying form ---- #
+    
+    this_form <- 
+        
+        tryCatch({
+            
+            the_session %>% 
+                
+                # navigate to indicator page to set session vars
+                
+                session_jump_to(
+                    paste0(
+                        url_root, "VisualizationData.aspx?",
+                        "id=", internal_id_errors[i], ",1,1,Summarize"
+                    )
+                ) %>% 
+                
+                # get form
+                
+                html_element("#aspnetForm") %>% 
+                html_form() %>% 
+                
+                # change value of "hidEnv" in form element (STAGE = database query)
+                
+                html_form_set("ctl00$ContentPlaceHolder1$hidEnv" = "STAGE")
+            
+        }, error = function(e) {}
+        )
+    
+    
+    if (is.null(this_form)) {
+        
+        cat(" <--ERROR")
+        cat("\n")
+        next
+        
+    }
+    
+    cat("\n")
+    
+    
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+    # getting data
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+    
+    indicator_json[[length(indicator_json) + 1]] <- 
+        
+        the_session %>% 
+        
+        # submit form
+        
+        session_submit(form = this_form, submit = 1) %>% 
+        
+        # now invoke DataHandler.ashx and get response
+        
+        session_jump_to(paste0(url_root, "EPHTHandler/DataHandler.ashx?TypeImage=HideAndShowSummarize")) %>% 
+        pluck("response") %>% 
+        content()
+    
+    # save DataHandler.ashx response JSON
+    
+    write_lines(indicator_json[[length(indicator_json) + 1]], paste0("StaticJson/", internal_id_errors[i], ".json"))
     
 }
 
