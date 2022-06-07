@@ -23,6 +23,7 @@ library(fs)
 library(keyring)
 library(rvest)
 library(httr)
+library(svDialogs)
 
 #-----------------------------------------------------------------------------------------#
 # Connecting to BESP_Indicator
@@ -49,36 +50,60 @@ EHDP_odbc <-
         pwd = key_get("EHDP", "bespadmin")
     )
 
-
-#-----------------------------------------------------------------------------------------#
-# Updating StaticJson ----
-#-----------------------------------------------------------------------------------------#
-
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# getting recently pushed ----
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-
 avail_data <- 
     EHDP_odbc %>% 
     tbl("avail_data") %>% 
     distinct(internal_id, Indicator) %>% 
     collect()
 
-push_history <- 
-    EHDP_odbc %>% 
-    tbl("push_history") %>% 
-    # filter(data_upload_date >= !!(today()-2)) %>% 
-    distinct(name) %>% 
-    collect()
+#-----------------------------------------------------------------------------------------#
+# Updating StaticJson ----
+#-----------------------------------------------------------------------------------------#
 
-recently_pushed <- 
-    left_join(
-        push_history,
-        avail_data,
-        by = c("name" = "Indicator")
+use_recent_uploads <-
+    dlg_list(
+        choices = c("Yes", "No"),
+        preselect = "Yes",
+        title = "Use recent uploads?"
     )
 
-internal_id <- recently_pushed$internal_id %>% unique() %>% sort()
+
+if (use_recent_uploads$res == "Yes") {
+    
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+    # getting recently pushed
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+    
+    push_history <- 
+        EHDP_odbc %>% 
+        tbl("push_history") %>% 
+        filter(data_upload_date >= !!(today()-2)) %>%
+        distinct(name) %>% 
+        collect()
+    
+    recently_pushed <- 
+        left_join(
+            push_history,
+            avail_data,
+            by = c("name" = "Indicator")
+        )
+    
+    internal_id <- recently_pushed$internal_id %>% unique() %>% sort()
+    
+} else if (use_recent_uploads$res == "No") {
+    
+    internal_id_list <-
+        dlgInput(
+            message = "Enter internal_ids to update",
+            rstudio = FALSE
+        )$res
+    
+    internal_id <- 
+        internal_id_list %>% 
+        str_split(",| ", simplify = TRUE) %>% 
+        as.integer()
+    
+}
 
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
