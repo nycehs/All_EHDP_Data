@@ -702,6 +702,36 @@
                 "year": "2005",
                 "year_data": [
                   {
+                    "geo_entity_id": 51,
+                    "data_value": "13.5",
+                    "color": "fd8e3f",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 52,
+                    "data_value": "12.6",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "13.5",
+                    "color": "fd8e3f",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "9.3",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "6.1",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 1,
                     "data_value": "18.1",
                     "color": "f03c20",
@@ -1000,36 +1030,6 @@
                     "data_value": "17.3",
                     "color": "f03c20",
                     "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 51,
-                    "data_value": "13.5",
-                    "color": "fd8e3f",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 52,
-                    "data_value": "12.6",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 53,
-                    "data_value": "13.5",
-                    "color": "fd8e3f",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 54,
-                    "data_value": "9.3",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 55,
-                    "data_value": "6.1",
-                    "color": "ffffb2",
-                    "character_display": ""
                   }
                 ]
               }
@@ -1062,18 +1062,6 @@
               {
                 "year": "2017",
                 "year_data": [
-                  {
-                    "geo_entity_id": 1,
-                    "data_value": "10000",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 2,
-                    "data_value": "10000",
-                    "color": "f03b20",
-                    "character_display": ""
-                  },
                   {
                     "geo_entity_id": 3,
                     "data_value": "10000",
@@ -1391,6 +1379,18 @@
                     "data_value": "3000",
                     "color": "ffffb2",
                     "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 1,
+                    "data_value": "10000",
+                    "color": "f03b20",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 2,
+                    "data_value": "10000",
+                    "color": "f03b20",
+                    "character_display": ""
                   }
                 ]
               },
@@ -2392,7 +2392,7 @@
                 "link_indicator": "Neighborhood Poverty",
                 "graph_title": "Housing Maintenance: Homes using supplemental heat",
                 "y_axis_title": "Percent  (Median of Neighborhoods)",
-                "x_axis_title": "Neighborhood Poverty, 2009-13 (Sub-borough/PUMA)",
+                "x_axis_title": "Neighborhood Poverty, 2013-17 (Sub-borough/PUMA)",
                 "info": [
                   {
                     "info_name": "Homes Using Supplemental Heat",
@@ -2417,11 +2417,11 @@
                       ],
                       [
                         "2005",
-                        10.3
+                        10.9
                       ],
                       [
                         "2002",
-                        7.3
+                        7.4
                       ]
                     ]
                   },
@@ -2430,7 +2430,7 @@
                     "bar_data": [
                       [
                         "2017",
-                        13.1
+                        14.1
                       ],
                       [
                         "2005",
@@ -2438,7 +2438,7 @@
                       ],
                       [
                         "2002",
-                        9.9
+                        10.1
                       ]
                     ]
                   },
@@ -2447,15 +2447,15 @@
                     "bar_data": [
                       [
                         "2017",
-                        20.7
+                        20.4
                       ],
                       [
                         "2005",
-                        22.1
+                        21.1
                       ],
                       [
                         "2002",
-                        19.5
+                        18.9
                       ]
                     ]
                   }

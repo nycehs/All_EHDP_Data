@@ -866,6 +866,54 @@
                 "year": "2016",
                 "year_data": [
                   {
+                    "geo_entity_id": 101,
+                    "data_value": "19.5",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "13",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "11.2",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "15.1",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "29",
+                    "color": "e31a1c",
+                    "character_display": "*"
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "25.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "14.4",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "15.2",
+                    "color": "fecc5c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 205,
                     "data_value": "5.8",
                     "color": "ffffb2",
@@ -1019,54 +1067,6 @@
                     "geo_entity_id": 105106107,
                     "data_value": "17.8",
                     "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "19.5",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "13",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "11.2",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "15.1",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "29",
-                    "color": "e31a1c",
-                    "character_display": "*"
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "25.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "14.4",
-                    "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "15.2",
-                    "color": "fecc5c",
                     "character_display": ""
                   }
                 ]
@@ -5341,7 +5341,7 @@
                 "link_indicator": "Neighborhood Poverty",
                 "graph_title": " Adults Who Binge Drink",
                 "y_axis_title": "Percent  (Median of Neighborhoods)",
-                "x_axis_title": "Neighborhood Poverty, 2012-16 (UHF 34)",
+                "x_axis_title": "Neighborhood Poverty, 2015-19 (UHF 34)",
                 "info": [
                   {
                     "info_name": "Adults Who Binge Drink",
@@ -5361,32 +5361,44 @@
                     "bar_label": "Low",
                     "bar_data": [
                       [
-                        "2017",
-                        15.1
+                        "2020",
+                        14.1
                       ],
                       [
-                        "2016",
-                        16.8
+                        "2019",
+                        15.4
                       ],
                       [
-                        "2015",
-                        16.5
-                      ],
-                      [
-                        "2014",
-                        13.5
-                      ],
-                      [
-                        "2013",
-                        17.7
-                      ],
-                      [
-                        "2012",
+                        "2018",
                         17.6
                       ],
                       [
+                        "2017",
+                        15.3
+                      ],
+                      [
+                        "2016",
+                        17.3
+                      ],
+                      [
+                        "2015",
+                        17.1
+                      ],
+                      [
+                        "2014",
+                        13.6
+                      ],
+                      [
+                        "2013",
+                        17.9
+                      ],
+                      [
+                        "2012",
+                        18.8
+                      ],
+                      [
                         "2011",
-                        16.3
+                        17.0
                       ]
                     ]
                   },
@@ -5394,32 +5406,44 @@
                     "bar_label": "Medium",
                     "bar_data": [
                       [
+                        "2020",
+                        15.8
+                      ],
+                      [
+                        "2019",
+                        20.8
+                      ],
+                      [
+                        "2018",
+                        20.7
+                      ],
+                      [
                         "2017",
-                        16.6
+                        18.1
                       ],
                       [
                         "2016",
-                        15.6
+                        16.1
                       ],
                       [
                         "2015",
-                        12.9
+                        13.0
                       ],
                       [
                         "2014",
-                        14.9
+                        15.2
                       ],
                       [
                         "2013",
-                        15.4
+                        15.6
                       ],
                       [
                         "2012",
-                        18.6
+                        18.9
                       ],
                       [
                         "2011",
-                        15.7
+                        14.3
                       ]
                     ]
                   },
@@ -5427,12 +5451,24 @@
                     "bar_label": "High",
                     "bar_data": [
                       [
+                        "2020",
+                        19.0
+                      ],
+                      [
+                        "2019",
+                        22.5
+                      ],
+                      [
+                        "2018",
+                        16.6
+                      ],
+                      [
                         "2017",
-                        17.7
+                        16.6
                       ],
                       [
                         "2016",
-                        15.2
+                        15.1
                       ],
                       [
                         "2015",
@@ -5444,11 +5480,11 @@
                       ],
                       [
                         "2013",
-                        16.1
+                        14.5
                       ],
                       [
                         "2012",
-                        21.5
+                        20.6
                       ],
                       [
                         "2011",

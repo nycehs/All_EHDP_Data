@@ -5898,7 +5898,284 @@
         ]
       }
     ],
-    "show_disparities_node": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": "Commercial Use: Rodenticides",
+        "show_disparities_data": [
+          {
+            "Measure": "Solid Products",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": "Commercial Use: Rodenticides",
+                "y_axis_title": "Solid Products (lb) (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2013-17 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Commercial Use of Rodenticides",
+                    "info_measure": "Solid Products",
+                    "info_how_calculated": "<p>Sum of pounds of solid pesticide applications that are classified as rodenticide.</p>",
+                    "info_source": "New York State Pesticide Sales and Use Registry (PSUR)"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2017",
+                        5152.0
+                      ],
+                      [
+                        "2016",
+                        5769.5
+                      ],
+                      [
+                        "2015",
+                        4539.5
+                      ],
+                      [
+                        "2014",
+                        4299.5
+                      ],
+                      [
+                        "2013",
+                        4361.0
+                      ],
+                      [
+                        "2012",
+                        5813.0
+                      ],
+                      [
+                        "2011",
+                        5288.5
+                      ],
+                      [
+                        "2010",
+                        5463.0
+                      ],
+                      [
+                        "2009",
+                        5906.5
+                      ],
+                      [
+                        "2008",
+                        6201.0
+                      ],
+                      [
+                        "2007",
+                        6967.0
+                      ],
+                      [
+                        "2006",
+                        6829.0
+                      ],
+                      [
+                        "2005",
+                        4621.5
+                      ],
+                      [
+                        "2004",
+                        5020.0
+                      ],
+                      [
+                        "2003",
+                        4902.0
+                      ],
+                      [
+                        "2002",
+                        5685.0
+                      ],
+                      [
+                        "2001",
+                        3136.5
+                      ],
+                      [
+                        "2000",
+                        2783.5
+                      ],
+                      [
+                        "1999",
+                        3995.0
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2017",
+                        4693.0
+                      ],
+                      [
+                        "2016",
+                        3364.0
+                      ],
+                      [
+                        "2015",
+                        3797.5
+                      ],
+                      [
+                        "2014",
+                        3644.0
+                      ],
+                      [
+                        "2013",
+                        3365.0
+                      ],
+                      [
+                        "2012",
+                        3876.5
+                      ],
+                      [
+                        "2011",
+                        3871.5
+                      ],
+                      [
+                        "2010",
+                        4247.5
+                      ],
+                      [
+                        "2009",
+                        5103.5
+                      ],
+                      [
+                        "2008",
+                        4747.0
+                      ],
+                      [
+                        "2007",
+                        5566.0
+                      ],
+                      [
+                        "2006",
+                        6228.0
+                      ],
+                      [
+                        "2005",
+                        4279.0
+                      ],
+                      [
+                        "2004",
+                        4130.0
+                      ],
+                      [
+                        "2003",
+                        4119.5
+                      ],
+                      [
+                        "2002",
+                        3633.0
+                      ],
+                      [
+                        "2001",
+                        2557.5
+                      ],
+                      [
+                        "2000",
+                        3909.0
+                      ],
+                      [
+                        "1999",
+                        1801.0
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2017",
+                        12342.5
+                      ],
+                      [
+                        "2016",
+                        10991.5
+                      ],
+                      [
+                        "2015",
+                        9859.5
+                      ],
+                      [
+                        "2014",
+                        8838.0
+                      ],
+                      [
+                        "2013",
+                        8601.0
+                      ],
+                      [
+                        "2012",
+                        8898.0
+                      ],
+                      [
+                        "2011",
+                        8976.0
+                      ],
+                      [
+                        "2010",
+                        10200.5
+                      ],
+                      [
+                        "2009",
+                        9130.5
+                      ],
+                      [
+                        "2008",
+                        10821.0
+                      ],
+                      [
+                        "2007",
+                        10423.5
+                      ],
+                      [
+                        "2006",
+                        11201.0
+                      ],
+                      [
+                        "2005",
+                        9247.5
+                      ],
+                      [
+                        "2004",
+                        9175.0
+                      ],
+                      [
+                        "2003",
+                        11642.0
+                      ],
+                      [
+                        "2002",
+                        6532.0
+                      ],
+                      [
+                        "2001",
+                        5982.0
+                      ],
+                      [
+                        "2000",
+                        5973.5
+                      ],
+                      [
+                        "1999",
+                        4369.5
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "link_data_node": [],
     "summarize_data": [
       {

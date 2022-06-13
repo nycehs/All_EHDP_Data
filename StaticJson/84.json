@@ -5757,7 +5757,7 @@
                 "link_indicator": "Neighborhood Poverty",
                 "graph_title": "Asthma Hospitalizations - Children ages 0 to 4",
                 "y_axis_title": "Estimated Annual Rate (per 10,000 residents) (Median of Neighborhoods)",
-                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 42)",
+                "x_axis_title": "Neighborhood Poverty, 2014-18 (UHF 42)",
                 "info": [
                   {
                     "info_name": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
@@ -5777,6 +5777,10 @@
                     "bar_label": "Low",
                     "bar_data": [
                       [
+                        "2018",
+                        21.9
+                      ],
+                      [
                         "2016",
                         23.7
                       ],
@@ -5794,7 +5798,7 @@
                       ],
                       [
                         "2012",
-                        29.0
+                        28.8
                       ],
                       [
                         "2011",
@@ -5802,23 +5806,23 @@
                       ],
                       [
                         "2010",
-                        38.4
+                        40.2
                       ],
                       [
                         "2009",
-                        36.1
+                        39.5
                       ],
                       [
                         "2008",
-                        41.6
+                        49.5
                       ],
                       [
                         "2007",
-                        45.0
+                        47.8
                       ],
                       [
                         "2006",
-                        49.1
+                        46.4
                       ],
                       [
                         "2005",
@@ -5830,11 +5834,11 @@
                       ],
                       [
                         "2003",
-                        55.5
+                        49.5
                       ],
                       [
                         "2002",
-                        42.9
+                        44.0
                       ]
                     ]
                   },
@@ -5842,12 +5846,16 @@
                     "bar_label": "Medium",
                     "bar_data": [
                       [
+                        "2018",
+                        37.0
+                      ],
+                      [
                         "2016",
-                        40.9
+                        39.9
                       ],
                       [
                         "2015",
-                        40.1
+                        39.9
                       ],
                       [
                         "2014",
@@ -5855,7 +5863,7 @@
                       ],
                       [
                         "2013",
-                        41.0
+                        40.6
                       ],
                       [
                         "2012",
@@ -5879,7 +5887,7 @@
                       ],
                       [
                         "2007",
-                        57.7
+                        56.8
                       ],
                       [
                         "2006",
@@ -5906,6 +5914,10 @@
                   {
                     "bar_label": "High",
                     "bar_data": [
+                      [
+                        "2018",
+                        81.8
+                      ],
                       [
                         "2016",
                         102.0
@@ -8442,6 +8454,308 @@
             ]
           },
           {
+            "compare_type": "Adults Reporting Secondhand Smoke at Home (Percent)",
+            "graph_title": "Neighborhood Asthma Hospitalizations - Children ages 0 to 4 by Adults reporting secondhand smoke at home",
+            "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
+            "x_axis_title": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Secondhand Smoke at Home",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated number of adults in an area exposed to second-hand smoke at home, divided by all adults in the area; expressed as percent.</p>\n<p>&nbsp;</p>\n<p><span>Adults who are exposed to second-hand smoke all or most of the time in their homes are considered to be exposed to second-hand smoke at home.&nbsp;</span></p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident children up to 4 years old, divided by the population of children up to 4 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2012"
+              }
+            ],
+            "link_data": [
+              [
+                "65.2",
+                "1.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "131.6",
+                "6.6",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "153.9",
+                "7.1",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "142.6",
+                "9.4",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "164.5",
+                "9.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "203.3",
+                "9.4",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "123.1",
+                "8.7",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "113",
+                "7.3",
+                "East New York",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "15.2",
+                "2.2",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "106.3",
+                "1.7",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "79.2",
+                "5.5",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "22.2",
+                "3.2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "99.7",
+                "8.2",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "56.9",
+                "3.6",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "145.2",
+                "9.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "133.3",
+                "4.7",
+                "East Harlem",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "22.3",
+                "1.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "28.9",
+                "4.5",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "19.1",
+                "4.5",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "*",
+                "*,*",
+                "*"
+              ],
+              [
+                "56.4",
+                "7",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "31.3",
+                "4.9",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "43.1",
+                "4.7",
+                "West Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "46.9",
+                "10.6",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "82.7",
+                "2.6",
+                "Jamaica",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "78.4",
+                "5.7",
+                "Southeast Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "45.4",
+                "11.3",
+                "Rockaways",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "65.8",
+                "6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "51.2",
+                "6",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "29.1",
+                "2.7",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "14.6",
+                "2.7",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ]
+            ]
+          },
+          {
             "compare_type": "Adults Reporting Cockroaches in the Home (Percent)",
             "graph_title": "Neighborhood Asthma Hospitalizations - Children ages 0 to 4 by Adults reporting cockroaches in the home",
             "y_axis_title": "Adults Reporting Cockroaches in the Home - Percent 2012",
@@ -8834,308 +9148,6 @@
               [
                 "14.6",
                 "1",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ]
-            ]
-          },
-          {
-            "compare_type": "Adults Reporting Secondhand Smoke at Home (Percent)",
-            "graph_title": "Neighborhood Asthma Hospitalizations - Children ages 0 to 4 by Adults reporting secondhand smoke at home",
-            "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
-            "x_axis_title": "Asthma Hospitalizations (Children 0 to 4 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
-            "info": [
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Adults Reporting Secondhand Smoke at Home",
-                "info_measure": "Percent",
-                "info_how_calculated": "<p>Estimated number of adults in an area exposed to second-hand smoke at home, divided by all adults in the area; expressed as percent.</p>\n<p>&nbsp;</p>\n<p><span>Adults who are exposed to second-hand smoke all or most of the time in their homes are considered to be exposed to second-hand smoke at home.&nbsp;</span></p>",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2012"
-              },
-              {
-                "x_axis_title_reg": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Asthma Hospitalizations (Children 0 to 4 Yrs Old)",
-                "info_measure": "Estimated Annual Rate",
-                "info_how_calculated": "<p>Number of asthma-related hospitalizations among NYC resident children up to 4 years old, divided by the population of children up to 4 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>A hospitalization is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2012"
-              }
-            ],
-            "link_data": [
-              [
-                "65.2",
-                "1.5",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "131.6",
-                "6.6",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "153.9",
-                "7.1",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "142.6",
-                "9.4",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "164.5",
-                "9.4",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "203.3",
-                "9.4",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "123.1",
-                "8.7",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "113",
-                "7.3",
-                "East New York",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "15.2",
-                "2.2",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "106.3",
-                "1.7",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "79.2",
-                "5.5",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "22.2",
-                "3.2",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "99.7",
-                "8.2",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "56.9",
-                "3.6",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "145.2",
-                "9.4",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "133.3",
-                "4.7",
-                "East Harlem",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "22.3",
-                "1.4",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "28.9",
-                "4.5",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "19.1",
-                "4.5",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "*",
-                "*,*",
-                "*"
-              ],
-              [
-                "56.4",
-                "7",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "31.3",
-                "4.9",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "43.1",
-                "4.7",
-                "West Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "46.9",
-                "10.6",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "82.7",
-                "2.6",
-                "Jamaica",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "78.4",
-                "5.7",
-                "Southeast Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "45.4",
-                "11.3",
-                "Rockaways",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "65.8",
-                "6",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "51.2",
-                "6",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "29.1",
-                "2.7",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "14.6",
-                "2.7",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",

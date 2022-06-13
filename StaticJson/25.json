@@ -2770,6 +2770,317 @@
             ]
           },
           {
+            "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)",
+            "graph_title": "Neighborhood Asthma triggers: Children ages 5 to 17 by Adults reporting secondhand smoke at home",
+            "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
+            "x_axis_title": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
+            "info": [
+              {
+                "x_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "info_measure": "Estimated Annual Rate",
+                "info_how_calculated": "<p>Number of asthma-related emergency department (ED) visits among NYC resident children aged 5 to 17 years, divided by the population of children 5 to 17 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>An ED visit is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2012"
+              },
+              {
+                "x_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
+                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
+                "x_axis_measure": "Estimated Annual Rate",
+                "y_axis_measure": "Percent",
+                "info_name": "Adults Reporting Secondhand Smoke at Home",
+                "info_measure": "Percent",
+                "info_how_calculated": "<p>Estimated number of adults in an area exposed to second-hand smoke at home, divided by all adults in the area; expressed as percent.</p>\n<p>&nbsp;</p>\n<p><span>Adults who are exposed to second-hand smoke all or most of the time in their homes are considered to be exposed to second-hand smoke at home.&nbsp;</span></p>",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2012"
+              }
+            ],
+            "link_data": [
+              [
+                "167",
+                "1.5",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "368.8",
+                "6.6",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "327.6",
+                "7.1",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "414",
+                "9.4",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "448.7",
+                "9.4",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "487.5",
+                "9.4",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "386.1",
+                "8.7",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "329.4",
+                "7.3",
+                "East New York",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "48.7",
+                "2.2",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "250.1",
+                "1.7",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "175.1",
+                "5.5",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "76.4",
+                "3.2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "358.1",
+                "8.2",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "222.7",
+                "3.6",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "579",
+                "9.4",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "592.9",
+                "4.7",
+                "East Harlem",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "159.6",
+                "1.4",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "186.1",
+                "4.5",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "32.3",
+                "4.5",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "322.4",
+                "7",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "98.5",
+                "7",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "146",
+                "4.9",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "149.8",
+                "4.7",
+                "West Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "107.6",
+                "10.6",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "188.8",
+                "2.6",
+                "Jamaica",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "139.9",
+                "5.7",
+                "Southeast Queens",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "189.3",
+                "11.3",
+                "Rockaways",
+                "Queens",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "213.5",
+                "6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "166.7",
+                "6",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "68",
+                "2.7",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ],
+              [
+                "52.9",
+                "2.7",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                "*,",
+                "*"
+              ]
+            ]
+          },
+          {
             "compare_type": "Asthma Emergency Department Visits (Children 0 to 4 Yrs Old) (Estimated Annual Rate)",
             "graph_title": "Neighborhood Asthma triggers: Children ages 0 to 4 by Adults reporting secondhand smoke at home",
             "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
@@ -3694,317 +4005,6 @@
             ]
           },
           {
-            "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)",
-            "graph_title": "Neighborhood Asthma triggers: Children ages 5 to 17 by Adults reporting secondhand smoke at home",
-            "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
-            "x_axis_title": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) - Estimated Annual Rate (per 10,000 residents) 2012",
-            "info": [
-              {
-                "x_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
-                "info_measure": "Estimated Annual Rate",
-                "info_how_calculated": "<p>Number of asthma-related emergency department (ED) visits among NYC resident children aged 5 to 17 years, divided by the population of children 5 to 17 years old, using NYC DOHMH intercensal estimates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>An ED visit is included if it has an ICD-9 principal diagnosis code of 493 or an ICD-10 principal diagnosis code of J45. New York hospitals began using the ICD-10 system on October 1, 2015. Because the ICD systems are similar in how they classify childhood asthma, data can be compared across years.</p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2012"
-              },
-              {
-                "x_axis_title_reg": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old)",
-                "y_axis_title_reg": "Adults Reporting Secondhand Smoke at Home",
-                "x_axis_measure": "Estimated Annual Rate",
-                "y_axis_measure": "Percent",
-                "info_name": "Adults Reporting Secondhand Smoke at Home",
-                "info_measure": "Percent",
-                "info_how_calculated": "<p>Estimated number of adults in an area exposed to second-hand smoke at home, divided by all adults in the area; expressed as percent.</p>\n<p>&nbsp;</p>\n<p><span>Adults who are exposed to second-hand smoke all or most of the time in their homes are considered to be exposed to second-hand smoke at home.&nbsp;</span></p>",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2012"
-              }
-            ],
-            "link_data": [
-              [
-                "167",
-                "1.5",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "368.8",
-                "6.6",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "327.6",
-                "7.1",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "414",
-                "9.4",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "448.7",
-                "9.4",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "487.5",
-                "9.4",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "386.1",
-                "8.7",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "329.4",
-                "7.3",
-                "East New York",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "48.7",
-                "2.2",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "250.1",
-                "1.7",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "175.1",
-                "5.5",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "76.4",
-                "3.2",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "358.1",
-                "8.2",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "222.7",
-                "3.6",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "579",
-                "9.4",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "592.9",
-                "4.7",
-                "East Harlem",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "159.6",
-                "1.4",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "186.1",
-                "4.5",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "32.3",
-                "4.5",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "322.4",
-                "7",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "98.5",
-                "7",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "146",
-                "4.9",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "149.8",
-                "4.7",
-                "West Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "107.6",
-                "10.6",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "188.8",
-                "2.6",
-                "Jamaica",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "139.9",
-                "5.7",
-                "Southeast Queens",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "189.3",
-                "11.3",
-                "Rockaways",
-                "Queens",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "213.5",
-                "6",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "166.7",
-                "6",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "68",
-                "2.7",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ],
-              [
-                "52.9",
-                "2.7",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                "*,",
-                "*"
-              ]
-            ]
-          },
-          {
             "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)",
             "graph_title": "Neighborhood Asthma triggers: Adults by Adults reporting secondhand smoke at home",
             "y_axis_title": "Adults Reporting Secondhand Smoke at Home - Percent 2012",
@@ -4845,6 +4845,9 @@
                 "compare_type": "Public School Children (5-14 Yrs Old) with Persistent Asthma (Estimated Annual Rate)"
               },
               {
+                "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)"
+              },
+              {
                 "compare_type": "Asthma Emergency Department Visits (Children 0 to 4 Yrs Old) (Estimated Annual Rate)"
               },
               {
@@ -4852,9 +4855,6 @@
               },
               {
                 "compare_type": "Asthma Hospitalizations (Children 5 to 17 Yrs Old) (Estimated Annual Rate)"
-              },
-              {
-                "compare_type": "Asthma Emergency Department Visits (Children 5 to 17 Yrs Old) (Estimated Annual Rate)"
               },
               {
                 "compare_type": "Asthma Emergency Department Visits (Adults) (Age-Adjusted Rate)"

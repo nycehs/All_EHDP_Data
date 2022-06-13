@@ -1162,7 +1162,7 @@
                 ]
               }
             ],
-            "discription": "U. S. Geological Survey",
+            "discription": "U.S. Geological Survey",
             "legend_title": "Degrees Fahrenheit "
           }
         ],
@@ -1173,7 +1173,68 @@
     ],
     "fileName": "NTA.json",
     "time_trend_data": [],
-    "show_disparities_node": [],
+    "show_disparities_node": [
+      {
+        "disparitiesPagetext": "When population health or the quality of living environments varies by population characteristics such as income or race, there is disparity. One way to visualize disparity is to chart indicators of health or environment across levels of neighborhood poverty. We categorized neighborhoods as high, medium or low poverty. Then we took the median of the neighborhood-specific values in each category. The median is the middle of the sorted group of values.",
+        "indicator_name": " Daytime Summer Surface Temperature",
+        "show_disparities_data": [
+          {
+            "Measure": "Degrees Fahrenheit",
+            "Link": [
+              {
+                "link_indicator": "Neighborhood Poverty",
+                "graph_title": " Daytime Summer Surface Temperature",
+                "y_axis_title": "Degrees Fahrenheit  (Median of Neighborhoods)",
+                "x_axis_title": "Neighborhood Poverty, 2014-18 (UHF 42)",
+                "info": [
+                  {
+                    "info_name": "Daytime Summer Surface Temperature",
+                    "info_measure": "Degrees Fahrenheit",
+                    "info_how_calculated": "<p>Daytime landsat thermal data on surface, July 17, 2018, averaged spatially.</p>",
+                    "info_source": "U.S. Geological Survey"
+                  },
+                  {
+                    "info_name": "Neighborhood Poverty",
+                    "info_measure": "Tertile",
+                    "info_how_calculated": "<p>Neighborhoods are ranked according to the percent of people whose annual income falls below 100% of the federal poverty level. Rankings are then divided into 3 approximately equal groupings of low, medium and high poverty.</p>",
+                    "info_source": "American Community Survey"
+                  }
+                ],
+                "bar_data": [
+                  {
+                    "bar_label": "Low",
+                    "bar_data": [
+                      [
+                        "2018",
+                        96.6
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "Medium",
+                    "bar_data": [
+                      [
+                        "2018",
+                        97.9
+                      ]
+                    ]
+                  },
+                  {
+                    "bar_label": "High",
+                    "bar_data": [
+                      [
+                        "2018",
+                        98.1
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "link_data_node": [],
     "summarize_data": [
       {
@@ -5462,7 +5523,7 @@
             "info_measure": "Degrees Fahrenheit",
             "info_how_calculated": "<p>Daytime landsat thermal data on surface, July 17, 2018, averaged spatially.</p>",
             "info_source": [
-              "U. S. Geological Survey"
+              "U.S. Geological Survey"
             ]
           }
         ]

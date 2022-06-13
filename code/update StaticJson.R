@@ -56,6 +56,7 @@ avail_data <-
     distinct(internal_id, Indicator) %>% 
     collect()
 
+
 #-----------------------------------------------------------------------------------------#
 # Updating StaticJson ----
 #-----------------------------------------------------------------------------------------#
@@ -69,6 +70,7 @@ use_recent_uploads <-
 
 
 if (use_recent_uploads$res == "Yes") {
+    
     
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
     # getting recently pushed
@@ -98,10 +100,21 @@ if (use_recent_uploads$res == "Yes") {
             rstudio = FALSE
         )$res
     
-    internal_id <- 
-        internal_id_list %>% 
-        str_split(",| ", simplify = TRUE) %>% 
-        as.integer()
+    
+    if (internal_id_list == "") {
+        
+        okcancel <- msg_box("Updating all internal_ids")
+        
+        internal_id <- avail_data$internal_id
+        
+    } else {
+        
+        internal_id <- 
+            internal_id_list %>% 
+            str_split(",| ", simplify = TRUE) %>% 
+            as.integer()
+        
+    }
     
 }
 
@@ -204,6 +217,10 @@ for (i in 1:length(internal_id)) {
 #   the STAGE hack can take effect. So, in order to get these indicators, we have to use
 #   the staging site. The data format is the same, so it should be fine.
 
+
+indicator_json_stage <- list()
+
+
 if (length(internal_id_errors) > 0) {
     
     url_root <- "http://appbesp101/IndicatorPublic/"
@@ -266,7 +283,7 @@ if (length(internal_id_errors) > 0) {
         # getting data
         # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
         
-        indicator_json[[length(indicator_json) + 1]] <- 
+        indicator_json_stage[[length(indicator_json_stage) + 1]] <- 
             
             the_session %>% 
             
@@ -282,7 +299,7 @@ if (length(internal_id_errors) > 0) {
         
         # save DataHandler.ashx response JSON
         
-        write_lines(indicator_json[[length(indicator_json) + 1]], paste0("StaticJson/", internal_id_errors[i], ".json"))
+        write_lines(indicator_json_stage[[i]], paste0("StaticJson/", internal_id_errors[i], ".json"))
         
     }
 }

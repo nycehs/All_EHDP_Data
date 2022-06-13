@@ -30,6 +30,18 @@
                 "year": "2009-2013",
                 "year_data": [
                   {
+                    "geo_entity_id": 54,
+                    "data_value": "6.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "7.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 1,
                     "data_value": "2.6",
                     "color": "ffffb2",
@@ -344,18 +356,6 @@
                   {
                     "geo_entity_id": 53,
                     "data_value": "7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 54,
-                    "data_value": "6.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 55,
-                    "data_value": "7.5",
                     "color": "e31a1c",
                     "character_display": ""
                   }
@@ -726,8 +726,8 @@
           }
         ],
         "unreliable_text": [
-          "* Estimate is based on small numbers so should be interpreted with caution.",
-          ""
+          "",
+          "* Estimate is based on small numbers so should be interpreted with caution."
         ]
       }
     ],

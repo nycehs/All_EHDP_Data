@@ -8,287 +8,6 @@
         "dataset": [
           {
             "legendtext": "",
-            "display": "Estimated Annual Rate",
-            "color": [
-              "ffffb2",
-              "fecd5c",
-              "fd8d3c",
-              "e31a1c"
-            ],
-            "start_range": [
-              -9999999.0,
-              14.0,
-              19.0,
-              27.0,
-              9999999.0
-            ],
-            "measure": "Estimated Annual Rate",
-            "how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-            "source": "NYS SPARCS Hospitalization",
-            "map_data": [
-              {
-                "year": "2016",
-                "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "22.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "25.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "33.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "33.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "45.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "52.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "53.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "13.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "14.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "38.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "46",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "17",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "15.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "19.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "29.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "16.9",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "27.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "25.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "16.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "29.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "40.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "11.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "8.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "15",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "8.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "15.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "10.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "14.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "14.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "14.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "18.3",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "14.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "17.9",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "17.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "54",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "50.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "41.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "27.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "31.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  }
-                ]
-              }
-            ],
-            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-            "legend_title": "Estimated Annual Rate (per 10,000 residents)"
-          },
-          {
-            "legendtext": "",
             "display": "Age-Adjusted Rate",
             "color": [
               "ffffb2",
@@ -567,6 +286,287 @@
             ],
             "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
             "legend_title": "Age-Adjusted Rate (per 10,000 residents)"
+          },
+          {
+            "legendtext": "",
+            "display": "Estimated Annual Rate",
+            "color": [
+              "ffffb2",
+              "fecd5c",
+              "fd8d3c",
+              "e31a1c"
+            ],
+            "start_range": [
+              -9999999.0,
+              14.0,
+              19.0,
+              27.0,
+              9999999.0
+            ],
+            "measure": "Estimated Annual Rate",
+            "how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+            "source": "NYS SPARCS Hospitalization",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "22.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "25.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "33.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "33.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "45.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "52.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "53.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "13.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "14.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "38.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "46",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "17",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "15.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "19.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "29.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "16.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "27.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "25.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "16.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "29.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "40.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "11.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "8.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "15",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "8.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "15.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "10.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "14.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "14.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "14.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "18.3",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "14.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "17.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "17.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "54",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "50.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "41.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "27.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "31.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+            "legend_title": "Estimated Annual Rate (per 10,000 residents)"
           },
           {
             "legendtext": "",
@@ -859,7 +859,7 @@
     "time_trend_data": [
       {
         "indicator_description": "",
-        "indicator_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+        "indicator_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
         "Measure": "Age-Adjusted Rate",
         "Compare": [
           {
@@ -872,7 +872,7 @@
             "x_axis_title": "Year",
             "info": [
               {
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
@@ -1305,7 +1305,7 @@
       },
       {
         "indicator_description": "",
-        "indicator_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+        "indicator_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
         "Measure": "Estimated Annual Rate",
         "Compare": [
           {
@@ -1318,7 +1318,7 @@
             "x_axis_title": "Year",
             "info": [
               {
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Estimated Annual Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
@@ -1751,7 +1751,7 @@
       },
       {
         "indicator_description": "",
-        "indicator_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+        "indicator_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
         "Measure": "Number",
         "Compare": [
           {
@@ -1764,7 +1764,7 @@
             "x_axis_title": "Year",
             "info": [
               {
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Number",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.&nbsp;</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
@@ -2211,7 +2211,7 @@
                 "x_axis_title": "Neighborhood Poverty, 2012-16 (UHF 42)",
                 "info": [
                   {
-                    "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                    "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                     "info_measure": "Age-Adjusted Rate",
                     "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                     "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data"
@@ -2261,17 +2261,17 @@
     "link_data_node": [
       {
         "linkDataPagetext": "The \"Link Data\" function shows associations between environmental health data at the neighborhood level using &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Scatterplot\" target=\"_blank\"&gt;scatterplots.&lt;/a&gt; The points represent x and y values for each NYC neighborhood. The pairs of indicators available for scatterplots were chosen because previous research suggests that one may either directly or indirectly cause or contribute to the other. Because the data being charted are &lt;a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx?#Ecological_Study\" target=\"_blank\"&gt;ecological&lt;/a&gt; and not individual level, and because many factors contribute to the health of a population or environment, the patterns seen in these charts do not necessarily represent the underlying causal relationship.",
-        "indicator_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+        "indicator_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
         "Measure": "Age-Adjusted Rate",
         "Compare": [
           {
             "compare_type": "Fine Particulate Matter (PM2.5) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Fine Particulate Matter (PM<sub>2.5</sub>)",
             "y_axis_title": "Fine Particulate Matter (PM2.5) - Mean (mcg per cubic meter) Winter 2015-16",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
@@ -2282,11 +2282,11 @@
                 "info_year": "Winter 2015-16"
               },
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
@@ -2675,423 +2675,13 @@
             ]
           },
           {
-            "compare_type": "Black Carbon (Mean)",
-            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Black Carbon",
-            "y_axis_title": "Black Carbon - Mean (absorbance units) Winter 2015-16",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
-            "info": [
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
-                "y_axis_title_reg": "Black Carbon",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Black Carbon",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. Black carbon levels are estimated using a method that measures <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx#Absorbance\" target=\"_blank\">absorbance</a>.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Winter 2015-16"
-              },
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
-                "y_axis_title_reg": "Black Carbon",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2016"
-              }
-            ],
-            "link_data": [
-              [
-                "17.9",
-                "0.83",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.9",
-                "0.87",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37.5",
-                "0.9",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.5",
-                "0.9",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.3",
-                "1.1",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "54.2",
-                "1.05",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "56.9",
-                "1.04",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.9",
-                "1.17",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.2",
-                "1.03",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.8",
-                "0.82",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47",
-                "0.85",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.2",
-                "0.97",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.5",
-                "0.75",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18.6",
-                "0.78",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.2",
-                "0.7",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.5",
-                "0.76",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "21.4",
-                "0.68",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.8",
-                "0.97",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.5",
-                "1.04",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.1",
-                "1.08",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.4",
-                "1.09",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "10.2",
-                "1.14",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.3",
-                "1.33",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.8",
-                "1.47",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.8",
-                "1.46",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.9",
-                "1.51",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.4",
-                "1.28",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.1",
-                "1.05",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.2",
-                "1.05",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "16.7",
-                "0.94",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12",
-                "0.83",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.7",
-                "0.86",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "16.8",
-                "0.79",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12.4",
-                "0.82",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20",
-                "0.76",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.2",
-                "0.84",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.8",
-                "0.79",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "44.9",
-                "0.65",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.5",
-                "0.74",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37",
-                "0.68",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.6",
-                "0.72",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.5",
-                "0.59",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Sulfur Dioxide (SO2) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Sulfur Dioxide (SO2)",
             "y_axis_title": "Sulfur Dioxide (SO2) - Mean (ppb) Winter 2015-16",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Sulfur Dioxide (SO2)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
@@ -3102,11 +2692,11 @@
                 "info_year": "Winter 2015-16"
               },
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Sulfur Dioxide (SO2)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
@@ -3495,13 +3085,423 @@
             ]
           },
           {
+            "compare_type": "Black Carbon (Mean)",
+            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Black Carbon",
+            "y_axis_title": "Black Carbon - Mean (absorbance units) Winter 2015-16",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "y_axis_title_reg": "Black Carbon",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Black Carbon",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. Black carbon levels are estimated using a method that measures <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx#Absorbance\" target=\"_blank\">absorbance</a>.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Winter 2015-16"
+              },
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "y_axis_title_reg": "Black Carbon",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "17.9",
+                "0.83",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.9",
+                "0.87",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.5",
+                "0.9",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.5",
+                "0.9",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.3",
+                "1.1",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "54.2",
+                "1.05",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "56.9",
+                "1.04",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.9",
+                "1.17",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.2",
+                "1.03",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.8",
+                "0.82",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47",
+                "0.85",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.2",
+                "0.97",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.5",
+                "0.75",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.6",
+                "0.78",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.2",
+                "0.7",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.5",
+                "0.76",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "0.68",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.8",
+                "0.97",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "1.04",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "1.08",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.4",
+                "1.09",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.2",
+                "1.14",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.3",
+                "1.33",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "1.47",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.8",
+                "1.46",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.9",
+                "1.51",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.4",
+                "1.28",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.1",
+                "1.05",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.2",
+                "1.05",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "0.94",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12",
+                "0.83",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "0.86",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.8",
+                "0.79",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.4",
+                "0.82",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20",
+                "0.76",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.2",
+                "0.84",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.8",
+                "0.79",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.9",
+                "0.65",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.5",
+                "0.74",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37",
+                "0.68",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.6",
+                "0.72",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.5",
+                "0.59",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
             "compare_type": "Ozone (O3) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Ozone (O3)",
             "y_axis_title": "Ozone (O3) - Mean (ppb) Summer 2018",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Ozone (O3)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
@@ -3512,11 +3512,11 @@
                 "info_year": "Summer 2018"
               },
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Ozone (O3)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
@@ -3908,10 +3908,10 @@
             "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Nitrogen Dioxide (NO2)",
             "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Annual Average 2018",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
@@ -3922,11 +3922,11 @@
                 "info_year": "Annual Average 2018"
               },
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
@@ -4318,10 +4318,10 @@
             "compare_type": "Cigarette Smoking among Adults (Percent)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Cigarette Smoking among Adults",
             "y_axis_title": "Cigarette Smoking among Adults - Percent 2016",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease  Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
             "info": [
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Cigarette Smoking among Adults",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Percent",
@@ -4332,11 +4332,11 @@
                 "info_year": "2016"
               },
               {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "y_axis_title_reg": "Cigarette Smoking among Adults",
                 "x_axis_measure": "Age-Adjusted Rate",
                 "y_axis_measure": "Percent",
-                "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
                 "info_measure": "Age-Adjusted Rate",
                 "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
                 "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
@@ -4382,7 +4382,7 @@
               ],
               [
                 "51.3",
-                "17.4",
+                "13.6",
                 "Crotona -Tremont",
                 "Bronx",
                 "",
@@ -4391,7 +4391,7 @@
               ],
               [
                 "54.2",
-                "11.5",
+                "13.6",
                 "High Bridge - Morrisania",
                 "Bronx",
                 "",
@@ -4400,12 +4400,12 @@
               ],
               [
                 "56.9",
-                "11.2",
+                "13.6",
                 "Hunts Point - Mott Haven",
                 "Bronx",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "19.9",
@@ -4544,25 +4544,25 @@
               ],
               [
                 "7.3",
-                "4.7",
+                "8.3",
                 "Upper East Side",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "17.8",
-                "13.9",
+                "12.6",
                 "Chelsea - Clinton",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "8.8",
-                "14.3",
+                "8.3",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
                 "",
@@ -4570,9 +4570,27 @@
                 ""
               ],
               [
+                "7.9",
+                "12.6",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
                 "15.4",
-                "22.8",
+                "20.7",
                 "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.1",
+                "20.7",
+                "Lower Manhattan",
                 "Manhattan",
                 "",
                 ",",
@@ -4607,25 +4625,25 @@
               ],
               [
                 "11.7",
-                "16.3",
+                "15.1",
                 "Bayside - Little Neck",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "16.8",
-                "13.9",
+                "9.8",
                 "Ridgewood - Forest Hills",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "12.4",
-                "9.8",
+                "15.1",
                 "Fresh Meadows",
                 "Queens",
                 "",
@@ -4669,8 +4687,17 @@
                 ""
               ],
               [
+                "51.5",
+                "14.6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
                 "37",
-                "14.7",
+                "14.6",
                 "Stapleton - St. George",
                 "Staten Island",
                 "",
@@ -4679,16 +4706,16 @@
               ],
               [
                 "23.6",
-                "17.5",
+                "16.7",
                 "Willowbrook",
                 "Staten Island",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "27.5",
-                "16.4",
+                "16.7",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -4710,10 +4737,10 @@
                 "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
               },
               {
-                "compare_type": "Black Carbon (Mean)"
+                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
               },
               {
-                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
+                "compare_type": "Black Carbon (Mean)"
               },
               {
                 "compare_type": "Ozone (O3) (Mean)"
@@ -4736,7 +4763,7 @@
     ],
     "summarize_data": [
       {
-        "indicator_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+        "indicator_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
         "indicator_description": "",
         "summary_opts": [
           {
@@ -15819,7 +15846,7 @@
         ],
         "info": [
           {
-            "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+            "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
             "info_measure": "Number",
             "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.&nbsp;</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
             "info_source": [
@@ -15827,7 +15854,7 @@
             ]
           },
           {
-            "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+            "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
             "info_measure": "Age-Adjusted Rate",
             "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
             "info_source": [
@@ -15835,7 +15862,7 @@
             ]
           },
           {
-            "info_name": "Chronic Obstructive Pulmonary Disease  Hospitalization",
+            "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
             "info_measure": "Estimated Annual Rate",
             "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
             "info_source": [

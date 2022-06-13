@@ -1232,7 +1232,7 @@
                 "link_indicator": "Neighborhood Poverty",
                 "graph_title": "Asthma triggers: Adults reporting rats or mice outside their building",
                 "y_axis_title": "Percent  (Median of Neighborhoods)",
-                "x_axis_title": "Neighborhood Poverty, 2000 (UHF 34)",
+                "x_axis_title": "Neighborhood Poverty, 2009-13 (UHF 34)",
                 "info": [
                   {
                     "info_name": "Adults Reporting Rats or Mice outside Their Building",
@@ -1253,11 +1253,11 @@
                     "bar_data": [
                       [
                         "2010",
-                        15.1
+                        15.4
                       ],
                       [
                         "2004",
-                        15.3
+                        17.1
                       ]
                     ]
                   },
@@ -1266,11 +1266,11 @@
                     "bar_data": [
                       [
                         "2010",
-                        17.7
+                        17.0
                       ],
                       [
                         "2004",
-                        24.3
+                        24.8
                       ]
                     ]
                   },
@@ -2121,416 +2121,6 @@
             ]
           },
           {
-            "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)",
-            "graph_title": "Neighborhood Asthma triggers: Adults reporting rats or mice outside their building by Homes near structures rated good or excellent",
-            "y_axis_title": "Homes near Structures Rated Good or Excellent - Percent of Households 2008",
-            "x_axis_title": "Adults Reporting Rats or Mice outside Their Building - Percent 2010",
-            "info": [
-              {
-                "x_axis_title_reg": "Adults Reporting Rats or Mice outside Their Building",
-                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Households",
-                "info_name": "Homes near Structures Rated Good or Excellent",
-                "info_measure": "Percent of Households",
-                "info_how_calculated": "<p>Estimated number of households in an area that rated their neighborhood structures as good or excellent, divided by the number of households in the area; expressed as percent.</p>",
-                "info_source": "New York City Housing and Vacancy Survey (HVS)",
-                "info_year": "2008"
-              },
-              {
-                "x_axis_title_reg": "Adults Reporting Rats or Mice outside Their Building",
-                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
-                "x_axis_measure": "Percent",
-                "y_axis_measure": "Percent of Households",
-                "info_name": "Adults Reporting Rats or Mice outside Their Building",
-                "info_measure": "Percent",
-                "info_how_calculated": "Estimated number of adults reporting mice or rats outside their building in the past 90 days, divided by the number of adults in the area; expressed as percent.",
-                "info_source": "New York City Community Health Survey (CHS)",
-                "info_year": "2010"
-              }
-            ],
-            "link_data": [
-              [
-                "17.5",
-                "78.8",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.8",
-                "71.1",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "49.9",
-                "54.1",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27",
-                "79.6",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "53.2",
-                "47.9",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "53.2",
-                "54.1",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "53.2",
-                "44.4",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "34.9",
-                "76.7",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.7",
-                "86.9",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.1",
-                "56.9",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37.9",
-                "66.6",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.7",
-                "81.5",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.2",
-                "80.9",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36",
-                "70.3",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.1",
-                "87.1",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.4",
-                "88.1",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.6",
-                "88.2",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "43.5",
-                "61.6",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "53.5",
-                "62.6",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41.8",
-                "63.6",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41.9",
-                "57.4",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "43.2",
-                "92.1",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.8",
-                "95",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "49.2",
-                "86.6",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.8",
-                "93.4",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "49.2",
-                "90.1",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.2",
-                "70.8",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.2",
-                "88",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "16.5",
-                "82.5",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.7",
-                "72.6",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.1",
-                "85.2",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.6",
-                "95.3",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.7",
-                "87.7",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.6",
-                "87.3",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18.5",
-                "82.2",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12.3",
-                "80.3",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8",
-                "89.8",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "10.5",
-                "72.7",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.7",
-                "80.7",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.7",
-                "85.4",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "9.4",
-                "90",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "9.4",
-                "96.6",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Homes with 3 or More Maintenance Deficiencies (Percent of Households)",
             "graph_title": "Neighborhood Asthma triggers: Adults reporting rats or mice outside their building by Homes with 3 or more maintenance deficiencies",
             "y_axis_title": "Homes with 3 or More Maintenance Deficiencies - Percent of Households 2008",
@@ -2939,6 +2529,416 @@
                 ""
               ]
             ]
+          },
+          {
+            "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)",
+            "graph_title": "Neighborhood Asthma triggers: Adults reporting rats or mice outside their building by Homes near structures rated good or excellent",
+            "y_axis_title": "Homes near Structures Rated Good or Excellent - Percent of Households 2008",
+            "x_axis_title": "Adults Reporting Rats or Mice outside Their Building - Percent 2010",
+            "info": [
+              {
+                "x_axis_title_reg": "Adults Reporting Rats or Mice outside Their Building",
+                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Homes near Structures Rated Good or Excellent",
+                "info_measure": "Percent of Households",
+                "info_how_calculated": "<p>Estimated number of households in an area that rated their neighborhood structures as good or excellent, divided by the number of households in the area; expressed as percent.</p>",
+                "info_source": "New York City Housing and Vacancy Survey (HVS)",
+                "info_year": "2008"
+              },
+              {
+                "x_axis_title_reg": "Adults Reporting Rats or Mice outside Their Building",
+                "y_axis_title_reg": "Homes near Structures Rated Good or Excellent",
+                "x_axis_measure": "Percent",
+                "y_axis_measure": "Percent of Households",
+                "info_name": "Adults Reporting Rats or Mice outside Their Building",
+                "info_measure": "Percent",
+                "info_how_calculated": "Estimated number of adults reporting mice or rats outside their building in the past 90 days, divided by the number of adults in the area; expressed as percent.",
+                "info_source": "New York City Community Health Survey (CHS)",
+                "info_year": "2010"
+              }
+            ],
+            "link_data": [
+              [
+                "17.5",
+                "78.8",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "71.1",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.9",
+                "54.1",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27",
+                "79.6",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "53.2",
+                "47.9",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "53.2",
+                "54.1",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "53.2",
+                "44.4",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "34.9",
+                "76.7",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.7",
+                "86.9",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.1",
+                "56.9",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.9",
+                "66.6",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.7",
+                "81.5",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.2",
+                "80.9",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36",
+                "70.3",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.1",
+                "87.1",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.4",
+                "88.1",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.6",
+                "88.2",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.5",
+                "61.6",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "53.5",
+                "62.6",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.8",
+                "63.6",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41.9",
+                "57.4",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "43.2",
+                "92.1",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.8",
+                "95",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.2",
+                "86.6",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.8",
+                "93.4",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.2",
+                "90.1",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.2",
+                "70.8",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.2",
+                "88",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.5",
+                "82.5",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.7",
+                "72.6",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.1",
+                "85.2",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.6",
+                "95.3",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.7",
+                "87.7",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.6",
+                "87.3",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.5",
+                "82.2",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.3",
+                "80.3",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8",
+                "89.8",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.5",
+                "72.7",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "80.7",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "85.4",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.4",
+                "90",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "9.4",
+                "96.6",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
           }
         ],
         "unreliable_text": [
@@ -2960,10 +2960,10 @@
             "name": "Housing",
             "children": [
               {
-                "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)"
+                "compare_type": "Homes with 3 or More Maintenance Deficiencies (Percent of Households)"
               },
               {
-                "compare_type": "Homes with 3 or More Maintenance Deficiencies (Percent of Households)"
+                "compare_type": "Homes near Structures Rated Good or Excellent (Percent of Households)"
               }
             ]
           }

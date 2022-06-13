@@ -30,6 +30,30 @@
                 "year": "2011-2015",
                 "year_data": [
                   {
+                    "geo_entity_id": 52,
+                    "data_value": "6.2",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 53,
+                    "data_value": "6.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 54,
+                    "data_value": "6.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 55,
+                    "data_value": "7.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
                     "geo_entity_id": 1,
                     "data_value": "5.4",
                     "color": "fecc5c",
@@ -333,30 +357,6 @@
                     "geo_entity_id": 51,
                     "data_value": "4.9",
                     "color": "fecc5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 52,
-                    "data_value": "6.2",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 53,
-                    "data_value": "6.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 54,
-                    "data_value": "6.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 55,
-                    "data_value": "7.8",
-                    "color": "e31a1c",
                     "character_display": ""
                   }
                 ]
@@ -1829,7 +1829,7 @@
                 "link_indicator": "Neighborhood Poverty",
                 "graph_title": " Brain and Other Nervous System Cancer",
                 "y_axis_title": "Age Adjusted Rate - Total (per 100,000 residents) (Median of Neighborhoods)",
-                "x_axis_title": "Neighborhood Poverty, 2009-13 (Sub-borough/PUMA)",
+                "x_axis_title": "Neighborhood Poverty, 2011-15 (Sub-borough/PUMA)",
                 "info": [
                   {
                     "info_name": "Brain and Other Nervous System Cancer",
@@ -1850,7 +1850,7 @@
                     "bar_data": [
                       [
                         "2011-2015",
-                        6.1
+                        6.2
                       ],
                       [
                         "2009-2013",
@@ -1858,19 +1858,19 @@
                       ],
                       [
                         "2008-2012",
-                        6.4
+                        6.5
                       ],
                       [
                         "2007-2011",
-                        6.3
-                      ],
-                      [
-                        "2006-2010",
                         6.7
                       ],
                       [
+                        "2006-2010",
+                        6.9
+                      ],
+                      [
                         "2005-2009",
-                        7.0
+                        7.3
                       ],
                       [
                         "2004-2008",
@@ -1899,31 +1899,31 @@
                       ],
                       [
                         "2009-2013",
-                        5.4
+                        5.3
                       ],
                       [
                         "2008-2012",
-                        5.8
+                        5.4
                       ],
                       [
                         "2007-2011",
-                        5.5
+                        5.3
                       ],
                       [
                         "2006-2010",
-                        5.8
+                        5.5
                       ],
                       [
                         "2005-2009",
-                        6.0
+                        5.9
                       ],
                       [
                         "2004-2008",
-                        6.2
+                        5.6
                       ],
                       [
                         "2003-2007",
-                        6.1
+                        5.9
                       ],
                       [
                         "2002-2006",
@@ -1931,7 +1931,7 @@
                       ],
                       [
                         "2001-2005",
-                        6.3
+                        6.0
                       ]
                     ]
                   },

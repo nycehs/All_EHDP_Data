@@ -2265,416 +2265,6 @@
         "Measure": "Age-Adjusted Rate",
         "Compare": [
           {
-            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
-            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Nitrogen Dioxide (NO2)",
-            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Winter 2015-16",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease Emergency Department Visits - Age-Adjusted Rate (per 10,000 residents) 2016",
-            "info": [
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Nitrogen Dioxide (NO2)",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Winter 2015-16"
-              },
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related emergency department (ED) visits among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>ED vists&nbsp;include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2016"
-              }
-            ],
-            "link_data": [
-              [
-                "29",
-                "19.54",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "46.8",
-                "21.25",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.7",
-                "21.54",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "61",
-                "22.02",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "100.4",
-                "24.13",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "95.8",
-                "24.83",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102.6",
-                "24.04",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41",
-                "25.71",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.5",
-                "25.72",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83.9",
-                "24.83",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102.6",
-                "23.34",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42",
-                "23.69",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28",
-                "23.73",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.9",
-                "23.79",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "50.7",
-                "20.86",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.1",
-                "22.68",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "38.8",
-                "21.29",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83.7",
-                "25.28",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33",
-                "23.4",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83",
-                "25.73",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "94.9",
-                "25.95",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.5",
-                "26.42",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.8",
-                "28.02",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.3",
-                "30.85",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "24.8",
-                "32.41",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23",
-                "29.03",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.1",
-                "27.88",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.3",
-                "28.96",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47.9",
-                "25.17",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.9",
-                "25.02",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.6",
-                "22.66",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.6",
-                "20.9",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.1",
-                "23.39",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.4",
-                "22.71",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "45",
-                "22.91",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "49.6",
-                "22.45",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "35",
-                "21.05",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "109.6",
-                "18",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "21.29",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.3",
-                "19.35",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.2",
-                "18.34",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.9",
-                "16.6",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Sulfur Dioxide (SO2) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Sulfur Dioxide (SO2)",
             "y_axis_title": "Sulfur Dioxide (SO2) - Mean (ppb) Winter 2015-16",
@@ -3076,6 +2666,416 @@
               [
                 "51.9",
                 "0.11",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Nitrogen Dioxide (NO2) (Mean)",
+            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Nitrogen Dioxide (NO2)",
+            "y_axis_title": "Nitrogen Dioxide (NO2) - Mean (ppb) Winter 2015-16",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Emergency Department Visits - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Nitrogen Dioxide (NO2)",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYC are measured in units of parts per billion.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Winter 2015-16"
+              },
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "y_axis_title_reg": "Nitrogen Dioxide (NO2)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related emergency department (ED) visits among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>ED vists&nbsp;include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "29",
+                "19.54",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.8",
+                "21.25",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.7",
+                "21.54",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61",
+                "22.02",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "100.4",
+                "24.13",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "95.8",
+                "24.83",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.6",
+                "24.04",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41",
+                "25.71",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.5",
+                "25.72",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.9",
+                "24.83",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.6",
+                "23.34",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42",
+                "23.69",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28",
+                "23.73",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.9",
+                "23.79",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "50.7",
+                "20.86",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.1",
+                "22.68",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.8",
+                "21.29",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.7",
+                "25.28",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33",
+                "23.4",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83",
+                "25.73",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.9",
+                "25.95",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.5",
+                "26.42",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.8",
+                "28.02",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.3",
+                "30.85",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.8",
+                "32.41",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23",
+                "29.03",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.1",
+                "27.88",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.3",
+                "28.96",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.9",
+                "25.17",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.9",
+                "25.02",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.6",
+                "22.66",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.6",
+                "20.9",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "23.39",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.4",
+                "22.71",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "45",
+                "22.91",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.6",
+                "22.45",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35",
+                "21.05",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "109.6",
+                "18",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.1",
+                "21.29",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.3",
+                "19.35",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.2",
+                "18.34",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.9",
+                "16.6",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -3495,416 +3495,6 @@
             ]
           },
           {
-            "compare_type": "Black Carbon (Mean)",
-            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Black Carbon",
-            "y_axis_title": "Black Carbon - Mean (absorbance units) Annual Average 2018",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease Emergency Department Visits - Age-Adjusted Rate (per 10,000 residents) 2016",
-            "info": [
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "y_axis_title_reg": "Black Carbon",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Black Carbon",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. Black carbon levels are estimated using a method that measures <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx#Absorbance\" target=\"_blank\">absorbance</a>.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Annual Average 2018"
-              },
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "y_axis_title_reg": "Black Carbon",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related emergency department (ED) visits among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>ED vists&nbsp;include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2016"
-              }
-            ],
-            "link_data": [
-              [
-                "29",
-                "0.73",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "46.8",
-                "0.77",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "70.7",
-                "0.79",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "61",
-                "0.74",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "100.4",
-                "0.86",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "95.8",
-                "0.88",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102.6",
-                "0.91",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "41",
-                "1.01",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "36.5",
-                "0.87",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83.9",
-                "0.74",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "102.6",
-                "0.68",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42",
-                "0.79",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28",
-                "0.64",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "42.9",
-                "0.65",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "50.7",
-                "0.55",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "29.1",
-                "0.6",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "38.8",
-                "0.51",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83.7",
-                "0.88",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33",
-                "0.82",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "83",
-                "0.83",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "94.9",
-                "0.83",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.5",
-                "0.88",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.8",
-                "0.92",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.3",
-                "1.25",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "24.8",
-                "1.26",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23",
-                "1.12",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.1",
-                "0.99",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.3",
-                "1.11",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47.9",
-                "0.95",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "28.9",
-                "0.84",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.6",
-                "0.67",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.6",
-                "0.61",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.1",
-                "0.69",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "22.4",
-                "0.63",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "45",
-                "0.61",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "49.6",
-                "0.63",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "35",
-                "0.57",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "109.6",
-                "0.39",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "81.1",
-                "0.66",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "76.3",
-                "0.58",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "39.2",
-                "0.59",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.9",
-                "0.52",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Fine Particulate Matter (PM2.5) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Fine Particulate Matter (PM<sub>2.5</sub>)",
             "y_axis_title": "Fine Particulate Matter (PM2.5) - Mean (mcg per cubic meter) Annual Average 2018",
@@ -4315,6 +3905,416 @@
             ]
           },
           {
+            "compare_type": "Black Carbon (Mean)",
+            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Black Carbon",
+            "y_axis_title": "Black Carbon - Mean (absorbance units) Annual Average 2018",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Emergency Department Visits - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "y_axis_title_reg": "Black Carbon",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Black Carbon",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. Black carbon levels are estimated using a method that measures <a href=\"http://a816-dohbesp.nyc.gov/IndicatorPublic/Glossary.aspx#Absorbance\" target=\"_blank\">absorbance</a>.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Annual Average 2018"
+              },
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "y_axis_title_reg": "Black Carbon",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Chronic Obstructive Pulmonary Disease Emergency Department Visits",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related emergency department (ED) visits among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>ED visits include both patients who are treated and released in the ED&nbsp;(outpatients) and who are admitted as inpatients through the emergency&nbsp;department.</p>\n<p>&nbsp;</p>\n<p>ED vists&nbsp;include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "29",
+                "0.73",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "46.8",
+                "0.77",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "70.7",
+                "0.79",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "61",
+                "0.74",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "100.4",
+                "0.86",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "95.8",
+                "0.88",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.6",
+                "0.91",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "41",
+                "1.01",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "36.5",
+                "0.87",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.9",
+                "0.74",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "102.6",
+                "0.68",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42",
+                "0.79",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28",
+                "0.64",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "42.9",
+                "0.65",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "50.7",
+                "0.55",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "29.1",
+                "0.6",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "38.8",
+                "0.51",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83.7",
+                "0.88",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33",
+                "0.82",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "83",
+                "0.83",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "94.9",
+                "0.83",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.5",
+                "0.88",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.8",
+                "0.92",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.3",
+                "1.25",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "24.8",
+                "1.26",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23",
+                "1.12",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.1",
+                "0.99",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.3",
+                "1.11",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47.9",
+                "0.95",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "28.9",
+                "0.84",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.6",
+                "0.67",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.6",
+                "0.61",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "0.69",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "22.4",
+                "0.63",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "45",
+                "0.61",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "49.6",
+                "0.63",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "35",
+                "0.57",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "109.6",
+                "0.39",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "81.1",
+                "0.66",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "76.3",
+                "0.58",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "39.2",
+                "0.59",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.9",
+                "0.52",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
             "compare_type": "Cigarette Smoking among Adults (Percent)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Emergency Department Visits by Cigarette Smoking among Adults",
             "y_axis_title": "Cigarette Smoking among Adults - Percent 2016",
@@ -4382,7 +4382,7 @@
               ],
               [
                 "100.4",
-                "17.4",
+                "13.6",
                 "Crotona -Tremont",
                 "Bronx",
                 "",
@@ -4391,7 +4391,7 @@
               ],
               [
                 "95.8",
-                "11.5",
+                "13.6",
                 "High Bridge - Morrisania",
                 "Bronx",
                 "",
@@ -4400,12 +4400,12 @@
               ],
               [
                 "102.6",
-                "11.2",
+                "13.6",
                 "Hunts Point - Mott Haven",
                 "Bronx",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "41",
@@ -4544,25 +4544,25 @@
               ],
               [
                 "15.8",
-                "4.7",
+                "8.3",
                 "Upper East Side",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "40.3",
-                "13.9",
+                "12.6",
                 "Chelsea - Clinton",
                 "Manhattan",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "24.8",
-                "14.3",
+                "8.3",
                 "Gramercy Park - Murray Hill",
                 "Manhattan",
                 "",
@@ -4570,9 +4570,27 @@
                 ""
               ],
               [
+                "23",
+                "12.6",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
                 "32.1",
-                "22.8",
+                "20.7",
                 "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.3",
+                "20.7",
+                "Lower Manhattan",
                 "Manhattan",
                 "",
                 ",",
@@ -4607,25 +4625,25 @@
               ],
               [
                 "15.6",
-                "16.3",
+                "15.1",
                 "Bayside - Little Neck",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "33.1",
-                "13.9",
+                "9.8",
                 "Ridgewood - Forest Hills",
                 "Queens",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "22.4",
-                "9.8",
+                "15.1",
                 "Fresh Meadows",
                 "Queens",
                 "",
@@ -4669,8 +4687,17 @@
                 ""
               ],
               [
+                "81.1",
+                "14.6",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
                 "76.3",
-                "14.7",
+                "14.6",
                 "Stapleton - St. George",
                 "Staten Island",
                 "",
@@ -4679,16 +4706,16 @@
               ],
               [
                 "39.2",
-                "17.5",
+                "16.7",
                 "Willowbrook",
                 "Staten Island",
                 "",
-                "*,",
-                "*"
+                ",",
+                ""
               ],
               [
                 "51.9",
-                "16.4",
+                "16.7",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -4707,19 +4734,19 @@
             "name": "Air Quality",
             "children": [
               {
-                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
+                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
               },
               {
-                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
+                "compare_type": "Nitrogen Dioxide (NO2) (Mean)"
               },
               {
                 "compare_type": "Ozone (O3) (Mean)"
               },
               {
-                "compare_type": "Black Carbon (Mean)"
+                "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
               },
               {
-                "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
+                "compare_type": "Black Carbon (Mean)"
               }
             ]
           },
