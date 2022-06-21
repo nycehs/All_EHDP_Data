@@ -118,6 +118,7 @@ if (use_recent_uploads$res == "Yes") {
     
 }
 
+dbDisconnect(EHDP_odbc)
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Getting JSON from production site via DataHandler.ashx ----
