@@ -1,7 +1,7 @@
 ###########################################################################################-
 ###########################################################################################-
 ##
-##  Pushing data to production database & updating StaticJson
+##  updating StaticJson
 ##
 ###########################################################################################-
 ###########################################################################################-
@@ -111,14 +111,17 @@ if (use_recent_uploads$res == "Yes") {
         
         internal_id <- 
             internal_id_list %>% 
+            # str_split(", ", simplify = TRUE) %>% 
             str_split(",| ", simplify = TRUE) %>% 
-            as.integer()
+            as.integer() %>% 
+            discard( ~ !is.finite(.x))
         
     }
     
 }
 
 dbDisconnect(EHDP_odbc)
+
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Getting JSON from production site via DataHandler.ashx ----

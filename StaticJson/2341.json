@@ -8,6 +8,287 @@
         "dataset": [
           {
             "legendtext": "",
+            "display": "Estimated Annual Rate",
+            "color": [
+              "ffffb2",
+              "fecd5c",
+              "fd8d3c",
+              "e31a1c"
+            ],
+            "start_range": [
+              -9999999.0,
+              14.0,
+              19.0,
+              27.0,
+              9999999.0
+            ],
+            "measure": "Estimated Annual Rate",
+            "how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+            "source": "NYS SPARCS Hospitalization",
+            "map_data": [
+              {
+                "year": "2016",
+                "year_data": [
+                  {
+                    "geo_entity_id": 304,
+                    "data_value": "11.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 305,
+                    "data_value": "8.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 306,
+                    "data_value": "15",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 307,
+                    "data_value": "8.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 308,
+                    "data_value": "7",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 309,
+                    "data_value": "15.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 310,
+                    "data_value": "10.6",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 401,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 402,
+                    "data_value": "14.8",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 403,
+                    "data_value": "14.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 404,
+                    "data_value": "14.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 405,
+                    "data_value": "18.3",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 406,
+                    "data_value": "14.5",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 407,
+                    "data_value": "17.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 408,
+                    "data_value": "22.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 409,
+                    "data_value": "17.4",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 410,
+                    "data_value": "54",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 501,
+                    "data_value": "50.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 502,
+                    "data_value": "41.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 503,
+                    "data_value": "27.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 504,
+                    "data_value": "31.2",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 101,
+                    "data_value": "22.3",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 102,
+                    "data_value": "25.1",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 103,
+                    "data_value": "33.8",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 104,
+                    "data_value": "33.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 105,
+                    "data_value": "45.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 106,
+                    "data_value": "52.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 107,
+                    "data_value": "53.5",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 201,
+                    "data_value": "13.5",
+                    "color": "ffffb2",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 202,
+                    "data_value": "14.2",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 203,
+                    "data_value": "38.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 204,
+                    "data_value": "46",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 205,
+                    "data_value": "17",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 206,
+                    "data_value": "15.1",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 207,
+                    "data_value": "19.9",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 208,
+                    "data_value": "29.1",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 209,
+                    "data_value": "16.9",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 210,
+                    "data_value": "27.7",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 211,
+                    "data_value": "25.7",
+                    "color": "fd8d3c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 301,
+                    "data_value": "16.7",
+                    "color": "fecd5c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 302,
+                    "data_value": "29.6",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  },
+                  {
+                    "geo_entity_id": 303,
+                    "data_value": "40.3",
+                    "color": "e31a1c",
+                    "character_display": ""
+                  }
+                ]
+              }
+            ],
+            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+            "legend_title": "Estimated Annual Rate (per 10,000 residents)"
+          },
+          {
+            "legendtext": "",
             "display": "Age-Adjusted Rate",
             "color": [
               "ffffb2",
@@ -286,287 +567,6 @@
             ],
             "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
             "legend_title": "Age-Adjusted Rate (per 10,000 residents)"
-          },
-          {
-            "legendtext": "",
-            "display": "Estimated Annual Rate",
-            "color": [
-              "ffffb2",
-              "fecd5c",
-              "fd8d3c",
-              "e31a1c"
-            ],
-            "start_range": [
-              -9999999.0,
-              14.0,
-              19.0,
-              27.0,
-              9999999.0
-            ],
-            "measure": "Estimated Annual Rate",
-            "how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Rate is expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify adult asthma, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-            "source": "NYS SPARCS Hospitalization",
-            "map_data": [
-              {
-                "year": "2016",
-                "year_data": [
-                  {
-                    "geo_entity_id": 101,
-                    "data_value": "22.3",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 102,
-                    "data_value": "25.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 103,
-                    "data_value": "33.8",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 104,
-                    "data_value": "33.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 105,
-                    "data_value": "45.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 106,
-                    "data_value": "52.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 107,
-                    "data_value": "53.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 201,
-                    "data_value": "13.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 202,
-                    "data_value": "14.2",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 203,
-                    "data_value": "38.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 204,
-                    "data_value": "46",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 205,
-                    "data_value": "17",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 206,
-                    "data_value": "15.1",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 207,
-                    "data_value": "19.9",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 208,
-                    "data_value": "29.1",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 209,
-                    "data_value": "16.9",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 210,
-                    "data_value": "27.7",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 211,
-                    "data_value": "25.7",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 301,
-                    "data_value": "16.7",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 302,
-                    "data_value": "29.6",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 303,
-                    "data_value": "40.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 304,
-                    "data_value": "11.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 305,
-                    "data_value": "8.5",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 306,
-                    "data_value": "15",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 307,
-                    "data_value": "8.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 308,
-                    "data_value": "7",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 309,
-                    "data_value": "15.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 310,
-                    "data_value": "10.6",
-                    "color": "ffffb2",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 401,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 402,
-                    "data_value": "14.8",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 403,
-                    "data_value": "14.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 404,
-                    "data_value": "14.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 405,
-                    "data_value": "18.3",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 406,
-                    "data_value": "14.5",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 407,
-                    "data_value": "17.9",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 408,
-                    "data_value": "22.1",
-                    "color": "fd8d3c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 409,
-                    "data_value": "17.4",
-                    "color": "fecd5c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 410,
-                    "data_value": "54",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 501,
-                    "data_value": "50.5",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 502,
-                    "data_value": "41.3",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 503,
-                    "data_value": "27.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  },
-                  {
-                    "geo_entity_id": 504,
-                    "data_value": "31.2",
-                    "color": "e31a1c",
-                    "character_display": ""
-                  }
-                ]
-              }
-            ],
-            "discription": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-            "legend_title": "Estimated Annual Rate (per 10,000 residents)"
           },
           {
             "legendtext": "",
@@ -2265,416 +2265,6 @@
         "Measure": "Age-Adjusted Rate",
         "Compare": [
           {
-            "compare_type": "Fine Particulate Matter (PM2.5) (Mean)",
-            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Fine Particulate Matter (PM<sub>2.5</sub>)",
-            "y_axis_title": "Fine Particulate Matter (PM2.5) - Mean (mcg per cubic meter) Winter 2015-16",
-            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
-            "info": [
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
-                "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Fine Particulate Matter (PM2.5)",
-                "info_measure": "Mean",
-                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. In NYC, fine particulate matter is measured in units of micrograms per cubic meter of air.</p>",
-                "info_source": "New York City Community Air Survey",
-                "info_year": "Winter 2015-16"
-              },
-              {
-                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
-                "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
-                "x_axis_measure": "Age-Adjusted Rate",
-                "y_axis_measure": "Mean",
-                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
-                "info_measure": "Age-Adjusted Rate",
-                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
-                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
-                "info_year": "2016"
-              }
-            ],
-            "link_data": [
-              [
-                "17.9",
-                "8.41",
-                "Kingsbridge - Riverdale",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.9",
-                "8.31",
-                "Northeast Bronx",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37.5",
-                "8.33",
-                "Fordham - Bronx Pk",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "32.5",
-                "8.07",
-                "Pelham - Throgs Neck",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.3",
-                "8.82",
-                "Crotona -Tremont",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "54.2",
-                "8.71",
-                "High Bridge - Morrisania",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "56.9",
-                "8.75",
-                "Hunts Point - Mott Haven",
-                "Bronx",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.9",
-                "10.19",
-                "Greenpoint",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "19.2",
-                "9.84",
-                "Downtown - Heights - Slope",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.8",
-                "8.75",
-                "Bedford Stuyvesant - Crown Heights",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "47",
-                "8.42",
-                "East New York",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.2",
-                "9.32",
-                "Sunset Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.5",
-                "8.15",
-                "Borough Park",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "18.6",
-                "8.37",
-                "East Flatbush - Flatbush",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.2",
-                "7.6",
-                "Canarsie - Flatlands",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.5",
-                "7.71",
-                "Bensonhurst - Bay Ridge",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "21.4",
-                "7.03",
-                "Coney Island - Sheepshead Bay",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "30.8",
-                "9.44",
-                "Williamsburg - Bushwick",
-                "Brooklyn",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.5",
-                "8.5",
-                "Washington Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "33.1",
-                "8.42",
-                "Central Harlem - Morningside Heights",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "40.4",
-                "8.59",
-                "East Harlem",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "10.2",
-                "8.85",
-                "Upper West Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.3",
-                "9.31",
-                "Upper East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.8",
-                "10.66",
-                "Chelsea - Clinton",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "8.8",
-                "10.99",
-                "Gramercy Park - Murray Hill",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "7.9",
-                "10.21",
-                "Greenwich Village - SoHo",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "15.4",
-                "9.71",
-                "Union Square - Lower East Side",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "17.1",
-                "10.28",
-                "Lower Manhattan",
-                "Manhattan",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "26.2",
-                "9.1",
-                "Long Island City - Astoria",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "16.7",
-                "8.6",
-                "West Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12",
-                "7.68",
-                "Flushing - Clearview",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "11.7",
-                "7.37",
-                "Bayside - Little Neck",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "16.8",
-                "8.12",
-                "Ridgewood - Forest Hills",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "12.4",
-                "7.5",
-                "Fresh Meadows",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20",
-                "7.51",
-                "Southwest Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "20.2",
-                "7.42",
-                "Jamaica",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "14.8",
-                "6.89",
-                "Southeast Queens",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "44.9",
-                "5.92",
-                "Rockaways",
-                "Queens",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "51.5",
-                "8.12",
-                "Port Richmond",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "37",
-                "7.43",
-                "Stapleton - St. George",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "23.6",
-                "7.78",
-                "Willowbrook",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ],
-              [
-                "27.5",
-                "7.13",
-                "South Beach - Tottenville",
-                "Staten Island",
-                "",
-                ",",
-                ""
-              ]
-            ]
-          },
-          {
             "compare_type": "Sulfur Dioxide (SO2) (Mean)",
             "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Sulfur Dioxide (SO2)",
             "y_axis_title": "Sulfur Dioxide (SO2) - Mean (ppb) Winter 2015-16",
@@ -3076,6 +2666,416 @@
               [
                 "27.5",
                 "0.11",
+                "South Beach - Tottenville",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ]
+            ]
+          },
+          {
+            "compare_type": "Fine Particulate Matter (PM2.5) (Mean)",
+            "graph_title": "Neighborhood Chronic Obstructive Pulmonary Disease Hospitalization by Fine Particulate Matter (PM<sub>2.5</sub>)",
+            "y_axis_title": "Fine Particulate Matter (PM2.5) - Mean (mcg per cubic meter) Winter 2015-16",
+            "x_axis_title": "Chronic Obstructive Pulmonary Disease Hospitalization - Age-Adjusted Rate (per 10,000 residents) 2016",
+            "info": [
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Fine Particulate Matter (PM2.5)",
+                "info_measure": "Mean",
+                "info_how_calculated": "<p>Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period. The results were then assigned to the appropriate NYC neighborhood and averaged. In NYC, fine particulate matter is measured in units of micrograms per cubic meter of air.</p>",
+                "info_source": "New York City Community Air Survey",
+                "info_year": "Winter 2015-16"
+              },
+              {
+                "x_axis_title_reg": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "y_axis_title_reg": "Fine Particulate Matter (PM2.5)",
+                "x_axis_measure": "Age-Adjusted Rate",
+                "y_axis_measure": "Mean",
+                "info_name": "Chronic Obstructive Pulmonary Disease Hospitalization",
+                "info_measure": "Age-Adjusted Rate",
+                "info_how_calculated": "<p>Number of Chronic Obstructive Pulmonary Disease (COPD)-related hospitalizations among NYC residents aged 25 years and older, summed within 5-year age groups, and divided by the population in each age group using NYC DOHMH intercensal estimates; quotients are multiplied by the proportion of the 2000 US population in each age group. Age-adjusted rate is the sum of the weighted age-specific rates; expressed as cases per 10,000 residents.</p>\n<p>&nbsp;</p>\n<p>Hospitalizations include ICD-9 principal diagnosis codes 490 (bronchitis, not specified as acute or chronic),&nbsp;491 (chronic bronchitis), 492 (emphysema), 496 (chronic airway obstruction, not elsewhere classified), 493.2 (chronic obstructive asthma) or ICD-10 principal diagnosis codes J40 (bronchitis, not specified as acute or chronic), J41-J42 (chronic bronchitis), J43 (emphysema), or J44 (other COPD). Cases with 493.2 are excluded if none of the secondary diagnosis fields contain 490-492 or 496.</p>\n<p>&nbsp;</p>\n<p>New York hospitals began using the ICD-10 system on October 1, 2015. <strong style=\"color: red;\"> Because the ICD systems differ in how they classify COPD, data are not comparable before and after 2015. Data from 2015 are not shown because they contain a combination of ICD-9 and ICD-10 principal diagnosis codes.</strong></p>\n<p>&nbsp;</p>",
+                "info_source": "New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data",
+                "info_year": "2016"
+              }
+            ],
+            "link_data": [
+              [
+                "17.9",
+                "8.41",
+                "Kingsbridge - Riverdale",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.9",
+                "8.31",
+                "Northeast Bronx",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37.5",
+                "8.33",
+                "Fordham - Bronx Pk",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "32.5",
+                "8.07",
+                "Pelham - Throgs Neck",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.3",
+                "8.82",
+                "Crotona -Tremont",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "54.2",
+                "8.71",
+                "High Bridge - Morrisania",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "56.9",
+                "8.75",
+                "Hunts Point - Mott Haven",
+                "Bronx",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.9",
+                "10.19",
+                "Greenpoint",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "19.2",
+                "9.84",
+                "Downtown - Heights - Slope",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.8",
+                "8.75",
+                "Bedford Stuyvesant - Crown Heights",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "47",
+                "8.42",
+                "East New York",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.2",
+                "9.32",
+                "Sunset Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.5",
+                "8.15",
+                "Borough Park",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "18.6",
+                "8.37",
+                "East Flatbush - Flatbush",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.2",
+                "7.6",
+                "Canarsie - Flatlands",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.5",
+                "7.71",
+                "Bensonhurst - Bay Ridge",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "21.4",
+                "7.03",
+                "Coney Island - Sheepshead Bay",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "30.8",
+                "9.44",
+                "Williamsburg - Bushwick",
+                "Brooklyn",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.5",
+                "8.5",
+                "Washington Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "33.1",
+                "8.42",
+                "Central Harlem - Morningside Heights",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "40.4",
+                "8.59",
+                "East Harlem",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "10.2",
+                "8.85",
+                "Upper West Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.3",
+                "9.31",
+                "Upper East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.8",
+                "10.66",
+                "Chelsea - Clinton",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "8.8",
+                "10.99",
+                "Gramercy Park - Murray Hill",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "7.9",
+                "10.21",
+                "Greenwich Village - SoHo",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "15.4",
+                "9.71",
+                "Union Square - Lower East Side",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "17.1",
+                "10.28",
+                "Lower Manhattan",
+                "Manhattan",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "26.2",
+                "9.1",
+                "Long Island City - Astoria",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.7",
+                "8.6",
+                "West Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12",
+                "7.68",
+                "Flushing - Clearview",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "11.7",
+                "7.37",
+                "Bayside - Little Neck",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "16.8",
+                "8.12",
+                "Ridgewood - Forest Hills",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "12.4",
+                "7.5",
+                "Fresh Meadows",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20",
+                "7.51",
+                "Southwest Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "20.2",
+                "7.42",
+                "Jamaica",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "14.8",
+                "6.89",
+                "Southeast Queens",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "44.9",
+                "5.92",
+                "Rockaways",
+                "Queens",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "51.5",
+                "8.12",
+                "Port Richmond",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "37",
+                "7.43",
+                "Stapleton - St. George",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "23.6",
+                "7.78",
+                "Willowbrook",
+                "Staten Island",
+                "",
+                ",",
+                ""
+              ],
+              [
+                "27.5",
+                "7.13",
                 "South Beach - Tottenville",
                 "Staten Island",
                 "",
@@ -4734,10 +4734,10 @@
             "name": "Air Quality",
             "children": [
               {
-                "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
+                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
               },
               {
-                "compare_type": "Sulfur Dioxide (SO2) (Mean)"
+                "compare_type": "Fine Particulate Matter (PM2.5) (Mean)"
               },
               {
                 "compare_type": "Black Carbon (Mean)"
