@@ -12,14 +12,14 @@
               ""
             ],
             "compare_type": "Citywide",
-            "graph_title": "Trends in Cold Stress: Cold Stress Deaths - Number 2005 to 2018",
+            "graph_title": "Trends in Cold Stress: Cold Stress Deaths - Number 2005 to 2019",
             "y_axis_title": "Number ",
             "x_axis_title": "Year",
             "info": [
               {
                 "info_name": "Cold Stress Deaths",
                 "info_measure": "Number",
-                "info_how_calculated": "<p>Number of deaths during cold season months of October-April with an underlying or contributing cause that includes excessive natural cold (ICD10 code X31) and hypothermia (ICD10 code T68), among NYC residents. Number excludes&nbsp;deaths due to excessive cold of man-made origin (ICD10 code W93) and intentional deaths (ICD10 codes X6-X9, Y0, Y35, Y36).</p>",
+                "info_how_calculated": "<p><span lang=\"en-US\"><span>The number of deaths during cold season months of October-April with an underlying or contributing&nbsp;</span><span>cause</span><span>&nbsp;that includes excessive natural cold (ICD10 code X31),&nbsp;hypothermia (T68) other effects of reduced temperature&nbsp;(T69</span><span>),&nbsp;</span><span>or</span><span>&nbsp;fro</span><span>stbite (T33, T34) among NYC residents. The number excludes&nbsp;deaths due to excessive cold of man-made origin (W93) and intentional deaths (X6-X9, Y0, Y35, Y36). This number includes only deaths directly attributed to cold on death certificates, which represent a small proportion of all cold-related deaths. Cold can exacerbate chronic conditions, resulting in death from natural causes that may not be labeled as cold-related on a death certificate (also called \"excess mortality.\")</span></span><span>&nbsp;</span></p>",
                 "info_source": "New York City Bureau of Vital Statistics"
               }
             ],
@@ -139,6 +139,14 @@
                     "2018",
                     "Year",
                     "year"
+                  ],
+                  [
+                    "2019",
+                    "17",
+                    "",
+                    "2019",
+                    "Year",
+                    "year"
                   ]
                 ]
               }
@@ -174,9 +182,14 @@
             "name": "Years",
             "children": [
               {
-                "name": "2018",
+                "name": "2019",
                 "col": 3,
                 "chk": true
+              },
+              {
+                "name": "2018",
+                "col": 3,
+                "chk": false
               },
               {
                 "name": "2017",
@@ -254,6 +267,14 @@
           "Number"
         ],
         "row_data": [
+          [
+            "10",
+            "Citywide",
+            "New York City",
+            "2019",
+            "17  ",
+            ""
+          ],
           [
             "10",
             "Citywide",
@@ -374,7 +395,7 @@
           {
             "info_name": "Cold Stress Deaths",
             "info_measure": "Number",
-            "info_how_calculated": "<p>Number of deaths during cold season months of October-April with an underlying or contributing cause that includes excessive natural cold (ICD10 code X31) and hypothermia (ICD10 code T68), among NYC residents. Number excludes&nbsp;deaths due to excessive cold of man-made origin (ICD10 code W93) and intentional deaths (ICD10 codes X6-X9, Y0, Y35, Y36).</p>",
+            "info_how_calculated": "<p><span lang=\"en-US\"><span>The number of deaths during cold season months of October-April with an underlying or contributing&nbsp;</span><span>cause</span><span>&nbsp;that includes excessive natural cold (ICD10 code X31),&nbsp;hypothermia (T68) other effects of reduced temperature&nbsp;(T69</span><span>),&nbsp;</span><span>or</span><span>&nbsp;fro</span><span>stbite (T33, T34) among NYC residents. The number excludes&nbsp;deaths due to excessive cold of man-made origin (W93) and intentional deaths (X6-X9, Y0, Y35, Y36). This number includes only deaths directly attributed to cold on death certificates, which represent a small proportion of all cold-related deaths. Cold can exacerbate chronic conditions, resulting in death from natural causes that may not be labeled as cold-related on a death certificate (also called \"excess mortality.\")</span></span><span>&nbsp;</span></p>",
             "info_source": [
               "New York City Bureau of Vital Statistics"
             ]

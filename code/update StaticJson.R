@@ -92,6 +92,9 @@ if (use_recent_uploads$res == "Yes") {
     
     internal_id <- recently_pushed$internal_id %>% unique() %>% sort()
     
+    cat("Updating:\n", paste0(internal_id, collapse = "\n"), "\n", sep = "")
+    
+    
 } else if (use_recent_uploads$res == "No") {
     
     internal_id_list <-
@@ -116,11 +119,15 @@ if (use_recent_uploads$res == "Yes") {
             as.integer() %>% 
             discard( ~ !is.finite(.x))
         
+        cat("Updating:\n", paste0(internal_id, collapse = "\n"), "\n", sep = "")
+        
+        
     }
     
 }
 
 dbDisconnect(EHDP_odbc)
+
 
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
